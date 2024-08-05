@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frank Herbert on mattischrome</title>
-    <link>http://localhost:1313/tags/frank-herbert/</link>
+    <link>https://mattischrome.com/tags/frank-herbert/</link>
     <description>Recent content in Frank Herbert on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 27 Mar 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/frank-herbert/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/frank-herbert/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jodorowsky&#39;s Dune</title>
-      <link>http://localhost:1313/posts/jodorowskys-dune/</link>
+      <link>https://mattischrome.com/posts/jodorowskys-dune/</link>
       <pubDate>Fri, 27 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jodorowskys-dune/</guid>
+      <guid>https://mattischrome.com/posts/jodorowskys-dune/</guid>
       <description>Jodorowsky&amp;rsquo;s Dune is a documentary about outlandish Chilean director Alejandro Jodorosky&amp;rsquo;s attempt at a film adaptation of Frank Herbert&amp;rsquo;s Dune in the 1970s. As a big fan of the novel and of science fiction in general, I was very interested in this film. It does not disappoint. It gives a great insight into the mind of a little known (if slightly batty) director and shows even an artistic failure can lead to shock waves that can be felt in later work by others.</description>
     </item>
     <item>
       <title>Frank Herbert, Dune</title>
-      <link>http://localhost:1313/posts/dune/</link>
+      <link>https://mattischrome.com/posts/dune/</link>
       <pubDate>Fri, 09 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dune/</guid>
+      <guid>https://mattischrome.com/posts/dune/</guid>
       <description>A week or so ago, I finished reading Dune by Frank Herbert. It tells the story of a revolution within a Galactic Empire that takes place on a harsh and unforgiving desert planet called Arrakis. One central theme is how destinies can be shaped despite being intertwined around many axes. Another is the importance of adaptation in the fight for survival.&#xA;I came to Dune via the David Lynch film and then the Sci-Fi Channel’s mini-series, which I was able to stream through LoveFilm.</description>
     </item>
   </channel>

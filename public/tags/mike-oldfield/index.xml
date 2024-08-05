@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mike Oldfield on mattischrome</title>
-    <link>http://localhost:1313/tags/mike-oldfield/</link>
+    <link>https://mattischrome.com/tags/mike-oldfield/</link>
     <description>Recent content in Mike Oldfield on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mike-oldfield/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/mike-oldfield/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, January 2017</title>
-      <link>http://localhost:1313/posts/album-digest-january-2017/</link>
+      <link>https://mattischrome.com/posts/album-digest-january-2017/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-january-2017/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-january-2017/</guid>
       <description>Mike Oldfield Return to Ommadawn With Return to Ommadawn, Mike Oldfield revisits his third album Ommadawn. He has past form for this, having revisited his masterwork Tubular Bells twice (the third revisit and fourth instalment Tubular Bells 4 is due next year). I wrote about Tubular Bells II for my understated classics series. Of course Mike has in fact made many more than three Tubular Bells albums1, and this is not a first &amp;ldquo;return&amp;rdquo; to Ommadawn.</description>
     </item>
     <item>
       <title>Understated Classics #10: Tubular Bells II by Mike Oldfield</title>
-      <link>http://localhost:1313/posts/understated-classics-10/</link>
+      <link>https://mattischrome.com/posts/understated-classics-10/</link>
       <pubDate>Fri, 24 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/understated-classics-10/</guid>
+      <guid>https://mattischrome.com/posts/understated-classics-10/</guid>
       <description>It was the artwork that got me interested in Tubular Bells II. Rendering Trevor Key&amp;rsquo;s wonderful icon of the twisted tubular bell in yellow and blue made it all the more mysterious. Seeing it one day in Woolworth&amp;rsquo;s in Leigh Park back in 1992 aroused my curiosity. The huge display must have been part of the massive publicity drive for the album. Despite dwindling sales for his albums at that time, a sequel to Tubular Bells represented a huge potential for sales.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on mattischrome</title>
-    <link>http://localhost:1313/tags/tech/</link>
+    <link>https://mattischrome.com/tags/tech/</link>
     <description>Recent content in Tech on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 15 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Should I Drop Dropbox?</title>
-      <link>http://localhost:1313/posts/should-i-drop-dropbox/</link>
+      <link>https://mattischrome.com/posts/should-i-drop-dropbox/</link>
       <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/should-i-drop-dropbox/</guid>
+      <guid>https://mattischrome.com/posts/should-i-drop-dropbox/</guid>
       <description>I am thinking about whether I want to use Dropbox to sync my files anymore. Don&amp;rsquo;t get me wrong, I love Dropbox. It came along in beta in just 2008 just as I needed it to manage my PhD thesis. In fact I often jokingly claim to having invented it by asking on the MacRumors forums whether a program like it existed - just a few weeks before its beta rode in to my life like a knight in shining armour.</description>
     </item>
   </channel>

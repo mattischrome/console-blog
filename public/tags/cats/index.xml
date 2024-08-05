@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cats on mattischrome</title>
-    <link>http://localhost:1313/tags/cats/</link>
+    <link>https://mattischrome.com/tags/cats/</link>
     <description>Recent content in Cats on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 08 Jan 2024 21:36:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cats/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/cats/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agents of Chaos (2024 edition)</title>
-      <link>http://localhost:1313/posts/agents-of-chaos/</link>
+      <link>https://mattischrome.com/posts/agents-of-chaos/</link>
       <pubDate>Mon, 08 Jan 2024 21:36:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/agents-of-chaos/</guid>
+      <guid>https://mattischrome.com/posts/agents-of-chaos/</guid>
       <description>The cats broke their new resolution not to knock stuff over in my office. Oh, who am I kidding? They never had such a resolution! If you can see a sheet of saturated paper, that was my to do list! Oh well.&#xA;The cats were either bounding across my desk to get to the window and look at the snow. Or they were just chasing each other around as usual.</description>
     </item>
     <item>
       <title>Am I caring for a naughty cat?</title>
-      <link>http://localhost:1313/posts/am-i-caring-for-a-naughty-cat/</link>
+      <link>https://mattischrome.com/posts/am-i-caring-for-a-naughty-cat/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/am-i-caring-for-a-naughty-cat/</guid>
+      <guid>https://mattischrome.com/posts/am-i-caring-for-a-naughty-cat/</guid>
       <description>&amp;ldquo;He keeps biting me on the leg&amp;rdquo; says Ingrid one day as I mill around her desk during the new water cooler moment that is a comfort break on a Microsoft Teams call. I pat Martok, one of our cats, and he rubs up against me, pretending that he might nibble at me too.&#xA;I experience this regularly. It used to be at half five, then at five, and these days at half past four.</description>
     </item>
   </channel>

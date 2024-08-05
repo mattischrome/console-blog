@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rules on mattischrome</title>
-    <link>http://localhost:1313/tags/rules/</link>
+    <link>https://mattischrome.com/tags/rules/</link>
     <description>Recent content in Rules on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 09 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/rules/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/rules/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A list for &#39;23</title>
-      <link>http://localhost:1313/posts/a-list-for-23/</link>
+      <link>https://mattischrome.com/posts/a-list-for-23/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-list-for-23/</guid>
+      <guid>https://mattischrome.com/posts/a-list-for-23/</guid>
       <description>A set of rules for living from now on (in no particular order)&#xA;Life is too short to look at adverts. Avoid them where possible. Block them if you have to. Embrace risk and chance, as they have contributed the most to where you are now. Intervene into physical things and leave your mark upon them. Draw pictures on the blank pages of books, even if they are dear to you.</description>
     </item>
   </channel>

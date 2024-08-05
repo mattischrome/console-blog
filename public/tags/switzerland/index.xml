@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Switzerland on mattischrome</title>
-    <link>http://localhost:1313/tags/switzerland/</link>
+    <link>https://mattischrome.com/tags/switzerland/</link>
     <description>Recent content in Switzerland on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 23 May 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/switzerland/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/switzerland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Werner Bischof: Point of View and Helvetica</title>
-      <link>http://localhost:1313/posts/werner-bischof-exhibitions/</link>
+      <link>https://mattischrome.com/posts/werner-bischof-exhibitions/</link>
       <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/werner-bischof-exhibitions/</guid>
+      <guid>https://mattischrome.com/posts/werner-bischof-exhibitions/</guid>
       <description>2016 marks the centenary of the birth of Werner Bischof, the talented Magnum photojournalist who died in Peru in 1954, aged 38. He travelled widely, making the most of an incredible talent for photography. After the second world war, this led him all over Europe to document its aftermath. As the cold war began, Bischof found himself documenting events further afield.&#xA;We saw two exhibitions of his photography at the Musée de l&amp;rsquo;Elysée in Lausanne.</description>
     </item>
     <item>
       <title>Lausanne, Switzerland, March 2016</title>
-      <link>http://localhost:1313/posts/lausanne-march-2016/</link>
+      <link>https://mattischrome.com/posts/lausanne-march-2016/</link>
       <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lausanne-march-2016/</guid>
+      <guid>https://mattischrome.com/posts/lausanne-march-2016/</guid>
       <description>Just before Easter Ingrid and I went to Lausanne in Switzerland for a few days. It was a much-needed break and my first trip out of the UK since I got back from South America.&#xA;We caught an early train to Gatwick. It took a strange route along the coast via Worthing and Hove, which was annoying because we could have left later if a more direct train were available at that time of day.</description>
     </item>
   </channel>

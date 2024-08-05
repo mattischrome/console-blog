@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FFI on mattischrome</title>
-    <link>http://localhost:1313/tags/ffi/</link>
+    <link>https://mattischrome.com/tags/ffi/</link>
     <description>Recent content in FFI on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ffi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/ffi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is FFI anyway?</title>
-      <link>http://localhost:1313/posts/what-is-ffi-anyway/</link>
+      <link>https://mattischrome.com/posts/what-is-ffi-anyway/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/what-is-ffi-anyway/</guid>
+      <guid>https://mattischrome.com/posts/what-is-ffi-anyway/</guid>
       <description>At the moment I can’t compile this blog locally because my ruby-ffi install is somehow wrong and is preventing Jekyll from running on my recently upgraded Mac system. Fortunately the site still compiles on Netlify, or else you wouldn’t be reading this!&#xA;It’s always annoying when you rely on a complex multi-part system and some obscure part fails. It leaves you groping for answers and inventing unnecessary hack solutions. The dreaded old Stack Overflow rabbit hole.</description>
     </item>
   </channel>

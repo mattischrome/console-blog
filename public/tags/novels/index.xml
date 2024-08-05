@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Novels on mattischrome</title>
-    <link>http://localhost:1313/tags/novels/</link>
+    <link>https://mattischrome.com/tags/novels/</link>
     <description>Recent content in Novels on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/novels/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/novels/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rachel Cusk, Outline</title>
-      <link>http://localhost:1313/posts/rachel-cusk-outline/</link>
+      <link>https://mattischrome.com/posts/rachel-cusk-outline/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rachel-cusk-outline/</guid>
+      <guid>https://mattischrome.com/posts/rachel-cusk-outline/</guid>
       <description>Outline is the first of a trilogy of novels by Rachel Cusk. In it, the narrator is travelling to Athens to help teach on a creative writing class. You could describe the rest of what happens in a couple of sentences. I won&amp;rsquo;t be doing so because first, that&amp;rsquo;s spoilers, and I don&amp;rsquo;t do spoilers; second, Outline is one of those novels where what happens doesn&amp;rsquo;t matter quite so much as how it all happens.</description>
     </item>
     <item>
       <title>Ben Elton, Time and Time Again</title>
-      <link>http://localhost:1313/posts/time-and-time-again-by-ben-elton/</link>
+      <link>https://mattischrome.com/posts/time-and-time-again-by-ben-elton/</link>
       <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/time-and-time-again-by-ben-elton/</guid>
+      <guid>https://mattischrome.com/posts/time-and-time-again-by-ben-elton/</guid>
       <description>Time and Time Again is a ridiculously stupid novel by Ben Elton. A shadowy sect (established by Isaac Newton no less!) recruits a soldier to go back in time and prevent Franz Ferdinand&amp;rsquo;s assassination in Sarajevo in August 1914. I wonder if it all goes to plan and everyone lives happily ever after with no weird timey-wimey after-effects?&#xA;Needless to say this novel makes me wish that time travel were a real thing so that I could travel back in time and slap myself in the face while in the queue to buy this tripe.</description>
     </item>
   </channel>

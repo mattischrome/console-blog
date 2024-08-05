@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pinch on mattischrome</title>
-    <link>http://localhost:1313/tags/pinch/</link>
+    <link>https://mattischrome.com/tags/pinch/</link>
     <description>Recent content in Pinch on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 31 Jan 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pinch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/pinch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, January 2012</title>
-      <link>http://localhost:1313/posts/album-digest-january-2012/</link>
+      <link>https://mattischrome.com/posts/album-digest-january-2012/</link>
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-january-2012/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-january-2012/</guid>
       <description>Five albums to see in the new year:&#xA;FOE “Bad Dream Hotline” Leila “U &amp;amp; I” Diagrams “Black Light” Pyramids &amp;amp; Horseback “A Throne Without A King” FabricLive 61 mixed by Pinch FOE Bad Dream Hotline I listened to “Bad Dream Hotline” about four times thinking “who does her voice remind me of?”. In the end I realised it was Sophie Ellis-Bextor, though in parts she sounds like KT Tunstall too.</description>
     </item>
   </channel>

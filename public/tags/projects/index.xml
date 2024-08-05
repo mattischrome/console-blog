@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on mattischrome</title>
-    <link>http://localhost:1313/tags/projects/</link>
+    <link>https://mattischrome.com/tags/projects/</link>
     <description>Recent content in Projects on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 14 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sofa So Good</title>
-      <link>http://localhost:1313/posts/sofa-so-good/</link>
+      <link>https://mattischrome.com/posts/sofa-so-good/</link>
       <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sofa-so-good/</guid>
+      <guid>https://mattischrome.com/posts/sofa-so-good/</guid>
       <description>Once upon a time, a cat named Nerys ripped into the bottom of our sofa to make herself a cozy burrow. This was all well and good, except for the times when she would do it when we were using the sofa too. On these occasions (and presumably on most others) she would proceed to sharpen her claws on what remained of the fabric. (A less charitable reason for this behaviour would be that she was simply widening the whole for her future self after eating more and more kibbles!</description>
     </item>
     <item>
       <title>Programming an UNO game, part 2</title>
-      <link>http://localhost:1313/posts/programming-an-uno-game-part-2/</link>
+      <link>https://mattischrome.com/posts/programming-an-uno-game-part-2/</link>
       <pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/programming-an-uno-game-part-2/</guid>
+      <guid>https://mattischrome.com/posts/programming-an-uno-game-part-2/</guid>
       <description>It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.&#xA;The deck An UNO deck consists of four sets of coloured cards (red, yellow, green and blue) together with eight wild cards. The non-wild cards are marked with either numbers or special symbols. The numbers range from zero to nine with two of each number except for the zero, which is unique.</description>
     </item>
     <item>
       <title>Programming an UNO game</title>
-      <link>http://localhost:1313/posts/programming-an-uno-game/</link>
+      <link>https://mattischrome.com/posts/programming-an-uno-game/</link>
       <pubDate>Tue, 28 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/programming-an-uno-game/</guid>
+      <guid>https://mattischrome.com/posts/programming-an-uno-game/</guid>
       <description>A new year, a new hobby I don’t write about programming enough. This is a shame because it is a very interesting subject and I find that the problem solving aspects of programming are very satisfying. Keenly aware of the need to do more hobby programming and to get up to speed on areas of software development that I’ve been neglecting, I have decided to give myself the project of creating a computerised version of the UNO card game.</description>
     </item>
   </channel>

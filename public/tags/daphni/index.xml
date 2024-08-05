@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daphni on mattischrome</title>
-    <link>http://localhost:1313/tags/daphni/</link>
+    <link>https://mattischrome.com/tags/daphni/</link>
     <description>Recent content in Daphni on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 31 Oct 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/daphni/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/daphni/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, October 2012</title>
-      <link>http://localhost:1313/posts/album-digest-october-2012/</link>
+      <link>https://mattischrome.com/posts/album-digest-october-2012/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-october-2012/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-october-2012/</guid>
       <description>It has been a strange month and I found that I didn’t listen to a lot of new music. I have been a bit down and when that’s the case I tend to take refuge in music that I know well, stuff that cheers me up. I have listened to last month’s fave a lot, Nelly Furtado’s “The Spirit Indestructible”. I said a lot of nice things about it but it probably didn’t come over in my writing just how much I really liked it.</description>
     </item>
   </channel>

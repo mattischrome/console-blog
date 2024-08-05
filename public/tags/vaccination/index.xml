@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vaccination on mattischrome</title>
-    <link>http://localhost:1313/tags/vaccination/</link>
+    <link>https://mattischrome.com/tags/vaccination/</link>
     <description>Recent content in Vaccination on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/vaccination/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/vaccination/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jab 2</title>
-      <link>http://localhost:1313/posts/jab-two/</link>
+      <link>https://mattischrome.com/posts/jab-two/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jab-two/</guid>
+      <guid>https://mattischrome.com/posts/jab-two/</guid>
       <description>I was due to have my second vaccination today, but like most people I rebooked to have it a bit earlier. No real side effects this time, save for a bit of malaise. Though that may have just been the thought of opening up the country when cases are still increasing quickly.&#xA;It goes without saying that I&amp;rsquo;d urge everyone to get vaccinated and then to keep turning up for whatever boosters the people protecting us (e.</description>
     </item>
     <item>
       <title>Jab 1</title>
-      <link>http://localhost:1313/posts/jab-one/</link>
+      <link>https://mattischrome.com/posts/jab-one/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jab-one/</guid>
+      <guid>https://mattischrome.com/posts/jab-one/</guid>
       <description>I had my first Covid-19 vaccination on Friday. Leading up to it, I was borderline having a panic attack. From about lunchtime I was just all over the shop (the jab was at 7pm). I&amp;rsquo;m glad that the vaccination centres run with such exactitude, but also with a sense of cheeriness. By the time I&amp;rsquo;d had the jab, I was feeling much better just from the sheer relief of it.</description>
     </item>
   </channel>

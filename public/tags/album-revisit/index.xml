@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Album Revisit on mattischrome</title>
-    <link>http://localhost:1313/tags/album-revisit/</link>
+    <link>https://mattischrome.com/tags/album-revisit/</link>
     <description>Recent content in Album Revisit on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/album-revisit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/album-revisit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ellie Goulding - Bright Lights</title>
-      <link>http://localhost:1313/posts/ellie-goulding-bright-lights/</link>
+      <link>https://mattischrome.com/posts/ellie-goulding-bright-lights/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ellie-goulding-bright-lights/</guid>
+      <guid>https://mattischrome.com/posts/ellie-goulding-bright-lights/</guid>
       <description>So today my random album script picked out &amp;ldquo;Bright Lights&amp;rdquo; by Ellie Goulding, an album I wasn&amp;rsquo;t sure I&amp;rsquo;ve ever listened to. I looked in my music library and there it was! As a result this is not so much an album revisit as an album _visit.&#xA;Anyway, this album was released in 2010 and did quite well. In fact, &amp;ldquo;Bright Lights&amp;rdquo; is a reissue of an album that was originally released as &amp;ldquo;Lights&amp;rdquo; (February 2010).</description>
     </item>
     <item>
       <title>Fabric 44 by John Tejada</title>
-      <link>http://localhost:1313/posts/fabric-44-by-john-tejada/</link>
+      <link>https://mattischrome.com/posts/fabric-44-by-john-tejada/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fabric-44-by-john-tejada/</guid>
+      <guid>https://mattischrome.com/posts/fabric-44-by-john-tejada/</guid>
       <description>This is one of my more played Fabric mix CDs so I decided to go for it when my random prompter plumped for this earlier today. One constraint of these posts was to write it in roughly the amount of time it takes to listen to it. You&amp;rsquo;d think that for a mix CD that would be ok. After all, this mix is a full CD and 74 minutes long.</description>
     </item>
     <item>
       <title>How random should things be?</title>
-      <link>http://localhost:1313/posts/how-random-should-things-be/</link>
+      <link>https://mattischrome.com/posts/how-random-should-things-be/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/how-random-should-things-be/</guid>
+      <guid>https://mattischrome.com/posts/how-random-should-things-be/</guid>
       <description>I&amp;rsquo;ve managed to extract my music library, including all the albums I&amp;rsquo;ve added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for Goldfrapp&amp;rsquo;s Black Cherry.&#xA;But I have to level with you.</description>
     </item>
     <item>
       <title>Goldfrapp - Black Cherry</title>
-      <link>http://localhost:1313/posts/goldfrapp-black-cherry/</link>
+      <link>https://mattischrome.com/posts/goldfrapp-black-cherry/</link>
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/goldfrapp-black-cherry/</guid>
+      <guid>https://mattischrome.com/posts/goldfrapp-black-cherry/</guid>
       <description>This is the first in an unplanned series of album revisits, I will write a post explaining the process soon.&#xA;&amp;ldquo;Black Cherry&amp;rdquo; is the second album by Goldfrapp, released in 2003. I bought the lead single Train while I lived in York and also the single of the title track because by then I&amp;rsquo;d discovered M83 and they&amp;rsquo;d done a remix of it.&#xA;&amp;ldquo;Black Cherry&amp;rdquo; finds the band faced with following their successful and chilled out debut album &amp;ldquo;Felt Mountain&amp;rdquo;, which back in 2000 had sounded notably weird.</description>
     </item>
   </channel>

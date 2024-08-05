@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Phoenix Foundation on mattischrome</title>
-    <link>http://localhost:1313/tags/the-phoenix-foundation/</link>
+    <link>https://mattischrome.com/tags/the-phoenix-foundation/</link>
     <description>Recent content in The Phoenix Foundation on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 31 May 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/the-phoenix-foundation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/the-phoenix-foundation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, May 2013</title>
-      <link>http://localhost:1313/posts/album-digest-may-2013/</link>
+      <link>https://mattischrome.com/posts/album-digest-may-2013/</link>
       <pubDate>Fri, 31 May 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-may-2013/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-may-2013/</guid>
       <description>Lilacs &amp;amp; Champagne Danish &amp;amp; Blue You might remember that last year I reviewed the first Lilacs &amp;amp; Champagne album and I liked it a lot. This album sees them back with more of the same: taking the approach that if it ain&amp;rsquo;t broke, don&amp;rsquo;t fix it. There are very few changes to the formula apart from the fact that the spoken word samples are not quite as good this time and there&amp;rsquo;s a bit more Grails-like guitar solo action.</description>
     </item>
     <item>
       <title>Album Digest, January 2011</title>
-      <link>http://localhost:1313/posts/album-digest-january-2011/</link>
+      <link>https://mattischrome.com/posts/album-digest-january-2011/</link>
       <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-january-2011/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-january-2011/</guid>
       <description>Here’s to 2011 and the start of a monthly album digest. I want it to be a brief trot through some of the albums I have listened to each month. Sometimes January can bring a few quiet releases by big name bands. This happens if the previous album did not do as well as the record company hoped or if it is the kind of artist who would get lost under the hype of all the Christmas releases.</description>
     </item>
   </channel>

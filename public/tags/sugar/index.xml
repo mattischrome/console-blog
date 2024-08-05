@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sugar on mattischrome</title>
-    <link>http://localhost:1313/tags/sugar/</link>
+    <link>https://mattischrome.com/tags/sugar/</link>
     <description>Recent content in Sugar on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sugar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/sugar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Any sugar?</title>
-      <link>http://localhost:1313/posts/some-sugar/</link>
+      <link>https://mattischrome.com/posts/some-sugar/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/some-sugar/</guid>
+      <guid>https://mattischrome.com/posts/some-sugar/</guid>
       <description>Not being much of a drinker, I&amp;rsquo;ve never felt the need to do dry January. Also Ingrid and I sat in a restaurant in Barcelona on January 2nd drinking for the third night in row. We hadn&amp;rsquo;t got off to that great a start. Well today marks the completion of a dry month: dry January with a two day lag.&#xA;I also (mostly) managed to keep to my other goal of eliminating sugar from my tea and coffee.</description>
     </item>
   </channel>

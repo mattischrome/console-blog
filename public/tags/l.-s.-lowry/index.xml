@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. S. Lowry on mattischrome</title>
-    <link>http://localhost:1313/tags/l.-s.-lowry/</link>
+    <link>https://mattischrome.com/tags/l.-s.-lowry/</link>
     <description>Recent content in L. S. Lowry on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 18 Oct 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/l.-s.-lowry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/l.-s.-lowry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LS Lowry At Tate Britain</title>
-      <link>http://localhost:1313/posts/ls-lowry-at-tate-britain/</link>
+      <link>https://mattischrome.com/posts/ls-lowry-at-tate-britain/</link>
       <pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ls-lowry-at-tate-britain/</guid>
+      <guid>https://mattischrome.com/posts/ls-lowry-at-tate-britain/</guid>
       <description>I have mixed feelings about this show. On the one hand, I like that there are depictions of working class Britain on display and I feel that it is right that these paintings are considered part of the British cultural canon. I also like that a lot of these paintings represent large gatherings of people, which are absent from a lot of what we might call the mainstream of art.</description>
     </item>
   </channel>

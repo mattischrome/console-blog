@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on mattischrome</title>
-    <link>http://localhost:1313/tags/ai/</link>
+    <link>https://mattischrome.com/tags/ai/</link>
     <description>Recent content in AI on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 11 Jan 2024 17:24:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unindexed?</title>
-      <link>http://localhost:1313/posts/unindexed/</link>
+      <link>https://mattischrome.com/posts/unindexed/</link>
       <pubDate>Thu, 11 Jan 2024 17:24:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/unindexed/</guid>
+      <guid>https://mattischrome.com/posts/unindexed/</guid>
       <description>There was an excellent article on The Verge yesterday about how Google is transforming the kinds of sites and blogs that are on the internet. I also read this slightly more personal take by Jason Velasquez, which is more about how social networks have gobbled up all the time and attention of people who might otherwise be making interesting web sites. This has made me think deeply about what this blog is for, and why I might continue to blog in Twenty Twenty Four.</description>
     </item>
     <item>
       <title>Building Brains</title>
-      <link>http://localhost:1313/posts/building-brains/</link>
+      <link>https://mattischrome.com/posts/building-brains/</link>
       <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/building-brains/</guid>
+      <guid>https://mattischrome.com/posts/building-brains/</guid>
       <description>This is a longer form post about artificial intelligence inspired by reading a little bit of &amp;ldquo;The Pale King&amp;rdquo; by David Foster Wallace and putting a picture of a &amp;ldquo;ghost&amp;rdquo; up on Instagram. This might be the last of these that I&amp;rsquo;m able to write for a while.&#xA;On Not Reading &amp;ldquo;The Pale King&amp;rdquo; &amp;ldquo;The Pale King&amp;rdquo; is the third and final novel by American author David Foster Wallace. He was working on it when he committed suicide in 2008.</description>
     </item>
   </channel>
