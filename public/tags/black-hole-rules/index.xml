@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Black Hole Rules on mattischrome</title>
+    <link>http://localhost:1313/tags/black-hole-rules/</link>
+    <description>Recent content in Black Hole Rules on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 22 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/black-hole-rules/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Man of Steel: A Short Review</title>
+      <link>http://localhost:1313/posts/man-of-steel-a-short-review/</link>
+      <pubDate>Sat, 22 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/man-of-steel-a-short-review/</guid>
+      <description>Today I went to see the new Superman reboot Man of Steel with friends. I really enjoyed it, particularly the more reflective take on the superhero myth. Starting out with the fate of the planet Krypton, Man of Steel approximately fuses the events of both the first two original Superman movies. We get to see Superman&amp;rsquo;s arrival and childhood on earth and then the arrival of Zod, a maniac bent on replacing the earth and everyone on it with a new race of Kryptonians.</description>
+    </item>
+  </channel>
+</rss>

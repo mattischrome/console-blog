@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EBTG on mattischrome</title>
+    <link>http://localhost:1313/tags/ebtg/</link>
+    <description>Recent content in EBTG on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 24 Dec 2023 18:35:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ebtg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 Albums of the Year #8: Everything But The Girl, Fuse</title>
+      <link>http://localhost:1313/posts/2023-albums-08-ebtg-fuse/</link>
+      <pubDate>Sun, 24 Dec 2023 18:35:06 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-albums-08-ebtg-fuse/</guid>
+      <description>As you get older nostalgia becomes an ever important part of listening to music. It often feels like the business relies on convincing an aging population of fans to part with their money on new versions of old material. It&amp;rsquo;s nostalgia, the feeling of recapturing something you loved in your youth, that often makes this acceptable. Of course it&amp;rsquo;s also nice to get new music from your favourite bands, especially when it&amp;rsquo;s as good as &amp;ldquo;Fuse&amp;rdquo;.</description>
+    </item>
+  </channel>
+</rss>

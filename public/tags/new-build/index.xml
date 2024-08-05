@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Build on mattischrome</title>
+    <link>http://localhost:1313/tags/new-build/</link>
+    <description>Recent content in New Build on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 31 Mar 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/new-build/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Album Digest, March 2012</title>
+      <link>http://localhost:1313/posts/album-digest-march-2012/</link>
+      <pubDate>Sat, 31 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/album-digest-march-2012/</guid>
+      <description>Five albums for Album Digest March 2012&#xA;Fanfarlo Rooms Filled With Light The Shins Port Of Morrow Grails Deep Politics New Build Yesterday Was Lived And Lost Scuba Personality A nice collection of albums this month - things usually pick up in March after a slow period after Christmas. One of these is a “catch-up” (the album by Grails) but apart from that one, everything else was released in the last five weeks or so… I should probably have included the album by Racehorses that I bought on my birthday but I will have to leave that for next month as I haven’t listened to it that much.</description>
+    </item>
+  </channel>
+</rss>

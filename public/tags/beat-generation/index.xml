@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beat Generation on mattischrome</title>
+    <link>http://localhost:1313/tags/beat-generation/</link>
+    <description>Recent content in Beat Generation on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 11 Apr 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/beat-generation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Love On The Road</title>
+      <link>http://localhost:1313/posts/why-i-love-on-the-road/</link>
+      <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why-i-love-on-the-road/</guid>
+      <description>I was fifteen when I first read &amp;ldquo;On The Road&amp;rdquo; by Jack Kerouac and recently, after twice as much lifetime lived, I was able to watch the film version directed by Walter Salles.&#xA;The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars.</description>
+    </item>
+  </channel>
+</rss>

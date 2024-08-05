@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Young Knives on mattischrome</title>
+    <link>http://localhost:1313/tags/young-knives/</link>
+    <description>Recent content in Young Knives on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 30 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/young-knives/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Album Digest, April 2011</title>
+      <link>http://localhost:1313/posts/album-digest-april-2011/</link>
+      <pubDate>Sat, 30 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/album-digest-april-2011/</guid>
+      <description>Album of the month: Mirrorwriting by Jamie Woon Jamie Woon was brought to my attention late last year by Pitchfork who wrote an article about the video for lead single Night Air. I’ve put that video down below because I think that it is very good, a simple well executed and the tune itself is brilliant, probably my favourite individual track of 2010. It’s a downtempo tune full of dark spaces and empty beats, full of nocturnal promise and mystery.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tarot on mattischrome</title>
+    <link>http://localhost:1313/tags/tarot/</link>
+    <description>Recent content in Tarot on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tarot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strategy one</title>
+      <link>http://localhost:1313/posts/strategy-one/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/strategy-one/</guid>
+      <description>I decided to create my own deck of creativity cards. I was sick of all the adverts for similar products on Instagram. You know the kind. They&amp;rsquo;re covered in pictures, patterns, and buzzwords. You shuffle the cards and draw them one at a time. As you place each card on the table, the brain’s natural desire to tell stories, create patterns and produce meaning takes over.&#xA;I made a deck without too much thought for form or consequence.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evie Wyld on mattischrome</title>
+    <link>http://localhost:1313/tags/evie-wyld/</link>
+    <description>Recent content in Evie Wyld on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 02 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/evie-wyld/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evie Wyld, All The Birds, Singing</title>
+      <link>http://localhost:1313/posts/all-the-birds-singing/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/all-the-birds-singing/</guid>
+      <description>I recently finished reading All The Birds, Singing, the second novel by Evie Wyld. It’s about a woman called Jake who lives alone on a farm with a dog called Dog on an island somewhere off the coast of Britain. She has sheep to look after but something keeps coming in the middle of the night to kill them.&#xA;Meanwhile, as the narrative on the island moves forward in the present, a second narrative peels off backwards to explain her past.</description>
+    </item>
+  </channel>
+</rss>

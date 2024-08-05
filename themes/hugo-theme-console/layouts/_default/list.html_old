@@ -1,0 +1,36 @@
+{{ define "main" }}
+<h1>{{ .Page.Title }}</h1>
+<br/>
+{{ .Content }}
+
+<div class="posts-list">
+<!-- {{ range sort .Data.Pages "Date" "desc" }}
+    {{ if not .Params.private }}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>    
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>
+    {{ end }}
+{{ end }} -->
+{{ $the_posts := where .Site.RegularPages "Section" "posts" }}
+{{ $the_posts = $the_posts.ByDate.Reverse }}
+{{ range (.Paginate $the_posts 12).Pages }}
+<div class="post">
+    <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+    <p>{{ .PublishDate.Format "Jan. 2, 2006" }}</p>
+    <p>{{ .Summary }}</p>
+    {{ $taxonomy := "tags" }}
+    {{ with .GetTerms $taxonomy }}
+    <p>{{ (site.GetPage $taxonomy).LinkTitle }}: {{ range $k, $_ := . -}}{{ if $k }}, {{ end }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{- end }}</p>
+{{ end }}
+</div>
+{{ end }}
+</div>
+<div class="pager">
+    {{ template "_internal/pagination.html" . }}
+</div>
+
+{{ end }}

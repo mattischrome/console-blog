@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on mattischrome</title>
+    <link>http://localhost:1313/tags/movies/</link>
+    <description>Recent content in Movies on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/movies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decision to Leave</title>
+      <link>http://localhost:1313/posts/decision-to-leave/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/decision-to-leave/</guid>
+      <description>I gave up writing reviews of movies because:&#xA;I never felt I got the balance right between describing the plot and why I liked the film. I don&amp;rsquo;t watch enough movies to be able to draw comparisons that are interesting, just between the small subset of total films that I have watched. I don&amp;rsquo;t know enough about film making to properly describe why a movie made me feel a particular way and how to discuss the different possibilities available to the director, the actors, and the other artists involved with creating a movie.</description>
+    </item>
+  </channel>
+</rss>

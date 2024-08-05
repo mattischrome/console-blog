@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isaac Asimov on mattischrome</title>
+    <link>http://localhost:1313/tags/isaac-asimov/</link>
+    <description>Recent content in Isaac Asimov on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 28 Apr 2019 21:30:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/isaac-asimov/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Isaac Asimov, Foundation and Empire, Second Foundation</title>
+      <link>http://localhost:1313/posts/the-rest-of-the-foundation-trilogy/</link>
+      <pubDate>Sun, 28 Apr 2019 21:30:15 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-rest-of-the-foundation-trilogy/</guid>
+      <description>I managed to read all of the foundation novels since I wrote about the first one. In this post, I’ll write about the next two, which covers the original trilogy of ‘novels’ created from the original short stories. I’ve tried to avoid spoilers.&#xA;Foundation and Empire Foundation and Empire comprises two novella length stories. The first story (“The General”) picks up from shortly after where the last of the five short stories in Foundation left off.</description>
+    </item>
+    <item>
+      <title>Isaac Asimov, Foundation</title>
+      <link>http://localhost:1313/posts/foundation/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/foundation/</guid>
+      <description>For our first anniversary we decided to exhange books. What better way to celebrate a paper anniversary? Ingrid bought me the entire Foundation saga, most of which were reissued in fancy new paperback designs by Mike Topping in 2016. All save for 1993&amp;rsquo;s Forward The Foundation that is, but Ingrid got me a copy anyway. Hence, here is a new series of blog posts!&#xA;The Foundation novels detail a galactic empire in decline.</description>
+    </item>
+  </channel>
+</rss>

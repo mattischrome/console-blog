@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramadanman on mattischrome</title>
+    <link>http://localhost:1313/tags/ramadanman/</link>
+    <description>Recent content in Ramadanman on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 31 Mar 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ramadanman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Album Digest, March 2011</title>
+      <link>http://localhost:1313/posts/this-is-not-an-album-digest-march-2011/</link>
+      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/this-is-not-an-album-digest-march-2011/</guid>
+      <description>This is not an Album Digest March 2011 Well as I said at the end of last month’s album digest post, I took a bit of a break from pursuing new music quite as closely as I have been. As promised, I sidestepped the new R.E.M. and Elbow albums - although I had been promised the latter as a birthday present it is yet to show up, maybe I will look at in April.</description>
+    </item>
+  </channel>
+</rss>

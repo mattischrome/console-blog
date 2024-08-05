@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trilogy on mattischrome</title>
+    <link>http://localhost:1313/tags/trilogy/</link>
+    <description>Recent content in Trilogy on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/trilogy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tade Thompson, Rosewater</title>
+      <link>http://localhost:1313/posts/tade-thompson-rosewater/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tade-thompson-rosewater/</guid>
+      <description>Rosewater is an exciting science fiction novel set several decades after first contact with an alien called Wormwood, that has established itself as a large biodome in Nigeria. The novel follows Kaaro, a thief whose extra special abilities are forged from an unlikely connection with the alien. The whole thing is part sci-fi adventure and part spy novel.&#xA;The novel is set in multiple timelines with whole sections of the story told in flashback.</description>
+    </item>
+  </channel>
+</rss>

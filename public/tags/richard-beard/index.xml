@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Beard on mattischrome</title>
+    <link>http://localhost:1313/tags/richard-beard/</link>
+    <description>Recent content in Richard Beard on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 30 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/richard-beard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Richard Beard, Acts of the Assassins</title>
+      <link>http://localhost:1313/posts/acts-of-the-assassins/</link>
+      <pubDate>Sat, 30 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/acts-of-the-assassins/</guid>
+      <description>Acts of the Assassins is an interesting novel by Richard Beard that retells the story of the apostles and their deaths. It uses a modern crime genre style and a contemporary setting. The author himself refers to it as &amp;ldquo;Gospel Noir&amp;rdquo;. Cassius Gallio, a Roman CSI-type referred to as a speculator, investigates the murders of the apostles following the crucifixion and resurrection of Jesus. Gallio, charged with guarding the body following Jesus&amp;rsquo; death and greatly undermined by the disappearance of the body, views the resurrection as the greatest conspiracy of the age.</description>
+    </item>
+  </channel>
+</rss>

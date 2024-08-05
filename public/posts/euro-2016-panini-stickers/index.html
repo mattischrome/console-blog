@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>mattischrome/posts/euro-2016-panini-stickers/</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/terminal-0.7.2.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/animate-4.1.1.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/console.css">
+    
+      <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+       <meta property="og:title" content="Euro 2016 Panini Stickers" />
+<meta property="og:description" content="Sound the conspicuous consumption klaxon! &amp;#x1F4E3; I know it&#39;s foolish but I decided to collect the" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/posts/euro-2016-panini-stickers/" /><meta property="article:published_time" content="2016-06-05T00:00:00+00:00" />
+
+
+
+<meta name="twitter:title" content="Euro 2016 Panini Stickers"/>
+<meta name="twitter:description" content="Sound the conspicuous consumption klaxon! &amp;#x1F4E3; I know it&#39;s foolish but I decided to collect the"/>
+
+  
+
+
+</head>
+<body class="terminal">
+    <div class="container">
+        <div class="terminal-nav">
+          <header class="terminal-logo">
+            <div class="logo terminal-prompt">
+              
+              
+              <a href="http://localhost:1313/" class="no-style ">mattischrome</a>:~# 
+              <a href='http://localhost:1313/posts'>posts</a>/<a href='http://localhost:1313/posts/euro-2016-panini-stickers'>euro-2016-panini-stickers</a>/</div></header>
+          <nav class="terminal-menu">
+            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
+                
+            </ul>
+          </nav>
+        </div>
+    </div>
+
+    <div class="container " >
+        
+<h1>Euro 2016 Panini Stickers</h1>
+<p>Jun. 5, 2016</p>
+<br/><br/>
+<p>Sound the conspicuous consumption klaxon! 📣 I know it&rsquo;s foolish but I decided to collect the Panini stickers for the Euro 2016 tournament this summer. I think it&rsquo;s a more edifying waste of money than a series of group game accumulators that don&rsquo;t come off. If this week&rsquo;s long read in The Guardian is anything to go by, <a href="https://www.theguardian.com/business/2016/may/31/big-gamble-dangerous-british-betting-shops">we really shouldn&rsquo;t be giving any more of our money to betting companies</a>. The album also looks better than any of the official books. Anyway, this post celebrates my inner collector/geek and the beauty of the shiny sticker!</p>
+<p>I find sticking the stickers into the album relaxing. Like the craze for adult colouring books, it takes a nostalgic childhood memory and uses it to escape the pressures of everyday life. I wouldn&rsquo;t say that I&rsquo;m a perfectionist though, I totally mangled Swedish keeper Andreas Isakson as I stuck him in and I&rsquo;ve even stuck down an a-b pair in the wrong order!</p>
+<p>The burning question is how many packets of stickers will it take to fill the album? It depends on how many people you are able to swap with and how much money you are prepared to spend on excess stickers. If you have enough friends collecting stickers, you should in theory be able to buy 675 stickers (135 packets at 50p each) because you can then swap all your duplicates with your mates. eBay wasn&rsquo;t a thing when I was ten (the last time I collected stickers for the 1990 World Cup) but it is now. You can resort to all sorts of shenanigans there. In the real world and such &ldquo;cheating&rdquo; aside, it&rsquo;s likely that you will need more than 135 packets.</p>
+<h3 id="the-hypergeometric-distribution-stickers-induced-bankruptcy-and-you">The Hypergeometric distribution, stickers-induced bankruptcy and you</h3>
+<p>How many swaps are you likely to generate? We can calculate the probability of getting N out of 5 new unseen stickers in each packet. We use hypergeometric distribution for just this sort of thing: taking small samples from a larger population without replacement and calculating the probability of N successes in that sample. In Excel the formula <!-- raw HTML omitted -->=HYPERGEOM.DIST(NUM_GOT,5,NUM_NEED,TOTAL_NUM,0)<!-- raw HTML omitted --> generates these probabilities. The names I gave the variables should explain each parameter. As mentioned you get five stickers in each pack, so this is the number of draws each time. The fifth parameter takes the value 1 or 0 depending on whether you want cumulative values or not. Cumulative values helped me build the Markov chain I used later on.</p>
+<p>If we play around in Excel we see that the probability of generating swaps increases quickly as you begin to accumulate more stickers. In the following table I compare a situation near to the start of collecting, somewhere about halfway through, and somewhere near to the end:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>Number of unseen stickers (Out of 5)</strong></th>
+<th style="text-align:left"><strong>With 600 stickers still to collect</strong></th>
+<th style="text-align:left"><strong>With 300 stickers still to collect</strong></th>
+<th style="text-align:left"><strong>With 50 stickers still to collect</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">5</td>
+<td style="text-align:left">53.4%</td>
+<td style="text-align:left">1.6%</td>
+<td style="text-align:left">0%</td>
+</tr>
+<tr>
+<td style="text-align:left">4</td>
+<td style="text-align:left">35.8%</td>
+<td style="text-align:left">10.5%</td>
+<td style="text-align:left">0%</td>
+</tr>
+<tr>
+<td style="text-align:left">3</td>
+<td style="text-align:left">9.5%</td>
+<td style="text-align:left">26.9%</td>
+<td style="text-align:left">0.3%</td>
+</tr>
+<tr>
+<td style="text-align:left">2</td>
+<td style="text-align:left">1.2%</td>
+<td style="text-align:left">34.1%</td>
+<td style="text-align:left">4.3%</td>
+</tr>
+<tr>
+<td style="text-align:left">1</td>
+<td style="text-align:left">0.1%</td>
+<td style="text-align:left">21.5%</td>
+<td style="text-align:left">27.2%</td>
+</tr>
+<tr>
+<td style="text-align:left">0</td>
+<td style="text-align:left">0%</td>
+<td style="text-align:left">5.4%</td>
+<td style="text-align:left">68.2%</td>
+</tr>
+</tbody>
+</table>
+<p>Even with most of the album still to fill, you have a just over 50% chance of putting all your new stickers into the album. Happily you also have a minuscule chance of getting five stickers that you already have. Once you get beyond the halfway point, you&rsquo;re most likely to be adding between one and three new stickers to your album with each new packet - and you still have three hundred to go! It&rsquo;s a good job that Panini allows you to send in a list for your final 50 stickers as by then you have a greater than 2 in 3 chance of not getting any new stickers in each packet! That is only one new sticker on average in every three packets! This is why having a large pool of friends to swap with is so important!</p>
+<h3 id="the-shiny-situation">The shiny situation</h3>
+<p>Of course this assumes that all the stickers are of equal rarity. You can understand why there might be more Gareth Bales or Anthony Martials about than there are Florin Andones or <a href="http://www.uefa.com/uefaeuro/season=2016/teams/player=1905362/index.html">Taulant Xhakas</a>, at least in the UK. It might help Panini to sell more stickers to casual collectors if you can track down the famous faces quickly. Nevertheless, I think that the table above goes a long way towards explaining the perceived rarity of stickers: the more you have, the rarer the ones you don&rsquo;t have seem to be.</p>
+<p>To explore this, we can use the shiny stickers as an example. These are the Panini equivalent of finding Willy Wonka&rsquo;s golden ticket. They make getting the Icelandic team badge the best thing to happen all week. I estimate that there are 50 shiny stickers in the album. There is one for each team badge and one for each team photo, and the pictures of the trophy at the start of the album are also shiny. We can again use the hypergeometric distribution to estimate the probability of getting one shiny sticker in your packet of five stickers. If you have no shiny stickers yet the chance is about 27% (and also 4.0% of the time you might get two in one packet: this has happened to me). However, if you already have ten shiny stickers the chance of getting another in your packet (that you don&rsquo;t already have) drops to 22%. Particular stickers just seem rarer because it&rsquo;s more difficult to find new stickers once you possess a certain number of stickers. Once you start looking for one sticker in particular, it will seem very rare indeed.</p>
+<h3 id="simulations">Simulations</h3>
+<p>I will finish with the results of a simulation. Using a <a href="https://en.m.wikipedia.org/wiki/Markov_chain">Markov chain</a> with transition probabilities determined by the hypergeometric distribution, I simulate a single collector’s progress. I ran it a 1000 times until a cutoff of 50 stickers (when you can send your final list to Panini). This assumes that all stickers are equally rare and that the collector never makes any swaps. The graph below shows 25 of the 1000 runs and how the number of stickers remaining changes as the collector opens more packets.</p>
+<p><img src="../../assets/images/other/StickerGraph.jpg" alt=""></p>
+<p>Under these conditions my collector has to buy an average of 355 packets over the 1000 runs. This means that on average they spend £184.50p to fill the album (including the £7 spent on buying 50 final stickers at 15p each from Panini). In 1000 runs, the minimum number of packets needed was 306 (for a total cost of £160) and the maximum number of packets needed was 418 (for a total cost of £216). The median was 354 packets and the interquartile range was 344 to 365 packets.</p>
+<p>It&rsquo;s worth thinking about this in terms of the price paid for each unique sticker. If you&rsquo;re the lucky person who gets all the stickers inside 306 packets you&rsquo;ll pay 24p per sticker. The unlucky person who has to buy 418 packets ends up paying a whopping 32p per sticker! If you don&rsquo;t swap any stickers then on average you&rsquo;ll end spending 27p per sticker. This is nearly three times their initial cost and almost twice the price per sticker that Panini charges for completing the final fifty of the collection.</p>
+<h3 id="how-to-save-money">How to save money</h3>
+<p>There are two ways to save money. The first is to find some friends to swap with. In theory this allows you to keep the cost of every sticker at 10p. If I have time, a follow-up post will explore what happens to a group of collectors who agree to exhange doubles after each batch of packets bought. I&rsquo;d like to write a simulator that helps answer questions like &ldquo;How many friends do you need?&rdquo; and &ldquo;What batch size between swap sessions is best?&rdquo;. I&rsquo;d also like to explore what happens when the assumption of equally rare stickers no longer holds.</p>
+<p>If your friends are too sensible to get in on this sticker collecting lark, the second thing you could do is persuade each friend to buy you fifty stickers direct from Panini. This is probably as effective as swapping (because swapping is unlikely to be 100% efficient) but you would miss the thrill of opening packets and the social interaction that comes with swapping.</p>
+<p>I&rsquo;ve swapped with friends at work who are collecting and I have also taken to the internet to make swaps with strangers. So far I&rsquo;ve added at least 100 stickers to my collection this way, with at least 40 (so far) arriving in the post from people I&rsquo;ve never met. The <a href="http://www.stickerswapping.com/index.php">stickerswapping.com</a> website is useful both for organising your collection and for setting up trades with fellow collectors. It relies on your ability to trust strangers from the internet but people have little to gain from ripping you off. Nevertheless it&rsquo;s a good idea not to accept trades that appear too good to be true.</p>
+<p>Finally, the sticker swapping site allows you to see how many people have a particular sticker to swap. Is one sticker rarer than the others? You bet. <a href="http://thumbs.ebaystatic.com/images/g/gF8AAOSwVcFXO2c0/s-l140.jpg">The shiny of the Belgian team badge!</a> I&rsquo;ll trade you three Romanian strikers if you have one going spare!</p>
+
+ 
+<ul class="post_tags">
+   <li>
+    <a href="http://localhost:1313/tags/football/">football</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/stats/">stats</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/modelling/">modelling</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/sixteen/">sixteen</a>
+  </li></ul>
+
+<div aria-label="Browse" class="post-single__browse browse-nav">
+    
+    <div class="browse-nav__next">
+      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--next">
+        &#10142;
+      </div>
+      <a href="http://localhost:1313/posts/logitech-k380-review/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: Logitech K380 Review">Logitech K380 Review</a>
+    </div>
+    
+  
+    
+    <div class="browse-nav__prev">
+      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--prev">
+        &#10142;
+      </div>
+      <a href="http://localhost:1313/posts/album-digest-may-2016/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: Album Digest, May 2016">Album Digest, May 2016</a>
+    </div>
+    
+  
+    <a href="http://localhost:1313/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
+</div>
+
+        <div class="footer">
+    Powered by <a href="https://gohugo.io/">Hugo</a> with
+    <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console Theme</a>. 
+</div>
+
+    </div>
+  </body>
+</html>

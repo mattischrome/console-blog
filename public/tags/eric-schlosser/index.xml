@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Schlosser on mattischrome</title>
+    <link>http://localhost:1313/tags/eric-schlosser/</link>
+    <description>Recent content in Eric Schlosser on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 29 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/eric-schlosser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eric Schlosser, Command and Control</title>
+      <link>http://localhost:1313/posts/command-and-control/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/command-and-control/</guid>
+      <description>&amp;ldquo;Command and Control&amp;rdquo; by Eric Schlosser is about the history of nuclear weapons and their safety. This might not seem like a thrilling subject, but it&amp;rsquo;s absorbing from start to finish. I started it three years ago but only finished it more recently as the subject of nuclear weapons has become more pertinent to current affairs1. There are many people who would stand to gain a great deal from reading this book2.</description>
+    </item>
+    <item>
+      <title>Eric Schlosser, Gods of Metal</title>
+      <link>http://localhost:1313/posts/gods-of-metal/</link>
+      <pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/gods-of-metal/</guid>
+      <description>Y-12 is the United States&amp;rsquo; most secure weapons-grade Uranium storage facility. It is known as the &amp;ldquo;Fort Knox of Uranium&amp;rdquo;. In 2012 it was infiltrated by three elderly peace protesters, sparking a major scandal about the safety of US nuclear sites. &amp;ldquo;Gods of Metal&amp;rdquo; by Eric Schlosser tells the story of that break-in alongside a history of both the anti-nuclear movement (in particular the Plowshares movement) and nuclear security in the United States.</description>
+    </item>
+  </channel>
+</rss>

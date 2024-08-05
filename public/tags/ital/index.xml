@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ital on mattischrome</title>
+    <link>http://localhost:1313/tags/ital/</link>
+    <description>Recent content in Ital on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 29 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ital/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Album Digest, November 2012</title>
+      <link>http://localhost:1313/posts/album-digest-november-2012/</link>
+      <pubDate>Thu, 29 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/album-digest-november-2012/</guid>
+      <description>Pretty much a sliding scale between songs and electronic wibble on this month’s albums and a particularly damp, chilly feeling to proceedings too.&#xA;Bat For Lashes “The Haunted Man” Ital “Hive Mind” and “Dream On” Björk “Bastards” Brian Eno “Lux” Bat For Lashes “The Haunted Man” When it comes to Bat For Lashes, I prefer her first album “Fur And Gold” to her second “Two Suns” because when I listen to the latter I don’t feel connected to any of the songs.</description>
+    </item>
+  </channel>
+</rss>

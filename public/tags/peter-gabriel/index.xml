@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Gabriel on mattischrome</title>
+    <link>http://localhost:1313/tags/peter-gabriel/</link>
+    <description>Recent content in Peter Gabriel on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 20 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/peter-gabriel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Album Digest, November 2011</title>
+      <link>http://localhost:1313/posts/album-digest-november-2011/</link>
+      <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/album-digest-november-2011/</guid>
+      <description>Just three albums this month as I’ve been listening to a lot of Brian Eno records ready for an upcoming understated classic. First up is 50 Words For Snow by Kate Bush, the second album that she has released this year. Back in May I wrote about Director’s Cut, which presented re-recorded and re-mastered versions of songs from her albums The Sensual World and The Red Shoes. This time around it is an album of brand new material, the first since Aerial in 2006.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Bond on mattischrome</title>
+    <link>http://localhost:1313/tags/james-bond/</link>
+    <description>Recent content in James Bond on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 03 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/james-bond/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skyfall: A Short Review</title>
+      <link>http://localhost:1313/posts/skyfall-a-short-review/</link>
+      <pubDate>Sat, 03 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/skyfall-a-short-review/</guid>
+      <description>I went to see &amp;ldquo;Skyfall&amp;rdquo; last night and I really enjoyed it. I knew nothing about the plot, mostly because I had avoided all discussion of the plot with people who had already seen it and I even avoided reviews as so many these days seem to just rattle off plot points, instead of discussing what makes the movie any good. With that in mind I will obviously try not to give away any of the plot in this brief review.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Will Bingley on mattischrome</title>
+    <link>http://localhost:1313/tags/will-bingley/</link>
+    <description>Recent content in Will Bingley on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 17 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/will-bingley/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Will Bingley and Anthony Hope-Smith, Gonzo</title>
+      <link>http://localhost:1313/posts/gonzo-a-graphic-biography-of-hunter-s-thompson/</link>
+      <pubDate>Sun, 17 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/gonzo-a-graphic-biography-of-hunter-s-thompson/</guid>
+      <description>Another book from the “university of life” pile (though not in the picture), “Gonzo” is the biography of Hunter S. Thompson in graphical form. In case you don’t know his work, Hunter S. Thompson was a journalist who invented the so-called “gonzo” style. This was basically to rock up at some major event and become embedded within it, usually writing up a long form piece from an outsider perspective. He was particularly famous for his work on the Hell’s Angels and Richard Nixon’s campaign for presidential re-election in 1972.</description>
+    </item>
+  </channel>
+</rss>

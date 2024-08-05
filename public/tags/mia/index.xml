@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MIA on mattischrome</title>
+    <link>http://localhost:1313/tags/mia/</link>
+    <description>Recent content in MIA on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 30 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Album Digest, September 2016</title>
+      <link>http://localhost:1313/posts/album-digest-september-2016/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/album-digest-september-2016/</guid>
+      <description>This month&amp;rsquo;s album digest features albums by Wilco, M.I.A., Local Natives, and a collaboration between Kaitlyn Aurelia Smith and Suzanne Ciani.&#xA;Wilco Schmilco Schmilco is the tenth studio album by Wilco, which regular readers will know are one of my favourite bands. There&amp;rsquo;s no need to repeat that anecdote about why this blog has the name that it does. Meanwhile, this album follows on from last year&amp;rsquo;s Star Wars and is probably the third Wilco album to have a jokey meta- kind of title.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maths on mattischrome</title>
+    <link>http://localhost:1313/tags/maths/</link>
+    <description>Recent content in Maths on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 25 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/maths/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to generate random numbers in R</title>
+      <link>http://localhost:1313/posts/generate-random-numbers-in-r/</link>
+      <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/generate-random-numbers-in-r/</guid>
+      <description>This post deals with how to generate random numbers in R. It is good to know how to generate random numbers with a particular language or software package for at least one of the following three reasons:&#xA;You want to test something that depends on a particular distribution. You’re running a stochastic process of some kind (Branching process, random walk etc) and you need random numbers for deciding whether an event occurs.</description>
+    </item>
+    <item>
+      <title>Posters</title>
+      <link>http://localhost:1313/posts/posters/</link>
+      <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/posters/</guid>
+      <description>In 2005, towards the end of the second year of my PhD I presented a poster at a conference in Dresden, Germany. My eccentric colleagues and I stayed on a huge canal boat moored on the Elbe for no discernible reason other than it seemed like a laugh at the time. In reality I was the second worst snorer of the three of us and it also turned out that our room was right underneath the gang-plank and every morning at six the person who made breakfast would stomp across it.</description>
+    </item>
+    <item>
+      <title>Ideas for TV shows: Great Mathematicians</title>
+      <link>http://localhost:1313/posts/ideas-for-tv-shows-great-mathematicians/</link>
+      <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ideas-for-tv-shows-great-mathematicians/</guid>
+      <description>I want to see a TV show about great mathematicians of the past on a channel like BBC Four. Programmes about mathematics tend to be rather condescending, at least to anyone who has a bit of mathematical knowledge. Perhaps a way around this is to delve into the social and historical circumstances of the great mathematicians and how that along with their personality produced the mathematical results for which they are famous.</description>
+    </item>
+    <item>
+      <title>Nonlinear Systems: A Rough Intro</title>
+      <link>http://localhost:1313/posts/nonlinear-systems-a-rough-intro/</link>
+      <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/nonlinear-systems-a-rough-intro/</guid>
+      <description>This is another mathematics post that does not actually feature any equations or graphs. It is intended to set the way clear for writing regularly about nonlinear systems. This in itself is a precursor to writing more about mathematical biology as biological systems are inherently complex and nonlinear. I am reading P. G. Drazin’s textbook on Nonlinear Systems and this post is a glossary of terms from the start of the book laid down here because I wanted to remember how to typeset definition lists in Markdown (though in the end I (ab)used &amp;lt;h4&amp;gt; tags because it looked better).</description>
+    </item>
+    <item>
+      <title>Favourite Numbers</title>
+      <link>http://localhost:1313/posts/favourite-numbers/</link>
+      <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/favourite-numbers/</guid>
+      <description>What’s your favourite number?&#xA;I was ambivalent on this issue until a few months ago until I came across the following quirky result: if you start with the prime number 41 and then add 2 you get 43, which is also prime and then if you add 4 to 43, you get 47: also prime. And this continues to produce prime numbers if you add successive multiples of two to your running total, UNTIL… you get to the 41st number in this sequence, which is 41 squared.</description>
+    </item>
+  </channel>
+</rss>

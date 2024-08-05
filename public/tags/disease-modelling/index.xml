@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disease Modelling on mattischrome</title>
+    <link>http://localhost:1313/tags/disease-modelling/</link>
+    <description>Recent content in Disease Modelling on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 03 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/disease-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contagion: A Short Review</title>
+      <link>http://localhost:1313/posts/contagion-a-short-review/</link>
+      <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/contagion-a-short-review/</guid>
+      <description>There was much excitement about Contagion at work. Finally a movie that explains as part of the plot! A bunch of us went to see it, mainly to see whether a disaster movie about a global pandemic could hold up as entertainment and to have a bit of a giggle if it couldn’t.&#xA;I liked three things in particular about the film. I liked the cinematography, especially the opening sequences with the index cases staggering around.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coronavirus on mattischrome</title>
+    <link>http://localhost:1313/tags/coronavirus/</link>
+    <description>Recent content in Coronavirus on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/coronavirus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Travel Writing After All This</title>
+      <link>http://localhost:1313/posts/travel-writing-after-all-this/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/travel-writing-after-all-this/</guid>
+      <description>While sprucing up this blog a bit during lockdown, I fell into reading my old posts about South America. I enjoyed it, mostly for the memories, but also because the current lockdown is warping my sense of time and space. Hours feel like weeks, but then I blink and a month&amp;rsquo;s gone by. I find myself traipsing similar orbits each day around the house, and then perhaps over to the supermarket or the park.</description>
+    </item>
+  </channel>
+</rss>

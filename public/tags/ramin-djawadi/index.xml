@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramin Djawadi on mattischrome</title>
+    <link>http://localhost:1313/tags/ramin-djawadi/</link>
+    <description>Recent content in Ramin Djawadi on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 31 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ramin-djawadi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Album Digest, July 2013</title>
+      <link>http://localhost:1313/posts/album-digest-july-2013/</link>
+      <pubDate>Wed, 31 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/album-digest-july-2013/</guid>
+      <description>Another four albums for you this month. Sometimes the problem is not finding albums to listen to but actually finding time to listen to them! Often it is not because I don&amp;rsquo;t have time but because I have already found some great albums this month and I am busy listening to those instead. As a result, a couple of these albums are ones that I have only listened to for a week or so, but they are interesting enough to write about.</description>
+    </item>
+  </channel>
+</rss>

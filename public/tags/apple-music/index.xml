@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple Music on mattischrome</title>
+    <link>http://localhost:1313/tags/apple-music/</link>
+    <description>Recent content in Apple Music on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 05 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/apple-music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Initial Comparison of Apple Music and Spotify</title>
+      <link>http://localhost:1313/posts/an-initial-comparison-of-apple-music-and-spotify/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/an-initial-comparison-of-apple-music-and-spotify/</guid>
+      <description>My previous post about Apple Music was more a response to how it was presented at the WWDC Keynote rather than to the idea of Apple Music itself. I should have known better than to use that clickbait title. I knew I wasn&amp;rsquo;t writing about the product, more the flatness of its introduction (despite the names on show).&#xA;After a few days of living with it I thought I&amp;rsquo;d write about it and Spotify, so that it&amp;rsquo;s not just my snarky comments about the keynote that are on record here.</description>
+    </item>
+  </channel>
+</rss>

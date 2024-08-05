@@ -1,0 +1,22 @@
+{{ define "main" }}
+<h1>{{ .Page.Title }}</h1>
+{{ .Content }}
+<div class="image-grid">
+    {{ $the_posts := where .Site.RegularPages "Section" "photos" }}
+    {{ $the_posts = $the_posts.ByDate.Reverse }}
+    {{ range (.Paginate $the_posts 12).Pages }}
+    {{ if and (isset .Params "image") .Params.image }}
+    <a href="{{ .Permalink }}" title="{{ .Title }}">
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        {{ with $image }}
+        {{ $thumb := .Resize "400x" }}
+        <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+    </a>
+    {{ end }}
+    {{ end }}
+</div>
+<div class="pager">
+    {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

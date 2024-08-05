@@ -1,0 +1,4 @@
+---
+title: posts
+type: posts
+---

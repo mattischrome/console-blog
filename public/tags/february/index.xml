@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>February on mattischrome</title>
+    <link>http://localhost:1313/tags/february/</link>
+    <description>Recent content in February on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/february/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checking In</title>
+      <link>http://localhost:1313/posts/first-of-feb-post/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-of-feb-post/</guid>
+      <description>Despite my best intentions, I didn’t manage to continue writing posts after the first day of 2022! But perhaps now I can try again as an excuse to test my blogging set up on my new computer.</description>
+    </item>
+    <item>
+      <title>Album Digest, February 2017</title>
+      <link>http://localhost:1313/posts/album-digest-february-2017/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/album-digest-february-2017/</guid>
+      <description>Grails Chalice Hymnal Some albums are good because a band continues making the music that you love. Some albums are good because a band takes their ideas a step or two further than before. Chalice Hymnalis that rare album that does both of these things.&#xA;The references to past albums include the track Deeper Politics and Deep Snow II, and, as per albums past, these tracks evolve slowly out of languid guitar hooks and smoky atmospherics.</description>
+    </item>
+    <item>
+      <title>Album Digest, February 2015</title>
+      <link>http://localhost:1313/posts/album-digest-february-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/album-digest-february-2015/</guid>
+      <description>Aphex Twin &amp;ldquo;Computer Controlled Acoustic Instruments Pt2 EP&amp;rdquo; Aphex Twin follows SYRO (reviewed in Album Digest September 2014 here) with this 27 minute EP of music that, if we take the title literally, features computers playing acoustic musical instruments. It&amp;rsquo;s a very different sound to SYRO and sounds acoustic for the most part. It&amp;rsquo;s an important experiment about the role of the musician, one that is already blurred in the creation of electronic music.</description>
+    </item>
+    <item>
+      <title>Album Digest, February 2013</title>
+      <link>http://localhost:1313/posts/album-digest-february-2013/</link>
+      <pubDate>Thu, 28 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/album-digest-february-2013/</guid>
+      <description>Most Februaries are quite quiet when it comes to albums (though this was not the case back in 2011) and although only the Foals album is a major release, I was quite surprised to find myself with four decent albums to write about. They are:&#xA;Darkstar &amp;ldquo;News From Nowhere&amp;rdquo; Foals &amp;ldquo;Holy Fire&amp;rdquo; Daniel Hope &amp;ldquo;Spheres&amp;rdquo; Apparat &amp;ldquo;Krieg und Frieden (Music For Theatre)&amp;rdquo; Darkstar &amp;ldquo;News From Nowhere&amp;rdquo; I don&amp;rsquo;t need to give too much biographical background for the Darkstar album as I don&amp;rsquo;t know too much about who the are.</description>
+    </item>
+    <item>
+      <title>Album Digest, February 2012</title>
+      <link>http://localhost:1313/posts/album-digest-february-2012/</link>
+      <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/album-digest-february-2012/</guid>
+      <description>One EP and three albums for Album Digest February 2012:&#xA;Burial Kindred EP John Talabot fIN Lilacs &amp;amp; Champagne Lilacs &amp;amp; Champagne The 2 Bears Be Strong Last February was a pretty good month for song based albums, although the likes of Radiohead and James Blake provided plenty of electronic noodling in and around their song structures. (Interestingly, out of the two out-and-out song based albums, one was one of the worst albums of the year and the other one of the best).</description>
+    </item>
+    <item>
+      <title>Album Digest, February 2011</title>
+      <link>http://localhost:1313/posts/album-digest-february-2011/</link>
+      <pubDate>Mon, 28 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/album-digest-february-2011/</guid>
+      <description>February, the shortest month, harbinger of such delights as Groundhog Day and Valentine’s Day. Could it possibly produce any good albums? Well the candidates are the eponymous début album by James Blake, Zonoscope by Cut/Copy, Let England Shake by PJ Harvey and Smart Flesh by The Low Anthem. Furthermore, there was an unexpected bonus when Radiohead announced that their new album would be out and available to listen to this month too.</description>
+    </item>
+  </channel>
+</rss>

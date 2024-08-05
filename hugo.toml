@@ -1,0 +1,10 @@
+baseURL = 'https://mattischrome.com/'
+languageCode = 'en-gb'
+title = 'mattischrome'
+theme = 'hugo-theme-console'
+[params]
+  [params.posts]
+    paginate = 12
+
+  [params.photos]
+    paginate = 12

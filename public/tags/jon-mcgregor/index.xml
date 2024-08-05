@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jon McGregor on mattischrome</title>
+    <link>http://localhost:1313/tags/jon-mcgregor/</link>
+    <description>Recent content in Jon McGregor on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 23 Sep 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/jon-mcgregor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jon McGregor, Even The Dogs</title>
+      <link>http://localhost:1313/posts/even-the-dogs/</link>
+      <pubDate>Sun, 23 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/even-the-dogs/</guid>
+      <description>Over my holiday I read &amp;ldquo;Even The Dogs&amp;rdquo; by Jon McGregor. I&amp;rsquo;ve not quite finished it yet but that will at least prevent me from giving away spoilers. I am not sure I would want to give any spoilers anyway because it is unrelentingly grim so far. Perhaps there is a happy ending but both you and I will have to read it to find out.&#xA;I was introduced to Jon McGregor by the book group I was part of during my PhD.</description>
+    </item>
+  </channel>
+</rss>

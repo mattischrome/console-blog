@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>mattischrome/posts/programming-an-uno-game-part-2/</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/terminal-0.7.2.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/animate-4.1.1.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/console.css">
+    
+      <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+       <meta property="og:title" content="Programming an UNO game, part 2" />
+<meta property="og:description" content="It turns out that programming the UNO game is not that complicated once you start designing the" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/posts/programming-an-uno-game-part-2/" /><meta property="article:published_time" content="2011-02-02T00:00:00+00:00" />
+
+
+
+<meta name="twitter:title" content="Programming an UNO game, part 2"/>
+<meta name="twitter:description" content="It turns out that programming the UNO game is not that complicated once you start designing the"/>
+
+  
+
+
+</head>
+<body class="terminal">
+    <div class="container">
+        <div class="terminal-nav">
+          <header class="terminal-logo">
+            <div class="logo terminal-prompt">
+              
+              
+              <a href="http://localhost:1313/" class="no-style ">mattischrome</a>:~# 
+              <a href='http://localhost:1313/posts'>posts</a>/<a href='http://localhost:1313/posts/programming-an-uno-game-part-2'>programming-an-uno-game-part-2</a>/</div></header>
+          <nav class="terminal-menu">
+            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
+                
+            </ul>
+          </nav>
+        </div>
+    </div>
+
+    <div class="container " >
+        
+<h1>Programming an UNO game, part 2</h1>
+<p>Feb. 2, 2011</p>
+<br/><br/>
+<p>It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.</p>
+<h4 id="the-deck">The deck</h4>
+<p>An UNO deck consists of four sets of coloured cards (red, yellow, green and blue) together with eight wild cards. The non-wild cards are marked with either numbers or special symbols. The numbers range from zero to nine with two of each number except for the zero, which is unique. For each colour there are also two each of three kinds of special card: SKIP, SWAP and DRAW. The eight wild cards are divided into four each of two types: WILD and WILDFOUR. The wild cards are usually black in UNO decks so we may refer to them as black cards on occasion. There are one hundred and eight cards in total.</p>
+<h4 id="gameplay">Gameplay</h4>
+<p>It is recommended that there be between two and ten players. The deck is shuffled and each player is dealt seven cards from the deck and a starting player selected. This selection can be done in a number of ways, a good way is for the players to cut the deck before dealing and to choose the person who turns up the highest value card.</p>
+<p>After the deal, the remainder of the deck is set aside face down and the top card turned up and placed on the table in the middle of the circle created by the players. The starting player then attempts to match either the colour or number that is on this card. Note that if a special coloured card or a wild card is turned up initially, it is placed to the back of the deck and another chosen until a number card is revealed. For example, if a red seven is turned up then the first player can lay any red card or a seven of any colour. If she cannot do this but has a wild card, she can lay this instead - we will explain the wild cards in a moment. Failing that, she must pick up another card from the remainder of the deck. After any of these actions, the play moves on to the next player.</p>
+<p>Play proceeds clockwise in this fashion with each player aiming to get rid of all their cards. When laying their penultimate card, a player must say “UNO!”. If they do not, then they may be required to take two cards from the deck if another player manages to say “UNO!” before the next player lays a card. A player cannot lay a special or wild card as their last card.</p>
+<h4 id="scoring">Scoring</h4>
+<p>When a player has successfully discarded all of their cards, they are declared the winner of the round and the values of the cards remaining in the hands of the other players are added to give that player’s score for the round (the winner scores zero). Numbers are taken at face value, special cards have a value of 20 and wild cards a value of 50. If over the course of several rounds a player’s score exceeds a pre-determined threshold (say 250) they are eliminated from future rounds and the ultimate winner of the game is the last person standing.</p>
+<h4 id="behaviour-of-the-special-cards">Behaviour of the special cards</h4>
+<p>The SKIP card is usually marked with a “null” symbol. It causes the play to skip over the next player, who misses a turn. In two player games this card will have no effect so it can either be discarded or treated as a zero.</p>
+<p>The SWITCH card is usually marked with arrows. It causes the play to change direction from clockwise to anti-clockwise, or vice versa. In two player games this card will also have no effect so it can either be discarded or treated as a zero.</p>
+<p>The DRAW card is usually marked “+2” in some fashion. It forces the next player to draw two cards from the deck and miss their turn. There are unofficial rule variations in which the next player may not have to pick up a card and miss their turn (see below).</p>
+<p>The WILD card is marked with an oval cut into four segments coloured red, yellow, green and blue. The player laying this card can nominate a new colour that subsequent players must lay. In addition the next player must pick up a card from the deck and miss their turn. As stated above, this can only be laid if there is no legal alternative. As with the DRAW card, there are unofficial variations in which the next player may not have to pick up a card and miss their turn (see below).</p>
+<p>The WILDFOUR card also features all four colours and is usually marked with “+4” in some fashion. It allows the player laying the card to nominate a new colour for the deck. Meanwhile, the next player is forced to pick up four cards from the deck and miss their turn. Again, there are unofficial rule variation that may prevent a player from picking up additional cards (see below).</p>
+<h4 id="unofficial-rule-variation">Unofficial rule variation</h4>
+<p>In some unofficial rule variations, in a situation where the next player is required to pick up cards as the result of a DRAW, WILD or WILDFOUR card being played, they do not have to do so if they themselves have a DRAW, WILD or WILDFOUR card. The player after them would then have to pick up the number of cards corresponding to the sum of the cards played. For example, a DRAW followed by a WILD would lead to the next player picking up three cards. This can continue with the number of cards that the subsequent player is required to pick up increasing accordingly. It is to be noted that a DRAW card cannot be played <em>after</em> either of the wild cards and a WILD card cannot be played <em>after</em> a WILDFOUR card.</p>
+<p>This variation is not consistent with the remainder of the rules though as it does not preserve the unique nature of the wild cards, which must be played only when there is no alternative - not to avoid picking up cards! Initially we will not include it in the program, though we may return to it later as a way of investigating how to create different gameplay options for the user.</p>
+<h4 id="moving-on-to-the-code">Moving on to the code</h4>
+<p>Stay tuned for part three, where I will discuss how I program the game and will also give some screenshots of the console based version.</p>
+
+ 
+<ul class="post_tags">
+   <li>
+    <a href="http://localhost:1313/tags/programming/">programming</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/projects/">projects</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/games/">games</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/fun/">fun</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/eleven/">eleven</a>
+  </li></ul>
+
+<div aria-label="Browse" class="post-single__browse browse-nav">
+    
+    <div class="browse-nav__next">
+      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--next">
+        &#10142;
+      </div>
+      <a href="http://localhost:1313/posts/out-there-somewhere/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: Out There Somewhere">Out There Somewhere</a>
+    </div>
+    
+  
+    
+    <div class="browse-nav__prev">
+      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--prev">
+        &#10142;
+      </div>
+      <a href="http://localhost:1313/posts/crash/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: J. G. Ballard, Crash">J. G. Ballard, Crash</a>
+    </div>
+    
+  
+    <a href="http://localhost:1313/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
+</div>
+
+        <div class="footer">
+    Powered by <a href="https://gohugo.io/">Hugo</a> with
+    <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console Theme</a>. 
+</div>
+
+    </div>
+  </body>
+</html>

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>mattischrome/posts/programming-an-uno-game/</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/terminal-0.7.2.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/animate-4.1.1.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/console.css">
+    
+      <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+       <meta property="og:title" content="Programming an UNO game" />
+<meta property="og:description" content="#### A new year, a new hobby" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/posts/programming-an-uno-game/" /><meta property="article:published_time" content="2010-12-28T00:00:00+00:00" />
+
+
+
+<meta name="twitter:title" content="Programming an UNO game"/>
+<meta name="twitter:description" content="#### A new year, a new hobby"/>
+
+  
+
+
+</head>
+<body class="terminal">
+    <div class="container">
+        <div class="terminal-nav">
+          <header class="terminal-logo">
+            <div class="logo terminal-prompt">
+              
+              
+              <a href="http://localhost:1313/" class="no-style ">mattischrome</a>:~# 
+              <a href='http://localhost:1313/posts'>posts</a>/<a href='http://localhost:1313/posts/programming-an-uno-game'>programming-an-uno-game</a>/</div></header>
+          <nav class="terminal-menu">
+            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
+                
+            </ul>
+          </nav>
+        </div>
+    </div>
+
+    <div class="container " >
+        
+<h1>Programming an UNO game</h1>
+<p>Dec. 28, 2010</p>
+<br/><br/>
+<h4 id="a-new-year-a-new-hobby">A new year, a new hobby</h4>
+<p>I don’t write about programming enough. This is a shame because it is a very interesting subject and I find that the problem solving aspects of programming are very satisfying. Keenly aware of the need to do more hobby programming and to get up to speed on areas of software development that I’ve been neglecting, I have decided to give myself the project of creating a computerised version of the <a href="http://en.wikipedia.org/wiki/Uno_(card_game)">UNO card game</a>. I know that one already exists, for example there’s an official one that you can play on MSN messenger.</p>
+<p>In the first few posts I am going to describe the game and its rules, and then how I came to design their implementation in  <a href="http://en.wikipedia.org/wiki/C%2B%2B">C++ code</a>. I have started with C++ because it is the closest that programming has to a <em>lingua franca</em>, which will help in my attempts to take the code beyond the algorithms for representing the card deck and the game play. It is not the most difficult thing in the world to program but it will serve as a nice illustration of some standard library features. Card games like UNO are great for illustrating the behaviour of things like structs and the decks and hands used in the game play are a nice way to demonstrate the differences between the different generic containers in C++.</p>
+<h4 id="beyond-just-implementing-the-game">Beyond just implementing the game</h4>
+<p>At this stage, the project is still in flux and what I will end up doing is still very much dependent on how much time I find myself with in the coming months, along with how successful (or otherwise) my code turns out to be. Nevertheless, there are several interesting platforms and arenas in which the resulting code may end up being used. At the moment this includes investigating how to package the code for installation with both Windows and one of the major Linux distributions (probably <a href="http://www.ubuntu.com/">Ubuntu</a>), how to deliver it using <a href="http://www.adobe.com/products/air/">Adobe AIR</a> and/or Flash, and how to set up the game in-browser with <a href="http://www.microsoft.com/silverlight/">Silverlight</a>.</p>
+<p>Before that I will also need a <a href="http://en.wikipedia.org/wiki/Graphical_user_interface">GUI</a>, which is another aspect of programming that I have rarely touched save for a scientific calculator programmed in <a href="http://www.apple.com/macosx/developers/">Cocoa</a> - oh how I wish I had kept up my Cocoa programming post-iphone! I think I will start with <a href="http://qt.nokia.com/">Qt</a> for the Linux implementation and <a href="http://en.wikipedia.org/wiki/Windows_Presentation_Foundation">Windows Presentation Foundation(WPF)</a> for a Windows Vista/7 version.</p>
+<p>There is more to think about than just the GUI and how to deliver the finished executable. I am really interested in trying to cover as many bases as possible, both in terms of languages used and software design. I hope I will be able to write posts like “Why programming language <em>X</em> is really bad for programming an UNO game”, “How I implemented feature <em>Y</em>” (there are lots of alternative rules in UNO, so it will be nice to configure the game to an individual’s particular taste) and “How to let the computer do Z without looking as though it is cheating”.</p>
+<h4 id="hold-the-horses">Hold the horses</h4>
+<p>Well. Let’s see how I do! There are obviously lots of exciting things to do but I have to actually take the baby steps forward first. In a couple of days, I will write a post where I work through the representation of the cards, the players and <a href="http://en.wikipedia.org/wiki/Uno_(card_game)#Official_rules">the game rules</a> in C++ - or at least as far as I can get in a thousand words.</p>
+
+ 
+<ul class="post_tags">
+   <li>
+    <a href="http://localhost:1313/tags/programming/">programming</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/projects/">projects</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/games/">games</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/ten/">ten</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/fun/">fun</a>
+  </li></ul>
+
+<div aria-label="Browse" class="post-single__browse browse-nav">
+    
+    <div class="browse-nav__next">
+      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--next">
+        &#10142;
+      </div>
+      <a href="http://localhost:1313/posts/understated-classics-7/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: Understated Classics #7: 100 Broken Windows by Idlewild">Understated Classics #7: 100 Broken Windows by Idlewild</a>
+    </div>
+    
+  
+    
+    <div class="browse-nav__prev">
+      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--prev">
+        &#10142;
+      </div>
+      <a href="http://localhost:1313/posts/tales-from-home/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: Tales From Home">Tales From Home</a>
+    </div>
+    
+  
+    <a href="http://localhost:1313/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
+</div>
+
+        <div class="footer">
+    Powered by <a href="https://gohugo.io/">Hugo</a> with
+    <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console Theme</a>. 
+</div>
+
+    </div>
+  </body>
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resolutions on mattischrome</title>
+    <link>http://localhost:1313/tags/resolutions/</link>
+    <description>Recent content in Resolutions on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/resolutions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some Tips For Saving Time</title>
+      <link>http://localhost:1313/posts/some-tips-for-saving-time/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/some-tips-for-saving-time/</guid>
+      <description>A non-exhaustive list of ideas for saving time:&#xA;Delete your social media, and perhaps any other website or app that demands that you consume it rather than create with it. Another way to think of it: all these sites and apps transform your time in to one thing or another, what are the most valuable products of that time? In general, Facebook products are designed to transform your time into greater awareness of companies who would like you or your friends to buy their products.</description>
+    </item>
+  </channel>
+</rss>

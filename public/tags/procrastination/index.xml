@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Procrastination on mattischrome</title>
+    <link>http://localhost:1313/tags/procrastination/</link>
+    <description>Recent content in Procrastination on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/procrastination/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On learning new tools</title>
+      <link>http://localhost:1313/posts/on-learning-new-tools/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/on-learning-new-tools/</guid>
+      <description>It strikes me that it is better to sit and think about what you need to do, rather than endless try out new tools and hoping you end up with a use for them. I&amp;rsquo;m not saying that innovation is bad, or that you shouldn&amp;rsquo;t stretch yourself into some new spot once in a while, but you will become more valuable to others if you can identify what it is you are supposed to be doing and then use your existing skills to get that job done.</description>
+    </item>
+  </channel>
+</rss>

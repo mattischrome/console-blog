@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>History on mattischrome</title>
+    <link>http://localhost:1313/tags/history/</link>
+    <description>Recent content in History on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laurent Binet, Civilisations</title>
+      <link>http://localhost:1313/posts/laurent-binet-civilisations/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/laurent-binet-civilisations/</guid>
+      <description>&amp;lsquo;Civilisations&amp;rsquo; is a counterfactual historical novel that attempts to extrapolate the future course of history after changing one pivotal moment of the timeline. I usually find novels like this are great fun, another entertaining example is &amp;lsquo;Making History&amp;rsquo; by Stephen Fry. The novel, originally written in French, won some big awards in France last year. I read the translation by Sam Taylor.&#xA;In &amp;lsquo;Civilisations&amp;rsquo;, Binet makes the pivotal point of his tale, the migration of Erik the Red to America in the late 900s.</description>
+    </item>
+  </channel>
+</rss>

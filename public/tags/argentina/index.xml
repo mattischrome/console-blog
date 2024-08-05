@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Argentina on mattischrome</title>
+    <link>http://localhost:1313/tags/argentina/</link>
+    <description>Recent content in Argentina on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 19 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/argentina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>South America, Part 12</title>
+      <link>http://localhost:1313/posts/south-america-trip-part-12/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/south-america-trip-part-12/</guid>
+      <description>Uyuni to Tupiza We left Uyuni the night after the big storm, having stopped just a day or so to visit the salt flats. Our next stop was a strategic stay in Tupiza, a large town encircled with red hills. It resembled many towns that I visited in South America: low buildings arranged in a grid pattern. Not much greenery and plenty of dust billowing about. The reason for our stay was strategic, it&amp;rsquo;s only a short distance to the notoriously fussy border between Bolivia and Argentina.</description>
+    </item>
+  </channel>
+</rss>

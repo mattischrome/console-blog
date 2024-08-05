@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life Experience on mattischrome</title>
+    <link>http://localhost:1313/tags/life-experience/</link>
+    <description>Recent content in Life Experience on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 11 Jan 2024 17:24:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/life-experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unindexed?</title>
+      <link>http://localhost:1313/posts/unindexed/</link>
+      <pubDate>Thu, 11 Jan 2024 17:24:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/unindexed/</guid>
+      <description>There was an excellent article on The Verge yesterday about how Google is transforming the kinds of sites and blogs that are on the internet. I also read this slightly more personal take by Jason Velasquez, which is more about how social networks have gobbled up all the time and attention of people who might otherwise be making interesting web sites. This has made me think deeply about what this blog is for, and why I might continue to blog in Twenty Twenty Four.</description>
+    </item>
+    <item>
+      <title>How random should things be?</title>
+      <link>http://localhost:1313/posts/how-random-should-things-be/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/how-random-should-things-be/</guid>
+      <description>I&amp;rsquo;ve managed to extract my music library, including all the albums I&amp;rsquo;ve added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for Goldfrapp&amp;rsquo;s Black Cherry.&#xA;But I have to level with you.</description>
+    </item>
+    <item>
+      <title>A list for &#39;23</title>
+      <link>http://localhost:1313/posts/a-list-for-23/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a-list-for-23/</guid>
+      <description>A set of rules for living from now on (in no particular order)&#xA;Life is too short to look at adverts. Avoid them where possible. Block them if you have to. Embrace risk and chance, as they have contributed the most to where you are now. Intervene into physical things and leave your mark upon them. Draw pictures on the blank pages of books, even if they are dear to you.</description>
+    </item>
+  </channel>
+</rss>

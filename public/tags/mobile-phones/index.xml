@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Phones on mattischrome</title>
+    <link>http://localhost:1313/tags/mobile-phones/</link>
+    <description>Recent content in Mobile Phones on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mobile-phones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sympathy for the Screenager</title>
+      <link>http://localhost:1313/posts/sympathy-for-the-screenager/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sympathy-for-the-screenager/</guid>
+      <description>Haidt&#xA;The counter argument&#xA;Correlation and causation, as usual&#xA;Schmidt-Persson study&#xA;Holiday blues&#xA;Parents should set a good example&#xA;Advice for my own inner screenager&#xA;link to the study</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quito on mattischrome</title>
+    <link>http://localhost:1313/tags/quito/</link>
+    <description>Recent content in Quito on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 29 Nov 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/quito/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>South America, Part 1</title>
+      <link>http://localhost:1313/posts/south-america-trip-part-1/</link>
+      <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/south-america-trip-part-1/</guid>
+      <description>By the time this goes up, I will be at least a week in to my South American tour. I flew out to Ecuador last Thursday (the 21st) and ended up being awake for more than twenty four hours. My flight left London early and I had a three hour stopover in Madrid, then a twelve hour flight onward to Quito. My bag didn&amp;rsquo;t leave Madrid though, so we were separated for about twenty four nerve-racking hours.</description>
+    </item>
+  </channel>
+</rss>

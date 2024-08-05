@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monitor on mattischrome</title>
+    <link>http://localhost:1313/tags/monitor/</link>
+    <description>Recent content in Monitor on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/monitor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M1 External Monitor Issues</title>
+      <link>http://localhost:1313/posts/m1-external-monitor-issues/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/m1-external-monitor-issues/</guid>
+      <description>Since moving to an M1 Mac, I&amp;rsquo;ve noticed some issues with my second screen that I do not experience with my previous Intel Mac or with my current work laptop, which is a Dell Intel PC running Windows 10.&#xA;I get a lot of flickering on the screen, which is intolerable if I have Pro-motion and True Tone turned on. Note that these are options for the main display rather than the external monitor.</description>
+    </item>
+  </channel>
+</rss>

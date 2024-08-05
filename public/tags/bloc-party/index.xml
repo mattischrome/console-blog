@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bloc Party on mattischrome</title>
+    <link>http://localhost:1313/tags/bloc-party/</link>
+    <description>Recent content in Bloc Party on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 08 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bloc-party/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understated Classics #5: A Weekend In The City by Bloc Party</title>
+      <link>http://localhost:1313/posts/understated-classics-5/</link>
+      <pubDate>Mon, 08 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/understated-classics-5/</guid>
+      <description>A Weekend In The City: Background This is the youngest album I have chosen for this series. I try to pick albums that are at least ten years old but every now and then, I will think of an album that matches the sort of things I want to write about. That&amp;rsquo;s the case here. A Weekend in the City is an unusual album that, in a reversal of the old adage, is “easy to love but hard to admire”.</description>
+    </item>
+  </channel>
+</rss>

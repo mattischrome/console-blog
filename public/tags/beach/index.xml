@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beach on mattischrome</title>
+    <link>http://localhost:1313/tags/beach/</link>
+    <description>Recent content in Beach on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 12 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/beach/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>South America, Part 6</title>
+      <link>http://localhost:1313/posts/south-america-trip-part-6/</link>
+      <pubDate>Sun, 12 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/south-america-trip-part-6/</guid>
+      <description>From Punta Sal we took a long driving down to Huanchaco, via a stop off at the Lord of Saipan museum. The lord of Saipan is a Moche mummy found dressed in all manner of gold and surrounded by artefacts and other sacrifices (including other humans and decapitated llamas). The tour took a while to get going (our guide was late) but the exhibition was so amazing (the pieces were painstakingly restored in Germany) that it was hugely enjoyable.</description>
+    </item>
+    <item>
+      <title>South America, Part 5</title>
+      <link>http://localhost:1313/posts/south-america-trip-part-5/</link>
+      <pubDate>Tue, 31 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/south-america-trip-part-5/</guid>
+      <description>After Cuenca we set off for the Peruvian border. One of the great advantages of having a UK passport in South America is that you don&amp;rsquo;t need any visas. If you&amp;rsquo;re Australian or Canadian it&amp;rsquo;s a different story. Nevertheless we all got over the border with very little trouble (the third ever land border crossing of my life) apart from the bits where they seem to make you wait in a queue just for the sake of making you wait in a queue.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on mattischrome</title>
+    <link>http://localhost:1313/tags/git/</link>
+    <description>Recent content in Git on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 07 Jan 2024 21:36:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some Git Instructions for Future Matt</title>
+      <link>http://localhost:1313/posts/git-instructions-for-future-matt/</link>
+      <pubDate>Sun, 07 Jan 2024 21:36:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/git-instructions-for-future-matt/</guid>
+      <description>Dear Future Matt,&#xA;Always look up instructions for what you want to do in the Git documentation. It&amp;rsquo;s dry but it&amp;rsquo;s good. In a pinch, look at Stack Overflow. Don&amp;rsquo;t ask Chat-GPT for advice on Git problems! To reverse mistakes, consult the Oh Shit Git website. To make things easier, delete the remote to your Github repository and then add it (the remote) back again. This is so much easier than the alternative.</description>
+    </item>
+  </channel>
+</rss>

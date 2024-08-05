@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on mattischrome</title>
+    <link>http://localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is in my Rakefile? (March 2023 edition)</title>
+      <link>http://localhost:1313/posts/what-is-in-my-rakefile-march-2023-edition/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/what-is-in-my-rakefile-march-2023-edition/</guid>
+      <description>Because I am bored of forgetting what&amp;rsquo;s in my website&amp;rsquo;s Rakefile, I thought I&amp;rsquo;d write a list. Also, as I&amp;rsquo;m probably going to move over to a node based approach soon, it&amp;rsquo;s a handy wish list for my package.json file when the time comes.&#xA;Make a new post in _posts named &amp;ldquo;Title&amp;rdquo; rake post[&amp;quot;Title&amp;quot;]&#xA;If no title is given, you will be prompted for one. The post will be opened in the editor specified in the Rakefile.</description>
+    </item>
+    <item>
+      <title>The paths in the wood</title>
+      <link>http://localhost:1313/posts/the-paths-in-the-wood/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-paths-in-the-wood/</guid>
+      <description>I began writing this post after realising that it is the first of June and I might as well attempt once more to write a post every day. The speed with which the first of the month comes around, inviting another such promise, always amuses me. But at the moment I am not sure whether this blog will still exist come the end of the month. I think I want to start again in pastures new.</description>
+    </item>
+    <item>
+      <title>A February Project</title>
+      <link>http://localhost:1313/posts/second-february-post/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second-february-post/</guid>
+      <description>Hmmm it seems as though the ffi gem as installed by bundler is not compatible with a Mac that has an M1 chip. This limits my ability to preview blog posts locally. I might have to swap to a more modern static site generator (which is probably easier than working out what ffi actually does) - seems like a good February project!</description>
+    </item>
+    <item>
+      <title>A Little Bit Intimidating Really</title>
+      <link>http://localhost:1313/posts/a-little-bit-intimidating-really/</link>
+      <pubDate>Sun, 22 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a-little-bit-intimidating-really/</guid>
+      <description>There is so much good writing out there. All you have to do is fire up the guardian website, or download the medium app to your smartphone, or visit my friend Barrie&amp;rsquo;s site, or Lee&amp;rsquo;s, and so on and so on.&#xA;When it comes to my little whisper into this great choir, it&amp;rsquo;s easy to feel a bit intimidated. How do I add my voice? How do I feel distinct? How do I do it as well as all these other wonderful writers?</description>
+    </item>
+    <item>
+      <title>On Writing As It Happens</title>
+      <link>http://localhost:1313/posts/writing-as-it-happens/</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/writing-as-it-happens/</guid>
+      <description>I’m pretty close to a round number. To date I have written 298,500 words for this blog, not counting posts that I have discarded or deleted. This will be the 505th post currently on the blog, which makes for an average of just under 600 words per post. Some posts are just a picture or a video or a gallery though, so that distorts the average a bit.&#xA;I don’t think I can write the 1500 words I need to hit 300,000 in this post.</description>
+    </item>
+    <item>
+      <title>On Jackson X</title>
+      <link>http://localhost:1313/posts/jackson-x/</link>
+      <pubDate>Sun, 15 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jackson-x/</guid>
+      <description>I set myself the task of writing about a fictional character for this blog post, so this post is about Jackson X. His surname isn’t really X, it’s just one of the details about him that I haven’t fleshed out yet. This is because Jackson X is the one of the protagonists of the novel I’m (not) writing.&#xA;The name of the novel is “The Summer of the Giant Space Whale”.</description>
+    </item>
+    <item>
+      <title>On convictions, whereas to the strength of and belief in same</title>
+      <link>http://localhost:1313/posts/on-conviction-and-belief/</link>
+      <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/on-conviction-and-belief/</guid>
+      <description>Overlong reflection upon the past is one sure way to make yourself unhappy so I try to avoid it. Nevertheless it becomes unavoidable at this time of year, especially if, like me, you are somewhat prone to reflection.&#xA;At this time last year I was, as detailed in the most recent report of my South American adventure, in La Paz, Bolivia. I think I felt as lost then as I do now, though back then I had the novelty of new places and good friends to steer me through.</description>
+    </item>
+    <item>
+      <title>October and November 2014</title>
+      <link>http://localhost:1313/posts/october-november-2014/</link>
+      <pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/october-november-2014/</guid>
+      <description>I recently started a new job and moved in to a new flat. This means I&amp;rsquo;m too busy to write any long blog posts at the moment. Also I&amp;rsquo;m still not quite at home there, so I tend to spend my evenings tidying up or setting up new things. It&amp;rsquo;s a shame because I have plenty of things to write about (even without observations on moving, starting a new job, etc) but I guess the writing will happen eventually&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Useful Ulysses</title>
+      <link>http://localhost:1313/posts/useful-ulysses/</link>
+      <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/useful-ulysses/</guid>
+      <description>What it is Ulysses is a markdown editor for the Mac. It has a simple drafting model that makes it easy to organise ideas and move between them. Pieces of writing are represented as sheets that can be tagged and grouped together - the grouping can be made manually or using filters. There are no files, the sheets are entries in a single database that is synced with iCloud. Because everything is plain text it won’t eat up your storage space.</description>
+    </item>
+    <item>
+      <title>Net Loss</title>
+      <link>http://localhost:1313/posts/net-loss/</link>
+      <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/net-loss/</guid>
+      <description>I pay to have this blog up and running. That is, I pay for the space where it is stored and I pay for the name. I have to look after all the files and plug-ins, I have to perform all the updates and optimise the database tables. All this is great fun but wouldn’t it be cheaper to slap the mattischro.me address onto a hosted WordPress.com account?&#xA;Well, yes it would.</description>
+    </item>
+    <item>
+      <title>Five lessons from a year of blogging</title>
+      <link>http://localhost:1313/posts/five-lessons-from-a-year-of-blogging/</link>
+      <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/five-lessons-from-a-year-of-blogging/</guid>
+      <description>I have now been writing decent length articles on this site for about a year. I have learned a lot in this time, mostly about writing but also how to express your feelings and how to marshal your ideas and passions into action. For this month’s “five on the fifth”, I would like to share with you some of the things I have learned.&#xA;Writing posts consistently is hard… There are a lot of things that get in the way of regular posting.</description>
+    </item>
+  </channel>
+</rss>

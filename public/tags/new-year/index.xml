@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Year on mattischrome</title>
+    <link>http://localhost:1313/tags/new-year/</link>
+    <description>Recent content in New Year on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/new-year/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Come back to us Brother Matthew</title>
+      <link>http://localhost:1313/posts/come-back-to-us-brother-matthew/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/come-back-to-us-brother-matthew/</guid>
+      <description>As with most years, I had hoped to start off 2023 with a flurry of new blog posts. Instead I caught Covid, which knocked me out for most of &amp;lsquo;betweenmas&amp;rsquo; and put paid to my hopes for a productive start to the year. At the time of writing this post, I only just feel like I have begun to get back to &amp;rsquo;normal&amp;rsquo;, or at least as normal as things have been since 2020.</description>
+    </item>
+  </channel>
+</rss>

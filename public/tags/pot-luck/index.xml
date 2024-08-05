@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pot Luck on mattischrome</title>
+    <link>http://localhost:1313/tags/pot-luck/</link>
+    <description>Recent content in Pot Luck on mattischrome</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pot-luck/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I went to a pub quiz tonight</title>
+      <link>http://localhost:1313/posts/i-went-to-a-pub-quiz-tonight/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/i-went-to-a-pub-quiz-tonight/</guid>
+      <description>Ingrid and I joined our usual quiz team tonight for the residents&amp;rsquo; association pub quiz. As usual we came third. It&amp;rsquo;s a fairly settled group of attendees and we know our level. We&amp;rsquo;re also quite used to the quiz master and his questions, though I do wish he&amp;rsquo;d acknowledge that pop music continued to be a thing long after the sixties!&#xA;There&amp;rsquo;s always a pot luck round. On one round we get to play a joker which doubles your points.</description>
+    </item>
+  </channel>
+</rss>
