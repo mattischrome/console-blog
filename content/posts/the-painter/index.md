@@ -3,7 +3,7 @@ category: Short Fiction
 pubDate: '2012-01-13T00:00:00Z'
 tags:
 - Ideas
-- Mathematical Modelling
+- Modelling
 - Short Story
 - Twelve
 title: The Painter

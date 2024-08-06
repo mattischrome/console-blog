@@ -3,7 +3,7 @@ category: Short Fiction
 pubDate: '2015-02-15T00:00:00Z'
 tags:
 - Writing
-- Blog
+- Blogging
 - Fifteen
 - Short Story
 - Ideas

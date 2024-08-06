@@ -4,7 +4,7 @@ pubDate: '2015-03-22T00:00:00Z'
 tags:
 - Ideas
 - Writing
-- Blog
+- Blogging
 - Fifteen
 title: A Little Bit Intimidating Really
 heroImage: ../../assets/images/defaultHero.jpg

@@ -1,7 +1,7 @@
 ---
 pubDate: '2023-03-15T00:00:00Z'
 tags:
-- Blog
+- Blogging
 - Writing
 - Jekyll
 - Rake

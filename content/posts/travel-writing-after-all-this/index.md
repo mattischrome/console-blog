@@ -1,7 +1,7 @@
 ---
 pubDate: '2020-05-31T00:00:00Z'
 tags:
-- Coronavirus
+- Covid
 - Writing
 - Travel
 - Twenty

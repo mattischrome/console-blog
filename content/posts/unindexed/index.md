@@ -6,7 +6,7 @@ tags:
 - Writing
 - AI
 - Twenty Four
-- Life Experience
+- Life Experiences
 - Getting Better
 title: Unindexed?
 slug: unindexed

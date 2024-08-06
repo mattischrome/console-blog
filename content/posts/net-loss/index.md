@@ -3,7 +3,7 @@ category: Ideas
 pubDate: '2012-04-03T00:00:00Z'
 tags:
 - Ideas
-- Blog
+- Blogging
 - Internet
 - Economics
 - Twelve

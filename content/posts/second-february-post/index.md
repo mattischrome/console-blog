@@ -6,7 +6,7 @@ tags:
 - M1
 - Jekyll
 - Software
-- Blog
+- Blogging
 - Twenty Two
 title: A February Project
 heroImage: ../../assets/images/defaultHero.jpg

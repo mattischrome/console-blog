@@ -3,7 +3,7 @@ category: Writing
 pubDate: '2014-11-14T00:00:00Z'
 tags:
 - Writing
-- Blog
+- Blogging
 - Fourteen
 - Self Improvement
 - Life Experiences

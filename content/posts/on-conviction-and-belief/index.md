@@ -3,7 +3,7 @@ category: Life Experiences
 pubDate: '2014-12-30T00:00:00Z'
 tags:
 - Writing
-- Blog
+- Blogging
 - South America
 - Fourteen
 title: On convictions, whereas to the strength of and belief in same

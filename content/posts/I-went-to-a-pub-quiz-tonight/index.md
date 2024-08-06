@@ -3,7 +3,6 @@ category: Life Experiences
 pubDate: '2022-09-14T00:00:00Z'
 tags:
 - Quiz
-- Chichester
 - Pot Luck
 - Twenty Two
 title: I went to a pub quiz tonight

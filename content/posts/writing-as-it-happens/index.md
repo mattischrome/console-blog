@@ -3,7 +3,7 @@ category: Writing
 pubDate: '2015-02-20T00:00:00Z'
 tags:
 - Writing
-- Blog
+- Blogging
 - Self Improvement
 - Fifteen
 title: On Writing As It Happens

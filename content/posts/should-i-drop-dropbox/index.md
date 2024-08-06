@@ -2,7 +2,7 @@
 category: Politics and Beliefs
 pubDate: '2014-04-15T00:00:00Z'
 tags:
-- Tech
+- Technology
 - Privacy
 - Fourteen
 - Software

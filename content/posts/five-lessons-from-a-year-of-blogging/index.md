@@ -4,7 +4,7 @@ pubDate: '2011-08-05T00:00:00Z'
 tags:
 - Lists
 - Writing
-- Blog
+- Blogging
 - Eleven
 title: Five lessons from a year of blogging
 heroImage: ../../assets/images/defaultHero.jpg

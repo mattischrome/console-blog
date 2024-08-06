@@ -5,7 +5,7 @@ tags:
 - Music
 - Album Revisit
 - Randomness
-- Life Experience
+- Life Experiences
 - Twenty Three
 title: How random should things be?
 heroImage: ../../assets/images/defaultHero.jpg

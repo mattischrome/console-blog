@@ -4,7 +4,7 @@ pubDate: '2023-04-09T00:00:00Z'
 tags:
 - Rules
 - Thoughts
-- Life Experience
+- Life Experiences
 - Twenty Three
 title: A list for '23
 heroImage: ../../assets/images/defaultHero.jpg
