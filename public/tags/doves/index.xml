@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Doves on mattischrome</title>
-    <link>https://mattischrome.com/tags/doves/</link>
+    <link>http://localhost:1313/tags/doves/</link>
     <description>Recent content in Doves on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/doves/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/doves/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understated Classics #37: Lost Souls by Doves</title>
-      <link>https://mattischrome.com/posts/understated-classics-37/</link>
+      <link>http://localhost:1313/posts/understated-classics-37/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/understated-classics-37/</guid>
+      <guid>http://localhost:1313/posts/understated-classics-37/</guid>
       <description>Doves are a band from Manchester who traded dance music for rock yet never left their former genre behind. Starting out as Sub Sub, they scored a worldwide hit in 1993 with &amp;ldquo;Ain&amp;rsquo;t No Love (Ain&amp;rsquo;t No Use)&amp;rdquo;: a timeless dance tune that immediately owns whatever room it plays in. However, subsequent releases by Sub Sub did not catch on and people started to think of the band as a one-hit wonder.</description>
     </item>
   </channel>

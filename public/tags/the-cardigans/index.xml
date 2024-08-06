@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Cardigans on mattischrome</title>
-    <link>https://mattischrome.com/tags/the-cardigans/</link>
+    <link>http://localhost:1313/tags/the-cardigans/</link>
     <description>Recent content in The Cardigans on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 14 Sep 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/the-cardigans/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/the-cardigans/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understated Classics #25: Long Gone Before Daylight by The Cardigans</title>
-      <link>https://mattischrome.com/posts/understated-classics-25/</link>
+      <link>http://localhost:1313/posts/understated-classics-25/</link>
       <pubDate>Sat, 14 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/understated-classics-25/</guid>
+      <guid>http://localhost:1313/posts/understated-classics-25/</guid>
       <description>The single biggest fact of life is that you are always going to be alone, you just might not realise it. Listening to The Cardigans&amp;rsquo; excellent 2003 &amp;ldquo;Long Gone Before Daylight&amp;rdquo; will help you see that all our relationships are essentially screwed &amp;ndash; but at least it sounds great while it does so.&#xA;&amp;ldquo;Long Gone Before Daylight&amp;rdquo; (&amp;ldquo;Long Gone Before Daylight&amp;rdquo;) plays the role of &amp;ldquo;The Empire Strikes Back&amp;rdquo; in a trilogy of great albums that The Cardigans released between 1999 (the arguably better and slightly happier &amp;ldquo;Gran Turismo&amp;rdquo;) and 2006 (the unarguably inferior and definitely happier &amp;ldquo;Super Extra Gravity&amp;rdquo;).</description>
     </item>
   </channel>

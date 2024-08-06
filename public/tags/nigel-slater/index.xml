@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nigel Slater on mattischrome</title>
-    <link>https://mattischrome.com/tags/nigel-slater/</link>
+    <link>http://localhost:1313/tags/nigel-slater/</link>
     <description>Recent content in Nigel Slater on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 21 Oct 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/nigel-slater/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/nigel-slater/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Only Chocolate Cake Recipe You’ll Ever Need</title>
-      <link>https://mattischrome.com/posts/chocolate-cake-recipe/</link>
+      <link>http://localhost:1313/posts/chocolate-cake-recipe/</link>
       <pubDate>Mon, 21 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/chocolate-cake-recipe/</guid>
+      <guid>http://localhost:1313/posts/chocolate-cake-recipe/</guid>
       <description>As I mentioned in a previous post, I baked a chocolate cake the other day and it was a great success. Here is the recipe, which is a trivial modification of one that appears in Nigel Slater&amp;rsquo;s &amp;ldquo;Real Food&amp;rdquo; (Amazon links: UK, US). &amp;ldquo;Real Food&amp;rdquo; is a cookbook that I genuinely treasure. The modification I have made for this recipe is to omit the espresso but I will point out where it should be added, in case you want to give that a try.</description>
     </item>
   </channel>

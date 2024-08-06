@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photo on mattischrome</title>
-    <link>https://mattischrome.com/tags/photo/</link>
+    <link>http://localhost:1313/tags/photo/</link>
     <description>Recent content in Photo on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 08 Jan 2024 21:36:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/photo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/photo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agents of Chaos (2024 edition)</title>
-      <link>https://mattischrome.com/posts/agents-of-chaos/</link>
+      <link>http://localhost:1313/posts/agents-of-chaos/</link>
       <pubDate>Mon, 08 Jan 2024 21:36:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/agents-of-chaos/</guid>
+      <guid>http://localhost:1313/posts/agents-of-chaos/</guid>
       <description>The cats broke their new resolution not to knock stuff over in my office. Oh, who am I kidding? They never had such a resolution! If you can see a sheet of saturated paper, that was my to do list! Oh well.&#xA;The cats were either bounding across my desk to get to the window and look at the snow. Or they were just chasing each other around as usual.</description>
     </item>
   </channel>

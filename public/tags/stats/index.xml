@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stats on mattischrome</title>
-    <link>https://mattischrome.com/tags/stats/</link>
+    <link>http://localhost:1313/tags/stats/</link>
     <description>Recent content in Stats on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/stats/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/stats/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swaptastic Part 3: The Shiny App</title>
-      <link>https://mattischrome.com/posts/swaptastic-part-3/</link>
+      <link>http://localhost:1313/posts/swaptastic-part-3/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/swaptastic-part-3/</guid>
+      <guid>http://localhost:1313/posts/swaptastic-part-3/</guid>
       <description>The shiny app embedded below allows you to explore the number of packets you need to complete the Panini sticker album for this summer&amp;rsquo;s Euro tournament. This builds on the results I presented in an [earlier post](link to earlier post) and allows you to explore how many fewer packets you need to buy when you have more friends to swap with. You can also vary the number of runs performed because the model runs considerably slower with more swappers involved.</description>
     </item>
     <item>
       <title>Swaptastic Part 2</title>
-      <link>https://mattischrome.com/posts/swaptastic-part-2/</link>
+      <link>http://localhost:1313/posts/swaptastic-part-2/</link>
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/swaptastic-part-2/</guid>
+      <guid>http://localhost:1313/posts/swaptastic-part-2/</guid>
       <description>As a follow-up to my post about the Euro 2016 Panini Stickers, I&amp;rsquo;ve now completed the collection with the help of an online swapping site and by buying the last 39 stickers directly from Panini. I also managed to write a new simulator, this time with additional collectors involved.&#xA;I assume that each of N collectors will buy a packet of stickers and add any new stickers to their album. Then they attempt to swap any leftovers with the rest of their friends.</description>
     </item>
     <item>
       <title>Euro 2016 Panini Stickers</title>
-      <link>https://mattischrome.com/posts/euro-2016-panini-stickers/</link>
+      <link>http://localhost:1313/posts/euro-2016-panini-stickers/</link>
       <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/euro-2016-panini-stickers/</guid>
+      <guid>http://localhost:1313/posts/euro-2016-panini-stickers/</guid>
       <description>Sound the conspicuous consumption klaxon! 📣 I know it&amp;rsquo;s foolish but I decided to collect the Panini stickers for the Euro 2016 tournament this summer. I think it&amp;rsquo;s a more edifying waste of money than a series of group game accumulators that don&amp;rsquo;t come off. If this week&amp;rsquo;s long read in The Guardian is anything to go by, we really shouldn&amp;rsquo;t be giving any more of our money to betting companies.</description>
     </item>
     <item>
       <title>How to generate random numbers in R</title>
-      <link>https://mattischrome.com/posts/generate-random-numbers-in-r/</link>
+      <link>http://localhost:1313/posts/generate-random-numbers-in-r/</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/generate-random-numbers-in-r/</guid>
+      <guid>http://localhost:1313/posts/generate-random-numbers-in-r/</guid>
       <description>This post deals with how to generate random numbers in R. It is good to know how to generate random numbers with a particular language or software package for at least one of the following three reasons:&#xA;You want to test something that depends on a particular distribution. You’re running a stochastic process of some kind (Branching process, random walk etc) and you need random numbers for deciding whether an event occurs.</description>
     </item>
   </channel>

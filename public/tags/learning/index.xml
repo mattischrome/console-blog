@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning on mattischrome</title>
-    <link>https://mattischrome.com/tags/learning/</link>
+    <link>http://localhost:1313/tags/learning/</link>
     <description>Recent content in Learning on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 03 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learn X in Y Minutes</title>
-      <link>https://mattischrome.com/posts/learn-x-in-y-minutes/</link>
+      <link>http://localhost:1313/posts/learn-x-in-y-minutes/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/learn-x-in-y-minutes/</guid>
+      <guid>http://localhost:1313/posts/learn-x-in-y-minutes/</guid>
       <description>I found &amp;ldquo;Learn X in Y minutes&amp;rdquo; (www.learnxinyminutes.com) while researching the programming languages needed for a new project. The site aims to help people who know at least one programming language to learn others by proving a quick run through of the main language features. It&amp;rsquo;s not quite enough to get you up and running. After all, having sample code doesn&amp;rsquo;t get you the compiler. However, it&amp;rsquo;s a nice start that shows you how similar (and different) language X is compared to the one(s) you already know.</description>
     </item>
   </channel>

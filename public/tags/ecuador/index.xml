@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ecuador on mattischrome</title>
-    <link>https://mattischrome.com/tags/ecuador/</link>
+    <link>http://localhost:1313/tags/ecuador/</link>
     <description>Recent content in Ecuador on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/ecuador/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ecuador/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five years after</title>
-      <link>https://mattischrome.com/posts/five-years/</link>
+      <link>http://localhost:1313/posts/five-years/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/five-years/</guid>
+      <guid>http://localhost:1313/posts/five-years/</guid>
       <description>Five years ago I set out at 3am for Heathrow airport to catch the early morning flight to Madrid. There I connected with a flight to Quito in Ecuador. The previous days and weeks had been fraught with worry about whether I was doing the right thing. Did I get the right vaccinations? Would I have enough money? Would I cope with all that travel? Was I coming back? What was I going to do with all my stuff?</description>
     </item>
     <item>
       <title>South America, Part 5</title>
-      <link>https://mattischrome.com/posts/south-america-trip-part-5/</link>
+      <link>http://localhost:1313/posts/south-america-trip-part-5/</link>
       <pubDate>Tue, 31 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/south-america-trip-part-5/</guid>
+      <guid>http://localhost:1313/posts/south-america-trip-part-5/</guid>
       <description>After Cuenca we set off for the Peruvian border. One of the great advantages of having a UK passport in South America is that you don&amp;rsquo;t need any visas. If you&amp;rsquo;re Australian or Canadian it&amp;rsquo;s a different story. Nevertheless we all got over the border with very little trouble (the third ever land border crossing of my life) apart from the bits where they seem to make you wait in a queue just for the sake of making you wait in a queue.</description>
     </item>
     <item>
       <title>South America, Part 4</title>
-      <link>https://mattischrome.com/posts/south-america-trip-part-4/</link>
+      <link>http://localhost:1313/posts/south-america-trip-part-4/</link>
       <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/south-america-trip-part-4/</guid>
+      <guid>http://localhost:1313/posts/south-america-trip-part-4/</guid>
       <description>After Baños, we set off for Cuenca, which is a town in the south of Ecuador. Being a long drive, the journey was broken up with our first excursion to some inca ruins, a large complex at Ingapirca with a sun temple. It was built on an earlier site that dated back to about the 9th century and the Inca then conquered the area and built on top of it, as they tended to while their empire was expanding out from Peru to the south in the 11th and 12th centuries.</description>
     </item>
     <item>
       <title>South America, Part 3</title>
-      <link>https://mattischrome.com/posts/south-america-trip-part-3/</link>
+      <link>http://localhost:1313/posts/south-america-trip-part-3/</link>
       <pubDate>Sat, 21 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/south-america-trip-part-3/</guid>
+      <guid>http://localhost:1313/posts/south-america-trip-part-3/</guid>
       <description>We left Misahualli for Baños via an hour in nearby Tena to get something for the truck fixed. After that the drive to Banos was pretty short - or at least it seemed that way as I alternated between dozing off, snapping the scenery and&amp;hellip; well&amp;hellip; dozing off some more. We arrived at a campsite about twenty minutes taxi ride from Banos and this was it, the thing I&amp;rsquo;d feared most about this trip: the camping.</description>
     </item>
     <item>
       <title>South America, Part 2</title>
-      <link>https://mattischrome.com/posts/south-america-trip-part-2/</link>
+      <link>http://localhost:1313/posts/south-america-trip-part-2/</link>
       <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/south-america-trip-part-2/</guid>
+      <guid>http://localhost:1313/posts/south-america-trip-part-2/</guid>
       <description>Otavalo Sunday (24th November) was our first day of travel and involved a four hour trip to Otavalo, a town to the north of Quito that is famous for its market&amp;hellip; on Saturdays. The journey got us better acquainted with travel on our truck Magaly and we encountered a few of the little hiccups that are a natural part of travelling this way: power lines crashing down on to the highway, driver of your truck asking a policeman to take a photo of your truck snagged under the wires, wrong turns, and - funniest of all - getting a whole block&amp;rsquo;s worth of concerned locals to watch as your truck tries to turn a corner.</description>
     </item>
     <item>
       <title>South America, Part 1</title>
-      <link>https://mattischrome.com/posts/south-america-trip-part-1/</link>
+      <link>http://localhost:1313/posts/south-america-trip-part-1/</link>
       <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/south-america-trip-part-1/</guid>
+      <guid>http://localhost:1313/posts/south-america-trip-part-1/</guid>
       <description>By the time this goes up, I will be at least a week in to my South American tour. I flew out to Ecuador last Thursday (the 21st) and ended up being awake for more than twenty four hours. My flight left London early and I had a three hour stopover in Madrid, then a twelve hour flight onward to Quito. My bag didn&amp;rsquo;t leave Madrid though, so we were separated for about twenty four nerve-racking hours.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wedding on mattischrome</title>
-    <link>https://mattischrome.com/tags/wedding/</link>
+    <link>http://localhost:1313/tags/wedding/</link>
     <description>Recent content in Wedding on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/wedding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/wedding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The same, but different</title>
-      <link>https://mattischrome.com/posts/the-same-yet-different/</link>
+      <link>http://localhost:1313/posts/the-same-yet-different/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-same-yet-different/</guid>
+      <guid>http://localhost:1313/posts/the-same-yet-different/</guid>
       <description>Ingrid and I got married a month ago. It was a lovely day. We had a simple ceremony with two witnesses, our friends Sue and Andrew. We kept it quiet and small, as we just wanted to be married without too much fuss. A month on, we&amp;rsquo;re happy to report that we are glad we did it.&#xA;We&amp;rsquo;d like to thank everyone who nonetheless sent cards and gifts, and to all of those who wished us well on Facebook.</description>
     </item>
   </channel>

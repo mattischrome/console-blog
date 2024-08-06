@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biosphere on mattischrome</title>
-    <link>https://mattischrome.com/tags/biosphere/</link>
+    <link>http://localhost:1313/tags/biosphere/</link>
     <description>Recent content in Biosphere on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 17 Aug 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/biosphere/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/biosphere/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What IS That Noise?</title>
-      <link>https://mattischrome.com/posts/what-is-that-noise/</link>
+      <link>http://localhost:1313/posts/what-is-that-noise/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/what-is-that-noise/</guid>
+      <guid>http://localhost:1313/posts/what-is-that-noise/</guid>
       <description>I recently spruced up a post I wrote four years ago about Biosphere’s wonderful album Substrata. I added the following footnote about the difference between voice samples and found sound:&#xA;I suppose I am distinguishing between found sound and vocal samples here. Perhaps there is very little difference, or that one is the other? When is a vocal snippet something more than found sound? Is it the fact that one has meaning?</description>
     </item>
     <item>
       <title>Album Digest, August 2011</title>
-      <link>https://mattischrome.com/posts/album-digest-august-2011/</link>
+      <link>http://localhost:1313/posts/album-digest-august-2011/</link>
       <pubDate>Wed, 31 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-august-2011/</guid>
+      <guid>http://localhost:1313/posts/album-digest-august-2011/</guid>
       <description>I bought a collection of electronic music this month. I mixed them all up in a smart playlist on iTunes, the smart aspect being to limit to tracks that had been played fewer than five then six then seven times etc. This made sure I was still listening to all the tracks equally often, despite the randomness.&#xA;Biosphere N-plants Ford &amp;amp; Lopatin Channel Pressure Gus Gus Arabian Horse Instra:Mental Resolution 653 Jon Tejada Parabolas Biosphere N-Plants I think this album makes Biosphere the most reviewed musician on this blog at the moment but I don’t mind too much, he makes some great stuff.</description>
     </item>
     <item>
       <title>Understated Classics #4: Substrata by Biosphere</title>
-      <link>https://mattischrome.com/posts/understated-classics-4/</link>
+      <link>http://localhost:1313/posts/understated-classics-4/</link>
       <pubDate>Sat, 11 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/understated-classics-4/</guid>
+      <guid>http://localhost:1313/posts/understated-classics-4/</guid>
       <description>I bought this album in the summer between my two years at college. I remember listening to this music under skies glowering with clouds so 1997 must have been a poor summer. I’d just bought a book of photography too, which placed photos from the north and south poles on opposite pages. I bought it mainly for the penguins that were, of course, on pretty much every other page. The pictures of snow and ice soon became the ideal companions to this album.</description>
     </item>
   </channel>

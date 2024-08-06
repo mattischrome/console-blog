@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spiritualized on mattischrome</title>
-    <link>https://mattischrome.com/tags/spiritualized/</link>
+    <link>http://localhost:1313/tags/spiritualized/</link>
     <description>Recent content in Spiritualized on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 22 Feb 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/spiritualized/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/spiritualized/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understated Classics #29: Let It Come Down by Spiritualized</title>
-      <link>https://mattischrome.com/posts/understated-classics-29/</link>
+      <link>http://localhost:1313/posts/understated-classics-29/</link>
       <pubDate>Sun, 22 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/understated-classics-29/</guid>
+      <guid>http://localhost:1313/posts/understated-classics-29/</guid>
       <description>I listened to Let It Come Down by Spiritualized for the first time during a difficult time in my life. I think this will always affect my feelings towards it. For me it&amp;rsquo;s a great big comfort blanket of a record. Coming after one of the all-time best break-up albums (in an artistic sense) in &amp;ldquo;Ladies and Gentlemen We Are Floating in Space&amp;rdquo; perhaps it&amp;rsquo;s not that much of a surprise.</description>
     </item>
   </channel>

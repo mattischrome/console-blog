@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trips on mattischrome</title>
-    <link>https://mattischrome.com/tags/trips/</link>
+    <link>http://localhost:1313/tags/trips/</link>
     <description>Recent content in Trips on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 17 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/trips/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/trips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A trip to Iceland. Part 3: Flu∂ir to Vík.</title>
-      <link>https://mattischrome.com/posts/a-trip-to-iceland-part-3-even-more-waterfalls/</link>
+      <link>http://localhost:1313/posts/a-trip-to-iceland-part-3-even-more-waterfalls/</link>
       <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/a-trip-to-iceland-part-3-even-more-waterfalls/</guid>
+      <guid>http://localhost:1313/posts/a-trip-to-iceland-part-3-even-more-waterfalls/</guid>
       <description>We left Gulfoss and drove through the countryside to Fluðir where our next hotel stay would be. The hotel had cute little cabins arranged around a central square and the room itself was comfy and warm. Our dinner was nice enough, although we had a bit of a Fawlty Towers moment with Ingrid’s chicken salad. First it went back because they didn’t leave the BBQ sauce off. Then it came back with tomatoes.</description>
     </item>
     <item>
       <title>A trip to Iceland. Part 2: Reykjavík to Flu∂ir.</title>
-      <link>https://mattischrome.com/posts/a-trip-to-iceland-part-2-all-the-waterfalls/</link>
+      <link>http://localhost:1313/posts/a-trip-to-iceland-part-2-all-the-waterfalls/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/a-trip-to-iceland-part-2-all-the-waterfalls/</guid>
+      <guid>http://localhost:1313/posts/a-trip-to-iceland-part-2-all-the-waterfalls/</guid>
       <description>After a day on foot in Reykjavík, and with some trepidation, we returned to the car for our drive through Iceland&amp;rsquo;s countryside. We started by heading out on route 1, which is like Iceland&amp;rsquo;s M25 except that it encircles an entire country and about thirty times fewer people. We went to house of Nobel Prize winner Halldór Laxness, only to be turned away because it was being renovated and wouldn&amp;rsquo;t open for another month.</description>
     </item>
     <item>
       <title>A trip to Iceland. Part 1: Reykjavík.</title>
-      <link>https://mattischrome.com/posts/a-trip-to-iceland-part-1-reykjavik/</link>
+      <link>http://localhost:1313/posts/a-trip-to-iceland-part-1-reykjavik/</link>
       <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/a-trip-to-iceland-part-1-reykjavik/</guid>
+      <guid>http://localhost:1313/posts/a-trip-to-iceland-part-1-reykjavik/</guid>
       <description>We arrived in Reykjavík a few days after a monumental snowstorm. As such the city was still under at least six inches of snow. We collected the hire car from the airport and drove out of Keflavik. The scenery normally looks like a moonscape, but for us it was a frosty white wonderland.&#xA;After about an hour&amp;rsquo;s drive, we arrived at the Hotel Nattura. From the outside it looks like a huge secondary school but as soon as you step inside it&amp;rsquo;s warm and comfortable.</description>
     </item>
   </channel>

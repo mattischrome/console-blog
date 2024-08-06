@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark Rowlands on mattischrome</title>
-    <link>https://mattischrome.com/tags/mark-rowlands/</link>
+    <link>http://localhost:1313/tags/mark-rowlands/</link>
     <description>Recent content in Mark Rowlands on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 02 Nov 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/mark-rowlands/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mark-rowlands/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mark Rowlands, The Philosopher And The Wolf</title>
-      <link>https://mattischrome.com/posts/the-philosopher-and-the-wolf/</link>
+      <link>http://localhost:1313/posts/the-philosopher-and-the-wolf/</link>
       <pubDate>Wed, 02 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-philosopher-and-the-wolf/</guid>
+      <guid>http://localhost:1313/posts/the-philosopher-and-the-wolf/</guid>
       <description>I saw that a friend had ‘liked’ this book on Facebook and reading about it on amazon, I was curious enough to give it a go. It is the autobiography of the philosopher Mark Rowlands, specifically the experiences and lessons learned from raising a wolf, Brenin, from cub to maturity and beyond.&#xA;The book addresses different aspects of philosophy including the nature of evil and the interaction between humans and other animals.</description>
     </item>
   </channel>

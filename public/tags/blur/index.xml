@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blur on mattischrome</title>
-    <link>https://mattischrome.com/tags/blur/</link>
+    <link>http://localhost:1313/tags/blur/</link>
     <description>Recent content in Blur on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 31 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/blur/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/blur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Favourite Albums of 2015</title>
-      <link>https://mattischrome.com/posts/favourite-albums-of-2015/</link>
+      <link>http://localhost:1313/posts/favourite-albums-of-2015/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/favourite-albums-of-2015/</guid>
+      <guid>http://localhost:1313/posts/favourite-albums-of-2015/</guid>
       <description>Given that I gave up on writing album digests for a bit this year, I thought I would at least do a proper top ten list of my favourite albums. There are quite a few albums that I did not have room for and I might try to revisit those later. In the mean time, let&amp;rsquo;s crack on. (To save time, I have in some instances pasted my original review from the appropriate album digest.</description>
     </item>
   </channel>

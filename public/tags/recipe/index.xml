@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recipe on mattischrome</title>
-    <link>https://mattischrome.com/tags/recipe/</link>
+    <link>http://localhost:1313/tags/recipe/</link>
     <description>Recent content in Recipe on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 22 Apr 2019 11:39:20 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/recipe/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/recipe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Four Recipe Book Recommendations</title>
-      <link>https://mattischrome.com/posts/four-recipe-book-recommendations/</link>
+      <link>http://localhost:1313/posts/four-recipe-book-recommendations/</link>
       <pubDate>Mon, 22 Apr 2019 11:39:20 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/four-recipe-book-recommendations/</guid>
+      <guid>http://localhost:1313/posts/four-recipe-book-recommendations/</guid>
       <description>The A-Z of Cooking by Felicity Cloake This book is for more luxurious and experimental recipes. There are 26 chapters, one for an ingredient beginning with each letter of the alphabet, but you probably guessed that already. Ingrid and I have been (very) slowly working our way through the chapters, making a couple of recipes from each one - we’re currently up to G for Garlic.&#xA;My favourite so far has been the bread dumplings in parmesan broth because it gives us a use for our many many parmesan rinds.</description>
     </item>
     <item>
       <title>Turkey and Sweet Potato Stew</title>
-      <link>https://mattischrome.com/posts/turkey-and-sweet-potato-stew/</link>
+      <link>http://localhost:1313/posts/turkey-and-sweet-potato-stew/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/turkey-and-sweet-potato-stew/</guid>
+      <guid>http://localhost:1313/posts/turkey-and-sweet-potato-stew/</guid>
       <description>Here&amp;rsquo;s a recipe to use up your turkey leftovers after Christmas.&#xA;You will need a slow cooker or an oven-proof cooking dish.&#xA;Ingredients About four portions of cold turkey, torn into bite-sized pieces 1 sweet potato, chopped into small slivers 1 carrot, chopped into small slivers 1 onion, diced 2 cloves of garlic, diced 2 tsp mixed herbs 2 tsp smoked paprika 20g butter 50g diced chorizo 1 chicken stock cube mixed in about 700ml water (see method) Method Melt the butter and fry the onions on a medium heat until golden.</description>
     </item>
     <item>
       <title>Beetroot Bolognaise</title>
-      <link>https://mattischrome.com/posts/beetroot-bolognaise/</link>
+      <link>http://localhost:1313/posts/beetroot-bolognaise/</link>
       <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/beetroot-bolognaise/</guid>
+      <guid>http://localhost:1313/posts/beetroot-bolognaise/</guid>
       <description>We cook this version of bolognaise with beetroot due to Ingrid&amp;rsquo;s tomato allergy. This recipe is an attempt to capture what we do on the fly. The key to it is using the wine, the Worcestershire sauce and the herbs to even out the sweetness of the beetroot. If you can manage that, it&amp;rsquo;s super tasty. The sauce usually ends up being an unusual but pleasing pink/purple colour, as you will see from the pictures.</description>
     </item>
     <item>
       <title>The Only Chocolate Cake Recipe You’ll Ever Need</title>
-      <link>https://mattischrome.com/posts/chocolate-cake-recipe/</link>
+      <link>http://localhost:1313/posts/chocolate-cake-recipe/</link>
       <pubDate>Mon, 21 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/chocolate-cake-recipe/</guid>
+      <guid>http://localhost:1313/posts/chocolate-cake-recipe/</guid>
       <description>As I mentioned in a previous post, I baked a chocolate cake the other day and it was a great success. Here is the recipe, which is a trivial modification of one that appears in Nigel Slater&amp;rsquo;s &amp;ldquo;Real Food&amp;rdquo; (Amazon links: UK, US). &amp;ldquo;Real Food&amp;rdquo; is a cookbook that I genuinely treasure. The modification I have made for this recipe is to omit the espresso but I will point out where it should be added, in case you want to give that a try.</description>
     </item>
   </channel>

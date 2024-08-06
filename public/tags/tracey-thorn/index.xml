@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tracey Thorn on mattischrome</title>
-    <link>https://mattischrome.com/tags/tracey-thorn/</link>
+    <link>http://localhost:1313/tags/tracey-thorn/</link>
     <description>Recent content in Tracey Thorn on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 31 Dec 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/tracey-thorn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tracey-thorn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, December 2012</title>
-      <link>https://mattischrome.com/posts/album-digest-december-2012/</link>
+      <link>http://localhost:1313/posts/album-digest-december-2012/</link>
       <pubDate>Mon, 31 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-december-2012/</guid>
+      <guid>http://localhost:1313/posts/album-digest-december-2012/</guid>
       <description>Three albums (one very Christmassey one!) and an EP this month.&#xA;Tracey Thorn “Tinsel and Lights” Woob “Have Landed” Tim Hecker and Daniel Lopatin “Instrumental Tourist” Burial “Truant / Rough Sleeper Tracey Thorn “Tinsel and Lights” “Tinsel and Lights” is that rarest of records, a Christmas record that is perfectly suited to the season and is not in any way overbearing or irritating. Most albums that are Christmas themed are usually centred on lots of covers that are taken from a small subset of well worn classics.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amazon on mattischrome</title>
-    <link>https://mattischrome.com/tags/amazon/</link>
+    <link>http://localhost:1313/tags/amazon/</link>
     <description>Recent content in Amazon on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 02 Dec 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>South America, Part 2</title>
-      <link>https://mattischrome.com/posts/south-america-trip-part-2/</link>
+      <link>http://localhost:1313/posts/south-america-trip-part-2/</link>
       <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/south-america-trip-part-2/</guid>
+      <guid>http://localhost:1313/posts/south-america-trip-part-2/</guid>
       <description>Otavalo Sunday (24th November) was our first day of travel and involved a four hour trip to Otavalo, a town to the north of Quito that is famous for its market&amp;hellip; on Saturdays. The journey got us better acquainted with travel on our truck Magaly and we encountered a few of the little hiccups that are a natural part of travelling this way: power lines crashing down on to the highway, driver of your truck asking a policeman to take a photo of your truck snagged under the wires, wrong turns, and - funniest of all - getting a whole block&amp;rsquo;s worth of concerned locals to watch as your truck tries to turn a corner.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saloua Raouda Choucair on mattischrome</title>
-    <link>https://mattischrome.com/tags/saloua-raouda-choucair/</link>
+    <link>http://localhost:1313/tags/saloua-raouda-choucair/</link>
     <description>Recent content in Saloua Raouda Choucair on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 25 May 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/saloua-raouda-choucair/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/saloua-raouda-choucair/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Choucair At Tate Modern</title>
-      <link>https://mattischrome.com/posts/choucair-at-tate-modern/</link>
+      <link>http://localhost:1313/posts/choucair-at-tate-modern/</link>
       <pubDate>Sat, 25 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/choucair-at-tate-modern/</guid>
+      <guid>http://localhost:1313/posts/choucair-at-tate-modern/</guid>
       <description>Yesterday I went to see the Saloua Raouda Choucair show at the Tate Modern. As it was quite small, I went to see the Lichtenstein show again as well.&#xA;Choucair is an underrated Lebanese artist and many of the paintings and sculptures shown were created in the fifties and sixties. Her sculptures in particular are amazing.&#xA;The first room is lined with paintings that were nearly all gouache on paper, about 40cm by 30cm.</description>
     </item>
   </channel>

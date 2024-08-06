@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JFDR on mattischrome</title>
-    <link>https://mattischrome.com/tags/jfdr/</link>
+    <link>http://localhost:1313/tags/jfdr/</link>
     <description>Recent content in JFDR on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 31 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/jfdr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/jfdr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, March 2017</title>
-      <link>https://mattischrome.com/posts/album-digest-march-2017/</link>
+      <link>http://localhost:1313/posts/album-digest-march-2017/</link>
       <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-march-2017/</guid>
+      <guid>http://localhost:1313/posts/album-digest-march-2017/</guid>
       <description>Blanck Mass World Eater This album is pretty extreme. It&amp;rsquo;s not for everyone and even for the people who can handle it, it&amp;rsquo;s not for all the time. This album is a soul crushing experience at points but there are also points of light. Perhaps this makes “World Eater” more reflective of life as a whole than any other of this month&amp;rsquo;s albums. On balance it&amp;rsquo;s probably less crushing than the last Blanck Mass album “Dumb Flesh”, which I reviewed back in June 2015.</description>
     </item>
   </channel>

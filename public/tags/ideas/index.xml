@@ -2,283 +2,283 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ideas on mattischrome</title>
-    <link>https://mattischrome.com/tags/ideas/</link>
+    <link>http://localhost:1313/tags/ideas/</link>
     <description>Recent content in Ideas on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Doing the thing</title>
-      <link>https://mattischrome.com/posts/doing-the-thing/</link>
+      <link>http://localhost:1313/posts/doing-the-thing/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/doing-the-thing/</guid>
+      <guid>http://localhost:1313/posts/doing-the-thing/</guid>
       <description>I find it hard to get started on projects. This may have always been the case. I definitely remember instances of complex plans for school projects that I&amp;rsquo;d barely have time to finish. I once got up at 6AM to finish making a calendar in French—I thought it was going to be this outstanding piece of work that would genuinely replace my teacher&amp;rsquo;s calendar! Reality didn&amp;rsquo;t quite match the idea though.</description>
     </item>
     <item>
       <title>If anything, make it weirder</title>
-      <link>https://mattischrome.com/posts/make-it-weird/</link>
+      <link>http://localhost:1313/posts/make-it-weird/</link>
       <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/make-it-weird/</guid>
+      <guid>http://localhost:1313/posts/make-it-weird/</guid>
       <description>Today I listened to &amp;lsquo;Cloudbusting&amp;rsquo; by Kate Bush for the first time in a while. What a gloriously strange song it is. Best of all, it&amp;rsquo;s one of those songs that obscures what it is really about. It&amp;rsquo;s not a song about a change in the weather, but about Wilhelm Reich, the orgone accumulator, fluorescent yo-yos, and a son (rather than a sun) coming out.&#xA;&amp;lsquo;Cloudbusting&amp;rsquo; is from &amp;lsquo;Hounds of Love&amp;rsquo;, Kate&amp;rsquo;s &amp;lsquo;comeback&amp;rsquo; album following the commercial failure of &amp;lsquo;The Dreaming&amp;rsquo;, an album I wrote about in my understated classics series.</description>
     </item>
     <item>
       <title>Drawing a line on the page</title>
-      <link>https://mattischrome.com/posts/drawing-a-line-on-the-page/</link>
+      <link>http://localhost:1313/posts/drawing-a-line-on-the-page/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/drawing-a-line-on-the-page/</guid>
+      <guid>http://localhost:1313/posts/drawing-a-line-on-the-page/</guid>
       <description>Ingrid has joined an online drawing class. She sits there on Teams getting feedback on her drawings, while I sit there attempting to absorb everything. I&amp;rsquo;m also learning by doing, by making a line on the page. In some ways, it&amp;rsquo;s instructive to observe the difference in what we learn with and without the feedback.&#xA;We bought some drawing materials and nice notepads. But to be honest, I still haven&amp;rsquo;t made room in my day to draw regularly.</description>
     </item>
     <item>
       <title>Some Tips For Saving Time</title>
-      <link>https://mattischrome.com/posts/some-tips-for-saving-time/</link>
+      <link>http://localhost:1313/posts/some-tips-for-saving-time/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/some-tips-for-saving-time/</guid>
+      <guid>http://localhost:1313/posts/some-tips-for-saving-time/</guid>
       <description>A non-exhaustive list of ideas for saving time:&#xA;Delete your social media, and perhaps any other website or app that demands that you consume it rather than create with it. Another way to think of it: all these sites and apps transform your time in to one thing or another, what are the most valuable products of that time? In general, Facebook products are designed to transform your time into greater awareness of companies who would like you or your friends to buy their products.</description>
     </item>
     <item>
       <title>Travel Writing After All This</title>
-      <link>https://mattischrome.com/posts/travel-writing-after-all-this/</link>
+      <link>http://localhost:1313/posts/travel-writing-after-all-this/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/travel-writing-after-all-this/</guid>
+      <guid>http://localhost:1313/posts/travel-writing-after-all-this/</guid>
       <description>While sprucing up this blog a bit during lockdown, I fell into reading my old posts about South America. I enjoyed it, mostly for the memories, but also because the current lockdown is warping my sense of time and space. Hours feel like weeks, but then I blink and a month&amp;rsquo;s gone by. I find myself traipsing similar orbits each day around the house, and then perhaps over to the supermarket or the park.</description>
     </item>
     <item>
       <title>Holiday Tabs</title>
-      <link>https://mattischrome.com/posts/holiday-tabs/</link>
+      <link>http://localhost:1313/posts/holiday-tabs/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/holiday-tabs/</guid>
+      <guid>http://localhost:1313/posts/holiday-tabs/</guid>
       <description>Over the course of a week on holiday, I started reading many interesting articles. In lockdown there isn&amp;rsquo;t much to do but read articles, but I still find myself not that good at finishing them. My phone has lots of tabs open and has become a Rolodex of shame. This post is to confess my sins.&#xA;I&amp;rsquo;m trying to re-familiarise myself with Python. As with all modern software development, Python now seems atomised and hyper-complicated.</description>
     </item>
     <item>
       <title>Things to Remember</title>
-      <link>https://mattischrome.com/posts/things-to-remember/</link>
+      <link>http://localhost:1313/posts/things-to-remember/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/things-to-remember/</guid>
+      <guid>http://localhost:1313/posts/things-to-remember/</guid>
       <description>These are some things I jotted down one day last week, I&amp;rsquo;ll refine them a bit more later on. Think of it as an aide-memoire of things that work for me, your milage may vary.&#xA;Don&amp;rsquo;t worry about things that haven&amp;rsquo;t happened. Don&amp;rsquo;t turn whatever has happened and/or is bothering you into a catastrophe, especially if no one else is telling you that it is one. Seek out someone you trust and ask them &amp;ldquo;is this a catastrophe?</description>
     </item>
     <item>
       <title>Ambitions Revisited</title>
-      <link>https://mattischrome.com/posts/ambitions-revisited/</link>
+      <link>http://localhost:1313/posts/ambitions-revisited/</link>
       <pubDate>Tue, 23 Apr 2019 21:14:22 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/ambitions-revisited/</guid>
+      <guid>http://localhost:1313/posts/ambitions-revisited/</guid>
       <description>Back in 2012 I wrote a post listing my ambitions for the future. Well it&amp;rsquo;s the future now isn&amp;rsquo;t it? Almost. After all, I’m a whole new person now. Anyway it&amp;rsquo;s probably time to take stock. Have I achieved any of them? Have any of my ambitions changed? What&amp;rsquo;s replaced the things that I&amp;rsquo;ve decided not to worry about? What has come after the things I managed to do?&#xA;First off, here&amp;rsquo;s my justification for writing the list in the original post:</description>
     </item>
     <item>
       <title>Five years after</title>
-      <link>https://mattischrome.com/posts/five-years/</link>
+      <link>http://localhost:1313/posts/five-years/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/five-years/</guid>
+      <guid>http://localhost:1313/posts/five-years/</guid>
       <description>Five years ago I set out at 3am for Heathrow airport to catch the early morning flight to Madrid. There I connected with a flight to Quito in Ecuador. The previous days and weeks had been fraught with worry about whether I was doing the right thing. Did I get the right vaccinations? Would I have enough money? Would I cope with all that travel? Was I coming back? What was I going to do with all my stuff?</description>
     </item>
     <item>
       <title>Reboot</title>
-      <link>https://mattischrome.com/posts/reboot/</link>
+      <link>http://localhost:1313/posts/reboot/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/reboot/</guid>
+      <guid>http://localhost:1313/posts/reboot/</guid>
       <description>As much as I hate to write about writing, especially when I write so infrequently, I feel I need to reboot this blog. I wrote so few posts in recent months I considered giving up altogether.&#xA;I’ve been stressed. Sometimes this manifests in being unable to sleep. Sometimes it manifests in all my interests and ideas seeming to be completely pointless. Sometimes one of those precedes the other. Sometimes it works vice versa.</description>
     </item>
     <item>
       <title>A Diary?</title>
-      <link>https://mattischrome.com/posts/a-diary/</link>
+      <link>http://localhost:1313/posts/a-diary/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/a-diary/</guid>
+      <guid>http://localhost:1313/posts/a-diary/</guid>
       <description>This year promises to be exciting so this week I tried to buy a diary. One of those day-to-a-page affairs for scribbling down all the things I&amp;rsquo;ve seen and learned about. I thought they might be cheap now the calendar is turning to February. No such luck. There were a few week-to-view diaries going for half price in Waterstones but nothing suitable for my needs. I have lots of Field Notes notebooks if my urge to write gets too much to resist.</description>
     </item>
     <item>
       <title>Valleys</title>
-      <link>https://mattischrome.com/posts/valleys/</link>
+      <link>http://localhost:1313/posts/valleys/</link>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/valleys/</guid>
+      <guid>http://localhost:1313/posts/valleys/</guid>
       <description>In my last post, I wrote about hills. I tried to use them as a metaphor to explain nagging sense of incompletion when you single out one activity over another. The feeling that there&amp;rsquo;s always a more exciting hill off in the distance to go climb, instead of the one you&amp;rsquo;re on.&#xA;I said my next post would be about how to pick between different options, particularly when you have many to choose from.</description>
     </item>
     <item>
       <title>Hills</title>
-      <link>https://mattischrome.com/posts/hills/</link>
+      <link>http://localhost:1313/posts/hills/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/hills/</guid>
+      <guid>http://localhost:1313/posts/hills/</guid>
       <description>I&amp;rsquo;m a big fan of books. The way they transport you away to other places and so on. As repositories of knowledge and adventure they can&amp;rsquo;t be beat. I can think of no better way out of an existential fix than reading.&#xA;The trouble is I tend to hoard them. I&amp;rsquo;ve posted pictures of book stacks before (on more than one occasion). I could probably repeat that every month if I wanted to, perhaps even more often.</description>
     </item>
     <item>
       <title>Create</title>
-      <link>https://mattischrome.com/posts/create/</link>
+      <link>http://localhost:1313/posts/create/</link>
       <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/create/</guid>
+      <guid>http://localhost:1313/posts/create/</guid>
       <description>It can be a struggle to keep writing. I&amp;rsquo;ve found this happened a lot since I moved the blog. First, there was the business of moving things over. That meant a lot of thought about old posts and which ones I should keep. A lot of the time I thought &amp;ldquo;how on earth did I have time to write this?!&amp;rdquo;&#xA;Then there seemed to be a lot more barriers to writing than previously.</description>
     </item>
     <item>
       <title>A New Notebook</title>
-      <link>https://mattischrome.com/posts/new-notebook/</link>
+      <link>http://localhost:1313/posts/new-notebook/</link>
       <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/new-notebook/</guid>
+      <guid>http://localhost:1313/posts/new-notebook/</guid>
       <description>Witness the pressure of a new notebook. You sit at your desk, trying to get it started with an amazing piece of writing. Something worthy of that crisp new page. You want it to tumble out of you, fully formed and coherent. Something that justifies you abandoning the previous one. As though first drafts don&amp;rsquo;t exist. You cast yourself into the role of shaman, of seer - of someone gifted a prophetic vision.</description>
     </item>
     <item>
       <title>I Don&#39;t Have a Clue, part 43</title>
-      <link>https://mattischrome.com/posts/no-clue-part-43/</link>
+      <link>http://localhost:1313/posts/no-clue-part-43/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/no-clue-part-43/</guid>
+      <guid>http://localhost:1313/posts/no-clue-part-43/</guid>
       <description>A little man wearing a bow tie, and possibly a fez, scurries into the middle of the frame clutching a clapboard. Breathing heavily he hoists the clapboard up to chest height. He holds the clapper up then brings down while slurring &amp;quot;This is a blog post about not having a clue, take 43&amp;quot;. He exits to the right of the frame.&#xA;My feet are hot. The bed seems too small. Why are my feet always too hot on nights like these?</description>
     </item>
     <item>
       <title>Untitled 2</title>
-      <link>https://mattischrome.com/posts/untitled-2/</link>
+      <link>http://localhost:1313/posts/untitled-2/</link>
       <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/untitled-2/</guid>
+      <guid>http://localhost:1313/posts/untitled-2/</guid>
       <description>A few months ago I wrote about an idea for a novel that I&amp;rsquo;d abandoned. I mentioned in that post that I&amp;rsquo;d abandoned it because there was another idea that I wanted to pursue. The working title for it is &amp;ldquo;Untitled 2&amp;rdquo;. (It isn&amp;rsquo;t really, I have an actual working title that would give things away or would at least make me feel like the idea was out in the world.</description>
     </item>
     <item>
       <title>First Light, Last Light</title>
-      <link>https://mattischrome.com/posts/first-light-last-light/</link>
+      <link>http://localhost:1313/posts/first-light-last-light/</link>
       <pubDate>Sun, 19 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/first-light-last-light/</guid>
+      <guid>http://localhost:1313/posts/first-light-last-light/</guid>
       <description>I often ponder whether the joys of waking up early are greater than those of staying up late. Empirical evidence seems to bear this out: all those people who get to work before you do, super-eager to get everything done. But then all the people walking under your windows late at night, drunk and laughing, they sound like they&amp;rsquo;re having a whale of a time too.&#xA;I oscillate between the two extremes, though I tend to sleep better if I stay up late.</description>
     </item>
     <item>
       <title>Time Is Time and That Is That</title>
-      <link>https://mattischrome.com/posts/time-is-time-and-that-is-that/</link>
+      <link>http://localhost:1313/posts/time-is-time-and-that-is-that/</link>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/time-is-time-and-that-is-that/</guid>
+      <guid>http://localhost:1313/posts/time-is-time-and-that-is-that/</guid>
       <description>A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.&#xA;So why does Facebook feel the need to jiggle things about into a random order? Well most of you have that mobile phone app of theirs that sucks your battery and your data allowance like crazy (mainly by auto-playing videos like a dick).</description>
     </item>
     <item>
       <title>Jim&#39;s Conservatory</title>
-      <link>https://mattischrome.com/posts/jims-conservatory/</link>
+      <link>http://localhost:1313/posts/jims-conservatory/</link>
       <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/jims-conservatory/</guid>
+      <guid>http://localhost:1313/posts/jims-conservatory/</guid>
       <description>Let&amp;rsquo;s assume that Jim has just had a sudden unexpected expenditure: a neighbour released a bull into his back garden and it destroyed his conservatory. Let&amp;rsquo;s assume that the conservatory is essential to Jim&amp;rsquo;s wellbeing, so it has to be fixed immediately. As a result Jim&amp;rsquo;s debts, which were previously small and well-managed, have now increased somewhat.&#xA;Obviously Jim can&amp;rsquo;t keep that debt hanging over him forever. What does he do?</description>
     </item>
     <item>
       <title>Consider the Donut</title>
-      <link>https://mattischrome.com/posts/consider-the-donut/</link>
+      <link>http://localhost:1313/posts/consider-the-donut/</link>
       <pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/consider-the-donut/</guid>
+      <guid>http://localhost:1313/posts/consider-the-donut/</guid>
       <description>Or, From There to Here With the Simpsons Old episodes of The Simpsons are great. The other night “Bart After Dark” was on and I really enjoyed seeing it again. It’s from season eight, the one where Bart ends up working in the Maison Derriére. I thought it was older; mind you, this makes it nineteen years old. When I thought about the episode later on that evening, I realised how the story anarchically set out in multiple directions before settling into its main storyline.</description>
     </item>
     <item>
       <title>A Little Bit Intimidating Really</title>
-      <link>https://mattischrome.com/posts/a-little-bit-intimidating-really/</link>
+      <link>http://localhost:1313/posts/a-little-bit-intimidating-really/</link>
       <pubDate>Sun, 22 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/a-little-bit-intimidating-really/</guid>
+      <guid>http://localhost:1313/posts/a-little-bit-intimidating-really/</guid>
       <description>There is so much good writing out there. All you have to do is fire up the guardian website, or download the medium app to your smartphone, or visit my friend Barrie&amp;rsquo;s site, or Lee&amp;rsquo;s, and so on and so on.&#xA;When it comes to my little whisper into this great choir, it&amp;rsquo;s easy to feel a bit intimidated. How do I add my voice? How do I feel distinct? How do I do it as well as all these other wonderful writers?</description>
     </item>
     <item>
       <title>How Fireworks Work</title>
-      <link>https://mattischrome.com/posts/how-fireworks-work/</link>
+      <link>http://localhost:1313/posts/how-fireworks-work/</link>
       <pubDate>Sun, 22 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/how-fireworks-work/</guid>
+      <guid>http://localhost:1313/posts/how-fireworks-work/</guid>
       <description>Last night an impromptu firework display occurred. I watched it from my bathroom window. Very pretty and somewhat extravagant, given that there’s no reason for one on the calendar. I could have filmed it on meerkat but it would have diminished the spectacle. However, it did at least motivate me to write this piece that I have put off for a while (since about November I guess?). One where I find out (i.</description>
     </item>
     <item>
       <title>You Can’t Just Switch Off Free</title>
-      <link>https://mattischrome.com/posts/you-cant-just-switch-off-free/</link>
+      <link>http://localhost:1313/posts/you-cant-just-switch-off-free/</link>
       <pubDate>Wed, 11 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/you-cant-just-switch-off-free/</guid>
+      <guid>http://localhost:1313/posts/you-cant-just-switch-off-free/</guid>
       <description>Ministry of Sound boss Lohan Presencer does the cry baby act in today&amp;rsquo;s Guardian, complaining that Spotify&amp;rsquo;s freemium model doesn&amp;rsquo;t allow him to bathe in a Scrooge McDuck style swimming pool of golden coins any more. The cat is out of the bag for streaming music now, and no matter how much music companies cry foul they can&amp;rsquo;t stop Spotify and their ilk, and there wouldn&amp;rsquo;t be pots of gold waiting for them even if they could.</description>
     </item>
     <item>
       <title>On The Humble Cheese Grater</title>
-      <link>https://mattischrome.com/posts/humble-cheese-grater/</link>
+      <link>http://localhost:1313/posts/humble-cheese-grater/</link>
       <pubDate>Mon, 16 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/humble-cheese-grater/</guid>
+      <guid>http://localhost:1313/posts/humble-cheese-grater/</guid>
       <description>You can&amp;rsquo;t beat a good cheese grater. Cheese just tastes better in a sandwich once it has been grated. It&amp;rsquo;s been proven by ACTUAL SCIENCE that this is the case: something about the increased surface area making it taste more zingy (NB. QI is not actually a peer-reviewed scientific journal). Of course the cheese we are grating here is a nice mature cheddar, you can&amp;rsquo;t grate Camembert or Stilton (well technically you can, but why would you?</description>
     </item>
     <item>
       <title>On Jackson X</title>
-      <link>https://mattischrome.com/posts/jackson-x/</link>
+      <link>http://localhost:1313/posts/jackson-x/</link>
       <pubDate>Sun, 15 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/jackson-x/</guid>
+      <guid>http://localhost:1313/posts/jackson-x/</guid>
       <description>I set myself the task of writing about a fictional character for this blog post, so this post is about Jackson X. His surname isn’t really X, it’s just one of the details about him that I haven’t fleshed out yet. This is because Jackson X is the one of the protagonists of the novel I’m (not) writing.&#xA;The name of the novel is “The Summer of the Giant Space Whale”.</description>
     </item>
     <item>
       <title>Building Brains</title>
-      <link>https://mattischrome.com/posts/building-brains/</link>
+      <link>http://localhost:1313/posts/building-brains/</link>
       <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/building-brains/</guid>
+      <guid>http://localhost:1313/posts/building-brains/</guid>
       <description>This is a longer form post about artificial intelligence inspired by reading a little bit of &amp;ldquo;The Pale King&amp;rdquo; by David Foster Wallace and putting a picture of a &amp;ldquo;ghost&amp;rdquo; up on Instagram. This might be the last of these that I&amp;rsquo;m able to write for a while.&#xA;On Not Reading &amp;ldquo;The Pale King&amp;rdquo; &amp;ldquo;The Pale King&amp;rdquo; is the third and final novel by American author David Foster Wallace. He was working on it when he committed suicide in 2008.</description>
     </item>
     <item>
       <title>What IS That Noise?</title>
-      <link>https://mattischrome.com/posts/what-is-that-noise/</link>
+      <link>http://localhost:1313/posts/what-is-that-noise/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/what-is-that-noise/</guid>
+      <guid>http://localhost:1313/posts/what-is-that-noise/</guid>
       <description>I recently spruced up a post I wrote four years ago about Biosphere’s wonderful album Substrata. I added the following footnote about the difference between voice samples and found sound:&#xA;I suppose I am distinguishing between found sound and vocal samples here. Perhaps there is very little difference, or that one is the other? When is a vocal snippet something more than found sound? Is it the fact that one has meaning?</description>
     </item>
     <item>
       <title>Posters</title>
-      <link>https://mattischrome.com/posts/posters/</link>
+      <link>http://localhost:1313/posts/posters/</link>
       <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/posters/</guid>
+      <guid>http://localhost:1313/posts/posters/</guid>
       <description>In 2005, towards the end of the second year of my PhD I presented a poster at a conference in Dresden, Germany. My eccentric colleagues and I stayed on a huge canal boat moored on the Elbe for no discernible reason other than it seemed like a laugh at the time. In reality I was the second worst snorer of the three of us and it also turned out that our room was right underneath the gang-plank and every morning at six the person who made breakfast would stomp across it.</description>
     </item>
     <item>
       <title>Ideas for TV shows: Great Mathematicians</title>
-      <link>https://mattischrome.com/posts/ideas-for-tv-shows-great-mathematicians/</link>
+      <link>http://localhost:1313/posts/ideas-for-tv-shows-great-mathematicians/</link>
       <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/ideas-for-tv-shows-great-mathematicians/</guid>
+      <guid>http://localhost:1313/posts/ideas-for-tv-shows-great-mathematicians/</guid>
       <description>I want to see a TV show about great mathematicians of the past on a channel like BBC Four. Programmes about mathematics tend to be rather condescending, at least to anyone who has a bit of mathematical knowledge. Perhaps a way around this is to delve into the social and historical circumstances of the great mathematicians and how that along with their personality produced the mathematical results for which they are famous.</description>
     </item>
     <item>
       <title>A Mountain Story</title>
-      <link>https://mattischrome.com/posts/a-mountain-story/</link>
+      <link>http://localhost:1313/posts/a-mountain-story/</link>
       <pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/a-mountain-story/</guid>
+      <guid>http://localhost:1313/posts/a-mountain-story/</guid>
       <description>A cat reaches the top of a mountain after a long climb through the snow. He is cold from the bottom of his fur to the tips of his claws. He is sodden and wet, and we all know how much a cat hates to be wet.&#xA;At the top of the mountain there is not much to see. What may have been a breathtaking view is instead a murk of freezing mist and at any rate, snow assails the cat’s eyes and whiskers.</description>
     </item>
     <item>
       <title>Ambitions</title>
-      <link>https://mattischrome.com/posts/ambitions/</link>
+      <link>http://localhost:1313/posts/ambitions/</link>
       <pubDate>Sat, 10 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/ambitions/</guid>
+      <guid>http://localhost:1313/posts/ambitions/</guid>
       <description>Sometimes, when I am feeling a bit down, I like to write down some of my ambitions. As you can see from this list they are mostly pretty humble but they are also a bit cheesy and embarassing, so I have put them after the fold!&#xA;Be wholehearted, cheerful, and sincere Be creative Look at the world and see its many faces, hear its many voices Explore new recipes as often as possible when I cook Learn to like the taste of tomatoes and cucumbers Be more at ease around people Listen to people and hear what they say Play my part Look after someone special Become a parent Share my values with others, help those who need it Break up all the negative things inside me Know what other people want, help them get it When I wake up each morning I would like to remember my dreams Understand art more than I do Lose my fear of creepy crawlies Learn to drive Learn to write left handed (why not?</description>
     </item>
     <item>
       <title>Net Loss</title>
-      <link>https://mattischrome.com/posts/net-loss/</link>
+      <link>http://localhost:1313/posts/net-loss/</link>
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/net-loss/</guid>
+      <guid>http://localhost:1313/posts/net-loss/</guid>
       <description>I pay to have this blog up and running. That is, I pay for the space where it is stored and I pay for the name. I have to look after all the files and plug-ins, I have to perform all the updates and optimise the database tables. All this is great fun but wouldn’t it be cheaper to slap the mattischro.me address onto a hosted WordPress.com account?&#xA;Well, yes it would.</description>
     </item>
     <item>
       <title>The Painter</title>
-      <link>https://mattischrome.com/posts/the-painter/</link>
+      <link>http://localhost:1313/posts/the-painter/</link>
       <pubDate>Fri, 13 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-painter/</guid>
+      <guid>http://localhost:1313/posts/the-painter/</guid>
       <description>Once upon a time there was a man who loved to paint. He studied the art and craft of painting for many years. He chose to invest his time and energy into creating the most realistic portraits that he could paint. For him the joy came not from completing the paintings but the process of recreating the real world with the strokes of his brush.&#xA;For many years he continued to study the art of painting.</description>
     </item>
     <item>
       <title>The Amber World</title>
-      <link>https://mattischrome.com/posts/the-amber-world/</link>
+      <link>http://localhost:1313/posts/the-amber-world/</link>
       <pubDate>Tue, 22 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-amber-world/</guid>
+      <guid>http://localhost:1313/posts/the-amber-world/</guid>
       <description>My earliest memory is waking up in Queen Alexandra hospital in Cosham after an operation on my ears. I must have been about four years old and it was the middle of the night. I was in a room on my own and the door was locked. It had been daylight only seconds before so I got out of the bed and walked to the window to look incredulously out at the amber world that lay beyond.</description>
     </item>
     <item>
       <title>The News</title>
-      <link>https://mattischrome.com/posts/the-news/</link>
+      <link>http://localhost:1313/posts/the-news/</link>
       <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-news/</guid>
+      <guid>http://localhost:1313/posts/the-news/</guid>
       <description>“I read the news today, oh boy” (The Beatles, A Day In The Life.)&#xA;Sometimes watching the news feels like a series of repeated blows to the face: arbitrary, cruel and unrelenting. It gets draining and upsetting, and leaves you fearful of what might come next.&#xA;You won’t need me to tell you about the tragedies that have occurred all over the world in the last few days: drought in East Africa, the gunman running amok in Norway, the death of Amy Winehouse and the horrific train crash in China.</description>
     </item>
     <item>
       <title>A Beta Test Of Everything</title>
-      <link>https://mattischrome.com/posts/a-beta-test-of-everything/</link>
+      <link>http://localhost:1313/posts/a-beta-test-of-everything/</link>
       <pubDate>Tue, 19 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/a-beta-test-of-everything/</guid>
+      <guid>http://localhost:1313/posts/a-beta-test-of-everything/</guid>
       <description>Reading a few articles about the recent launch of Google+, a few things hit home. Google tends to launch a product that works and not always one that is perfect or finished (like, say, Apple). Sometimes it takes them several iterations to get right. They love the beta tag. In fact, I think it was Google (or possibly Flickr) that made me aware of the concept of beta software.&#xA;Along these line I thought about this blog and its one year anniversary.</description>
     </item>
     <item>
       <title>Maps And Charts</title>
-      <link>https://mattischrome.com/posts/maps-and-charts/</link>
+      <link>http://localhost:1313/posts/maps-and-charts/</link>
       <pubDate>Sat, 02 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/maps-and-charts/</guid>
+      <guid>http://localhost:1313/posts/maps-and-charts/</guid>
       <description>When I was growing up a framed print of a map hung on the wall in the hallway. It was one of my favourite things, littered with strange latin names and with Vs where Us should have been. The outlines of the continents and countries were all familiar and yet slightly distorted, becoming more recognisable around the shores of western Europe.&#xA;I don’t know the provenance of that map print but at some point it got taken to the charity shop and replaced by Van Gogh’s sunflowers.</description>
     </item>
     <item>
       <title>Five Things To Try When You Can&#39;t Sleep</title>
-      <link>https://mattischrome.com/posts/five-things-to-try-when-you-cant-sleep/</link>
+      <link>http://localhost:1313/posts/five-things-to-try-when-you-cant-sleep/</link>
       <pubDate>Tue, 05 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/five-things-to-try-when-you-cant-sleep/</guid>
+      <guid>http://localhost:1313/posts/five-things-to-try-when-you-cant-sleep/</guid>
       <description>Facebook is wonderful for keeping in touch but I’ve noticed that quite a few of my friends tend to use it to tell the world that they can’t sleep. Here’s some advice for you if you find yourself unable to sleep one night. I’ve often had to try these out myself! Note that these are just things that work for me and your mileage may vary, particularly if you are fortunate enough to have a partner next to you!</description>
     </item>
   </channel>

@@ -2,25 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modelling on mattischrome</title>
-    <link>https://mattischrome.com/tags/modelling/</link>
+    <link>http://localhost:1313/tags/modelling/</link>
     <description>Recent content in Modelling on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 29 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/modelling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/modelling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swaptastic Part 2</title>
-      <link>https://mattischrome.com/posts/swaptastic-part-2/</link>
+      <link>http://localhost:1313/posts/swaptastic-part-2/</link>
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/swaptastic-part-2/</guid>
+      <guid>http://localhost:1313/posts/swaptastic-part-2/</guid>
       <description>As a follow-up to my post about the Euro 2016 Panini Stickers, I&amp;rsquo;ve now completed the collection with the help of an online swapping site and by buying the last 39 stickers directly from Panini. I also managed to write a new simulator, this time with additional collectors involved.&#xA;I assume that each of N collectors will buy a packet of stickers and add any new stickers to their album. Then they attempt to swap any leftovers with the rest of their friends.</description>
     </item>
     <item>
       <title>Euro 2016 Panini Stickers</title>
-      <link>https://mattischrome.com/posts/euro-2016-panini-stickers/</link>
+      <link>http://localhost:1313/posts/euro-2016-panini-stickers/</link>
       <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/euro-2016-panini-stickers/</guid>
+      <guid>http://localhost:1313/posts/euro-2016-panini-stickers/</guid>
       <description>Sound the conspicuous consumption klaxon! 📣 I know it&amp;rsquo;s foolish but I decided to collect the Panini stickers for the Euro 2016 tournament this summer. I think it&amp;rsquo;s a more edifying waste of money than a series of group game accumulators that don&amp;rsquo;t come off. If this week&amp;rsquo;s long read in The Guardian is anything to go by, we really shouldn&amp;rsquo;t be giving any more of our money to betting companies.</description>
+    </item>
+    <item>
+      <title>A Mountain Story</title>
+      <link>http://localhost:1313/posts/a-mountain-story/</link>
+      <pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a-mountain-story/</guid>
+      <description>A cat reaches the top of a mountain after a long climb through the snow. He is cold from the bottom of his fur to the tips of his claws. He is sodden and wet, and we all know how much a cat hates to be wet.&#xA;At the top of the mountain there is not much to see. What may have been a breathtaking view is instead a murk of freezing mist and at any rate, snow assails the cat’s eyes and whiskers.</description>
+    </item>
+    <item>
+      <title>The Painter</title>
+      <link>http://localhost:1313/posts/the-painter/</link>
+      <pubDate>Fri, 13 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-painter/</guid>
+      <description>Once upon a time there was a man who loved to paint. He studied the art and craft of painting for many years. He chose to invest his time and energy into creating the most realistic portraits that he could paint. For him the joy came not from completing the paintings but the process of recreating the real world with the strokes of his brush.&#xA;For many years he continued to study the art of painting.</description>
     </item>
   </channel>
 </rss>

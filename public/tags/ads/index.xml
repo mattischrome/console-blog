@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ads on mattischrome</title>
-    <link>https://mattischrome.com/tags/ads/</link>
+    <link>http://localhost:1313/tags/ads/</link>
     <description>Recent content in Ads on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/ads/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ads/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Living in the Pi Hole</title>
-      <link>https://mattischrome.com/posts/living-in-the-pi-hole/</link>
+      <link>http://localhost:1313/posts/living-in-the-pi-hole/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/living-in-the-pi-hole/</guid>
+      <guid>http://localhost:1313/posts/living-in-the-pi-hole/</guid>
       <description>Ingrid bought me a raspberry pi for my birthday. I&amp;rsquo;ve set it up to run the Pi-hole software. Pi-hole is a nifty bit of kit that intercepts your web requests and purges any that ask for material on known ad servers. Essentially it&amp;rsquo;s like having an ad blocker on your network rather than just your computer.&#xA;I&amp;rsquo;ve written before about why I hate web advertising, and since then it&amp;rsquo;s got even more malign.</description>
     </item>
   </channel>

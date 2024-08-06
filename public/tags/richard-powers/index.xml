@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Richard Powers on mattischrome</title>
-    <link>https://mattischrome.com/tags/richard-powers/</link>
+    <link>http://localhost:1313/tags/richard-powers/</link>
     <description>Recent content in Richard Powers on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/richard-powers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/richard-powers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Richard Powers, Orfeo</title>
-      <link>https://mattischrome.com/posts/richard-powers-orfeo/</link>
+      <link>http://localhost:1313/posts/richard-powers-orfeo/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/richard-powers-orfeo/</guid>
+      <guid>http://localhost:1313/posts/richard-powers-orfeo/</guid>
       <description>&amp;ldquo;The mind may give up its desire to improve on creation and function as a faithful receiver of experience.&amp;rdquo; John Cage&#xA;After enjoying The Overstory, I wanted to read more of Richard Powers&amp;rsquo; novels. Orfeo was also long listed for the Booker prize. Perhaps more of his novels would have been had the prize been opened to American authors earlier.&#xA;Orfeo is about Peter Els, a seventy year old composer who accidentally alerts Homeland Security to the existence of his home laboratory, in which he has been trying to recode the genetic material of a bacterium to include a piece of his music.</description>
     </item>
     <item>
       <title>Richard Powers, The Overstory</title>
-      <link>https://mattischrome.com/posts/the-overstory/</link>
+      <link>http://localhost:1313/posts/the-overstory/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-overstory/</guid>
+      <guid>http://localhost:1313/posts/the-overstory/</guid>
       <description>&amp;ldquo;The Overstory&amp;rdquo; by Richard Powers piqued my interest among the novels shortlisted for the Booker Prize. And once again the book that interested me most did not win. One year I will succeed in my prediction!&#xA;I found &amp;ldquo;The Overstory&amp;rdquo; an enjoyable read. Its accessibility surprised me. Often people view Booker nominated novels as stuffy or over-intellectual. This novel however is a genuine page turner, full of emotion and heartbreak, not to mention plenty of science and awe of the natural world.</description>
     </item>
   </channel>

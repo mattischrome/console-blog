@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul McAuley on mattischrome</title>
-    <link>https://mattischrome.com/tags/paul-mcauley/</link>
+    <link>http://localhost:1313/tags/paul-mcauley/</link>
     <description>Recent content in Paul McAuley on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 17 May 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/paul-mcauley/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/paul-mcauley/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paul McAuley, Something Coming Through</title>
-      <link>https://mattischrome.com/posts/something-coming-through-by-paul-mcauley/</link>
+      <link>http://localhost:1313/posts/something-coming-through-by-paul-mcauley/</link>
       <pubDate>Tue, 17 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/something-coming-through-by-paul-mcauley/</guid>
+      <guid>http://localhost:1313/posts/something-coming-through-by-paul-mcauley/</guid>
       <description>&amp;ldquo;Something Coming Through&amp;rdquo; is a science fiction novel set in the near future. A few years after a brief nuclear war known as &amp;ldquo;The Spasm&amp;rdquo;, an alien race known as the Jackaroo introduce themselves to humanity. The novel is funny, thoughtful, and politically charged. I found it to be a good read.&#xA;The aliens have given humanity fifteen &amp;ldquo;gift&amp;rdquo; worlds and an automated way to access them. Think of the Docklands Light Railway but with space shuttles.</description>
     </item>
   </channel>

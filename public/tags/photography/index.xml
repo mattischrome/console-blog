@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photography on mattischrome</title>
-    <link>https://mattischrome.com/tags/photography/</link>
+    <link>http://localhost:1313/tags/photography/</link>
     <description>Recent content in Photography on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/photography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Old photographs</title>
-      <link>https://mattischrome.com/posts/old-photographs/</link>
+      <link>http://localhost:1313/posts/old-photographs/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/old-photographs/</guid>
+      <guid>http://localhost:1313/posts/old-photographs/</guid>
       <description>Recently I&amp;rsquo;ve had cause to dig out some old photos. If I&amp;rsquo;m honest it&amp;rsquo;s made me sad. Sadder than I was expecting. There&amp;rsquo;s a quote from Nan Goldin that once felt like a warning but now just sounds like a sad statement of ongoing affairs:&#xA;“I used to think that I could never lose anyone if I photographed them enough. In fact, my pictures show me how much I’ve lost.”</description>
     </item>
   </channel>

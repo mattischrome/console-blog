@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Classical on mattischrome</title>
-    <link>https://mattischrome.com/tags/classical/</link>
+    <link>http://localhost:1313/tags/classical/</link>
     <description>Recent content in Classical on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 21 Aug 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/classical/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/classical/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BBC Prom 47 at the Royal Albert Hall</title>
-      <link>https://mattischrome.com/posts/bbc-prom-47-royal-albert-hall/</link>
+      <link>http://localhost:1313/posts/bbc-prom-47-royal-albert-hall/</link>
       <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/bbc-prom-47-royal-albert-hall/</guid>
+      <guid>http://localhost:1313/posts/bbc-prom-47-royal-albert-hall/</guid>
       <description>We went to see Prom 47, an afternoon prom at the Royal Albert Hall in London. The bill included a brand new work by Piers Hellawell, along with a Cello concerto by Haydn and a symphony by Tchaikovsky. These were all performed by the Ulster Orchestra. The conductor was Rafael Payare. The tickets were an affordable £17 each which isn&amp;rsquo;t bad at all given that we were sat in the second row of the circle.</description>
     </item>
   </channel>

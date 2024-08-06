@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Avalanches on mattischrome</title>
-    <link>https://mattischrome.com/tags/the-avalanches/</link>
+    <link>http://localhost:1313/tags/the-avalanches/</link>
     <description>Recent content in The Avalanches on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 31 Jul 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/the-avalanches/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/the-avalanches/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, July 2016</title>
-      <link>https://mattischrome.com/posts/album-digest-july-2016/</link>
+      <link>http://localhost:1313/posts/album-digest-july-2016/</link>
       <pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-july-2016/</guid>
+      <guid>http://localhost:1313/posts/album-digest-july-2016/</guid>
       <description>Album Digest July 2016 consists of a bumper five albums, mainly because I couldn&amp;rsquo;t work out which one to drop. I think they&amp;rsquo;re all pretty good though it&amp;rsquo;s great to hear new music from The Avalanches after all this time.&#xA;Bat For Lashes &amp;ldquo;The Bride&amp;rdquo; For her fourth album as Bat For Lashes, Natasha Khan applies her considerable songwriting skills to a concept album. She sings from the perspective of a bride whose husband dies on his way to their wedding.</description>
     </item>
   </channel>

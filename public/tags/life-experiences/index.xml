@@ -2,164 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life Experiences on mattischrome</title>
-    <link>https://mattischrome.com/tags/life-experiences/</link>
+    <link>http://localhost:1313/tags/life-experiences/</link>
     <description>Recent content in Life Experiences on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/life-experiences/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/life-experiences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Negativity Casket</title>
-      <link>https://mattischrome.com/posts/the-negativity-casket/</link>
+      <link>http://localhost:1313/posts/the-negativity-casket/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-negativity-casket/</guid>
+      <guid>http://localhost:1313/posts/the-negativity-casket/</guid>
       <description>One of the things that people tend to start around this time of year is a diary. They usually get filled for as long as your new year&amp;rsquo;s resolutions last.&#xA;However, I&amp;rsquo;ve been writing in my current diary for a while. It&amp;rsquo;s a Moleskine extra large ruled Notebook in beautiful Prussian Blue, covered in whatever stickers pass over my desk. (Hint: find my address and send me stickers Internet.) This is much more preferable to a &amp;lsquo;real&amp;rsquo; diary because I can leave a few days and then resume.</description>
     </item>
     <item>
+      <title>Unindexed?</title>
+      <link>http://localhost:1313/posts/unindexed/</link>
+      <pubDate>Thu, 11 Jan 2024 17:24:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/unindexed/</guid>
+      <description>There was an excellent article on The Verge yesterday about how Google is transforming the kinds of sites and blogs that are on the internet. I also read this slightly more personal take by Jason Velasquez, which is more about how social networks have gobbled up all the time and attention of people who might otherwise be making interesting web sites. This has made me think deeply about what this blog is for, and why I might continue to blog in Twenty Twenty Four.</description>
+    </item>
+    <item>
       <title>Agents of Chaos (2024 edition)</title>
-      <link>https://mattischrome.com/posts/agents-of-chaos/</link>
+      <link>http://localhost:1313/posts/agents-of-chaos/</link>
       <pubDate>Mon, 08 Jan 2024 21:36:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/agents-of-chaos/</guid>
+      <guid>http://localhost:1313/posts/agents-of-chaos/</guid>
       <description>The cats broke their new resolution not to knock stuff over in my office. Oh, who am I kidding? They never had such a resolution! If you can see a sheet of saturated paper, that was my to do list! Oh well.&#xA;The cats were either bounding across my desk to get to the window and look at the snow. Or they were just chasing each other around as usual.</description>
     </item>
     <item>
       <title>Reflections on 2023</title>
-      <link>https://mattischrome.com/posts/reflections-2023/</link>
+      <link>http://localhost:1313/posts/reflections-2023/</link>
       <pubDate>Tue, 02 Jan 2024 22:13:40 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/reflections-2023/</guid>
+      <guid>http://localhost:1313/posts/reflections-2023/</guid>
       <description>Travel In 2023, it was Germany or go home.&#xA;Went to Cologne in January. Here is photographic evidence:&#xA;We took the Eurostar via Brussels. A bit of a long day on the way back but much less stressful compared to flying.&#xA;We went to the Isle of Wight in June. It was the first time I&amp;rsquo;d been since I was about 8. This time I didn&amp;rsquo;t get Chicken Pox. Anyway, here is photographic evidence:</description>
     </item>
     <item>
+      <title>How random should things be?</title>
+      <link>http://localhost:1313/posts/how-random-should-things-be/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/how-random-should-things-be/</guid>
+      <description>I&amp;rsquo;ve managed to extract my music library, including all the albums I&amp;rsquo;ve added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for Goldfrapp&amp;rsquo;s Black Cherry.&#xA;But I have to level with you.</description>
+    </item>
+    <item>
+      <title>A list for &#39;23</title>
+      <link>http://localhost:1313/posts/a-list-for-23/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a-list-for-23/</guid>
+      <description>A set of rules for living from now on (in no particular order)&#xA;Life is too short to look at adverts. Avoid them where possible. Block them if you have to. Embrace risk and chance, as they have contributed the most to where you are now. Intervene into physical things and leave your mark upon them. Draw pictures on the blank pages of books, even if they are dear to you.</description>
+    </item>
+    <item>
       <title>Come back to us Brother Matthew</title>
-      <link>https://mattischrome.com/posts/come-back-to-us-brother-matthew/</link>
+      <link>http://localhost:1313/posts/come-back-to-us-brother-matthew/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/come-back-to-us-brother-matthew/</guid>
+      <guid>http://localhost:1313/posts/come-back-to-us-brother-matthew/</guid>
       <description>As with most years, I had hoped to start off 2023 with a flurry of new blog posts. Instead I caught Covid, which knocked me out for most of &amp;lsquo;betweenmas&amp;rsquo; and put paid to my hopes for a productive start to the year. At the time of writing this post, I only just feel like I have begun to get back to &amp;rsquo;normal&amp;rsquo;, or at least as normal as things have been since 2020.</description>
     </item>
     <item>
       <title>The paths in the wood</title>
-      <link>https://mattischrome.com/posts/the-paths-in-the-wood/</link>
+      <link>http://localhost:1313/posts/the-paths-in-the-wood/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-paths-in-the-wood/</guid>
+      <guid>http://localhost:1313/posts/the-paths-in-the-wood/</guid>
       <description>I began writing this post after realising that it is the first of June and I might as well attempt once more to write a post every day. The speed with which the first of the month comes around, inviting another such promise, always amuses me. But at the moment I am not sure whether this blog will still exist come the end of the month. I think I want to start again in pastures new.</description>
     </item>
     <item>
       <title>Jab 2</title>
-      <link>https://mattischrome.com/posts/jab-two/</link>
+      <link>http://localhost:1313/posts/jab-two/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/jab-two/</guid>
+      <guid>http://localhost:1313/posts/jab-two/</guid>
       <description>I was due to have my second vaccination today, but like most people I rebooked to have it a bit earlier. No real side effects this time, save for a bit of malaise. Though that may have just been the thought of opening up the country when cases are still increasing quickly.&#xA;It goes without saying that I&amp;rsquo;d urge everyone to get vaccinated and then to keep turning up for whatever boosters the people protecting us (e.</description>
     </item>
     <item>
       <title>Jab 1</title>
-      <link>https://mattischrome.com/posts/jab-one/</link>
+      <link>http://localhost:1313/posts/jab-one/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/jab-one/</guid>
+      <guid>http://localhost:1313/posts/jab-one/</guid>
       <description>I had my first Covid-19 vaccination on Friday. Leading up to it, I was borderline having a panic attack. From about lunchtime I was just all over the shop (the jab was at 7pm). I&amp;rsquo;m glad that the vaccination centres run with such exactitude, but also with a sense of cheeriness. By the time I&amp;rsquo;d had the jab, I was feeling much better just from the sheer relief of it.</description>
     </item>
     <item>
       <title>Some Tips For Saving Time</title>
-      <link>https://mattischrome.com/posts/some-tips-for-saving-time/</link>
+      <link>http://localhost:1313/posts/some-tips-for-saving-time/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/some-tips-for-saving-time/</guid>
+      <guid>http://localhost:1313/posts/some-tips-for-saving-time/</guid>
       <description>A non-exhaustive list of ideas for saving time:&#xA;Delete your social media, and perhaps any other website or app that demands that you consume it rather than create with it. Another way to think of it: all these sites and apps transform your time in to one thing or another, what are the most valuable products of that time? In general, Facebook products are designed to transform your time into greater awareness of companies who would like you or your friends to buy their products.</description>
     </item>
     <item>
       <title>The Forever Now</title>
-      <link>https://mattischrome.com/posts/the-forever-now/</link>
+      <link>http://localhost:1313/posts/the-forever-now/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-forever-now/</guid>
+      <guid>http://localhost:1313/posts/the-forever-now/</guid>
       <description>Writing this post came about from frustration with blogging. Specifically the tools I am using. Often it feels like a new language or paradigm comes along that shifts one or two of the pain points of blogging. The biggest are:&#xA;How long it takes to get a post on the internet once you’ve written it The reliability of the resulting website How good the resulting website looks Note that none of this really impacts the quality of the writing.</description>
     </item>
     <item>
       <title>Old photographs</title>
-      <link>https://mattischrome.com/posts/old-photographs/</link>
+      <link>http://localhost:1313/posts/old-photographs/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/old-photographs/</guid>
+      <guid>http://localhost:1313/posts/old-photographs/</guid>
       <description>Recently I&amp;rsquo;ve had cause to dig out some old photos. If I&amp;rsquo;m honest it&amp;rsquo;s made me sad. Sadder than I was expecting. There&amp;rsquo;s a quote from Nan Goldin that once felt like a warning but now just sounds like a sad statement of ongoing affairs:&#xA;“I used to think that I could never lose anyone if I photographed them enough. In fact, my pictures show me how much I’ve lost.”</description>
     </item>
     <item>
       <title>Travel Writing After All This</title>
-      <link>https://mattischrome.com/posts/travel-writing-after-all-this/</link>
+      <link>http://localhost:1313/posts/travel-writing-after-all-this/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/travel-writing-after-all-this/</guid>
+      <guid>http://localhost:1313/posts/travel-writing-after-all-this/</guid>
       <description>While sprucing up this blog a bit during lockdown, I fell into reading my old posts about South America. I enjoyed it, mostly for the memories, but also because the current lockdown is warping my sense of time and space. Hours feel like weeks, but then I blink and a month&amp;rsquo;s gone by. I find myself traipsing similar orbits each day around the house, and then perhaps over to the supermarket or the park.</description>
     </item>
     <item>
       <title>Three Years</title>
-      <link>https://mattischrome.com/posts/three-years/</link>
+      <link>http://localhost:1313/posts/three-years/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/three-years/</guid>
+      <guid>http://localhost:1313/posts/three-years/</guid>
       <description>Three years ago today I moved in to my little flat in Chichester, soon to start a new job. I had no money left but at least, after a character building stint of six months sleeping on the floor, I had a bed. In the intervening three years, my job role has expanded, I&amp;rsquo;ve done another degree, the flat has become a home, and I&amp;rsquo;ve met and married Ingrid. Add to that the fact that it&amp;rsquo;s almost four years since I left for South America and I start to realise that I&amp;rsquo;ve done a crazy amount of things in that time.</description>
     </item>
     <item>
       <title>The same, but different</title>
-      <link>https://mattischrome.com/posts/the-same-yet-different/</link>
+      <link>http://localhost:1313/posts/the-same-yet-different/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-same-yet-different/</guid>
+      <guid>http://localhost:1313/posts/the-same-yet-different/</guid>
       <description>Ingrid and I got married a month ago. It was a lovely day. We had a simple ceremony with two witnesses, our friends Sue and Andrew. We kept it quiet and small, as we just wanted to be married without too much fuss. A month on, we&amp;rsquo;re happy to report that we are glad we did it.&#xA;We&amp;rsquo;d like to thank everyone who nonetheless sent cards and gifts, and to all of those who wished us well on Facebook.</description>
     </item>
     <item>
       <title>Happy New Year 2015!</title>
-      <link>https://mattischrome.com/posts/happy-new-year-for-2015/</link>
+      <link>http://localhost:1313/posts/happy-new-year-for-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/happy-new-year-for-2015/</guid>
+      <guid>http://localhost:1313/posts/happy-new-year-for-2015/</guid>
       <description>Just a brief message to wish everyone a happy new year. Getting my flat connected to the internet continues to be a trial so it&amp;rsquo;s still not as easy to post as I would like. However, I have some workarounds now and I hope to write (and post) more often from now on.&#xA;Like everyone I make resolutions at this time of year, though as the years pass I realise that the best resolutions are to apopt a new way of being rather than a new way of doing.</description>
     </item>
     <item>
       <title>October and November 2014</title>
-      <link>https://mattischrome.com/posts/october-november-2014/</link>
+      <link>http://localhost:1313/posts/october-november-2014/</link>
       <pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/october-november-2014/</guid>
+      <guid>http://localhost:1313/posts/october-november-2014/</guid>
       <description>I recently started a new job and moved in to a new flat. This means I&amp;rsquo;m too busy to write any long blog posts at the moment. Also I&amp;rsquo;m still not quite at home there, so I tend to spend my evenings tidying up or setting up new things. It&amp;rsquo;s a shame because I have plenty of things to write about (even without observations on moving, starting a new job, etc) but I guess the writing will happen eventually&amp;hellip;</description>
     </item>
     <item>
       <title>Whatever Happened To That Hat?</title>
-      <link>https://mattischrome.com/posts/whatever-happened-to-that-hat/</link>
+      <link>http://localhost:1313/posts/whatever-happened-to-that-hat/</link>
       <pubDate>Thu, 03 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/whatever-happened-to-that-hat/</guid>
+      <guid>http://localhost:1313/posts/whatever-happened-to-that-hat/</guid>
       <description>The hat in question is a Wilco baseball cap that I bought at a gig of theirs in 2004, the night that Germany got eliminated from Euro 2004. I&amp;rsquo;d love to show you a picture of it but I can&amp;rsquo;t, there isn&amp;rsquo;t even a picture of it from a Wilco merch site: at least not one that Google or Bing images can see anyway. I did manage to find a side-on picture of it in my bedroom in 2005 and zoom right in on it like they do in CSI.</description>
     </item>
     <item>
       <title>The Reset Button</title>
-      <link>https://mattischrome.com/posts/the-reset-button/</link>
+      <link>http://localhost:1313/posts/the-reset-button/</link>
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-reset-button/</guid>
+      <guid>http://localhost:1313/posts/the-reset-button/</guid>
       <description>Previously on&amp;hellip; I planned this post as a follow-up to one called The Truth About Work from a couple of months ago, but a few things happened that changed my thinking. It has implications for my future and in particular, it redefines what this break from work and upcoming trip means to me.&#xA;One of the punchlines to &amp;ldquo;The Truth About Work&amp;rdquo; was that, sometimes, the only way to move ahead is to quit.</description>
     </item>
     <item>
       <title>The Truth About Work</title>
-      <link>https://mattischrome.com/posts/the-truth-about-work/</link>
+      <link>http://localhost:1313/posts/the-truth-about-work/</link>
       <pubDate>Wed, 14 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-truth-about-work/</guid>
+      <guid>http://localhost:1313/posts/the-truth-about-work/</guid>
       <description>Motivation and Lies Motivation is a fickle thing. You can see it in action here on this blog, or rather in inaction as there are often &amp;ldquo;droughts&amp;rdquo; between posts (and draughts between drafts&amp;hellip;). Back in June I tried to write a post each day that had a title of the form &amp;ldquo;X and Y&amp;rdquo;. I was overambitious and they petered out after a bit. This was one of those posts and was originally titled &amp;ldquo;Motivation and Lies&amp;rdquo; in melodramatic fashion.</description>
     </item>
     <item>
       <title>Five Things To Try When You Can&#39;t Sleep</title>
-      <link>https://mattischrome.com/posts/five-things-to-try-when-you-cant-sleep/</link>
+      <link>http://localhost:1313/posts/five-things-to-try-when-you-cant-sleep/</link>
       <pubDate>Tue, 05 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/five-things-to-try-when-you-cant-sleep/</guid>
+      <guid>http://localhost:1313/posts/five-things-to-try-when-you-cant-sleep/</guid>
       <description>Facebook is wonderful for keeping in touch but I’ve noticed that quite a few of my friends tend to use it to tell the world that they can’t sleep. Here’s some advice for you if you find yourself unable to sleep one night. I’ve often had to try these out myself! Note that these are just things that work for me and your mileage may vary, particularly if you are fortunate enough to have a partner next to you!</description>
     </item>
     <item>
       <title>Tales From Home</title>
-      <link>https://mattischrome.com/posts/tales-from-home/</link>
+      <link>http://localhost:1313/posts/tales-from-home/</link>
       <pubDate>Fri, 24 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/tales-from-home/</guid>
+      <guid>http://localhost:1313/posts/tales-from-home/</guid>
       <description>A question of identity Three letters for Dad in the mail today, three variations on our surname including the aquatic Dory version and the lesser-spotted Dorny. It is perhaps best not to go back to the time he was accidentally listed in the Thompson directory as Mr. Dopey, bringing forth prank calls from all teenagers within a ten mile radius. Fortunately, Dr. Dorey doesn’t have this problem with his mail: he doesn’t get any.</description>
     </item>
     <item>
       <title>The Setback</title>
-      <link>https://mattischrome.com/posts/the-setback/</link>
+      <link>http://localhost:1313/posts/the-setback/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-setback/</guid>
+      <guid>http://localhost:1313/posts/the-setback/</guid>
       <description>Since the run there has been a bit of a hiatus in this blog. I wrote about how running was making me feel better. In fact, I should have said more. I recently stopped taking the antidepressants that I had been taking for eighteen months. This has been my longest period taking such medication but the running made me feel sufficiently good to decide that I could stop taking them.</description>
     </item>
     <item>
       <title>Movember 10K</title>
-      <link>https://mattischrome.com/posts/movember-10k/</link>
+      <link>http://localhost:1313/posts/movember-10k/</link>
       <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/movember-10k/</guid>
+      <guid>http://localhost:1313/posts/movember-10k/</guid>
       <description>So, Saturday. Finally. The big day. Would I a) be able to get to Greenwich in time for the registration? and b) be able to make it all the way around the course without collapsing and crying?&#xA;Happily the answer to both questions was a resounding “Yes!” and I really enjoyed it. The weather was really good, especially compared to the two days before hand, and Marc came along to take some brilliant photos.</description>
     </item>
   </channel>

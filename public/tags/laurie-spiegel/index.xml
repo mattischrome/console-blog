@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laurie Spiegel on mattischrome</title>
-    <link>https://mattischrome.com/tags/laurie-spiegel/</link>
+    <link>http://localhost:1313/tags/laurie-spiegel/</link>
     <description>Recent content in Laurie Spiegel on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 05 Mar 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/laurie-spiegel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/laurie-spiegel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Work Of Art At The End Of My Road?</title>
-      <link>https://mattischrome.com/posts/a-work-of-art-at-the-end-of-my-road/</link>
+      <link>http://localhost:1313/posts/a-work-of-art-at-the-end-of-my-road/</link>
       <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/a-work-of-art-at-the-end-of-my-road/</guid>
+      <guid>http://localhost:1313/posts/a-work-of-art-at-the-end-of-my-road/</guid>
       <description>I have had a lot of ideas for posts swirling around in my head in recent days. This is because I have actually done quite a lot of cool things in that time, and because I have hung out with some great people who make me think, and because I always have a whole load of things bouncing around in there anyway - space junk of the mind. I was thinking about how to put together these thoughts I have been having about art and about stories and yes, about love too.</description>
     </item>
     <item>
       <title>Album Digest, October 2012</title>
-      <link>https://mattischrome.com/posts/album-digest-october-2012/</link>
+      <link>http://localhost:1313/posts/album-digest-october-2012/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-october-2012/</guid>
+      <guid>http://localhost:1313/posts/album-digest-october-2012/</guid>
       <description>It has been a strange month and I found that I didn’t listen to a lot of new music. I have been a bit down and when that’s the case I tend to take refuge in music that I know well, stuff that cheers me up. I have listened to last month’s fave a lot, Nelly Furtado’s “The Spirit Indestructible”. I said a lot of nice things about it but it probably didn’t come over in my writing just how much I really liked it.</description>
     </item>
   </channel>

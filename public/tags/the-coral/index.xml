@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Coral on mattischrome</title>
-    <link>https://mattischrome.com/tags/the-coral/</link>
+    <link>http://localhost:1313/tags/the-coral/</link>
     <description>Recent content in The Coral on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 29 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/the-coral/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/the-coral/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understated Classics #36: The Coral by The Coral</title>
-      <link>https://mattischrome.com/posts/understated-classics-36/</link>
+      <link>http://localhost:1313/posts/understated-classics-36/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/understated-classics-36/</guid>
+      <guid>http://localhost:1313/posts/understated-classics-36/</guid>
       <description>Perhaps in today&amp;rsquo;s modern age of streaming and such, The Coral would be a bigger band and may have survived their eventual burnout. Their work ethic was evident from the start, as rumours swirled in the NME about a fantastic new band from Liverpool who were going to blow everybody&amp;rsquo;s socks off. I went to see them live in Bristol after they&amp;rsquo;d released three EPs and they were incredible. Their sound, a bit like the movie &amp;ldquo;Holy Mountain&amp;rdquo; set to pop music, imagined a Merseybeat channelled from an alternative universe in which Lennon and McCartney took their acid in the Mojave desert rather than in the English suburbs.</description>
     </item>
   </channel>

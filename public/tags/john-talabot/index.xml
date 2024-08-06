@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Talabot on mattischrome</title>
-    <link>https://mattischrome.com/tags/john-talabot/</link>
+    <link>http://localhost:1313/tags/john-talabot/</link>
     <description>Recent content in John Talabot on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 28 Feb 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/john-talabot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/john-talabot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, February 2012</title>
-      <link>https://mattischrome.com/posts/album-digest-february-2012/</link>
+      <link>http://localhost:1313/posts/album-digest-february-2012/</link>
       <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-february-2012/</guid>
+      <guid>http://localhost:1313/posts/album-digest-february-2012/</guid>
       <description>One EP and three albums for Album Digest February 2012:&#xA;Burial Kindred EP John Talabot fIN Lilacs &amp;amp; Champagne Lilacs &amp;amp; Champagne The 2 Bears Be Strong Last February was a pretty good month for song based albums, although the likes of Radiohead and James Blake provided plenty of electronic noodling in and around their song structures. (Interestingly, out of the two out-and-out song based albums, one was one of the worst albums of the year and the other one of the best).</description>
     </item>
   </channel>

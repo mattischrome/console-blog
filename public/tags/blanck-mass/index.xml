@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blanck Mass on mattischrome</title>
-    <link>https://mattischrome.com/tags/blanck-mass/</link>
+    <link>http://localhost:1313/tags/blanck-mass/</link>
     <description>Recent content in Blanck Mass on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 31 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/blanck-mass/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/blanck-mass/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, March 2017</title>
-      <link>https://mattischrome.com/posts/album-digest-march-2017/</link>
+      <link>http://localhost:1313/posts/album-digest-march-2017/</link>
       <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-march-2017/</guid>
+      <guid>http://localhost:1313/posts/album-digest-march-2017/</guid>
       <description>Blanck Mass World Eater This album is pretty extreme. It&amp;rsquo;s not for everyone and even for the people who can handle it, it&amp;rsquo;s not for all the time. This album is a soul crushing experience at points but there are also points of light. Perhaps this makes “World Eater” more reflective of life as a whole than any other of this month&amp;rsquo;s albums. On balance it&amp;rsquo;s probably less crushing than the last Blanck Mass album “Dumb Flesh”, which I reviewed back in June 2015.</description>
     </item>
     <item>
       <title>Album Digest, June 2015</title>
-      <link>https://mattischrome.com/posts/album-digest-june-2015/</link>
+      <link>http://localhost:1313/posts/album-digest-june-2015/</link>
       <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-june-2015/</guid>
+      <guid>http://localhost:1313/posts/album-digest-june-2015/</guid>
       <description>To reboot this series, Album Digest June 2015 features five fantastic albums from Hot Chip, Jamie xx, Blanck Mass, Holly Herndon, and The Orb. I could pick loads more as I&amp;rsquo;ve listened to a lot of albums since February but I decided to focus on the more electronic material. This means that I have no excuses for not continuing next month with a rockier theme.&#xA;Hot Chip &amp;ldquo;Why Make Sense?&amp;rdquo; Hot Chip seem to be settling in to a pattern with their album releases, alternating between messy experimental affairs and then a state of the art correction.</description>
     </item>
   </channel>
