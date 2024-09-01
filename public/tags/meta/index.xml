@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta on mattischrome</title>
-    <link>http://localhost:1313/tags/meta/</link>
+    <link>https://mattischrome.com/tags/meta/</link>
     <description>Recent content in Meta on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 05 Aug 2024 21:30:31 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The new look mattischrome</title>
-      <link>http://localhost:1313/posts/new-look-mattischrome/</link>
+      <link>https://mattischrome.com/posts/new-look-mattischrome/</link>
       <pubDate>Mon, 05 Aug 2024 21:30:31 +0100</pubDate>
-      <guid>http://localhost:1313/posts/new-look-mattischrome/</guid>
+      <guid>https://mattischrome.com/posts/new-look-mattischrome/</guid>
       <description>Welcome to the new look for my blog. I&amp;rsquo;ve had my eye on a more minimal look for a while now. Whether this new look is successful or not depends on how often I write new posts. To that end, this theme also supports a separate (or almost separate) stream of photos. Once I&amp;rsquo;ve got back in to the habit of putting photos up, that should be a nice additional stream of content.</description>
     </item>
     <item>
       <title>2023 Albums of the Year Preview</title>
-      <link>http://localhost:1313/posts/albums-of-the-year-preview/</link>
+      <link>https://mattischrome.com/posts/albums-of-the-year-preview/</link>
       <pubDate>Thu, 21 Dec 2023 18:35:06 +0000</pubDate>
-      <guid>http://localhost:1313/posts/albums-of-the-year-preview/</guid>
+      <guid>https://mattischrome.com/posts/albums-of-the-year-preview/</guid>
       <description>Another year (nearly) over and so starting from tomorrow, I&amp;rsquo;m going to count down my top 10 albums of 2023. The rules are:&#xA;They have to have to have been released in 2023. They need to be albums. I&amp;rsquo;m defining this as either more than 7 tracks or songs, or more than forty minutes in length. To make the top ten, they need to have been played the most times. I admit that I don&amp;rsquo;t have a precise measure of this, as I do still buy vinyl and about four of these albums will have had play counts missed by not being captured through a streaming service.</description>
     </item>
   </channel>

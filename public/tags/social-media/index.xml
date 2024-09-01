@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Media on mattischrome</title>
-    <link>http://localhost:1313/tags/social-media/</link>
+    <link>https://mattischrome.com/tags/social-media/</link>
     <description>Recent content in Social Media on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 18 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Time Is Time and That Is That</title>
-      <link>http://localhost:1313/posts/time-is-time-and-that-is-that/</link>
+      <link>https://mattischrome.com/posts/time-is-time-and-that-is-that/</link>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/time-is-time-and-that-is-that/</guid>
+      <guid>https://mattischrome.com/posts/time-is-time-and-that-is-that/</guid>
       <description>A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.&#xA;So why does Facebook feel the need to jiggle things about into a random order? Well most of you have that mobile phone app of theirs that sucks your battery and your data allowance like crazy (mainly by auto-playing videos like a dick).</description>
     </item>
   </channel>

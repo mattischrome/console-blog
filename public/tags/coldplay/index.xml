@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coldplay on mattischrome</title>
-    <link>http://localhost:1313/tags/coldplay/</link>
+    <link>https://mattischrome.com/tags/coldplay/</link>
     <description>Recent content in Coldplay on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 31 May 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/coldplay/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/coldplay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, May 2014</title>
-      <link>http://localhost:1313/posts/album-digest-may-2014/</link>
+      <link>https://mattischrome.com/posts/album-digest-may-2014/</link>
       <pubDate>Sat, 31 May 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-may-2014/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-may-2014/</guid>
       <description>This month was strange. I didn’t listen to much new music and after last month’s bumper digest there’s probably a reason for that. Not to mention that Spotify gives you more reasons to look backwards than forwards. Nevertheless, this brief post features new albums by Little Dragon and Coldplay, along with the mini-album collaboration between Röyskopp and Robyn.&#xA;Little Dragon “Nabuma Rubberband” I discovered Little Dragon, like most people, I imagine, via Gorillaz’ “Plastic Beach” album.</description>
     </item>
     <item>
       <title>Album Digest, October 2011</title>
-      <link>http://localhost:1313/posts/album-digest-october-2011/</link>
+      <link>https://mattischrome.com/posts/album-digest-october-2011/</link>
       <pubDate>Mon, 31 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-october-2011/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-october-2011/</guid>
       <description>This month we have albums by Björk, Coldplay, M83, and Radiohead.&#xA;Album Digest October 2011 - Intro I listened to Wilco’s The Whole Love again the other day. I happened to be walking past the venue in Portsmouth where I went to see them live back in 2004 and it seemed the right fit. I really enjoyed the album after a period of not having listened to it and I found that being familiar with the songs allowed me to better appreciate the production of the album.</description>
     </item>
   </channel>

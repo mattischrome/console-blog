@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keyboard on mattischrome</title>
-    <link>http://localhost:1313/tags/keyboard/</link>
+    <link>https://mattischrome.com/tags/keyboard/</link>
     <description>Recent content in Keyboard on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 09 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Logitech K380 Review</title>
-      <link>http://localhost:1313/posts/logitech-k380-review/</link>
+      <link>https://mattischrome.com/posts/logitech-k380-review/</link>
       <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/logitech-k380-review/</guid>
+      <guid>https://mattischrome.com/posts/logitech-k380-review/</guid>
       <description>Time for a little gear review. This is the Logitech K380 keyboard. It pairs with devices wirelessly over Bluetooth. I bought it to use with my Apple TV, iPad and iPhone. It runs on 2 AAA batteries, but the supplied batteries are not rechargeable. The keyboard is light and portable but you definitely know you have it in your bag.&#xA;It&amp;rsquo;s lovely to type on. For a go-anywhere keyboard it has a surprisingly nice feel to the keys.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentary on mattischrome</title>
-    <link>http://localhost:1313/tags/documentary/</link>
+    <link>https://mattischrome.com/tags/documentary/</link>
     <description>Recent content in Documentary on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 27 Mar 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/documentary/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/documentary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jodorowsky&#39;s Dune</title>
-      <link>http://localhost:1313/posts/jodorowskys-dune/</link>
+      <link>https://mattischrome.com/posts/jodorowskys-dune/</link>
       <pubDate>Fri, 27 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jodorowskys-dune/</guid>
+      <guid>https://mattischrome.com/posts/jodorowskys-dune/</guid>
       <description>Jodorowsky&amp;rsquo;s Dune is a documentary about outlandish Chilean director Alejandro Jodorosky&amp;rsquo;s attempt at a film adaptation of Frank Herbert&amp;rsquo;s Dune in the 1970s. As a big fan of the novel and of science fiction in general, I was very interested in this film. It does not disappoint. It gives a great insight into the mind of a little known (if slightly batty) director and shows even an artistic failure can lead to shock waves that can be felt in later work by others.</description>
     </item>
     <item>
       <title>Dreams Of A Life: A Short Review</title>
-      <link>http://localhost:1313/posts/dreams-of-a-life-a-short-review/</link>
+      <link>https://mattischrome.com/posts/dreams-of-a-life-a-short-review/</link>
       <pubDate>Thu, 05 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dreams-of-a-life-a-short-review/</guid>
+      <guid>https://mattischrome.com/posts/dreams-of-a-life-a-short-review/</guid>
       <description>Dreams Of A Life is a documentary about Joyce Vincent, a woman who was found in her flat three years after her death surrounded by wrapped christmas presents and with the TV still on. £2400 in arrears on her rent, she was discovered by bailiffs who forced the door down. The film attempts to work out happened to Joyce by interviewing people who knew her. In two other strands that unfold in parallel, various events from her life are re-enacted along with the clearing of her flat by forensics officers.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clarice Lispector on mattischrome</title>
-    <link>http://localhost:1313/tags/clarice-lispector/</link>
+    <link>https://mattischrome.com/tags/clarice-lispector/</link>
     <description>Recent content in Clarice Lispector on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 17 Aug 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/clarice-lispector/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/clarice-lispector/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clarice Lispector, Hour of the Star</title>
-      <link>http://localhost:1313/posts/hour-of-the-star-by-clarice-lispector/</link>
+      <link>https://mattischrome.com/posts/hour-of-the-star-by-clarice-lispector/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hour-of-the-star-by-clarice-lispector/</guid>
+      <guid>https://mattischrome.com/posts/hour-of-the-star-by-clarice-lispector/</guid>
       <description>Hour of the Star is a short novel by Clarice Lispector, a Ukrainian-born Brazilian author with an interesting life story. This is her last novel and is a remarkable book: inventive, funny, and sad, all at once. I found it in a special selection at the local library dedicated to Brazil because of the World Cup.&#xA;First some biography. Born Chaya Lispector in Chechelnyk, Ukraine, in 1920, her family escaped the pogroms and emigrated to Brazil in 1922.</description>
     </item>
   </channel>

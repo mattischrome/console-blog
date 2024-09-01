@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on mattischrome</title>
-    <link>http://localhost:1313/tags/programming/</link>
+    <link>https://mattischrome.com/tags/programming/</link>
     <description>Recent content in Programming on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The paths in the wood</title>
-      <link>http://localhost:1313/posts/the-paths-in-the-wood/</link>
+      <link>https://mattischrome.com/posts/the-paths-in-the-wood/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-paths-in-the-wood/</guid>
+      <guid>https://mattischrome.com/posts/the-paths-in-the-wood/</guid>
       <description>I began writing this post after realising that it is the first of June and I might as well attempt once more to write a post every day. The speed with which the first of the month comes around, inviting another such promise, always amuses me. But at the moment I am not sure whether this blog will still exist come the end of the month. I think I want to start again in pastures new.</description>
     </item>
     <item>
       <title>What is FFI anyway?</title>
-      <link>http://localhost:1313/posts/what-is-ffi-anyway/</link>
+      <link>https://mattischrome.com/posts/what-is-ffi-anyway/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/what-is-ffi-anyway/</guid>
+      <guid>https://mattischrome.com/posts/what-is-ffi-anyway/</guid>
       <description>At the moment I can’t compile this blog locally because my ruby-ffi install is somehow wrong and is preventing Jekyll from running on my recently upgraded Mac system. Fortunately the site still compiles on Netlify, or else you wouldn’t be reading this!&#xA;It’s always annoying when you rely on a complex multi-part system and some obscure part fails. It leaves you groping for answers and inventing unnecessary hack solutions. The dreaded old Stack Overflow rabbit hole.</description>
     </item>
     <item>
       <title>A Little Lesson in R</title>
-      <link>http://localhost:1313/posts/a-little-lesson-in-r/</link>
+      <link>https://mattischrome.com/posts/a-little-lesson-in-r/</link>
       <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-little-lesson-in-r/</guid>
+      <guid>https://mattischrome.com/posts/a-little-lesson-in-r/</guid>
       <description>I had to compute an indicator this week. It had confidence intervals that relied on taking 100,000 samples from the indicator&amp;rsquo;s approximate distribution. I had to repeat this over multiple GP practices and for twelve different demographic groups.&#xA;I decided to use dplyr1 because I thought it would help me organise all subgroups involved. I used mutate_at() heavily and thought that dplyr was keeping everything organised. However, when I moved from the 10 samples I&amp;rsquo;d used for testing to the 100,000 samples required by the specification of the indicator, my code moved to a crawl.</description>
     </item>
     <item>
       <title>Personal ggplot tips and tweaks</title>
-      <link>http://localhost:1313/posts/personal-ggplot-tips-and-tweaks/</link>
+      <link>https://mattischrome.com/posts/personal-ggplot-tips-and-tweaks/</link>
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/personal-ggplot-tips-and-tweaks/</guid>
+      <guid>https://mattischrome.com/posts/personal-ggplot-tips-and-tweaks/</guid>
       <description>I love making plots in R with ggplot. However, there are always a few niggles that I forget about between plots. I wrote this post so that I have somewhere to look the next time I need to tweak a few things in my plots. I intend to come back and add updates in the future as I learn more things. If I keep coming back, I might also remember a few of these too.</description>
     </item>
     <item>
       <title>Swaptastic Part 3: The Shiny App</title>
-      <link>http://localhost:1313/posts/swaptastic-part-3/</link>
+      <link>https://mattischrome.com/posts/swaptastic-part-3/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/swaptastic-part-3/</guid>
+      <guid>https://mattischrome.com/posts/swaptastic-part-3/</guid>
       <description>The shiny app embedded below allows you to explore the number of packets you need to complete the Panini sticker album for this summer&amp;rsquo;s Euro tournament. This builds on the results I presented in an [earlier post](link to earlier post) and allows you to explore how many fewer packets you need to buy when you have more friends to swap with. You can also vary the number of runs performed because the model runs considerably slower with more swappers involved.</description>
     </item>
     <item>
       <title>Swaptastic Part 2</title>
-      <link>http://localhost:1313/posts/swaptastic-part-2/</link>
+      <link>https://mattischrome.com/posts/swaptastic-part-2/</link>
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/swaptastic-part-2/</guid>
+      <guid>https://mattischrome.com/posts/swaptastic-part-2/</guid>
       <description>As a follow-up to my post about the Euro 2016 Panini Stickers, I&amp;rsquo;ve now completed the collection with the help of an online swapping site and by buying the last 39 stickers directly from Panini. I also managed to write a new simulator, this time with additional collectors involved.&#xA;I assume that each of N collectors will buy a packet of stickers and add any new stickers to their album. Then they attempt to swap any leftovers with the rest of their friends.</description>
     </item>
     <item>
       <title>Learn X in Y Minutes</title>
-      <link>http://localhost:1313/posts/learn-x-in-y-minutes/</link>
+      <link>https://mattischrome.com/posts/learn-x-in-y-minutes/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/learn-x-in-y-minutes/</guid>
+      <guid>https://mattischrome.com/posts/learn-x-in-y-minutes/</guid>
       <description>I found &amp;ldquo;Learn X in Y minutes&amp;rdquo; (www.learnxinyminutes.com) while researching the programming languages needed for a new project. The site aims to help people who know at least one programming language to learn others by proving a quick run through of the main language features. It&amp;rsquo;s not quite enough to get you up and running. After all, having sample code doesn&amp;rsquo;t get you the compiler. However, it&amp;rsquo;s a nice start that shows you how similar (and different) language X is compared to the one(s) you already know.</description>
     </item>
     <item>
       <title>Building Brains</title>
-      <link>http://localhost:1313/posts/building-brains/</link>
+      <link>https://mattischrome.com/posts/building-brains/</link>
       <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/building-brains/</guid>
+      <guid>https://mattischrome.com/posts/building-brains/</guid>
       <description>This is a longer form post about artificial intelligence inspired by reading a little bit of &amp;ldquo;The Pale King&amp;rdquo; by David Foster Wallace and putting a picture of a &amp;ldquo;ghost&amp;rdquo; up on Instagram. This might be the last of these that I&amp;rsquo;m able to write for a while.&#xA;On Not Reading &amp;ldquo;The Pale King&amp;rdquo; &amp;ldquo;The Pale King&amp;rdquo; is the third and final novel by American author David Foster Wallace. He was working on it when he committed suicide in 2008.</description>
     </item>
     <item>
       <title>Programming a Carcassonne Game</title>
-      <link>http://localhost:1313/posts/programming-a-carcassonne-game/</link>
+      <link>https://mattischrome.com/posts/programming-a-carcassonne-game/</link>
       <pubDate>Fri, 21 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/programming-a-carcassonne-game/</guid>
+      <guid>https://mattischrome.com/posts/programming-a-carcassonne-game/</guid>
       <description>Although I have put off finishing my UNO game for over eighteen months, I thought I would get started with another pet project of mine: making a Carcassonne game. This is not a serious affair, there is an excellent app of Carcassonne available for those of you who have iOS devices (it works particularly well on the iPad). The game just strikes me as having the right level of complexity to be a taxing yet attainable project.</description>
     </item>
     <item>
       <title>Programming an UNO game, part 2</title>
-      <link>http://localhost:1313/posts/programming-an-uno-game-part-2/</link>
+      <link>https://mattischrome.com/posts/programming-an-uno-game-part-2/</link>
       <pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/programming-an-uno-game-part-2/</guid>
+      <guid>https://mattischrome.com/posts/programming-an-uno-game-part-2/</guid>
       <description>It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.&#xA;The deck An UNO deck consists of four sets of coloured cards (red, yellow, green and blue) together with eight wild cards. The non-wild cards are marked with either numbers or special symbols. The numbers range from zero to nine with two of each number except for the zero, which is unique.</description>
     </item>
     <item>
       <title>Programming an UNO game</title>
-      <link>http://localhost:1313/posts/programming-an-uno-game/</link>
+      <link>https://mattischrome.com/posts/programming-an-uno-game/</link>
       <pubDate>Tue, 28 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/programming-an-uno-game/</guid>
+      <guid>https://mattischrome.com/posts/programming-an-uno-game/</guid>
       <description>A new year, a new hobby I don’t write about programming enough. This is a shame because it is a very interesting subject and I find that the problem solving aspects of programming are very satisfying. Keenly aware of the need to do more hobby programming and to get up to speed on areas of software development that I’ve been neglecting, I have decided to give myself the project of creating a computerised version of the UNO card game.</description>
     </item>
   </channel>

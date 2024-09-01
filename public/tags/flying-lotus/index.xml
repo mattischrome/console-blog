@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flying Lotus on mattischrome</title>
-    <link>http://localhost:1313/tags/flying-lotus/</link>
+    <link>https://mattischrome.com/tags/flying-lotus/</link>
     <description>Recent content in Flying Lotus on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 31 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/flying-lotus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/flying-lotus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, January 2015</title>
-      <link>http://localhost:1313/posts/album-digest-january-2015/</link>
+      <link>https://mattischrome.com/posts/album-digest-january-2015/</link>
       <pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-january-2015/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-january-2015/</guid>
       <description>Album Digest January 2015 rounds up a few albums from the tail end of 2014 that I didn&amp;rsquo;t get much time to write about. The only one of these six to be released this month is the excellent &amp;ldquo;No Cities To Love&amp;rdquo; by Sleater-Kinney.&#xA;Sleater-Kinney &amp;ldquo;No Cities To Love&amp;rdquo; I had heard of Sleater-Kinney before their boxed set “Start Together” was released in 2014. I was quite impressed that they curated their own Spotify playlist with the contents of the box.</description>
     </item>
   </channel>

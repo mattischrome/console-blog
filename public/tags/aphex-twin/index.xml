@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aphex Twin on mattischrome</title>
-    <link>http://localhost:1313/tags/aphex-twin/</link>
+    <link>https://mattischrome.com/tags/aphex-twin/</link>
     <description>Recent content in Aphex Twin on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 31 Jul 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/aphex-twin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/aphex-twin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, July 2016</title>
-      <link>http://localhost:1313/posts/album-digest-july-2016/</link>
+      <link>https://mattischrome.com/posts/album-digest-july-2016/</link>
       <pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-july-2016/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-july-2016/</guid>
       <description>Album Digest July 2016 consists of a bumper five albums, mainly because I couldn&amp;rsquo;t work out which one to drop. I think they&amp;rsquo;re all pretty good though it&amp;rsquo;s great to hear new music from The Avalanches after all this time.&#xA;Bat For Lashes &amp;ldquo;The Bride&amp;rdquo; For her fourth album as Bat For Lashes, Natasha Khan applies her considerable songwriting skills to a concept album. She sings from the perspective of a bride whose husband dies on his way to their wedding.</description>
     </item>
     <item>
       <title>Album Digest, February 2015</title>
-      <link>http://localhost:1313/posts/album-digest-february-2015/</link>
+      <link>https://mattischrome.com/posts/album-digest-february-2015/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-february-2015/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-february-2015/</guid>
       <description>Aphex Twin &amp;ldquo;Computer Controlled Acoustic Instruments Pt2 EP&amp;rdquo; Aphex Twin follows SYRO (reviewed in Album Digest September 2014 here) with this 27 minute EP of music that, if we take the title literally, features computers playing acoustic musical instruments. It&amp;rsquo;s a very different sound to SYRO and sounds acoustic for the most part. It&amp;rsquo;s an important experiment about the role of the musician, one that is already blurred in the creation of electronic music.</description>
     </item>
     <item>
       <title>Album Digest, September 2014</title>
-      <link>http://localhost:1313/posts/album-digest-september-2014/</link>
+      <link>https://mattischrome.com/posts/album-digest-september-2014/</link>
       <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-september-2014/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-september-2014/</guid>
       <description>Album Digest September 2014 contains four amazing albums, including the long-awaited return from the Aphex Twin, and an album from Cymbals Eat Guitars released about a week after I wondered what had happened to them. Spooky. Rounding out the selection this month are a cool punky-disco album by The Juan Maclean and a truly remarkable offering by Vessel.&#xA;Aphex Twin SYRO SYRO is the sixth album by Aphex Twin and his first official Aphex Twin release since Drukqs in 2001.</description>
     </item>
   </channel>
