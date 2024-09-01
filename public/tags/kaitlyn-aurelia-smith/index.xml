@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaitlyn Aurelia Smith on mattischrome</title>
-    <link>https://mattischrome.com/tags/kaitlyn-aurelia-smith/</link>
+    <link>http://localhost:1313/tags/kaitlyn-aurelia-smith/</link>
     <description>Recent content in Kaitlyn Aurelia Smith on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 15 Nov 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/kaitlyn-aurelia-smith/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/kaitlyn-aurelia-smith/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Will Make Room For You - Four Tet Remix</title>
-      <link>https://mattischrome.com/posts/i-will-make-room-for-you---four-tet-remix/</link>
+      <link>http://localhost:1313/posts/i-will-make-room-for-you---four-tet-remix/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/i-will-make-room-for-you---four-tet-remix/</guid>
+      <guid>http://localhost:1313/posts/i-will-make-room-for-you---four-tet-remix/</guid>
       <description>In a perfect confluence of last month&amp;rsquo;s album digest, here&amp;rsquo;s an excellent Four Tet remix of Kaitlyn Aurelia Smith&amp;rsquo;s &amp;ldquo;I Will Make Room For You&amp;rdquo; from her album &amp;ldquo;The Kid&amp;rdquo;. I&amp;rsquo;ve put it into a playlist with &amp;ldquo;Lush&amp;rdquo; from Four Tet&amp;rsquo;s &amp;ldquo;New Energy&amp;rdquo; album and the original version of &amp;ldquo;I Will Make Room For You.&amp;rdquo;&#xA;Enjoy!</description>
     </item>
     <item>
       <title>Album Digest, October 2017</title>
-      <link>https://mattischrome.com/posts/album-digest-october-2017/</link>
+      <link>http://localhost:1313/posts/album-digest-october-2017/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-october-2017/</guid>
+      <guid>http://localhost:1313/posts/album-digest-october-2017/</guid>
       <description>Mary Epworth &amp;ldquo;Elytral&amp;rdquo; This album came to my attention because its lead single &amp;ldquo;Me Swimming&amp;rdquo; appeared on my Discover Weekly playlist. I&amp;rsquo;d never heard of Mary before but this album was one of those nice discoveries that one sometimes makes when one tries to broaden what one listens to. The aforementioned &amp;ldquo;Me Swimming&amp;rdquo; is probably the best track, a beautiful slice of summery experimental pop layered over a beat that you can imagine as the kicks of a swimmer compared to the swirling lyric that imitates the pull of the strokes through the water.</description>
     </item>
     <item>
       <title>Album Digest, September 2016</title>
-      <link>https://mattischrome.com/posts/album-digest-september-2016/</link>
+      <link>http://localhost:1313/posts/album-digest-september-2016/</link>
       <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-september-2016/</guid>
+      <guid>http://localhost:1313/posts/album-digest-september-2016/</guid>
       <description>This month&amp;rsquo;s album digest features albums by Wilco, M.I.A., Local Natives, and a collaboration between Kaitlyn Aurelia Smith and Suzanne Ciani.&#xA;Wilco Schmilco Schmilco is the tenth studio album by Wilco, which regular readers will know are one of my favourite bands. There&amp;rsquo;s no need to repeat that anecdote about why this blog has the name that it does. Meanwhile, this album follows on from last year&amp;rsquo;s Star Wars and is probably the third Wilco album to have a jokey meta- kind of title.</description>
     </item>
   </channel>

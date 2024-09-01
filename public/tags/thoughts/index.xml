@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoughts on mattischrome</title>
-    <link>https://mattischrome.com/tags/thoughts/</link>
+    <link>http://localhost:1313/tags/thoughts/</link>
     <description>Recent content in Thoughts on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 09 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A list for &#39;23</title>
-      <link>https://mattischrome.com/posts/a-list-for-23/</link>
+      <link>http://localhost:1313/posts/a-list-for-23/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/a-list-for-23/</guid>
+      <guid>http://localhost:1313/posts/a-list-for-23/</guid>
       <description>A set of rules for living from now on (in no particular order)&#xA;Life is too short to look at adverts. Avoid them where possible. Block them if you have to. Embrace risk and chance, as they have contributed the most to where you are now. Intervene into physical things and leave your mark upon them. Draw pictures on the blank pages of books, even if they are dear to you.</description>
     </item>
     <item>
       <title>The paths in the wood</title>
-      <link>https://mattischrome.com/posts/the-paths-in-the-wood/</link>
+      <link>http://localhost:1313/posts/the-paths-in-the-wood/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-paths-in-the-wood/</guid>
+      <guid>http://localhost:1313/posts/the-paths-in-the-wood/</guid>
       <description>I began writing this post after realising that it is the first of June and I might as well attempt once more to write a post every day. The speed with which the first of the month comes around, inviting another such promise, always amuses me. But at the moment I am not sure whether this blog will still exist come the end of the month. I think I want to start again in pastures new.</description>
     </item>
   </channel>

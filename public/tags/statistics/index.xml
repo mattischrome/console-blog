@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics on mattischrome</title>
-    <link>https://mattischrome.com/tags/statistics/</link>
+    <link>http://localhost:1313/tags/statistics/</link>
     <description>Recent content in Statistics on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Am I caring for a naughty cat?</title>
-      <link>https://mattischrome.com/posts/am-i-caring-for-a-naughty-cat/</link>
+      <link>http://localhost:1313/posts/am-i-caring-for-a-naughty-cat/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/am-i-caring-for-a-naughty-cat/</guid>
+      <guid>http://localhost:1313/posts/am-i-caring-for-a-naughty-cat/</guid>
       <description>&amp;ldquo;He keeps biting me on the leg&amp;rdquo; says Ingrid one day as I mill around her desk during the new water cooler moment that is a comfort break on a Microsoft Teams call. I pat Martok, one of our cats, and he rubs up against me, pretending that he might nibble at me too.&#xA;I experience this regularly. It used to be at half five, then at five, and these days at half past four.</description>
     </item>
   </channel>

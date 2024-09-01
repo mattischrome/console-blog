@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>George Saunders on mattischrome</title>
-    <link>https://mattischrome.com/tags/george-saunders/</link>
+    <link>http://localhost:1313/tags/george-saunders/</link>
     <description>Recent content in George Saunders on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/george-saunders/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/george-saunders/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>George Saunders, Lincoln In The Bardo</title>
-      <link>https://mattischrome.com/posts/george-saunders-lincoln-in-the-bardo/</link>
+      <link>http://localhost:1313/posts/george-saunders-lincoln-in-the-bardo/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/george-saunders-lincoln-in-the-bardo/</guid>
+      <guid>http://localhost:1313/posts/george-saunders-lincoln-in-the-bardo/</guid>
       <description>I read this book on holiday in Belgium last year. Having forgotten to pack a novel I scoured almost every book in the Waterstones at St. Pancras station before settling on this Booker prize winning novel by George Saunders.&#xA;Lincoln in the Bardo fictionalises a period in Abraham Lincoln&amp;rsquo;s life immediately after the death of his son Willie. The story alternates between factual accounts of what happened at the time and the observations of ghosts in the graveyard where young Willie is buried.</description>
     </item>
   </channel>

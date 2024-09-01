@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Little Dragon on mattischrome</title>
-    <link>https://mattischrome.com/tags/little-dragon/</link>
+    <link>http://localhost:1313/tags/little-dragon/</link>
     <description>Recent content in Little Dragon on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 31 May 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/little-dragon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/little-dragon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, May 2014</title>
-      <link>https://mattischrome.com/posts/album-digest-may-2014/</link>
+      <link>http://localhost:1313/posts/album-digest-may-2014/</link>
       <pubDate>Sat, 31 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-may-2014/</guid>
+      <guid>http://localhost:1313/posts/album-digest-may-2014/</guid>
       <description>This month was strange. I didn’t listen to much new music and after last month’s bumper digest there’s probably a reason for that. Not to mention that Spotify gives you more reasons to look backwards than forwards. Nevertheless, this brief post features new albums by Little Dragon and Coldplay, along with the mini-album collaboration between Röyskopp and Robyn.&#xA;Little Dragon “Nabuma Rubberband” I discovered Little Dragon, like most people, I imagine, via Gorillaz’ “Plastic Beach” album.</description>
     </item>
   </channel>

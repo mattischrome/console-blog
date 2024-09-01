@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dune on mattischrome</title>
-    <link>https://mattischrome.com/tags/dune/</link>
+    <link>http://localhost:1313/tags/dune/</link>
     <description>Recent content in Dune on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 09 Sep 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/dune/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/dune/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frank Herbert, Dune</title>
-      <link>https://mattischrome.com/posts/dune/</link>
+      <link>http://localhost:1313/posts/dune/</link>
       <pubDate>Fri, 09 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/dune/</guid>
+      <guid>http://localhost:1313/posts/dune/</guid>
       <description>A week or so ago, I finished reading Dune by Frank Herbert. It tells the story of a revolution within a Galactic Empire that takes place on a harsh and unforgiving desert planet called Arrakis. One central theme is how destinies can be shaped despite being intertwined around many axes. Another is the importance of adaptation in the fight for survival.&#xA;I came to Dune via the David Lynch film and then the Sci-Fi Channel’s mini-series, which I was able to stream through LoveFilm.</description>
     </item>
   </channel>

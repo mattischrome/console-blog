@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Update on mattischrome</title>
-    <link>https://mattischrome.com/tags/update/</link>
+    <link>http://localhost:1313/tags/update/</link>
     <description>Recent content in Update on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 23 Apr 2019 21:14:22 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/update/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ambitions Revisited</title>
-      <link>https://mattischrome.com/posts/ambitions-revisited/</link>
+      <link>http://localhost:1313/posts/ambitions-revisited/</link>
       <pubDate>Tue, 23 Apr 2019 21:14:22 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/ambitions-revisited/</guid>
+      <guid>http://localhost:1313/posts/ambitions-revisited/</guid>
       <description>Back in 2012 I wrote a post listing my ambitions for the future. Well it&amp;rsquo;s the future now isn&amp;rsquo;t it? Almost. After all, I’m a whole new person now. Anyway it&amp;rsquo;s probably time to take stock. Have I achieved any of them? Have any of my ambitions changed? What&amp;rsquo;s replaced the things that I&amp;rsquo;ve decided not to worry about? What has come after the things I managed to do?&#xA;First off, here&amp;rsquo;s my justification for writing the list in the original post:</description>
     </item>
     <item>
       <title>Never Mind The Ballards</title>
-      <link>https://mattischrome.com/posts/never-mind-the-ballards/</link>
+      <link>http://localhost:1313/posts/never-mind-the-ballards/</link>
       <pubDate>Thu, 09 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/never-mind-the-ballards/</guid>
+      <guid>http://localhost:1313/posts/never-mind-the-ballards/</guid>
       <description>Ages ago I set out to write a post for each of JG Ballard’s novels. In fact it is the oldest post on this blog. Most of the novels (I don’t have the two autobiographical novels Empire Of The Sun or The Kindness Of Women and the late period novel Milennium People) are sat in a row on top of my broken bookshelf, part of the weight there that bowed outer frame of the unit and made the inner shelves collapse.</description>
     </item>
   </channel>

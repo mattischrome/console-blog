@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chemical Brothers on mattischrome</title>
-    <link>https://mattischrome.com/tags/chemical-brothers/</link>
+    <link>http://localhost:1313/tags/chemical-brothers/</link>
     <description>Recent content in Chemical Brothers on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 30 Apr 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/chemical-brothers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/chemical-brothers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, April 2012</title>
-      <link>https://mattischrome.com/posts/album-digest-april-2012/</link>
+      <link>http://localhost:1313/posts/album-digest-april-2012/</link>
       <pubDate>Mon, 30 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-april-2012/</guid>
+      <guid>http://localhost:1313/posts/album-digest-april-2012/</guid>
       <description>A mostly instrumental month with a comeback from Orbital, an excellent remix collection from Battles, an amazing movie documenting a live performance by the Chemical Brothers and Austin Wintory’s soundtrack to the game Journey.&#xA;Orbital Wonky Battles Dross Glop The Chemical Brothers Don’t Think Austin Wintory Journey (Original Soundtrack) Orbital Wonky I am quite keen on Orbital, though perhaps not as keen as I am on the similarly named Orb. I think I have got all the Orbital albums, mostly bought on eBay after the fact.</description>
     </item>
   </channel>

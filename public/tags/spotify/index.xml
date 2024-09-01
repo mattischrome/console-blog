@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spotify on mattischrome</title>
-    <link>https://mattischrome.com/tags/spotify/</link>
+    <link>http://localhost:1313/tags/spotify/</link>
     <description>Recent content in Spotify on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A pox on both their houses</title>
-      <link>https://mattischrome.com/posts/a-pox-on-both-their-houses/</link>
+      <link>http://localhost:1313/posts/a-pox-on-both-their-houses/</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/a-pox-on-both-their-houses/</guid>
+      <guid>http://localhost:1313/posts/a-pox-on-both-their-houses/</guid>
       <description>How hard is it to just listen to music these days?&#xA;Spotify has crammed in all sorts of crap in to the app lately. Lyric videos, those weird interactive art things that are turned on by default, podcasts (so many podcasts), Netflix tie-ins, and audiobooks. It wants to be the app that opens when you plug in your headphones (not that we’ll be doing that for much longer the way things are going).</description>
     </item>
     <item>
       <title>Adventures with Discover Weekly</title>
-      <link>https://mattischrome.com/posts/adventures-with-discover-weekly/</link>
+      <link>http://localhost:1313/posts/adventures-with-discover-weekly/</link>
       <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/adventures-with-discover-weekly/</guid>
+      <guid>http://localhost:1313/posts/adventures-with-discover-weekly/</guid>
       <description>Because I couldn&amp;rsquo;t find any albums coming out this month that I wanted to review for the album digest, I decided to let Spotify pick the albums to listen to. I listened to my algorithmically chosen Discover Weekly playlist one week and selected albums based on the songs that I liked the most. The album also had to be released in 2016. The selections are ones that got away.&#xA;I&amp;rsquo;ve done this before.</description>
     </item>
     <item>
       <title>An Initial Comparison of Apple Music and Spotify</title>
-      <link>https://mattischrome.com/posts/an-initial-comparison-of-apple-music-and-spotify/</link>
+      <link>http://localhost:1313/posts/an-initial-comparison-of-apple-music-and-spotify/</link>
       <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/an-initial-comparison-of-apple-music-and-spotify/</guid>
+      <guid>http://localhost:1313/posts/an-initial-comparison-of-apple-music-and-spotify/</guid>
       <description>My previous post about Apple Music was more a response to how it was presented at the WWDC Keynote rather than to the idea of Apple Music itself. I should have known better than to use that clickbait title. I knew I wasn&amp;rsquo;t writing about the product, more the flatness of its introduction (despite the names on show).&#xA;After a few days of living with it I thought I&amp;rsquo;d write about it and Spotify, so that it&amp;rsquo;s not just my snarky comments about the keynote that are on record here.</description>
     </item>
     <item>
       <title>You Can’t Just Switch Off Free</title>
-      <link>https://mattischrome.com/posts/you-cant-just-switch-off-free/</link>
+      <link>http://localhost:1313/posts/you-cant-just-switch-off-free/</link>
       <pubDate>Wed, 11 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/you-cant-just-switch-off-free/</guid>
+      <guid>http://localhost:1313/posts/you-cant-just-switch-off-free/</guid>
       <description>Ministry of Sound boss Lohan Presencer does the cry baby act in today&amp;rsquo;s Guardian, complaining that Spotify&amp;rsquo;s freemium model doesn&amp;rsquo;t allow him to bathe in a Scrooge McDuck style swimming pool of golden coins any more. The cat is out of the bag for streaming music now, and no matter how much music companies cry foul they can&amp;rsquo;t stop Spotify and their ilk, and there wouldn&amp;rsquo;t be pots of gold waiting for them even if they could.</description>
     </item>
   </channel>

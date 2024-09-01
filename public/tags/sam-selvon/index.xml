@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sam Selvon on mattischrome</title>
-    <link>https://mattischrome.com/tags/sam-selvon/</link>
+    <link>http://localhost:1313/tags/sam-selvon/</link>
     <description>Recent content in Sam Selvon on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 09 Apr 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/sam-selvon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sam-selvon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sam Selvon, The Lonely Londoners</title>
-      <link>https://mattischrome.com/posts/the-lonely-londoners/</link>
+      <link>http://localhost:1313/posts/the-lonely-londoners/</link>
       <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-lonely-londoners/</guid>
+      <guid>http://localhost:1313/posts/the-lonely-londoners/</guid>
       <description>The Lonely Londoners by Sam Selvon was written in 1956 and tells of the experiences of West Indian men moving to London for work. It has been described as the definitive novel about the experiences of the Windrush settlers. The narrative centres on a man named Moses who was one of the first to come to London and finds himself the first port of call for many subsequent immigrants:&#xA;It look to old Moses that he hardly have time to settle in the old Brit’n before all sorts of fellars start coming straight to his room in the Water when they land up in London from the West Indies, saying that so and so tell them that Moses is a good fellar to contact, that he would help them get place to stay and work to do.</description>
     </item>
   </channel>

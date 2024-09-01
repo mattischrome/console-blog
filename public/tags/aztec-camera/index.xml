@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aztec Camera on mattischrome</title>
-    <link>https://mattischrome.com/tags/aztec-camera/</link>
+    <link>http://localhost:1313/tags/aztec-camera/</link>
     <description>Recent content in Aztec Camera on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 13 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/aztec-camera/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/aztec-camera/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understated Classics #34: Stray by Aztec Camera</title>
-      <link>https://mattischrome.com/posts/understated-classics-34/</link>
+      <link>http://localhost:1313/posts/understated-classics-34/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/understated-classics-34/</guid>
+      <guid>http://localhost:1313/posts/understated-classics-34/</guid>
       <description>The next instalment in my understated classics series is &amp;quot;Stray&amp;quot; by Aztec Camera. Released in 1990, it features two hit singles and the cover is my favourite colour: green.&#xA;My angle for writing about “Stray” was that it was an album that I &amp;quot;caught&amp;quot; from my parents. I soon realised that I wrote about some of those already, for example “The Circle and the Square&amp;quot; by Red Box. Besides, I’m not sure that my parents liked this album that much.</description>
     </item>
   </channel>

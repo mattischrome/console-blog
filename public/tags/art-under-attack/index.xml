@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Art Under Attack on mattischrome</title>
-    <link>https://mattischrome.com/tags/art-under-attack/</link>
+    <link>http://localhost:1313/tags/art-under-attack/</link>
     <description>Recent content in Art Under Attack on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 12 Oct 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/art-under-attack/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/art-under-attack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Art Under Attack at Tate Britain</title>
-      <link>https://mattischrome.com/posts/art-under-attack-at-tate-britain/</link>
+      <link>http://localhost:1313/posts/art-under-attack-at-tate-britain/</link>
       <pubDate>Sat, 12 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/art-under-attack-at-tate-britain/</guid>
+      <guid>http://localhost:1313/posts/art-under-attack-at-tate-britain/</guid>
       <description>Today I went with a friend to see Tate Britain&amp;rsquo;s &amp;ldquo;Art Under Attack&amp;rdquo; show. It&amp;rsquo;s an interesting, if uneven, affair that entertains but doesn&amp;rsquo;t quite succeed in everything it attempts to do. The big word that you learn is iconoclasm: the act of attacking an object believed to represent particular beliefs. The show splits into two parts: ideological acts of iconoclasm committed against works of art in Britain and the work of British artists who embrace iconoclasm as a means for making art.</description>
     </item>
   </channel>

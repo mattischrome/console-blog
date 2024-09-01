@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Insomnia on mattischrome</title>
-    <link>https://mattischrome.com/tags/insomnia/</link>
+    <link>http://localhost:1313/tags/insomnia/</link>
     <description>Recent content in Insomnia on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 11 Sep 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/insomnia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/insomnia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A New Notebook</title>
-      <link>https://mattischrome.com/posts/new-notebook/</link>
+      <link>http://localhost:1313/posts/new-notebook/</link>
       <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/new-notebook/</guid>
+      <guid>http://localhost:1313/posts/new-notebook/</guid>
       <description>Witness the pressure of a new notebook. You sit at your desk, trying to get it started with an amazing piece of writing. Something worthy of that crisp new page. You want it to tumble out of you, fully formed and coherent. Something that justifies you abandoning the previous one. As though first drafts don&amp;rsquo;t exist. You cast yourself into the role of shaman, of seer - of someone gifted a prophetic vision.</description>
     </item>
     <item>
       <title>The Amber World</title>
-      <link>https://mattischrome.com/posts/the-amber-world/</link>
+      <link>http://localhost:1313/posts/the-amber-world/</link>
       <pubDate>Tue, 22 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-amber-world/</guid>
+      <guid>http://localhost:1313/posts/the-amber-world/</guid>
       <description>My earliest memory is waking up in Queen Alexandra hospital in Cosham after an operation on my ears. I must have been about four years old and it was the middle of the night. I was in a room on my own and the door was locked. It had been daylight only seconds before so I got out of the bed and walked to the window to look incredulously out at the amber world that lay beyond.</description>
     </item>
     <item>
       <title>Five Things To Try When You Can&#39;t Sleep</title>
-      <link>https://mattischrome.com/posts/five-things-to-try-when-you-cant-sleep/</link>
+      <link>http://localhost:1313/posts/five-things-to-try-when-you-cant-sleep/</link>
       <pubDate>Tue, 05 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/five-things-to-try-when-you-cant-sleep/</guid>
+      <guid>http://localhost:1313/posts/five-things-to-try-when-you-cant-sleep/</guid>
       <description>Facebook is wonderful for keeping in touch but I’ve noticed that quite a few of my friends tend to use it to tell the world that they can’t sleep. Here’s some advice for you if you find yourself unable to sleep one night. I’ve often had to try these out myself! Note that these are just things that work for me and your mileage may vary, particularly if you are fortunate enough to have a partner next to you!</description>
     </item>
   </channel>

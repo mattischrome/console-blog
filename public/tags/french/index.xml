@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>French on mattischrome</title>
-    <link>https://mattischrome.com/tags/french/</link>
+    <link>http://localhost:1313/tags/french/</link>
     <description>Recent content in French on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 05 Nov 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/french/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/french/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rust And Bone: A Short Review</title>
-      <link>https://mattischrome.com/posts/rust-and-bone-a-short-review/</link>
+      <link>http://localhost:1313/posts/rust-and-bone-a-short-review/</link>
       <pubDate>Mon, 05 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/rust-and-bone-a-short-review/</guid>
+      <guid>http://localhost:1313/posts/rust-and-bone-a-short-review/</guid>
       <description>So, two short reviews in a row. I had the day off work and went to see “Rust And Bone” this afternooon. It’s the new film by Jacques Audiard, who directed “A Prophet” – one of my favourite films of the last five years.&#xA;“Rust And Bone” is a love story about Ali, a sexually feckless security guard who is struggling to look after his young son on his own, and Stéphanie (played by second most beautiful woman in the world, Marion Cotillard), who is injured while working as a co-ordinator of killer whale displays at an ocenarium.</description>
     </item>
     <item>
       <title>Why I Love Betty Blue</title>
-      <link>https://mattischrome.com/posts/why-i-love-betty-blue/</link>
+      <link>http://localhost:1313/posts/why-i-love-betty-blue/</link>
       <pubDate>Wed, 06 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/why-i-love-betty-blue/</guid>
+      <guid>http://localhost:1313/posts/why-i-love-betty-blue/</guid>
       <description>I saw Betty Blue (original French title 37,2 Le Matin) for the first time in 1996 shortly after having read the book and it remains one of my favourite films to this day. Although there are many obvious reasons why a sixteen year old boy might like it, I think it does stand up to scrutiny beyond the sex and nudity. This post is a brief explanation of some of the obvious and not-so-obvious reasons why this is a film to be loved and cherished.</description>
     </item>
   </channel>

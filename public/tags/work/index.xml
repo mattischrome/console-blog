@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work on mattischrome</title>
-    <link>https://mattischrome.com/tags/work/</link>
+    <link>http://localhost:1313/tags/work/</link>
     <description>Recent content in Work on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On learning new tools</title>
-      <link>https://mattischrome.com/posts/on-learning-new-tools/</link>
+      <link>http://localhost:1313/posts/on-learning-new-tools/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/on-learning-new-tools/</guid>
+      <guid>http://localhost:1313/posts/on-learning-new-tools/</guid>
       <description>It strikes me that it is better to sit and think about what you need to do, rather than endless try out new tools and hoping you end up with a use for them. I&amp;rsquo;m not saying that innovation is bad, or that you shouldn&amp;rsquo;t stretch yourself into some new spot once in a while, but you will become more valuable to others if you can identify what it is you are supposed to be doing and then use your existing skills to get that job done.</description>
     </item>
     <item>
       <title>The Reset Button</title>
-      <link>https://mattischrome.com/posts/the-reset-button/</link>
+      <link>http://localhost:1313/posts/the-reset-button/</link>
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-reset-button/</guid>
+      <guid>http://localhost:1313/posts/the-reset-button/</guid>
       <description>Previously on&amp;hellip; I planned this post as a follow-up to one called The Truth About Work from a couple of months ago, but a few things happened that changed my thinking. It has implications for my future and in particular, it redefines what this break from work and upcoming trip means to me.&#xA;One of the punchlines to &amp;ldquo;The Truth About Work&amp;rdquo; was that, sometimes, the only way to move ahead is to quit.</description>
     </item>
     <item>
       <title>The Truth About Work</title>
-      <link>https://mattischrome.com/posts/the-truth-about-work/</link>
+      <link>http://localhost:1313/posts/the-truth-about-work/</link>
       <pubDate>Wed, 14 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-truth-about-work/</guid>
+      <guid>http://localhost:1313/posts/the-truth-about-work/</guid>
       <description>Motivation and Lies Motivation is a fickle thing. You can see it in action here on this blog, or rather in inaction as there are often &amp;ldquo;droughts&amp;rdquo; between posts (and draughts between drafts&amp;hellip;). Back in June I tried to write a post each day that had a title of the form &amp;ldquo;X and Y&amp;rdquo;. I was overambitious and they petered out after a bit. This was one of those posts and was originally titled &amp;ldquo;Motivation and Lies&amp;rdquo; in melodramatic fashion.</description>
     </item>
   </channel>

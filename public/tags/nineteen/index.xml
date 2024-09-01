@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nineteen on mattischrome</title>
-    <link>https://mattischrome.com/tags/nineteen/</link>
+    <link>http://localhost:1313/tags/nineteen/</link>
     <description>Recent content in Nineteen on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/nineteen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/nineteen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Italo Calvino, If on a Winter&#39;s Night a Traveller</title>
-      <link>https://mattischrome.com/posts/italo-calvino/</link>
+      <link>http://localhost:1313/posts/italo-calvino/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/italo-calvino/</guid>
+      <guid>http://localhost:1313/posts/italo-calvino/</guid>
       <description>Last year I started to write a review of Italo Calvino&amp;rsquo;s &amp;ldquo;If on a Winter&amp;rsquo;s Night a Traveller&amp;rdquo;. I read it while we were in Germany for Christmas. We&amp;rsquo;d visited Bremen and also undergone the bizarreness of Christmas in another language - the same motifs played out in different words and different customs. I&amp;rsquo;d tried to write the review in a similar structure to the book but, in a testament to Calvino&amp;rsquo;s writing I couldn&amp;rsquo;t pull it off.</description>
     </item>
     <item>
       <title>Understated Classics #37: Lost Souls by Doves</title>
-      <link>https://mattischrome.com/posts/understated-classics-37/</link>
+      <link>http://localhost:1313/posts/understated-classics-37/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/understated-classics-37/</guid>
+      <guid>http://localhost:1313/posts/understated-classics-37/</guid>
       <description>Doves are a band from Manchester who traded dance music for rock yet never left their former genre behind. Starting out as Sub Sub, they scored a worldwide hit in 1993 with &amp;ldquo;Ain&amp;rsquo;t No Love (Ain&amp;rsquo;t No Use)&amp;rdquo;: a timeless dance tune that immediately owns whatever room it plays in. However, subsequent releases by Sub Sub did not catch on and people started to think of the band as a one-hit wonder.</description>
     </item>
     <item>
       <title>Civ Leaders #2: Alexander of Macedon</title>
-      <link>https://mattischrome.com/posts/civ-leaders-2/</link>
+      <link>http://localhost:1313/posts/civ-leaders-2/</link>
       <pubDate>Sun, 12 May 2019 16:41:01 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/civ-leaders-2/</guid>
+      <guid>http://localhost:1313/posts/civ-leaders-2/</guid>
       <description>Alexander of Macedon is available in a base game DLC pack alongside Darius of Persia. He also has his own scenario “The Conquests of Alexander”, which is both fun to play and instructive in how to use the formidable benefits of his bonuses and unique units.&#xA;Civ ability Hellenistic Fusion When capturing a city, receive civic boosts for each holy site and theatre square, and tech boosts for each campus and encampment.</description>
     </item>
     <item>
       <title>Civ Leaders #1: Hojo Tokimune of Japan</title>
-      <link>https://mattischrome.com/posts/civ-leaders-1/</link>
+      <link>http://localhost:1313/posts/civ-leaders-1/</link>
       <pubDate>Mon, 06 May 2019 19:14:48 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/civ-leaders-1/</guid>
+      <guid>http://localhost:1313/posts/civ-leaders-1/</guid>
       <description>Civ ability Meiji Restoration Districts receive a +1 adjacency bonus for each adjacent district, instead of +0.5.&#xA;Leader bonus: Land units in Coastal tiles and naval units in Coast tiles receive +5 Combat Strength. +50% Production towards Encampment, Holy Site and Theatre Square districts. Units are immune to Hurricane damage. Civilisations at war with Japan receive +100% unit damage from hurricanes while in Japanese territory Unique unit The samurai, a high combat strength unit that does not lose combat strength when damage and gains an extra 10 combat strength against anti-cavalry units.</description>
     </item>
     <item>
       <title>About the Album Digest</title>
-      <link>https://mattischrome.com/posts/about-the-album-digest/</link>
+      <link>http://localhost:1313/posts/about-the-album-digest/</link>
       <pubDate>Tue, 30 Apr 2019 20:13:37 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/about-the-album-digest/</guid>
+      <guid>http://localhost:1313/posts/about-the-album-digest/</guid>
       <description>I haven&amp;rsquo;t written one of my monthly album digests for over a year. The reasons mostly boil down to a lack of time and motivation but other factors include the changing way in which I listen to music. I bought more albums on vinyl and only a small proportion of those were recently released music. Meanwhile, the attractions of Spotify&amp;rsquo;s release radar proved too great to resist: it is a very convenient way to consume new music.</description>
     </item>
     <item>
       <title>Isaac Asimov, Foundation and Empire, Second Foundation</title>
-      <link>https://mattischrome.com/posts/the-rest-of-the-foundation-trilogy/</link>
+      <link>http://localhost:1313/posts/the-rest-of-the-foundation-trilogy/</link>
       <pubDate>Sun, 28 Apr 2019 21:30:15 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-rest-of-the-foundation-trilogy/</guid>
+      <guid>http://localhost:1313/posts/the-rest-of-the-foundation-trilogy/</guid>
       <description>I managed to read all of the foundation novels since I wrote about the first one. In this post, I’ll write about the next two, which covers the original trilogy of ‘novels’ created from the original short stories. I’ve tried to avoid spoilers.&#xA;Foundation and Empire Foundation and Empire comprises two novella length stories. The first story (“The General”) picks up from shortly after where the last of the five short stories in Foundation left off.</description>
     </item>
     <item>
       <title>All the Civs</title>
-      <link>https://mattischrome.com/posts/all-the-civs/</link>
+      <link>http://localhost:1313/posts/all-the-civs/</link>
       <pubDate>Wed, 24 Apr 2019 22:15:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/all-the-civs/</guid>
+      <guid>http://localhost:1313/posts/all-the-civs/</guid>
       <description>Ingrid and I love playing Civ VI. It&amp;rsquo;s a fine game that improves on previous versions, adding many layers and mechanics that mean you can vary your playing style. In fact, with the recent Gathering Storm expansion there&amp;rsquo;s now an incredible variety of ways to play. The 39 leaders to play with both reflect and provide the game&amp;rsquo;s increased complexity. Each leader has a slightly different mechanic that influences how you play the game, and of course the leaders you are up against also affect your game play.</description>
     </item>
     <item>
       <title>Ambitions Revisited</title>
-      <link>https://mattischrome.com/posts/ambitions-revisited/</link>
+      <link>http://localhost:1313/posts/ambitions-revisited/</link>
       <pubDate>Tue, 23 Apr 2019 21:14:22 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/ambitions-revisited/</guid>
+      <guid>http://localhost:1313/posts/ambitions-revisited/</guid>
       <description>Back in 2012 I wrote a post listing my ambitions for the future. Well it&amp;rsquo;s the future now isn&amp;rsquo;t it? Almost. After all, I’m a whole new person now. Anyway it&amp;rsquo;s probably time to take stock. Have I achieved any of them? Have any of my ambitions changed? What&amp;rsquo;s replaced the things that I&amp;rsquo;ve decided not to worry about? What has come after the things I managed to do?&#xA;First off, here&amp;rsquo;s my justification for writing the list in the original post:</description>
     </item>
     <item>
       <title>Four Recipe Book Recommendations</title>
-      <link>https://mattischrome.com/posts/four-recipe-book-recommendations/</link>
+      <link>http://localhost:1313/posts/four-recipe-book-recommendations/</link>
       <pubDate>Mon, 22 Apr 2019 11:39:20 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/four-recipe-book-recommendations/</guid>
+      <guid>http://localhost:1313/posts/four-recipe-book-recommendations/</guid>
       <description>The A-Z of Cooking by Felicity Cloake This book is for more luxurious and experimental recipes. There are 26 chapters, one for an ingredient beginning with each letter of the alphabet, but you probably guessed that already. Ingrid and I have been (very) slowly working our way through the chapters, making a couple of recipes from each one - we’re currently up to G for Garlic.&#xA;My favourite so far has been the bread dumplings in parmesan broth because it gives us a use for our many many parmesan rinds.</description>
     </item>
     <item>
       <title>Sam Selvon, The Lonely Londoners</title>
-      <link>https://mattischrome.com/posts/the-lonely-londoners/</link>
+      <link>http://localhost:1313/posts/the-lonely-londoners/</link>
       <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-lonely-londoners/</guid>
+      <guid>http://localhost:1313/posts/the-lonely-londoners/</guid>
       <description>The Lonely Londoners by Sam Selvon was written in 1956 and tells of the experiences of West Indian men moving to London for work. It has been described as the definitive novel about the experiences of the Windrush settlers. The narrative centres on a man named Moses who was one of the first to come to London and finds himself the first port of call for many subsequent immigrants:&#xA;It look to old Moses that he hardly have time to settle in the old Brit’n before all sorts of fellars start coming straight to his room in the Water when they land up in London from the West Indies, saying that so and so tell them that Moses is a good fellar to contact, that he would help them get place to stay and work to do.</description>
     </item>
   </channel>

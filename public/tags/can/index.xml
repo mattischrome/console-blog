@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CAN on mattischrome</title>
-    <link>https://mattischrome.com/tags/can/</link>
+    <link>http://localhost:1313/tags/can/</link>
     <description>Recent content in CAN on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 25 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/can/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/can/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inherent Vice: A Short Review</title>
-      <link>https://mattischrome.com/posts/inherent-vice-a-short-review/</link>
+      <link>http://localhost:1313/posts/inherent-vice-a-short-review/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/inherent-vice-a-short-review/</guid>
+      <guid>http://localhost:1313/posts/inherent-vice-a-short-review/</guid>
       <description>Tonight I finally caught up with Inherent Vice, Paul Thomas Anderson&amp;rsquo;s adaptation of Thomas Pynchon&amp;rsquo;s novel. It stars Joaquin Phoenix as Larry &amp;lsquo;Doc&amp;rsquo; Sportello who&amp;rsquo;s put on to a case of possible kidnapping by his &amp;ldquo;ex-old lady&amp;rdquo; Shasta, played by Katherine Waterston.&#xA;There&amp;rsquo;s no point attempting to tell much more you of the plot of Inherent Vice: it&amp;rsquo;s rather convoluted and self-digesting. At least this means there&amp;rsquo;s very little chance of stumbling into inadvertent spoilers.</description>
     </item>
     <item>
       <title>CAN, The Lost Tapes</title>
-      <link>https://mattischrome.com/posts/can-the-lost-tapes/</link>
+      <link>http://localhost:1313/posts/can-the-lost-tapes/</link>
       <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/can-the-lost-tapes/</guid>
+      <guid>http://localhost:1313/posts/can-the-lost-tapes/</guid>
       <description>This arrived on Monday and I thought I would give it a post of its own because at over 3 hours of music, I am unlikely to do more than dip into it before writing the album digest next week. It is a far bigger and more enjoyable artefact than I thought it was going to be, so it probably deserves special attention for that reason too.&#xA;CAN are a German (“Krautrock”) band that I got into about four years ago after my interest in the genre was sparked by the “Neu!</description>
     </item>
   </channel>

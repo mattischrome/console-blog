@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Shamen on mattischrome</title>
-    <link>https://mattischrome.com/tags/the-shamen/</link>
+    <link>http://localhost:1313/tags/the-shamen/</link>
     <description>Recent content in The Shamen on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 03 Dec 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/the-shamen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/the-shamen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understated Classics #6: Arbor Bona Arbor Mala by The Shamen</title>
-      <link>https://mattischrome.com/posts/understated-classics-6/</link>
+      <link>http://localhost:1313/posts/understated-classics-6/</link>
       <pubDate>Fri, 03 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/understated-classics-6/</guid>
+      <guid>http://localhost:1313/posts/understated-classics-6/</guid>
       <description>Background Ask anyone into pop music between 1991 and 1993 about The Shamen, and you&amp;rsquo;ll either receive a flood of euphoric good will about excellent tracks like Move Any Mountain, LSI, and Phorever People1; or they will rant at you about the evils of Ebeneezer Goode. The Shamen are either one of the pantheon of great acts from early 90&amp;rsquo;s dance and electronic music, or they are a shameless vaudeville novelty act.</description>
     </item>
   </channel>

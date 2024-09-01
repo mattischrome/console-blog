@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Royksopp on mattischrome</title>
-    <link>https://mattischrome.com/tags/royksopp/</link>
+    <link>http://localhost:1313/tags/royksopp/</link>
     <description>Recent content in Royksopp on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 31 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/royksopp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/royksopp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, January 2015</title>
-      <link>https://mattischrome.com/posts/album-digest-january-2015/</link>
+      <link>http://localhost:1313/posts/album-digest-january-2015/</link>
       <pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-january-2015/</guid>
+      <guid>http://localhost:1313/posts/album-digest-january-2015/</guid>
       <description>Album Digest January 2015 rounds up a few albums from the tail end of 2014 that I didn&amp;rsquo;t get much time to write about. The only one of these six to be released this month is the excellent &amp;ldquo;No Cities To Love&amp;rdquo; by Sleater-Kinney.&#xA;Sleater-Kinney &amp;ldquo;No Cities To Love&amp;rdquo; I had heard of Sleater-Kinney before their boxed set “Start Together” was released in 2014. I was quite impressed that they curated their own Spotify playlist with the contents of the box.</description>
     </item>
     <item>
       <title>Album Digest, May 2014</title>
-      <link>https://mattischrome.com/posts/album-digest-may-2014/</link>
+      <link>http://localhost:1313/posts/album-digest-may-2014/</link>
       <pubDate>Sat, 31 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-may-2014/</guid>
+      <guid>http://localhost:1313/posts/album-digest-may-2014/</guid>
       <description>This month was strange. I didn’t listen to much new music and after last month’s bumper digest there’s probably a reason for that. Not to mention that Spotify gives you more reasons to look backwards than forwards. Nevertheless, this brief post features new albums by Little Dragon and Coldplay, along with the mini-album collaboration between Röyskopp and Robyn.&#xA;Little Dragon “Nabuma Rubberband” I discovered Little Dragon, like most people, I imagine, via Gorillaz’ “Plastic Beach” album.</description>
     </item>
   </channel>

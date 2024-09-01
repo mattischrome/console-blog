@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dance on mattischrome</title>
-    <link>https://mattischrome.com/tags/dance/</link>
+    <link>http://localhost:1313/tags/dance/</link>
     <description>Recent content in Dance on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/dance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/dance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Goldfrapp - Black Cherry</title>
-      <link>https://mattischrome.com/posts/goldfrapp-black-cherry/</link>
+      <link>http://localhost:1313/posts/goldfrapp-black-cherry/</link>
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/goldfrapp-black-cherry/</guid>
+      <guid>http://localhost:1313/posts/goldfrapp-black-cherry/</guid>
       <description>This is the first in an unplanned series of album revisits, I will write a post explaining the process soon.&#xA;&amp;ldquo;Black Cherry&amp;rdquo; is the second album by Goldfrapp, released in 2003. I bought the lead single Train while I lived in York and also the single of the title track because by then I&amp;rsquo;d discovered M83 and they&amp;rsquo;d done a remix of it.&#xA;&amp;ldquo;Black Cherry&amp;rdquo; finds the band faced with following their successful and chilled out debut album &amp;ldquo;Felt Mountain&amp;rdquo;, which back in 2000 had sounded notably weird.</description>
     </item>
     <item>
       <title>Understated Classics Or Not?</title>
-      <link>https://mattischrome.com/posts/understated-classics-or-not/</link>
+      <link>http://localhost:1313/posts/understated-classics-or-not/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/understated-classics-or-not/</guid>
+      <guid>http://localhost:1313/posts/understated-classics-or-not/</guid>
       <description>At the new year, thoughts and spare time for writing point me toward writing some new posts for my understated classics series. Expect some new ones soon.&#xA;I also reflected on my previous choices and thought a bit about how my music tastes have changed recently. Some of this has to do with streaming and the frustrations I wrote about in my last post. Some of it is just down to getting older: I have less time to listen to new music, and much of the &amp;rsquo;new&amp;rsquo; stuff I listen to is me investigating the stuff I missed first time around.</description>
     </item>
   </channel>

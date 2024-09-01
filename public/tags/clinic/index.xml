@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clinic on mattischrome</title>
-    <link>https://mattischrome.com/tags/clinic/</link>
+    <link>http://localhost:1313/tags/clinic/</link>
     <description>Recent content in Clinic on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 13 Mar 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/clinic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/clinic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understated Classics #22: Walking With Thee by Clinic</title>
-      <link>https://mattischrome.com/posts/understated-classics-22/</link>
+      <link>http://localhost:1313/posts/understated-classics-22/</link>
       <pubDate>Wed, 13 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/understated-classics-22/</guid>
+      <guid>http://localhost:1313/posts/understated-classics-22/</guid>
       <description>“Walking With Thee” is the second album by Liverpool band Clinic. It was released in 2002, which seems like an age ago now. Even longer ago they released the single “The Return of Evil Bill”, which was got me interested in them in the first place.&#xA;I recently got back into “Walking With Thee” when I picked “Vulture” in my A-Z of Animals playlist last month. I’d forgotten just how great a song it is, both musically and lyrically.</description>
     </item>
   </channel>

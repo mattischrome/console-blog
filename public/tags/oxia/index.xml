@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oxia on mattischrome</title>
-    <link>https://mattischrome.com/tags/oxia/</link>
+    <link>http://localhost:1313/tags/oxia/</link>
     <description>Recent content in Oxia on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 31 May 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/oxia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/oxia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, May 2012</title>
-      <link>https://mattischrome.com/posts/album-digest-may-2012/</link>
+      <link>http://localhost:1313/posts/album-digest-may-2012/</link>
       <pubDate>Thu, 31 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-may-2012/</guid>
+      <guid>http://localhost:1313/posts/album-digest-may-2012/</guid>
       <description>Four albums for Album Digest May 2012:&#xA;Jack White Blunderbuss One Little Plane Into The Trees Beach House Bloom Oxia Tides Of Mind The April album digest was rather short on songs, so this month I decided to look for albums that were more based around songs not tracks. Electronic music is relatively easy to write about: the music is often simple (but not always), there are recognisable structures and genres (but not always), and there are conventions that are adhered to (but not always).</description>
     </item>
   </channel>

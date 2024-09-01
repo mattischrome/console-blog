@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Red Box on mattischrome</title>
-    <link>https://mattischrome.com/tags/red-box/</link>
+    <link>http://localhost:1313/tags/red-box/</link>
     <description>Recent content in Red Box on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 17 Aug 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/red-box/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/red-box/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understated Classics #3: The Circle &amp; The Square by Red Box</title>
-      <link>https://mattischrome.com/posts/understated-classics-3/</link>
+      <link>http://localhost:1313/posts/understated-classics-3/</link>
       <pubDate>Tue, 17 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/understated-classics-3/</guid>
+      <guid>http://localhost:1313/posts/understated-classics-3/</guid>
       <description>When is understated not understated? The trouble with writing a series of articles all themed somehow is that eventually you might find something that sits naturally in the sequence but at the same time goes against the grain a little. Et voila, I give you “The Circle &amp;amp; The Square” by Red Box. An album that hardly anyone has heard containing two top 10 UK singles that probably everyone has heard.</description>
     </item>
   </channel>

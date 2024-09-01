@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The KLF on mattischrome</title>
-    <link>https://mattischrome.com/tags/the-klf/</link>
+    <link>http://localhost:1313/tags/the-klf/</link>
     <description>Recent content in The KLF on mattischrome</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 22 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/the-klf/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/the-klf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understated Classics #31: The White Room by The KLF</title>
-      <link>https://mattischrome.com/posts/understated-classics-31/</link>
+      <link>http://localhost:1313/posts/understated-classics-31/</link>
       <pubDate>Wed, 22 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/understated-classics-31/</guid>
+      <guid>http://localhost:1313/posts/understated-classics-31/</guid>
       <description>This little masterpiece was released in 1991. I got my copy on cassette for Christmas that year, but by May in 1992 they&amp;rsquo;d already &amp;ldquo;retired&amp;rdquo; and split up.&#xA;The KLF were a band in the right place at the right time with the right idea. Taking advantage of synthesizers and the idea of fusing rock and pop music with the emerging sound of house music, they laid the ground for many of the most successful electronic acts that followed them.</description>
     </item>
   </channel>
