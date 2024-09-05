@@ -6,9 +6,6 @@ tags:
 - R
 - Seventeen
 title: A Little Lesson in R
-heroImage: ../../assets/images/defaultHero.jpg
-description: I had to compute an indicator this week. It had confidence intervals
-  that relied on taking 100,000
 ---
 I had to compute an indicator this week. It had confidence intervals that relied on taking 100,000 samples from the indicator's approximate distribution. I had to repeat this over multiple GP practices and for twelve different demographic groups.
 

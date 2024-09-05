@@ -7,9 +7,6 @@ tags:
 - Fun
 - Sixteen
 title: Swaptastic Part 1
-heroImage: ../../assets/images/defaultHero.jpg
-description: '![Envelopes containing swaps that have arrived in the post in recent
-  days.](../../assets/images/'
 ---
 ![Envelopes containing swaps that have arrived in the post in recent days.](../../assets/images/other/StickersInThePost.jpg)
 

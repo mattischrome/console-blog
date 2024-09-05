@@ -8,9 +8,6 @@ tags:
 - Pop
 - Twenty Three
 title: Ellie Goulding - Bright Lights
-heroImage: ../../assets/images/defaultHero.jpg
-description: So today [my random album script](/how-random-should-things-be/) picked
-  out "Bright Lights" by Ellie
 ---
 So today [my random album script](/how-random-should-things-be/) picked out "Bright Lights" by Ellie Goulding, an album I wasn't sure I've ever listened to. I looked in my music library and there it was! As a result this is not so much an [album revisit](/tag/album%20revisit/) as an album __visit_.
 

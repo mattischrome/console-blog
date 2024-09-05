@@ -7,9 +7,6 @@ tags:
 - Tate Modern
 - Thirteen
 title: Lichtenstein At Tate Modern
-heroImage: ../../assets/images/defaultHero.jpg
-description: This was a show that I had put off going to see for quite a while now.
-  Looking online at the
 ---
 This was a show that I had put off going to see for quite a while now. Looking online at the pictures featured in the show did not really excite me enough to get out and see it. I'd seen _Whaam!_ before in isolation (it's part of the Tate collection and will no doubt return once the retrospective show is over) and it didn't really grab me, arresting as it is. However, with plenty of free time this week it was an ideal time to go see it and I was happy to be proved wrong.
 

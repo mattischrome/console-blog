@@ -8,9 +8,6 @@ tags:
 - Leaders
 title: 'Civ Leaders #2: Alexander of Macedon'
 slug: civ-leaders-2
-heroImage: ../../assets/images/defaultHero.jpg
-description: Alexander of Macedon is available in a base game DLC pack alongside Darius
-  of Persia. He also has
 ---
 Alexander of Macedon is available in a base game DLC pack alongside Darius of Persia. He also has his own scenario “The Conquests of Alexander”, which is both fun to play and instructive in how to use the formidable benefits of his bonuses and unique units.
 

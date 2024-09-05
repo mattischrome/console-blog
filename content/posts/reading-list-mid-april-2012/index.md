@@ -8,8 +8,6 @@ tags:
 - Lists
 - Twelve
 title: Reading list, mid-April 2012
-heroImage: ../../assets/images/defaultHero.jpg
-description: '![A hefty reading list that should keep me occupied into the summer.](../../assets/images/other/'
 ---
 ![A hefty reading list that should keep me occupied into the summer.](../../assets/images/other/April-2012-Bookstack.jpg)
 

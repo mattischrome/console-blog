@@ -6,8 +6,6 @@ tags:
 - Animation
 - Thirteen
 title: 'Despicable Me 2: A Short Review'
-heroImage: ../../assets/images/defaultHero.jpg
-description: It's so good that I paid to see it twice! There, that's the review done
 ---
 It's so good that I paid to see it twice! There, that's the review done.
 

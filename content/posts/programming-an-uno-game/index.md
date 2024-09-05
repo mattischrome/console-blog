@@ -8,8 +8,6 @@ tags:
 - Ten
 - Fun
 title: Programming an UNO game
-heroImage: ../../assets/images/defaultHero.jpg
-description: '#### A new year, a new hobby'
 ---
 #### A new year, a new hobby
 

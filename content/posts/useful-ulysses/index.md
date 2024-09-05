@@ -7,7 +7,6 @@ tags:
 - Blogging
 - Fourteen
 title: Useful Ulysses
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 ## What it is
 [Ulysses](http://www.ulyssesapp.com) is a [markdown](http://daringfireball.net/projects/markdown/) editor for the Mac. It has a simple drafting model that makes it easy to organise ideas and move between them. Pieces of writing are represented as sheets that can be tagged and grouped together - the grouping can be made manually or using filters. There are no files, the sheets are entries in a single database that is synced with iCloud. Because everything is plain text it won’t eat up your storage space. Individual sheets can be archived for use with Mac Os X’s versions feature.

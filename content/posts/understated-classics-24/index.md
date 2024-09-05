@@ -9,9 +9,6 @@ tags:
 - Rock
 title: 'Understated Classics #24: Reservoir by Fanfarlo'
 slug: understated-classics-24
-heroImage: ../../assets/images/defaultHero.jpg
-description: I have written a lot in these posts about how music gets indelibly tied
-  up with places, events and
 ---
 I have written a lot in these posts about how music gets indelibly tied up with places, events and feelings. For me this album by Fanfarlo is tied up with all three of these. It makes me happy and sad at the same time in memory of great times that are now gone but are fondly remembered. I am aware that this is the youngest album on the list so far and so it might be a bit early to endow classic status upon it, but "Reservoir" is a fine album and to my ears it stands up really well. Listening to it again in the course of writing this post I found that I remembered every note and musical phrase, and yet somehow I also managed to delight in hearing new features in the production that I'd not noticed before.
 

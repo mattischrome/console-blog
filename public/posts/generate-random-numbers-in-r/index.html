@@ -17,14 +17,15 @@
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
        <meta property="og:title" content="How to generate random numbers in R" />
-<meta property="og:description" content="This post deals with how to generate random numbers in R. It is good to know how to generate random" />
+<meta property="og:description" content="" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://localhost:1313/posts/generate-random-numbers-in-r/" /><meta property="article:published_time" content="2014-09-25T00:00:00+00:00" />
 
 
 
 <meta name="twitter:title" content="How to generate random numbers in R"/>
-<meta name="twitter:description" content="This post deals with how to generate random numbers in R. It is good to know how to generate random"/>
+<meta name="twitter:description" content="This post deals with how to generate random numbers in R. It is good to know how to generate random numbers with a particular language or software package for at least one of the following three reasons:
+You want to test something that depends on a particular distribution. You’re running a stochastic process of some kind (Branching process, random walk etc) and you need random numbers for deciding whether an event occurs."/>
 
   
 
@@ -61,46 +62,8 @@
 <p>Let’s step through doing each of these with R. Over time I will write this post out again for C++, Java, Python, and Ruby. This post is just a memory aid that I can use later on and is not meant as anything more rigorous than that. As such it is a living document, I will mutate this post in place as and when I need to. Memory aids are useful for when you haven’t used a particular programming language or software package for a while. Who knows, it might save me a couple of searches with DuckDuckGo.</p>
 <h2 id="how-to-generate-random-numbers-in-r-from-a-particular-distribution">How to generate random numbers in R from a particular distribution</h2>
 <p>Ideally there would be one central random number generating function and you would pass it the distribution you need along with your parameters. R appears to have separate functions for each distribution, which is a bit annoying, but at least they are (fairly) sensibly named. Here’s a table:</p>
-<table>
-<thead>
-<tr>
-<th><strong>Distribution you need values from</strong></th>
-<th><strong>Sample R command</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Normal</td>
-<td><code>rnorm()</code></td>
-</tr>
-<tr>
-<td>Uniform</td>
-<td><code>runif()</code></td>
-</tr>
-<tr>
-<td>Exponential</td>
-<td><code>rexp()</code></td>
-</tr>
-<tr>
-<td>Poisson</td>
-<td><code>rpois()</code></td>
-</tr>
-<tr>
-<td>Negative Binomial</td>
-<td><code>rnbinom()</code></td>
-</tr>
-</tbody>
-</table>
-<p>Note that for each distribution <code>dist</code>, the name of that function that generates random numbers from <code>dist</code> is <code>rdist</code>. There are also functions <code>ddist</code>, <code>pdist</code>, and <code>qdist</code>. <code>ddist</code> will return the height of the pdf, <code>pdist</code> will return the cdf, and <code>qdist</code> will give the inverse cdf (the quantiles).</p>
-<p>It&rsquo;s annoying that there is no clear way that the names of the distributions become the stem at the heart of those d-, p-, q-, and r- functions. Is it the first four letters? No, it&rsquo;s the first three letters for the exponential distribution and (not the first) five letters for the negative binomial distribution. (And the <em>whole</em> name when you start looking at things like the Weibull distribution.) Obviously you learn the names after you use them for a while. And to repeat, it is also strange that you can&rsquo;t pass the name of a distribution (or your own pdf) to a more generic function. Mind you, such generic functions would have to handle the gamut of idiosyncrasies of different probability distributions. Maybe it is better this way.</p>
-<p>I will add more distributions later. It will also be useful to work out how to generate samples from my own pdfs. I will add instructions for this later. There are also tests to checking hypotheses that data follow a particular distribution and I will add instructions for this in another post.</p>
-<h2 id="generating-random-numbers-for-change-of-state">Generating random numbers for change of state</h2>
-<p>Often this is simply a case of generating uniform random numbers in [0,1]. You can use <code>runif(1)</code> because 0.0 and 1.0 are the default values for <code>min</code> and <code>max</code> for <code>runif</code>. The seed changes each time you start R. If you need to use the same seed to repeat previous work, you can use the <code>set.seed</code> function before using <code>runic</code>. <a href="https://stat.ethz.ch/R-manual/R-devel/library/base/html/Random.html">Check out the R man page for Random Number Generation</a> for more detail. This always feels like something that I should know more thoroughly, yet every time I come to random number generation I skim the literature to convince myself it works and then I leave it at that. Generally I tend to stick to the state of the art in what happens to ‘just work’ and then hammer that.</p>
-<p>I&rsquo;ll add other techniques that use other distributions later. I think particularly of the negative binomial distribution but I want to write a separate post about that a later date. When I write that post I&rsquo;ll add the relevant R code to this post (and the Java to the Java post, and so on).</p>
-<h2 id="generating-your-lottery-numbers">Generating your lottery numbers</h2>
-<p>The lottery is a mug’s game, but you definitely won’t win if you never play. (Technically if you don’t play you can’t lose, and lotteries set you up to lose: the clue is in the name.) Nevertheless, for special occasions when you might want to quickly generate lottery numbers, or N integers in some other range, you should use <code>sample(6,1:49)</code> for your lucky ticket, or <code>sample(numSamples,low:high)</code> for the more general case.</p>
-<h2 id="other-notes">Other notes</h2>
-<p>It also goes without saying that it&rsquo;s a great idea to use the amazing help in R.</p>
+<p>| <strong>Distribution you need values from</strong> | <strong>Sample R command</strong> |
+|</p>
 
  
 <ul class="post_tags">

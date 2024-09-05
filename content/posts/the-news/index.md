@@ -6,9 +6,6 @@ tags:
 - Ideas
 - Eleven
 title: The News
-heroImage: ../../assets/images/defaultHero.jpg
-description: "> \u201CI read the news today, oh boy\u201D  (The Beatles, _A Day In\
-  \ The Life_"
 ---
 > “I read the news today, oh boy”  (The Beatles, _A Day In The Life_.)
 

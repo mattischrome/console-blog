@@ -9,9 +9,6 @@ tags:
 - Seventeen
 - Eighteen
 title: Spain, New Year 2017/18
-heroImage: ../../assets/images/defaultHero.jpg
-description: For new year Ingrid and I met up with Ingrid's friend Ros at Barcelona
-  airport. We went from there
 ---
 For new year Ingrid and I met up with Ingrid's friend Ros at Barcelona airport. We went from there to Cadaqués on the Costa Brava. A winding drive over steep hills leads you down to a cute bay with the typical white houses and terracotta roofs. All the window frames were painted just the right shade of blue.
 

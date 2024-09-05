@@ -10,8 +10,6 @@ tags:
 - Hot Chip
 - Twelve
 title: Album Digest, June 2012
-heroImage: ../../assets/images/defaultHero.jpg
-description: Three fantastic albums for Album Digest June 2012
 ---
 Three fantastic albums for Album Digest June 2012:
 

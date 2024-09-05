@@ -8,9 +8,6 @@ tags:
 - Fun
 - Eleven
 title: Programming an UNO game, part 2
-heroImage: ../../assets/images/defaultHero.jpg
-description: It turns out that programming the UNO game is not that complicated once
-  you start designing the
 ---
 It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.
 

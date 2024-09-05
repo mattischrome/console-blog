@@ -9,9 +9,6 @@ tags:
 - Pop
 title: 'Understated Classics #20: Folklore by Nelly Furtado'
 slug: understated-classics-20
-heroImage: ../../assets/images/defaultHero.jpg
-description: "It\u2019s rather spooky but shortly after deciding to write about Nelly\
-  \ Furtado\u2019s \u201CFolklore\u201D as the next"
 ---
 It’s rather spooky but shortly after deciding to write about Nelly Furtado’s “Folklore” as the next [understated classic](understated-classics), I found out that she has a new album out this week. As a result, I have been listening to a lot of her music while writing this post, and I’ve been enjoying it too.
 

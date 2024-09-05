@@ -9,8 +9,6 @@ tags:
 - Ten
 title: 'Understated Classics #5: A Weekend In The City by Bloc Party'
 slug: understated-classics-5
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## A Weekend In The City: Background'
 ---
 ## A Weekend In The City: Background
 

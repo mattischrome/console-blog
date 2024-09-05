@@ -8,9 +8,6 @@ tags:
 - Twenty
 - Twenty One
 title: Richard Powers, Orfeo
-heroImage: ../../assets/images/defaultHero.jpg
-description: '> "The mind may give up its desire to improve on creation and function
-  as a faithful receiver of'
 ---
 > "The mind may give up its desire to improve on creation and function as a faithful receiver of experience." John Cage
 

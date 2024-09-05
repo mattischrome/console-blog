@@ -9,9 +9,6 @@ tags:
 - Rock
 title: 'Understated Classics #27: A Ghost Is Born by Wilco'
 slug: understated-classics-27
-heroImage: ../../assets/images/defaultHero.jpg
-description: '[I have already given some of the personal background to why I love
-  this album](whatever-happened-to'
 ---
 [I have already given some of the personal background to why I love this album](whatever-happened-to-that-hat) and now it’s time to give a bit of love to the music itself so I’ll stick to giving a track by track account of “A Ghost Is Born”.
 

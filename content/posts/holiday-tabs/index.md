@@ -9,9 +9,6 @@ tags:
 - Ideas
 - Twenty
 title: Holiday Tabs
-heroImage: ../../assets/images/defaultHero.jpg
-description: Over the course of a week on holiday, I started reading many interesting
-  articles. In lockdown there
 ---
 Over the course of a week on holiday, I started reading many interesting articles. In lockdown there isn't much to do but read articles, but I still find myself not that good at finishing them. My phone has lots of tabs open and has become a Rolodex of shame. This post is to confess my sins.
 

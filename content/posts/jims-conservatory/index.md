@@ -8,8 +8,6 @@ tags:
 - Economics
 - Fifteen
 title: Jim's Conservatory
-heroImage: ../../assets/images/defaultHero.jpg
-description: Let's assume that Jim has just had a [sudden unexpected expenditure](https://en.wikipedia.org/wiki/
 ---
 Let's assume that Jim has just had a [sudden unexpected expenditure](https://en.wikipedia.org/wiki/2008_United_Kingdom_bank_rescue_package): a neighbour released a bull into his back garden and [it destroyed his conservatory](http://www.theguardian.com/business/2007/nov/01/creditcrunch.subprimecrisis). Let's assume that the conservatory is essential to Jim's wellbeing, so it has to be fixed immediately. As a result Jim's debts, which [were previously small and well-managed](http://www.theguardian.com/business/2015/may/03/senior-tory-financial-crash-was-purely-a-banking-crisis-not-labour-overspend), have now increased somewhat.
 

@@ -8,8 +8,6 @@ tags:
 - Twenty One
 title: 'Understated Classics #38: Trance Nation (Various Artists)'
 slug: understated-classics-38
-heroImage: ../../assets/images/defaultHero.jpg
-description: I don't know about you, but lately I've been in need of some music that
 ---
 I don't know about you, but lately I've been in need of some music that:
 

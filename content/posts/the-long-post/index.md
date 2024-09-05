@@ -7,9 +7,6 @@ tags:
 - Fifteen
 - Twenty
 title: The Long Post
-heroImage: ../../assets/images/defaultHero.jpg
-description: I am writing a long post that I will either publish as one long post
-  (about five or six thousand
 ---
 I am writing a long post that I will either publish as one long post (about five or six thousand words) or as about seven smaller ones each closer to the average post length of about eight hundred words. I have to get it out-of-the-way soon as my mind needs to focus on my health economics essay.
 

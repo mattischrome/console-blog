@@ -7,9 +7,6 @@ tags:
 - Blogging
 - Seventeen
 title: Valleys
-heroImage: ../../assets/images/defaultHero.jpg
-description: "In my last post, I wrote about hills.\_I tried to use\_them as a metaphor\
-  \ to explain nagging sense of"
 ---
 In my last post, I wrote about hills. I tried to use them as a metaphor to explain nagging sense of incompletion when you single out one activity over another. The feeling that there's always a more exciting hill off in the distance to go climb, instead of the one you're on.
 

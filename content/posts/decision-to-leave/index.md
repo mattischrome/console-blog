@@ -7,8 +7,6 @@ tags:
 - Detective Story
 - Twenty Three
 title: Decision to Leave
-heroImage: ../../assets/images/defaultHero.jpg
-description: I gave up writing reviews of movies because
 ---
 I gave up writing reviews of movies because:
 

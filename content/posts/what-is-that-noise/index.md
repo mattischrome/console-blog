@@ -8,9 +8,6 @@ tags:
 - Fourteen
 - Electronic
 title: What IS That Noise?
-heroImage: ../../assets/images/defaultHero.jpg
-description: "I recently spruced up a post I wrote four years ago about [Biosphere\u2019\
-  s wonderful album Substrata](/"
 ---
 I recently spruced up a post I wrote four years ago about [Biosphere’s wonderful album Substrata](/articles/uc4/). I added the following footnote about the difference between voice samples and found sound:
 

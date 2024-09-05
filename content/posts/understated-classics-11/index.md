@@ -9,8 +9,6 @@ tags:
 - Electronic
 title: 'Understated Classics #11: Second Toughest In The Infants by Underworld'
 slug: understated-classics-11
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Your rails, your fins, your thin paper wings'
 ---
 ## Your rails, your fins, your thin paper wings
 

@@ -11,8 +11,6 @@ tags:
 - HAIM
 - Thirteen
 title: Album Digest, October 2013
-heroImage: ../../assets/images/defaultHero.jpg
-description: Four great albums this month for the last album digest in a while
 ---
 Four great albums this month for the last album digest in a while.
 

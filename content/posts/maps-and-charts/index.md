@@ -6,9 +6,6 @@ tags:
 - Maps
 - Eleven
 title: Maps And Charts
-heroImage: ../../assets/images/defaultHero.jpg
-description: When I was growing up a framed print of a map hung on the wall in the
-  hallway. It was one of my
 ---
 When I was growing up a framed print of a map hung on the wall in the hallway. It was one of my favourite things, littered with strange latin names and with Vs where Us should have been. The outlines of the continents and countries were all familiar and yet slightly distorted, becoming more recognisable around the shores of western Europe.
 

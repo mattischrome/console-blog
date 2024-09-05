@@ -10,9 +10,6 @@ tags:
 - Electronic
 title: '2023 Albums of the Year #10: Wata Igarashi, Agartha'
 slug: 2023-albums-10-wata-igarashi-agartha
-description: Anyone for Japanese Techno via German kosmische music and Philip Glass
-  operas?
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 ![Cover of Agartha by Wata Igarashi](../../assets/images/albums-2023/wata-igarashi-agartha.jpeg)
 

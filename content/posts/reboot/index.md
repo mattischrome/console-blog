@@ -7,9 +7,6 @@ tags:
 - Blogging
 - Eighteen
 title: Reboot
-heroImage: ../../assets/images/defaultHero.jpg
-description: As much as I hate to write about writing, especially when I write so
-  infrequently, I feel I need to
 ---
 As much as I hate to write about writing, especially when I write so infrequently, I feel I need to reboot this blog. I wrote so few posts in recent months I considered giving up altogether.
 

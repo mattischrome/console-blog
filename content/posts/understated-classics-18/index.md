@@ -9,8 +9,6 @@ tags:
 - Electronic
 title: 'Understated Classics #18: Fabric 12 mixed by The Amalgamation Of Soundz'
 slug: understated-classics-18
-heroImage: ../../assets/images/defaultHero.jpg
-description: "Say what? We\u2019re allowing compilations now"
 ---
 Say what? We’re allowing compilations now?
 

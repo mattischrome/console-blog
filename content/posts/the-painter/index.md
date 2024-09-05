@@ -7,9 +7,6 @@ tags:
 - Short Story
 - Twelve
 title: The Painter
-heroImage: ../../assets/images/defaultHero.jpg
-description: Once upon a time there was a man who loved to paint. He studied the art
-  and craft of painting for
 ---
 Once upon a time there was a man who loved to paint. He studied the art and craft of painting for many years. He chose to invest his time and energy into creating the most realistic portraits that he could paint. For him the joy came not from completing the paintings but the process of recreating the real world with the strokes of his brush.
 

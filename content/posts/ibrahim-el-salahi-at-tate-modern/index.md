@@ -7,9 +7,6 @@ tags:
 - Ibrahim El-Salahi
 - Thirteen
 title: Ibrahim El-Salahi At Tate Modern
-heroImage: ../../assets/images/defaultHero.jpg
-description: Ibrahim El-Salahi is a modernist artist from Sudan. I believe this exhibition
-  is a first for an
 ---
 Ibrahim El-Salahi is a modernist artist from Sudan. I believe this exhibition is a first for an African artist at the Tate Modern. Much like [the Choucair show](choucair-at-tate-modern) (which is still on everyone!), it's an engaging but too short introduction to an interesting artist that you have probably never heard of.
 

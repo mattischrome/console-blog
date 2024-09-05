@@ -9,9 +9,6 @@ tags:
 - Films
 - Ten
 title: The Setback
-heroImage: ../../assets/images/defaultHero.jpg
-description: Since the run there has been a bit of a hiatus in this blog. I wrote
-  about how running was making me
 ---
 Since the run there has been a bit of a hiatus in this blog. I wrote about how running was making me feel better. In fact, I should have said more. I recently stopped taking the antidepressants that I had been taking for eighteen months. This has been my longest period taking such medication but the running made me feel sufficiently good to decide that I could stop taking them.
 

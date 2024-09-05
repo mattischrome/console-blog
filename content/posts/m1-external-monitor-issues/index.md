@@ -10,9 +10,6 @@ tags:
 - Apple
 - Twenty Two
 title: M1 External Monitor Issues
-heroImage: ../../assets/images/defaultHero.jpg
-description: Since moving to an M1 Mac, I've noticed some issues with my second screen
-  that I do not experience
 ---
 Since moving to an M1 Mac, I've noticed some issues with my second screen that I do not experience with my previous Intel Mac or with my current work laptop, which is a Dell Intel PC running Windows 10.
 

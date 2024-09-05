@@ -9,8 +9,6 @@ tags:
 - Ten
 title: 'Understated Classics #3: The Circle & The Square by Red Box'
 slug: understated-classics-3
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## When is understated not understated'
 ---
 ## When is understated not understated?
 

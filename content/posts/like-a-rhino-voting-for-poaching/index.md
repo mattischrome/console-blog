@@ -6,9 +6,6 @@ tags:
 - Politics
 - Fifteen
 title: Like a Rhino Voting for Poaching
-heroImage: ../../assets/images/defaultHero.jpg
-description: There's a reason I cannot and will not vote Conservative, and like most
-  people's apparent motive for
 ---
 There's a reason I cannot and will not vote Conservative, and like most people's apparent motive for voting tory it is also a selfish one. As someone employed in the public sector, working to ensure the greater good, I'm a member of an increasingly endangered species.
 

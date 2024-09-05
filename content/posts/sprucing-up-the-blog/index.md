@@ -11,9 +11,6 @@ tags:
 - zsh
 - Twenty
 title: Sprucing up the Blog
-heroImage: ../../assets/images/defaultHero.jpg
-description: This post explains some of the modifications I made to a minimal Jekyll
-  theme to get this blog as I
 ---
 This post explains some of the modifications I made to a minimal Jekyll theme to get this blog as I wanted it. This blog (currently) uses the excellent [Sidey theme](https://sidey-jekyll.netlify.app/about) by [Ronalds Vilciņš](https://www.ronaldsvilcins.com). His site looks eerily similar to this one, at least at time of writing.
 

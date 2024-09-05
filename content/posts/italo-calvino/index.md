@@ -11,9 +11,6 @@ tags:
 - Christmas
 - Germany
 title: Italo Calvino, If on a Winter's Night a Traveller
-heroImage: ../../assets/images/defaultHero.jpg
-description: Last year I started to write a review of Italo Calvino's "If on a Winter's
-  Night a Traveller". I
 ---
 Last year I started to write a review of Italo Calvino's "If on a Winter's Night a Traveller". I read it while we were in Germany for Christmas. We'd visited Bremen and also undergone the bizarreness of Christmas in another language - the same motifs played out in different words and different customs. I'd tried to write the review in a similar structure to the book but, in a testament to Calvino's writing I couldn't pull it off. Here's the opening paragraph:
 

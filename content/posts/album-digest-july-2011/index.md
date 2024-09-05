@@ -12,8 +12,6 @@ tags:
 - Washed Out
 - Eleven
 title: Album Digest, July 2011
-heroImage: ../../assets/images/defaultHero.jpg
-description: Quite a mixed bag this month
 ---
 Quite a mixed bag this month.
 

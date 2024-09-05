@@ -9,9 +9,6 @@ tags:
 - Strangeness
 - Twenty One
 title: If anything, make it weirder
-heroImage: ../../assets/images/defaultHero.jpg
-description: Today I listened to 'Cloudbusting' by Kate Bush for the first time in
-  a while. What a gloriously
 ---
 Today I listened to 'Cloudbusting' by Kate Bush for the first time in a while. What a gloriously strange song it is. Best of all, it's one of those songs that obscures what it is really about. It's not a song about a change in the weather, but about [Wilhelm Reich][1], the [orgone][2] accumulator, [fluorescent yo-yos][3], and a son (rather than a *sun*) coming out.  
 

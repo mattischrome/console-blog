@@ -12,9 +12,6 @@ tags:
 - The Orb
 - Fifteen
 title: Album Digest, June 2015
-heroImage: ../../assets/images/defaultHero.jpg
-description: To reboot this series, Album Digest June 2015 features five fantastic
-  albums from Hot Chip, Jamie xx
 ---
 To reboot this series, Album Digest June 2015 features five fantastic albums from Hot Chip, Jamie xx, Blanck Mass, Holly Herndon, and The Orb. I could pick loads more as I've listened to a lot of albums since [February](/album-digest-february-2015/) but I decided to focus on the more electronic material. This means that I have no excuses for not continuing next month with a rockier theme.
 

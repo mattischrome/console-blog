@@ -7,9 +7,6 @@ tags:
 - Short Story
 - Twelve
 title: A Mountain Story
-heroImage: ../../assets/images/defaultHero.jpg
-description: A cat reaches the top of a mountain after a long climb through the snow.
-  He is cold from the bottom
 ---
 A cat reaches the top of a mountain after a long climb through the snow. He is cold from the bottom of his fur to the tips of his claws. He is sodden and wet, and we all know how much a cat hates to be wet.
 

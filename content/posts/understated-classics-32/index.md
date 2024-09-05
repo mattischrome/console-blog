@@ -8,9 +8,6 @@ tags:
 - Fifteen
 title: 'Understated Classics #32: They Were Wrong So We Drowned by Liars'
 slug: understated-classics-32
-heroImage: ../../assets/images/defaultHero.jpg
-description: As it is Halloween, I'm writing about a spooky understated classic. Liars'
-  second album "They Were
 ---
 As it is Halloween, I'm writing about a spooky understated classic. Liars' second album "They Were Wrong, So We Drowned" is a concept album about witches. It was the first of their albums that I owned having heard their name mentioned among those in the New York Post-punk revival scene at the start of the 00s.
 

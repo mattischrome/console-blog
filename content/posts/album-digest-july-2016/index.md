@@ -12,9 +12,6 @@ tags:
 - Islands
 - Sixteen
 title: Album Digest, July 2016
-heroImage: ../../assets/images/defaultHero.jpg
-description: Album Digest July 2016 consists of a bumper five albums, mainly because
-  I couldn't work out which
 ---
 Album Digest July 2016 consists of a bumper five albums, mainly because I couldn't work out which one to drop. I think they're all pretty good though it's great to hear new music from The Avalanches after all this time.
 

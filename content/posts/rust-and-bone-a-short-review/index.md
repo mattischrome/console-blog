@@ -8,9 +8,6 @@ tags:
 - Thriller
 - Twelve
 title: 'Rust And Bone: A Short Review'
-heroImage: ../../assets/images/defaultHero.jpg
-description: "So, two short reviews in a row. I had the day off work and went to see\
-  \ \u201CRust And Bone\u201D this"
 ---
 So, two short reviews in a row. I had the day off work and went to see “Rust And Bone” this afternooon. It’s the new film by Jacques Audiard, who directed “A Prophet” – one of my favourite films of the last five years.
 

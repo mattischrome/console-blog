@@ -6,8 +6,6 @@ tags:
 - Organisation
 - Twenty Three
 title: Oh heck it's June
-heroImage: ../../assets/images/defaultHero.jpg
-description: White rabbits and all that
 ---
 White rabbits and all that. 
 

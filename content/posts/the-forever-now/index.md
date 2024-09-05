@@ -8,9 +8,6 @@ tags:
 - DIY
 - Twenty One
 title: The Forever Now
-heroImage: ../../assets/images/defaultHero.jpg
-description: Writing this post came about from  frustration with blogging. Specifically
-  the tools I am using.
 ---
 Writing this post came about from  frustration with blogging. Specifically the tools I am using. Often it feels like a new language or paradigm comes along that shifts one or two of the pain points of blogging. The biggest are:
 

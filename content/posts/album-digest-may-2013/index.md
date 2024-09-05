@@ -11,8 +11,6 @@ tags:
 - Vampire Weekend
 - Thirteen
 title: Album Digest, May 2013
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Lilacs & Champagne _Danish & Blue_'
 ---
 ## Lilacs & Champagne _Danish & Blue_
 

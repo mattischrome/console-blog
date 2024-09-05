@@ -7,9 +7,6 @@ tags:
 - Fifteen
 - Writing
 title: How Fireworks Work
-heroImage: ../../assets/images/defaultHero.jpg
-description: Last night an impromptu firework display occurred. I watched it from
-  my bathroom window. Very pretty
 ---
 Last night an impromptu firework display occurred. I watched it from my bathroom window. Very pretty and somewhat extravagant, given that there’s no reason for one on the calendar. I could have filmed it on meerkat but it would have diminished the spectacle. However, it did at least motivate me to write this piece that I have put off for a while (since about November I guess?). One where I find out (i.e. [look up on Wikipedia](http://en.wikipedia.org/wiki/Fireworks)) how fireworks work.
 

@@ -6,9 +6,6 @@ tags:
 - Travel
 - Eighteen
 title: Taking It Easy In Melbourne
-heroImage: ../../assets/images/defaultHero.jpg
-description: On our first full day in Melbourne we took it easy. It was warm and sunny,
-  so different to the
 ---
 On our first full day in Melbourne we took it easy. It was warm and sunny, so different to the weather we'd left behind!
 

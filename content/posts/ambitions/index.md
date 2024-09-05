@@ -7,9 +7,6 @@ tags:
 - Self Improvement
 - Twelve
 title: Ambitions
-heroImage: ../../assets/images/defaultHero.jpg
-description: Sometimes, when I am feeling a bit down, I like to write down some of
-  my ambitions. As you can see
 ---
 Sometimes, when I am feeling a bit down, I like to write down some of my ambitions. As you can see from this list they are mostly pretty humble but they are also a bit cheesy and embarassing, so I have put them after the fold!
 

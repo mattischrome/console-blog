@@ -8,8 +8,6 @@ tags:
 - Primes
 - Forty One
 title: Favourite Numbers
-heroImage: ../../assets/images/defaultHero.jpg
-description: "What\u2019s your favourite number"
 ---
 What’s your favourite number?
 

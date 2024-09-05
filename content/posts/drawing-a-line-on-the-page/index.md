@@ -8,9 +8,6 @@ tags:
 - Ideas
 - Make a draft
 title: Drawing a line on the page
-heroImage: ../../assets/images/defaultHero.jpg
-description: Ingrid has joined an online drawing class. She sits there on Teams getting
-  feedback on her drawings
 ---
 Ingrid has joined an online drawing class. She sits there on Teams getting feedback on her drawings, while I sit there attempting to absorb everything. I'm also learning by doing, by making a line on the page. In some ways, it's instructive to observe the difference in what we learn with and without the feedback.
 

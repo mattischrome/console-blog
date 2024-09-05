@@ -11,9 +11,6 @@ tags:
 - London Grammar
 - Fourteen
 title: Album Digest, March 2014
-heroImage: ../../assets/images/defaultHero.jpg
-description: "I\u2019m back in the UK so it\u2019s back to posts about albums each\
-  \ month. This one is a bit different"
 ---
 I’m back in the UK so it’s back to posts about albums each month. This one is a bit different because I didn’t listen to very much new stuff while I was away so not all of the albums are up to date. I had to write about the new album by Liars though because it's awesome and I couldn't wait to discuss it! Here’s the list of albums:
 

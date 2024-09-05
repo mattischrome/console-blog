@@ -7,9 +7,6 @@ tags:
 - Statistics
 - Twenty
 title: Am I caring for a naughty cat?
-heroImage: ../../assets/images/defaultHero.jpg
-description: '"He keeps biting me on the leg" says Ingrid one day as I mill around
-  her desk during the new water'
 ---
 "He keeps biting me on the leg" says Ingrid one day as I mill around her desk during the new water cooler moment that is a comfort break on a Microsoft Teams call. I pat Martok, one of our cats, and he rubs up against me, pretending that he might nibble at me too. 
 

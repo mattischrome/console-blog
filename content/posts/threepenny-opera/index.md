@@ -7,9 +7,6 @@ tags:
 - Sixteen
 - London
 title: The Threepenny Opera
-heroImage: ../../assets/images/defaultHero.jpg
-description: A few weeks ago, Ingrid and I went to see The Threepenny Opera at the
-  National Theatre
 ---
 A few weeks ago, Ingrid and I went to see The Threepenny Opera at the National Theatre.
 

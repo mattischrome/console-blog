@@ -11,9 +11,6 @@ tags:
 - Grizzly Bear
 - Twelve
 title: Album Digest, September 2012
-heroImage: ../../assets/images/defaultHero.jpg
-description: "I had a bit more time to listen to this month\u2019s albums because\
-  \ I was on holiday for two weeks. I"
 ---
 I had a bit more time to listen to this month’s albums because I was on holiday for two weeks. I didn’t manage to write about them while on holiday though! In fact I bought and listened to a few more, but I will save them for next month. The albums I will discuss now (in order bought) are:
 

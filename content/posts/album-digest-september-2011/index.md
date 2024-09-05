@@ -11,9 +11,6 @@ tags:
 - Wilco
 - Eleven
 title: Album Digest, September 2011
-heroImage: ../../assets/images/defaultHero.jpg
-description: Hmmm, a rather grey looking selection of covers this month. The albums
-  I have listened to most are
 ---
 Hmmm, a rather grey looking selection of covers this month. The albums I have listened to most are:
 

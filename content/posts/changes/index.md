@@ -7,8 +7,6 @@ tags:
 - Software
 - Seventeen
 title: Changes
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Moving the blog to Jekyll (again, sort of'
 ---
 ## Moving the blog to Jekyll (again, sort of)
 Et voila, my blog lives! In a new body ([Jekyll](https://jekyllrb.com)) and at [a new location]({{absolute.url}}).

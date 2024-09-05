@@ -11,8 +11,6 @@ tags:
 - The Knife
 - Thirteen
 title: Album Digest, April 2013
-heroImage: ../../assets/images/defaultHero.jpg
-description: Some great albums this month
 ---
 Some great albums this month!
 

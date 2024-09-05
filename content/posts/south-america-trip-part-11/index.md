@@ -8,8 +8,6 @@ tags:
 - Fifteen
 - Fourteen
 title: South America, Part 11
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## La Paz to Potosi'
 ---
 ## La Paz to Potosi
 

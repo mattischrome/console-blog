@@ -11,8 +11,6 @@ tags:
 - Indie
 title: '2023 Albums of the Year #5: Nation of Language, Strange Disciple'
 slug: 2023-albums-05-nation-of-language-strange-disciple
-description: Chilly and delicate synth missives from the lockdown.
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 ![Cover of Strange Disciple by Nation of Language](../../assets/images/albums-2023/nation-of-language-strange-disciple.jpeg)
 

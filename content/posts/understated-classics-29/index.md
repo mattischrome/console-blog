@@ -9,9 +9,6 @@ tags:
 - Fifteen
 title: 'Understated Classics #29: Let It Come Down by Spiritualized'
 slug: understated-classics-29
-heroImage: ../../assets/images/defaultHero.jpg
-description: I listened to Let It Come Down by Spiritualized for the first time during
-  a difficult time in my
 ---
 I listened to Let It Come Down by Spiritualized for the first time during a difficult time in my life. I think this will always affect my feelings towards it. For me it's a great big comfort blanket of a record. Coming after one of the all-time best break-up albums (in an artistic sense) in "Ladies and Gentlemen We Are Floating in Space" perhaps it's not that much of a surprise. Layered in orchestras, horn sections, and gospel choirs, it's not understated at all but hopefully I can persuade you that it is a classic.
 

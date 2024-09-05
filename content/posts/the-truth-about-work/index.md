@@ -6,8 +6,6 @@ tags:
 - Work
 - Thirteen
 title: The Truth About Work
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Motivation and Lies'
 ---
 ## Motivation and Lies
 

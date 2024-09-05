@@ -10,8 +10,6 @@ tags:
 - "Susanne Sundf\xF8r"
 - Fifteen
 title: Album Digest, February 2015
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Aphex Twin "Computer Controlled Acoustic Instruments Pt2 EP'
 ---
 ## Aphex Twin "Computer Controlled Acoustic Instruments Pt2 EP"
 

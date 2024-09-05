@@ -8,8 +8,6 @@ tags:
 - Science Fiction
 - Eleven
 title: J. G. Ballard, Concrete Island
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## No man is an island (not any more'
 ---
 ## No man is an island (not any more)
 

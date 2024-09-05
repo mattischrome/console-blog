@@ -7,8 +7,6 @@ tags:
 - Fiction
 - Sixteen
 title: Richard Beard, Acts of the Assassins
-heroImage: ../../assets/images/defaultHero.jpg
-description: '[Acts of the Assassins](https://www.waterstones.com/book/acts-of-the-assassins/richard-beard/'
 ---
 [Acts of the Assassins](https://www.waterstones.com/book/acts-of-the-assassins/richard-beard/9780099592938) is an interesting novel by [Richard Beard](http://www.richardbeard.info) that retells the story of [the apostles](https://en.wikipedia.org/wiki/Apostle_(Christian)) and their deaths. It uses a modern crime genre style and a contemporary setting. The author himself refers to it as "Gospel Noir".
 Cassius Gallio, a Roman CSI-type referred to as a speculator, investigates the murders of the apostles following the crucifixion and resurrection of Jesus. Gallio, charged with guarding the body following Jesus' death and greatly undermined by the disappearance of the body, views the resurrection as the greatest conspiracy of the age.

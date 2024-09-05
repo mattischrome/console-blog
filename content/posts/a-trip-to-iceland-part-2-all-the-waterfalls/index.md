@@ -8,9 +8,6 @@ tags:
 - Photos
 - Seventeen
 title: "A trip to Iceland. Part 2: Reykjav\xEDk to Flu\u2202ir."
-heroImage: ../../assets/images/defaultHero.jpg
-description: "[After a day on foot in Reykjav\xEDk](iceland-part-one), and with some\
-  \ trepidation, we returned to the"
 ---
 [After a day on foot in Reykjavík](iceland-part-one), and with some trepidation, we returned to the car for our drive through Iceland's countryside. We started by heading out on route 1, which is like Iceland's M25 except that it encircles an entire country *and* about thirty times fewer people. We went to house of Nobel Prize winner Halldór Laxness, only to be turned away because it was being renovated and wouldn't open for another month. Undeterred, we pressed on toward [&THORN;ingvellir](https://en.wikipedia.org/wiki/Þingvellir), stopping off on the way to take pictures at a viewpoint. It was just crazy, a flat expanse of undisturbed snow. Just as with the drive from the airport, the territory should have been relentlessly bleak but instead we got a winter wonderland.
 

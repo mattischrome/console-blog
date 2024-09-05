@@ -8,8 +8,6 @@ tags:
 - Reading Projects
 - Ten
 title: J. G. Ballard, The Drought
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## The world created by nature versus the world constructed by humans'
 ---
 ## The world created by nature versus the world constructed by humans
 

@@ -12,8 +12,6 @@ tags:
 - Burial
 - Twelve
 title: Album Digest, December 2012
-heroImage: ../../assets/images/defaultHero.jpg
-description: Three albums (one very Christmassey one!) and an EP this month
 ---
 Three albums (one very Christmassey one!) and an EP this month.
 

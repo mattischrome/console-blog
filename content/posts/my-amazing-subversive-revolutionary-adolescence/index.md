@@ -7,8 +7,6 @@ tags:
 - Fourteen
 - Electronic
 title: My Amazing Subversive Revolutionary Adolescence
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Or at least its subversive soundtrack'
 ---
 ## Or at least its subversive soundtrack…
 I listened to The Orb’s amazing live album “Live ’93” the other day (after discovering the insipid “History Of The Future” collection on Spotify) and I was amazed at how countercultural and subversive it was. I was listening to this stuff at the age of 14 and now that I’m old enough to be a parent, that makes me a bit uncomfortable. Actually it does nothing of the sort, because it's frigging awesome.

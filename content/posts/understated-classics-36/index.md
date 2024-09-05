@@ -9,9 +9,6 @@ tags:
 - Seventeen
 title: 'Understated Classics #36: The Coral by The Coral'
 slug: understated-classics-36
-heroImage: ../../assets/images/defaultHero.jpg
-description: Perhaps in today's modern age of streaming and such, [The Coral](http://thecoral.co.uk)
-  would be a
 ---
 Perhaps in today's modern age of streaming and such, [The Coral](http://thecoral.co.uk) would be a bigger band and may have survived their eventual burnout. Their work ethic was evident from the start, as rumours swirled [in the NME](https://i.ebayimg.com/images/g/YdkAAOSwfl9XBSiR/s-l300.jpg) about a fantastic new band from Liverpool who were going to blow everybody's socks off. I went to see them live in Bristol after they'd released three EPs and they were incredible. Their sound, a bit like [the movie "Holy Mountain"](http://www.imdb.com/title/tt0071615/) set to pop music, imagined a Merseybeat channelled from an alternative universe in which Lennon and McCartney took their acid in [the Mojave desert](https://www.desertusa.com/mojave-desert.html) rather than in the English suburbs. Yes, it was derivative but somehow it also managed to be utterly new and compelling.
 

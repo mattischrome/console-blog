@@ -17,14 +17,15 @@
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
        <meta property="og:title" content="A Little Lesson in R" />
-<meta property="og:description" content="I had to compute an indicator this week. It had confidence intervals that relied on taking 100,000" />
+<meta property="og:description" content="" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://localhost:1313/posts/a-little-lesson-in-r/" /><meta property="article:published_time" content="2017-11-04T00:00:00+00:00" />
 
 
 
 <meta name="twitter:title" content="A Little Lesson in R"/>
-<meta name="twitter:description" content="I had to compute an indicator this week. It had confidence intervals that relied on taking 100,000"/>
+<meta name="twitter:description" content="I had to compute an indicator this week. It had confidence intervals that relied on taking 100,000 samples from the indicator&rsquo;s approximate distribution. I had to repeat this over multiple GP practices and for twelve different demographic groups.
+I decided to use dplyr1 because I thought it would help me organise all subgroups involved. I used mutate_at() heavily and thought that dplyr was keeping everything organised. However, when I moved from the 10 samples I&rsquo;d used for testing to the 100,000 samples required by the specification of the indicator, my code moved to a crawl."/>
 
   
 

@@ -10,9 +10,6 @@ tags:
 - Ten
 title: 'Understated Classics #1: Together Alone by Crowded House'
 slug: understated-classics-1
-heroImage: ../../assets/images/defaultHero.jpg
-description: This week Arcade Fire released their hotly anticipated third album "The
-  Suburbs".  I loved "Neon
 ---
 This week Arcade Fire released their hotly anticipated third album "The Suburbs".  I loved "Neon Bible" but critics found it preachy, as overbearing as the religious folk it sought to satirise. I disagree and think it was an impressive continuation from an exciting debut. "The Suburbs" steps on from their previous two albums, both in subject matter and tone. It's sad, thoughtful, resigned, angry and tetchy - among other things. “The Suburbs” isn't the understated classic that I want to discuss though: with all the praise and plaudits, it may never suit this new thread of posts. I want to write about [Together Alone by Crowded House](http://en.wikipedia.org/wiki/Together_Alone).
 

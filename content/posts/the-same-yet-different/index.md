@@ -7,9 +7,6 @@ tags:
 - Photos
 - Seventeen
 title: The same, but different
-heroImage: ../../assets/images/defaultHero.jpg
-description: Ingrid and I got married a month ago. It was a lovely day. We had a simple
-  ceremony with two
 ---
 Ingrid and I got married a month ago. It was a lovely day. We had a simple ceremony with two witnesses, our friends Sue and Andrew. We kept it quiet and small, as we just wanted to be married without too much fuss. A month on, we're happy to report that we are glad we did it.
 

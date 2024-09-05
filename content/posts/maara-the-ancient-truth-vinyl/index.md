@@ -6,11 +6,9 @@ tags:
 - Electronic
 - Album Digest
 - Vinyl
-description: I did manage to find a copy on vinyl!
 pubDate: 2024-01-10 17:24:00
 title: Maara, The Ancient Truth (on vinyl)
 slug: maara-the-ancient-truth-vinyl
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 When [I wrote about Maara's "The Ancient Truth"](/2023-albums-07-maara-ancient-truth) over Christmas as part of my albums of the year rundown, I mentioned at the end that I would love to find a copy on vinyl to listen to. Well dear reader I managed to! It arrived today from the Netherlands with minimal fuss. It sounds great and I'm not sure whether my review did it justice: that's the problem with attempting to (re-)review ten albums in ten days with Christmas and New Year all happening at the same time!
 

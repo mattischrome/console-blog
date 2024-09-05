@@ -7,9 +7,6 @@ tags:
 - Lists
 - Thirteen
 title: 'Ideas for TV shows: Great Mathematicians'
-heroImage: ../../assets/images/defaultHero.jpg
-description: I want to see a TV show about great mathematicians of the past on a channel
-  like BBC Four.
 ---
 I want to see a TV show about great mathematicians of the past on a channel like BBC Four. Programmes about mathematics tend to be rather condescending, at least to anyone who has a bit of mathematical knowledge. Perhaps a way around this is to delve into the social and historical circumstances of the great mathematicians and how that along with their personality produced the mathematical results for which they are famous.
 

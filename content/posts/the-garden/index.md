@@ -8,9 +8,6 @@ tags:
 - Household
 - Twenty Two
 title: The Garden
-heroImage: ../../assets/images/defaultHero.jpg
-description: Today, we transferred our Christmas tree to a new pot. Being root-bound
-  as the tree was, it took
 ---
 Today, we transferred our Christmas tree to a new pot. Being root-bound as the tree was, it took ages to get it out of the crappy pot from the store and into the new, bigger pot. And I'm pretty sure it's a bit wonky, which might make the baubles a bit lopsided next Christmas. It looks excellent next to the new bird bath.
 

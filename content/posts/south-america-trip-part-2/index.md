@@ -7,8 +7,6 @@ tags:
 - Amazon
 - Thirteen
 title: South America, Part 2
-heroImage: ../../assets/images/defaultHero.jpg
-description: '### Otavalo'
 ---
 ### Otavalo
 

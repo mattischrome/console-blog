@@ -11,8 +11,6 @@ tags:
 - Rival Consoles
 - Seventeen
 title: Album Digest, October 2017
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Mary Epworth "Elytral'
 ---
 ## Mary Epworth "Elytral"
 

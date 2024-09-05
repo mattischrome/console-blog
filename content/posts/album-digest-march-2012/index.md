@@ -12,8 +12,6 @@ tags:
 - Scuba
 - Twelve
 title: Album Digest, March 2012
-heroImage: ../../assets/images/defaultHero.jpg
-description: Five albums for Album Digest March 2012
 ---
 Five albums for Album Digest March 2012
 

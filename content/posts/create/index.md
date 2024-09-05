@@ -6,9 +6,6 @@ tags:
 - Ideas
 - Seventeen
 title: Create
-heroImage: ../../assets/images/defaultHero.jpg
-description: It can be a struggle to keep writing. I've found this happened a lot
-  since I moved the blog. First,
 ---
 It can be a struggle to keep writing. I've found this happened a lot since I moved the blog. First, there was  the business of moving things over. That meant a lot of thought about old posts and which ones I should keep. A lot of the time I thought "how on earth did I have time to write this?!"
 

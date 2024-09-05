@@ -8,9 +8,6 @@ tags:
 - Fourteen
 - Thirteen
 title: South America, Part 10
-heroImage: ../../assets/images/defaultHero.jpg
-description: '[Picking up where I left off](/2014/05/south-america-trip-part-9/) at
-  Machu Picchu, we headed down'
 ---
 [Picking up where I left off](/2014/05/south-america-trip-part-9/) at Machu Picchu, we headed down into Aguas Calientes (trans. “hot waters”) by coach and by the time we got there it was torrenting down with rain. So much for exploration. We waited out the downpour in a pizza place and deliberated over whether to buy souvenier snaps from the tour guides. Ironically for a town named after hot waters, it was bitterly cold. One of those places where the sound of running water follows you wherever you go, the best thing about it was the huge trains that ran down the middle of street - big clanking hulks pulling huge passenger trains.
 

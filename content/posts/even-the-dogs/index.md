@@ -7,9 +7,6 @@ tags:
 - Fiction
 - Twelve
 title: Jon McGregor, Even The Dogs
-heroImage: ../../assets/images/defaultHero.jpg
-description: Over my holiday I read "Even The Dogs" by Jon McGregor. I've not quite
-  finished it yet but that will
 ---
 Over my holiday I read "Even The Dogs" by Jon McGregor. I've not quite finished it yet but that will at least prevent me from giving away spoilers. I am not sure I would want to give any spoilers anyway because it is unrelentingly grim so far. Perhaps there is a happy  ending but both you and I will have to read it to find out.
 

@@ -11,8 +11,6 @@ tags:
 title: 'Understated Classics #16: Ambient 2 / The Plateaux Of Mirror by Howard Budd
   and Brian Eno'
 slug: understated-classics-16
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Among Fields of Crystal / Wind in Lonely Fences'
 ---
 ## Among Fields of Crystal / Wind in Lonely Fences
 

@@ -8,9 +8,6 @@ tags:
 - Science Fiction
 - Seventeen
 title: J. G. Ballard, Hello America
-heroImage: ../../assets/images/defaultHero.jpg
-description: I had low expectations for "Hello America", the next in [the series of
-  Ballard novels](j-g-ballard)
 ---
 I had low expectations for "Hello America", the next in [the series of Ballard novels](j-g-ballard) that I started reading over seven years ago. However, it turned out to be a hoot. A couple of years ago, this novel would have been a wig-out bit of standard Ballard weirdness (a bit like ["The Drowned World"](the-drowned-world) or ["The Crystal World"](the-crystal-world)) but given recent events "Hello America" is starting to take on an eerie prescience.
 

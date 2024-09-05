@@ -11,9 +11,6 @@ tags:
 - Austin Wintory
 - Twelve
 title: Album Digest, April 2012
-heroImage: ../../assets/images/defaultHero.jpg
-description: A mostly instrumental month with a comeback from Orbital, an excellent
-  remix collection from Battles
 ---
 A mostly instrumental month with a comeback from Orbital, an excellent remix collection from Battles, an amazing movie documenting a live performance by the Chemical Brothers and Austin Wintory’s soundtrack to the game _Journey_.
 

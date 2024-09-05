@@ -8,9 +8,6 @@ tags:
 - David Bowie
 - Thirteen
 title: Album Digest, March 2013
-heroImage: ../../assets/images/defaultHero.jpg
-description: "Just the David Bowie album this month as it\u2019s pretty much the only\
-  \ new music that I\u2019ve listened to"
 ---
 Just the David Bowie album this month as it’s pretty much the only new music that I’ve listened to.
 

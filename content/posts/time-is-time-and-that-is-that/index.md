@@ -9,9 +9,6 @@ tags:
 - Blogging
 - Internet
 title: Time Is Time and That Is That
-heroImage: ../../assets/images/defaultHero.jpg
-description: "A brief rant about Facebook: I hate the fact that the news feed defaults\
-  \ to \u201CTop Stories\u201D even"
 ---
 A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.
 

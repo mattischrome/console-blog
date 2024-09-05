@@ -8,9 +8,6 @@ tags:
 - Photos
 - Seventeen
 title: A little trip to Italy
-heroImage: ../../assets/images/defaultHero.jpg
-description: We bought a cheap package holiday in the British Airways Black Friday
-  sale. The weekend spanned
 ---
 We bought a cheap package holiday in the British Airways Black Friday sale. The weekend spanned Ingrid's birthday, so it was ideal. £99 each for flights and a hotel, and we bagged a hire car quite cheaply too.
 

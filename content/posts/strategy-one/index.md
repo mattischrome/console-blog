@@ -7,9 +7,6 @@ tags:
 - Short Story
 - Twenty
 title: Strategy one
-heroImage: ../../assets/images/defaultHero.jpg
-description: I decided to create my own deck of creativity cards. I was sick of all
-  the adverts for similar
 ---
 I decided to create my own deck of creativity cards. I was sick of all the adverts for similar products on Instagram. You know the kind. They're covered in pictures, patterns, and buzzwords. You shuffle the cards and draw them one at a time. As you place each card on the table, the brain’s natural desire to tell stories, create patterns and produce meaning takes over. 
 

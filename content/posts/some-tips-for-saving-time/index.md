@@ -8,8 +8,6 @@ tags:
 - Resolutions
 - Twenty One
 title: Some Tips For Saving Time
-heroImage: ../../assets/images/defaultHero.jpg
-description: A non-exhaustive list of ideas for saving time
 ---
 A non-exhaustive list of ideas for saving time:
 * **Delete your social media**, and perhaps any other website or app that demands that you consume it rather than create with it.

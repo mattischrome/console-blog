@@ -8,8 +8,6 @@ tags:
 - Eleven
 - Fiction
 title: J. G. Ballard, Crash
-heroImage: ../../assets/images/defaultHero.jpg
-description: '### Form and function, deformation and dysfunction'
 ---
 ### Form and function, deformation and dysfunction
 

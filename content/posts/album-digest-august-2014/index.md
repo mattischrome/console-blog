@@ -13,8 +13,6 @@ tags:
 - Mogwai
 - Fourteen
 title: Album Digest, August 2014
-heroImage: ../../assets/images/defaultHero.jpg
-description: The album digest returns with five albums by four artists
 ---
 The album digest returns with five albums by four artists.
 

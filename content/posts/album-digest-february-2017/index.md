@@ -10,8 +10,6 @@ tags:
 - Dreadzone
 - Seventeen
 title: Album Digest, February 2017
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Grails *Chalice Hymnal'
 ---
 ## Grails *Chalice Hymnal*
 

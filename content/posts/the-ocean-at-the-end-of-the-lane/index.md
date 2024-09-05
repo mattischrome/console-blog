@@ -7,9 +7,6 @@ tags:
 - Novel
 - Thirteen
 title: Neil Gaiman, The Ocean At The End Of The Lane
-heroImage: ../../assets/images/defaultHero.jpg
-description: '"The Ocean At The End Of The Lane" is the new novel by Neil Gaiman.
-  I was so intrigued by it that I'
 ---
 "The Ocean At The End Of The Lane" is the new novel by Neil Gaiman. I was so intrigued by it that I bought the hardcover, which is unusual for me because I prefer paperbacks. I'd been excited by [reading the first chapter online at the Guardian website](http://www.theguardian.com/books/2013/jun/10/extract-ocean-end-lane-neil-gaiman) and from reading [a blog post about the novel written by the author's wife Amanda Palmer](http://amandapalmer.net/blog/20130618/). I'd not read any of his novels before but they had long been on that "to read" list that is typically as long as your arm. I also enjoyed the movie adaptation of "Stardust" though I have no way (yet!) of knowing whether the film is as good as the original book.
 

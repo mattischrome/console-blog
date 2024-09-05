@@ -8,9 +8,6 @@ tags:
 - Learning new things
 - Twenty Two
 title: What is FFI anyway?
-heroImage: ../../assets/images/defaultHero.jpg
-description: "At the moment I can\u2019t compile this blog locally because my `ruby-ffi`\
-  \ install is somehow wrong and"
 ---
 At the moment I can’t compile this blog locally because my `ruby-ffi` install is somehow wrong and is preventing Jekyll from running on my recently upgraded Mac system. Fortunately the site still compiles on Netlify, or else you wouldn’t be reading this!
 

@@ -9,9 +9,6 @@ tags:
 - R
 - Sixteen
 title: Swaptastic Part 2
-heroImage: ../../assets/images/defaultHero.jpg
-description: As a follow-up to my post about the [Euro 2016 Panini Stickers](/euro-2016-panini-stickers/),
-  I've
 ---
 As a follow-up to my post about the [Euro 2016 Panini Stickers](/euro-2016-panini-stickers/), I've now completed the collection with [the help of an online swapping site](/swaptastic-part-1/) and by buying the last 39 stickers directly from Panini. I also managed to write a new simulator, this time with additional collectors involved.
 

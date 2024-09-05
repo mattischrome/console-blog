@@ -6,9 +6,6 @@ tags:
 - Civ
 - Nineteen
 title: All the Civs
-heroImage: ../../assets/images/defaultHero.jpg
-description: Ingrid and I love playing Civ VI. It's a fine game that improves on previous
-  versions, adding many
 ---
 Ingrid and I love playing Civ VI. It's a fine game that improves on previous versions, adding many layers and mechanics that mean you can vary your playing style. In fact, with the recent Gathering Storm expansion there's now an incredible variety of ways to play. The 39 leaders to play with both reflect and provide the game's increased complexity. Each leader has a slightly different mechanic that influences how you play the game, and of course the leaders you are up against also affect your game play. You can pick leaders to go up against that will make your game easier or harder. Some leaders can even be an existential threat if you spawn near to them and, as I've learned the hard way, it's not always the leaders you expect that cause these problems. 
 

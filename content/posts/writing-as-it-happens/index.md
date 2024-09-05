@@ -7,9 +7,6 @@ tags:
 - Self Improvement
 - Fifteen
 title: On Writing As It Happens
-heroImage: ../../assets/images/defaultHero.jpg
-description: "I\u2019m pretty close to a round number. To date I have written 298,500\
-  \ words for this blog, not counting"
 ---
 I’m pretty close to a round number. To date I have written 298,500 words for this blog, not counting posts that I have discarded or deleted. This will be the 505th post currently on the blog, which makes for an average of just under 600 words per post. Some posts are just a picture or a video or a gallery though, so that distorts the average a bit.
 

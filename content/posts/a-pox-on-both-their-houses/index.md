@@ -6,8 +6,6 @@ tags:
 - Apple
 - Twenty One
 title: A pox on both their houses
-heroImage: ../../assets/images/defaultHero.jpg
-description: How hard is it to just listen to music these days
 ---
 How hard is it to just listen to music these days?
 

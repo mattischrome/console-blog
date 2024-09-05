@@ -8,9 +8,6 @@ tags:
 - Twenty
 - Internet
 title: Living in the Pi Hole
-heroImage: ../../assets/images/defaultHero.jpg
-description: Ingrid bought me a [raspberry pi](https://www.raspberrypi.org) for my
-  birthday. I've set it up to
 ---
 Ingrid bought me a [raspberry pi](https://www.raspberrypi.org) for my birthday. I've set it up to run the [Pi-hole](https://docs.pi-hole.net) software. Pi-hole is a nifty bit of kit that intercepts your web requests and purges any that ask for material on known ad servers. Essentially it's like having an ad blocker on your network rather than just your computer.
 

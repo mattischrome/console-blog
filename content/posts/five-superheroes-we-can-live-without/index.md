@@ -6,9 +6,6 @@ tags:
 - Lists
 - Eleven
 title: Five Superheroes We Can Live Without
-heroImage: ../../assets/images/defaultHero.jpg
-description: The other day while writing some rather self-pitying notes in my blog
-  book (yes, I handwrite all
 ---
 The other day while writing some rather self-pitying notes in my blog book (yes, I handwrite all this rubbish before I go to bed at night!) I came up with some useless superheroes, or rather the only superheroes that a washed-up guy in his early thirties could hope to be. Because I haven’t got any ideas for “five things on the fifth” this month, I decided to flesh out a few of these. Last month I began the five on the fifth meme with [five things to try if you can’t sleep](five-things-to-try-when-you-cant-sleep) and so this is a rather forced attempt to keep it going. I promise that I will try and think of more interesting posts on these lines for months. 
 

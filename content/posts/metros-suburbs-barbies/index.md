@@ -7,9 +7,6 @@ tags:
 - Photos
 - Eighteen
 title: More Melbourne
-heroImage: ../../assets/images/defaultHero.jpg
-description: On our second full day in Australia we went shopping in central Melbourne,
-  before Ingrid's mum Maria
 ---
 On our second full day in Australia we went shopping in central Melbourne, before Ingrid's mum Maria picked us up ahead of our trip along the Great Ocean Road.
 

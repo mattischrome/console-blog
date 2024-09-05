@@ -10,9 +10,6 @@ tags:
 - Nelly Furtado
 - Thirteen
 title: Album Digest, January 2013
-heroImage: ../../assets/images/defaultHero.jpg
-description: Only one of this month three albums was actually released this month.
-  Nelly Furtado's Mi plan was
 ---
 Only one of this month three albums was actually released this month. Nelly Furtado's Mi plan was actually released over three years ago - I only discovered it last year when I wrote [the September album digest](album-digest-september-2012) following the release of "The Spirit Indestructible", or it might have been when I wrote about ["Folklore"](uc20) at around the same time.
 

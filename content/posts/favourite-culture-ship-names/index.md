@@ -8,9 +8,6 @@ tags:
 - Iain M. Banks
 - Eleven
 title: Favourite Culture Ship Names
-heroImage: ../../assets/images/defaultHero.jpg
-description: As I mentioned before [I am re-reading the novels of Iain Banks](more-books)
-  and this weekend I
 ---
 As I mentioned before [I am re-reading the novels of Iain Banks](more-books) and this weekend I managed to finish _Consider Phlebas_. A little post about it will be coming up soon. One of my favourite things about the Culture novels is how the ships are named and having found [a list on Wikipedia](http://en.wikipedia.org/wiki/List_of_ships_(The_Culture)), I thought I would share ten of my favourites with you!
   

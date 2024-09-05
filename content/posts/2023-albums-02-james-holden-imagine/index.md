@@ -11,9 +11,6 @@ tags:
 title: '2023 Albums of the Year #2: James Holden, Imagine This is a High Dimensional
   Space of All Possibilities'
 slug: 2023-albums-02-james-holden-imagine
-description: Like a yomp in the countryside, but it's a psychic topography made up
-  of all modern dance music in James Holden's brainy but democratic masterpiece.
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 ![Cover of Imagine This is a High Dimensional Space of All Possibilities by James Holden](../../assets/images/albums-2023/james-holden-imagine.jpeg)
 

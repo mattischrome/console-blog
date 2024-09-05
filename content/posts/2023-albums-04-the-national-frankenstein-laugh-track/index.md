@@ -12,9 +12,6 @@ tags:
 title: '2023 Albums of the Year #4: The National, "First Two Pages of Frankenstein"
   and "Laugh Track"'
 slug: 2023-albums-04-the-national-frankenstein-laugh-track
-description: Two new albums? And they're both better than the last one? And now with
-  added Taylor Swift? You spoil us!
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 It's probably no surprise that as we reach the top four (or five if you like) we also get to the two albums The National released in 2023. The first, “First Two Pages of Frankenstein”, was trailed with a big reveal early on in the year, while the second, “Laugh Track”, was dropped all of a sudden in October. Once I got to know both albums, I swung between liking each one more for a while, hence putting them both at the same point in the list and not considering each separately. 
 

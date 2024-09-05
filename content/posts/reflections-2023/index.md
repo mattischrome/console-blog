@@ -8,10 +8,7 @@ tags:
 - Writing
 - Blogging
 - Travel
-description: A post reflecting on the highs and lows of 2023, including travel, books,
-  work, movies etc.
 slug: reflections-2023
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 ## Travel
 

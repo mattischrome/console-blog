@@ -6,9 +6,6 @@ tags:
 - Fun
 - Seventeen
 title: Suits Me
-heroImage: ../../assets/images/defaultHero.jpg
-description: In recent weeks I have worn a suit to work. I bought a new furry woolly
-  suit a few weeks ago and
 ---
 In recent weeks I have worn a suit to work. I bought a new furry woolly suit a few weeks ago and have alternated between it and my old one. I also bought new shoes that gave me blisters and made me cry. Enough time has passed that by now it feels natural rather than silly and those shoes don't eat my feet as much as they used to. 
 

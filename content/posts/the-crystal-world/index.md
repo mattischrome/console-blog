@@ -8,8 +8,6 @@ tags:
 - Science Fiction
 - Ten
 title: J. G. Ballard, The Crystal World
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Crystallising the world, the body, or the mind'
 ---
 ## Crystallising the world, the body, or the mind?
 

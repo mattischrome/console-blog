@@ -8,8 +8,6 @@ tags:
 - Photo
 - Cats
 - Life Experiences
-description: The cats break their new resolution not to knock stuff over in my office.
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 The cats broke their new resolution not to knock stuff over in my office. Oh, who am I kidding? They never had such a resolution! If you can see a sheet of saturated paper, that was my to do list! Oh well. 
 

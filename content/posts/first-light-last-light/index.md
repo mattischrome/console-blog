@@ -7,9 +7,6 @@ tags:
 - Fifteen
 - Philosophy
 title: First Light, Last Light
-heroImage: ../../assets/images/defaultHero.jpg
-description: I often ponder whether the joys of waking up early are greater than those
-  of staying up late.
 ---
 I often ponder whether the joys of waking up early are greater than those of staying up late. Empirical evidence seems to bear this out: all those people who get to work before you do, super-eager to get everything done. But then all the people walking under your windows late at night, drunk and laughing, they sound like they're having a whale of a time too.
 

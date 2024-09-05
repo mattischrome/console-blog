@@ -10,8 +10,6 @@ tags:
 - Electronic
 title: '2023 Albums of the Year #9: Fever Ray, Radical Romantics'
 slug: 2023-albums-09-fever-ray-radical-romantics
-description: Features odes to carbon dioxide, bullying your kid's bullies, and candy/kandy.
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 ![Cover of Radical Romantics by Fever Ray](../../assets/images/albums-2023/fever-ray-radical-romantics.jpeg)
 

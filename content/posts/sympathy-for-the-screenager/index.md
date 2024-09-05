@@ -1,6 +1,5 @@
 ---
 title: Sympathy for the Screenager
-description: Studies seem to show that children and teenagers benefit from reducing screen time. We should nevertheless be sympathetic to the needs of young people and the circumstances that may drive them to overuse of mobile phones and social networks.
 slug: sympathy-for-the-screenager
 category: Life Experiences
 tags:

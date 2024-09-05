@@ -8,9 +8,6 @@ tags:
 - Programming
 - Internet
 title: Building Brains
-heroImage: ../../assets/images/defaultHero.jpg
-description: This is a longer form post about artificial intelligence inspired by
-  reading a little bit of "The
 ---
 This is a longer form post about artificial intelligence inspired by reading a little bit of "The Pale King" by David Foster Wallace and putting a picture of a "ghost" up on Instagram. This might be the last of these that I'm able to write for a while.
 

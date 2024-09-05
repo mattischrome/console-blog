@@ -9,8 +9,6 @@ tags:
 - Ten
 title: 'Understated Classics #2: Sinking by The Aloof'
 slug: understated-classics-2
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## I discovered The Aloof while listening to the Top 40'
 ---
 ## I discovered The Aloof while listening to the Top 40
 

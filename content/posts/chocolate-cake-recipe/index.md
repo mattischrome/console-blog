@@ -6,9 +6,6 @@ tags:
 - Thirteen
 - Nigel Slater
 title: "The Only Chocolate Cake Recipe You\u2019ll Ever Need"
-heroImage: ../../assets/images/defaultHero.jpg
-description: As I mentioned [in a previous post](/the-reset-button/), I baked a chocolate
-  cake the other day and
 ---
 As I mentioned [in a previous post](/the-reset-button/), I baked a chocolate cake the other day and it was a great success. Here is the recipe, which is a trivial modification of one that appears in Nigel Slater's "Real Food" (Amazon links: [UK](http://www.amazon.co.uk/Real-Food-Nigel-Slater/dp/1841151440/ref=sr_1_1?ie=UTF8&qid=1382362805&sr=8-1&keywords=nigel+slater+real+food), [US](http://www.amazon.com/Real-Food-Nigel-Slater/dp/1841151440/ref=sr_1_1?ie=UTF8&qid=1382362827&sr=8-1&keywords=nigel+slater+real+food)). "Real Food" is a cookbook that I genuinely treasure. The modification I have made for this recipe is to omit the espresso but I will point out where it should be added, in case you want to give that a try.
 

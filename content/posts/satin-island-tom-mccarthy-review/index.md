@@ -8,9 +8,6 @@ tags:
 - Novel
 - Fifteen
 title: 'Satin Island by Tom McCarthy: Review'
-heroImage: ../../assets/images/defaultHero.jpg
-description: As much as I wanted it to, Satin Island by Tom McCarthy did not win the
-  Booker Prize. Having read it
 ---
 As much as I wanted it to, Satin Island by Tom McCarthy did not win the Booker Prize. Having read it all I realise it was a long shot. However it is an interesting book that deserved consideration, even if it does have some flaws.
 

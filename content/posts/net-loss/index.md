@@ -8,9 +8,6 @@ tags:
 - Economics
 - Twelve
 title: Net Loss
-heroImage: ../../assets/images/defaultHero.jpg
-description: I pay to have this blog up and running. That is, I pay for the space
-  where it is stored and I pay
 ---
 I pay to have this blog up and running. That is, I pay for the space where it is stored and I pay for the name. I have to look after all the files and plug-ins, I have to perform all the updates and optimise the database tables. All this is great fun but wouldn’t it be cheaper to slap the mattischro.me address onto a hosted WordPress.com account?
 

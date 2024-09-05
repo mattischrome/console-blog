@@ -6,9 +6,6 @@ tags:
 - Writing
 - Fifteen
 title: Untitled 2
-heroImage: ../../assets/images/defaultHero.jpg
-description: A few months ago [I wrote about an idea for a novel that I'd abandoned](/jackson-x/).
-  I mentioned in
 ---
 A few months ago [I wrote about an idea for a novel that I'd abandoned](/jackson-x/). I mentioned in that post that I'd abandoned it because there was another idea that I wanted to pursue. The working title for it is "Untitled 2". (It isn't really, I have an actual working title that would give things away or would at least make me feel like the idea was out in the world.)
 

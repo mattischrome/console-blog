@@ -7,9 +7,6 @@ tags:
 - Fiction
 - Eighteen
 title: Richard Powers, The Overstory
-heroImage: ../../assets/images/defaultHero.jpg
-description: "\"The Overstory\" by Richard Powers piqued my interest among the novels\_\
-  shortlisted for the Booker"
 ---
 "The Overstory" by Richard Powers piqued my interest among the novels shortlisted for the Booker Prize. And [once again](satin-island-tom-mccarthy-review) the book that interested me most did not win. One year I will succeed in my prediction!
 

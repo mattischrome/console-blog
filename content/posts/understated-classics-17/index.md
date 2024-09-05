@@ -10,8 +10,6 @@ tags:
 - Electronic
 title: 'Understated Classics #17: Nearly God by Nearly God (Tricky)'
 slug: understated-classics-17
-heroImage: ../../assets/images/defaultHero.jpg
-description: '> Sit back and let it happen, / Let us take your time away'
 ---
 > Sit back and let it happen, / Let us take your time away.
 

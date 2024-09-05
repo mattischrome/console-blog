@@ -7,9 +7,6 @@ tags:
 - Sixteen
 - Electronic
 title: The Orb - Alpine EP
-heroImage: ../../assets/images/defaultHero.jpg
-description: The Orb return with a new EP on the [Kompakt label](www.kompakt.fm) called
-  "Alpine
 ---
 The Orb return with a new EP on the [Kompakt label](www.kompakt.fm) called "Alpine".
 

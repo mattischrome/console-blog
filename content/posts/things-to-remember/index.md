@@ -7,9 +7,6 @@ tags:
 - Depression
 - Twenty
 title: Things to Remember
-heroImage: ../../assets/images/defaultHero.jpg
-description: These are some things I jotted down one day last week, I'll refine them
-  a bit more later on. Think
 ---
 These are some things I jotted down one day last week, I'll refine them a bit more later on. Think of it as an aide-memoire of things that work for me, your milage may vary.
 - Don't worry about things that haven't happened.

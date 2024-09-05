@@ -7,9 +7,6 @@ tags:
 - Saloua Raouda Choucair
 - Thirteen
 title: Choucair At Tate Modern
-heroImage: ../../assets/images/defaultHero.jpg
-description: Yesterday I went to see the Saloua Raouda Choucair show at the Tate Modern.
-  As it was quite small, I
 ---
 Yesterday I went to see the Saloua Raouda Choucair show at the Tate Modern. As it was quite small, I went to see [the Lichtenstein show](/lichtenstein-at-tate-modern/) again as well.
 

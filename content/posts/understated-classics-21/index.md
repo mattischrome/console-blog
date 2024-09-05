@@ -9,9 +9,6 @@ tags:
 - Electronic
 title: 'Understated Classics #21: Woob 2 by Woob'
 slug: understated-classics-21
-heroImage: ../../assets/images/defaultHero.jpg
-description: "The second Woob album (AKA \u201CWoob 4495\u201D) is probably the greatest\
-  \ ambient album ever made and is"
 ---
 The second Woob album (AKA “Woob 4495”) is probably the greatest ambient album ever made and is certainly the best one you have never heard of. Originally released in 1995 [on the em:t label](http://www.emit.cc) it is also a rare record. I don’t have an actual copy but I have seen one! I downloaded it off the internet and even that is quite difficult to do. My friend is an avid collector of all the em:t releases and it is easy to see why: all the albums are titled in a specific way that is very appealing to people who like to collect things and they also have very striking nature photography on the covers. In a strange way, the label was able to create an identity for its releases in a way that many artists would try to.
 

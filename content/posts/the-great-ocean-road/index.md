@@ -7,9 +7,6 @@ tags:
 - Photos
 - Eighteen
 title: The Great Ocean Road
-heroImage: ../../assets/images/defaultHero.jpg
-description: As a [wedding present](articles/the-same-yet-different), Ingrid's Mum
-  Maria kindly took us for a
 ---
 As a [wedding present](articles/the-same-yet-different), Ingrid's Mum Maria kindly took us for a trip along [The Great Ocean Road](https://en.wikipedia.org/wiki/Great_Ocean_Road), the longest war memorial in the world.
 

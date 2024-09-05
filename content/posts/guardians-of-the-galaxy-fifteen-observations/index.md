@@ -7,9 +7,6 @@ tags:
 - Fourteen
 - Lists
 title: 'Guardians of the Galaxy: A Short Review'
-heroImage: ../../assets/images/defaultHero.jpg
-description: '*Finally* saw Guardians of the Galaxy today. Here are fifteen observations
-  about the film that may'
 ---
 *Finally* saw Guardians of the Galaxy today. Here are fifteen observations about the film that may or may not constitute a short review.
 

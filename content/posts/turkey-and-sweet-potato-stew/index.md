@@ -8,8 +8,6 @@ tags:
 - Food
 - Gluten Free
 title: Turkey and Sweet Potato Stew
-heroImage: ../../assets/images/defaultHero.jpg
-description: Here's a recipe to use up your turkey leftovers after Christmas
 ---
 Here's a recipe to use up your turkey leftovers after Christmas.
 

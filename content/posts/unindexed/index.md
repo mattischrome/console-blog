@@ -10,8 +10,6 @@ tags:
 - Getting Better
 title: Unindexed?
 slug: unindexed
-description: I'm trying to write more, but who for?
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 There was [an excellent article on The Verge yesterday about how Google is transforming the kinds of sites and blogs that are on the internet](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization). I also read [this slightly more personal take by Jason Velasquez](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/), which is more about how social networks have gobbled up all the time and attention of people who might otherwise be making interesting web sites. This has made me think deeply about what this blog is *for*, and why I might continue to blog in Twenty Twenty Four. 
 

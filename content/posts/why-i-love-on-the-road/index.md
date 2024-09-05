@@ -9,8 +9,6 @@ tags:
 - Fiction
 - Films
 title: Why I Love On The Road
-heroImage: ../../assets/images/defaultHero.jpg
-description: I was fifteen when I first read ["On The Road"](http://www.goodreads.com/book/show/70401.On_the_Road
 ---
 I was fifteen when I first read ["On The Road"](http://www.goodreads.com/book/show/70401.On_the_Road) by [Jack Kerouac](http://en.wikipedia.org/wiki/Jack_Kerouac) and recently, after twice as much lifetime lived, I was able to watch [the film version directed by Walter Salles](http://www.imdb.com/title/tt0337692/).
 

@@ -10,9 +10,6 @@ tags:
 - Marion Cotillard
 - Thriller
 title: 'Contagion: A Short Review'
-heroImage: ../../assets/images/defaultHero.jpg
-description: There was much excitement about [Contagion](http://www.imdb.com/title/tt1598778/)
-  at work. Finally a
 ---
 There was much excitement about [Contagion](http://www.imdb.com/title/tt1598778/) at work. Finally a movie that explains  as part of the plot! A bunch of us went to see it, mainly to see whether [a disaster movie about a global pandemic](http://contagionmovie.warnerbros.com/index.html) could hold up as entertainment and to have a bit of a giggle if it couldn’t.
 

@@ -8,9 +8,6 @@ tags:
 - Short Story
 - Ideas
 title: On Jackson X
-heroImage: ../../assets/images/defaultHero.jpg
-description: I set myself the task of writing about a fictional character for this
-  blog post, so this post is
 ---
 I set myself the task of writing about a fictional character for this blog post, so this post is about Jackson X. His surname isn’t really X, it’s just one of the details about him that I haven’t fleshed out yet. This is because Jackson X is the one of the protagonists of the novel I’m (not) writing.
 

@@ -8,9 +8,6 @@ tags:
 - Album Revisit
 - Twenty Three
 title: Goldfrapp - Black Cherry
-heroImage: ../../assets/images/defaultHero.jpg
-description: _This is the first in an unplanned series of **album revisits**, I will
-  write a post explaining the
 ---
 _This is the first in an unplanned series of **album revisits**, I will write a post explaining the process soon._
 

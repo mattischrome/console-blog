@@ -11,8 +11,6 @@ tags:
 - TV On The Radio
 - Eleven
 title: Album Digest, May 2011
-heroImage: ../../assets/images/defaultHero.jpg
-description: Four albums this month
 ---
 Four albums this month:
 

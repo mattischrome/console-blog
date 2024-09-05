@@ -9,9 +9,6 @@ tags:
 - Literary novels
 - Experimental
 title: Rachel Cusk, Outline
-heroImage: ../../assets/images/defaultHero.jpg
-description: _Outline_ is the first of a trilogy of novels by Rachel Cusk. In it,
-  the narrator is travelling to
 ---
 _Outline_ is the first of a trilogy of novels by Rachel Cusk. In it, the narrator is travelling to Athens to help teach on a creative writing class. You could describe the rest of what happens in a couple of sentences. I won't be doing so because first, that's spoilers, and I don't do spoilers; second, _Outline_ is one of those novels where what happens doesn't matter quite so much as how it all happens.
 

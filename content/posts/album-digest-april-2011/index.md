@@ -12,8 +12,6 @@ tags:
 - Fabric
 - Eleven
 title: Album Digest, April 2011
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Album of the month: _Mirrorwriting_ by Jamie Woon'
 ---
 ## Album of the month: _Mirrorwriting_ by Jamie Woon
 

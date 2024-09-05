@@ -11,8 +11,6 @@ tags:
 - Radiohead
 - Eleven
 title: Album Digest, October 2011
-heroImage: ../../assets/images/defaultHero.jpg
-description: "This month we have albums by Bj\xF6rk, Coldplay, M83, and Radiohead"
 ---
 This month we have albums by Björk, Coldplay, M83, and Radiohead.
 

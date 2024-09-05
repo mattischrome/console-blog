@@ -6,8 +6,6 @@ tags:
 - Travel
 - Eighteen
 title: A Day in the Air
-heroImage: ../../assets/images/defaultHero.jpg
-description: '![The Plane](../../assets/images/australia_1/australia_1_01.jpg'
 ---
 ![The Plane](../../assets/images/australia_1/australia_1_01.jpg)
 

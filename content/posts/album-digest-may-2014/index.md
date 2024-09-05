@@ -11,9 +11,6 @@ tags:
 - Robyn
 - Fourteen
 title: Album Digest, May 2014
-heroImage: ../../assets/images/defaultHero.jpg
-description: "This month was strange. I didn\u2019t listen to much new music and after\
-  \ [last month\u2019s bumper digest](/"
 ---
 This month was strange. I didn’t listen to much new music and after [last month’s bumper digest](/album-digest-april-2014/) there’s probably a reason for that. Not to mention that Spotify gives you more reasons to look backwards than forwards. Nevertheless, this brief post features new albums by Little Dragon and Coldplay, along with the mini-album collaboration between Röyskopp and Robyn.
 

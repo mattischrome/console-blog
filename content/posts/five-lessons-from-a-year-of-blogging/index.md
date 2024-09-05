@@ -7,9 +7,6 @@ tags:
 - Blogging
 - Eleven
 title: Five lessons from a year of blogging
-heroImage: ../../assets/images/defaultHero.jpg
-description: I have now been writing decent length articles on this site for about
-  a year. I have learned a lot
 ---
 I have now been writing decent length articles on this site for about a year. I have learned a lot in this time, mostly about writing but also how to express your feelings and how to marshal your ideas and passions into action. For this month’s “five on the fifth”, I would like to share  with you some of the things I have learned.
 

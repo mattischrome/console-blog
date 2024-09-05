@@ -10,8 +10,6 @@ tags:
 - Sixteen
 - Fourteen
 title: South America, Part 12
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Uyuni to Tupiza'
 ---
 ## Uyuni to Tupiza
 

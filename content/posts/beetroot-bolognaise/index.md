@@ -7,9 +7,6 @@ tags:
 - Food
 - Seventeen
 title: Beetroot Bolognaise
-heroImage: ../../assets/images/defaultHero.jpg
-description: We cook this version of bolognaise with beetroot due to Ingrid's tomato
-  allergy. This recipe is an
 ---
 We cook this version of bolognaise with beetroot due to Ingrid's tomato allergy. This recipe is an attempt to capture what we do on the fly. The key to it is using the wine, the Worcestershire sauce and the herbs to even out the sweetness of the beetroot. If you can manage that, it's super tasty. The sauce usually ends up being an unusual but pleasing pink/purple colour, as you will see from the pictures.
 

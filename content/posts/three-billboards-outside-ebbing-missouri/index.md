@@ -6,9 +6,6 @@ tags:
 - Eighteen
 - Oscars
 title: Three Billboards Outside Ebbing, Missouri
-heroImage: ../../assets/images/defaultHero.jpg
-description: Ingrid and I renewed our Cineworld passes as it is the season to go to
-  the movies and check out the
 ---
 Ingrid and I renewed our Cineworld passes as it is the season to go to the movies and check out the Oscar contenders. You nod along sagely while dreaming up superlatives to show how much you agree with the taste-makers. Or you can call such-and-such movie a pretentious load of crap.
 

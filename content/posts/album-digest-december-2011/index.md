@@ -10,9 +10,6 @@ tags:
 - Emika
 - Eleven
 title: Album Digest, December 2011
-heroImage: ../../assets/images/defaultHero.jpg
-description: "Some rather brief pen pictures of this month\u2019s albums. I\u2019\
-  ve been a bit busy"
 ---
 Some rather brief pen pictures of this month’s albums. I’ve been a bit busy!
 

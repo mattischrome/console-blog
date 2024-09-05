@@ -9,8 +9,6 @@ tags:
 - Albums
 title: '2023 Albums: Honourable Mentions'
 slug: 2023-albums-honourable-mentions
-description: The best of the rest, as it were
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 A quick list of ten other albums I considered to be among the best of last year. I either listened to these less, or in the cases of "Transmission Three" and "Be Opened By The Wonderful" considered them to be ineligible as they are compilations.
 

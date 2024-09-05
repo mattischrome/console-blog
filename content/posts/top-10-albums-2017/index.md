@@ -6,8 +6,6 @@ tags:
 - Lists
 - Seventeen
 title: Top 10 Albums 2017
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## 10. Grails "Chalice Hymnal'
 ---
 ## 10. Grails "Chalice Hymnal"
 

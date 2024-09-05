@@ -10,9 +10,6 @@ tags:
 - Peter Gabriel
 - Eleven
 title: Album Digest, November 2011
-heroImage: ../../assets/images/defaultHero.jpg
-description: "Just three albums this month as I\u2019ve been listening to a lot of\
-  \ Brian Eno records ready for an"
 ---
 Just three albums this month as I’ve been listening to a lot of Brian Eno records ready for an upcoming understated classic. First up is _50 Words For Snow_ by **Kate Bush**, the second album that she has released this year. [Back in May](album-digest-may-2011) I wrote about _Director’s Cut_, which presented re-recorded and re-mastered versions of songs from her albums _The Sensual World_ and _The Red Shoes_. This time around it is an album of brand new material, the first since _Aerial_ in 2006.
 

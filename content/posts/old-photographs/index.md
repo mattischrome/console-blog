@@ -7,9 +7,6 @@ tags:
 - Family
 - Twenty
 title: Old photographs
-heroImage: ../../assets/images/defaultHero.jpg
-description: Recently I've had cause to dig out some old photos. If I'm honest it's
-  made me sad. Sadder than I
 ---
 Recently I've had cause to dig out some old photos. If I'm honest it's made me sad. Sadder than I was expecting. There's a quote from Nan Goldin that once felt like a warning but now just sounds like a sad statement of ongoing affairs:
 

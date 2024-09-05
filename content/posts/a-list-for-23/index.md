@@ -7,8 +7,6 @@ tags:
 - Life Experiences
 - Twenty Three
 title: A list for '23
-heroImage: ../../assets/images/defaultHero.jpg
-description: A set of rules for living from now on (in no particular order
 ---
 A set of rules for living from now on (in no particular order)
 + Life is too short to look at adverts. Avoid them where possible. Block them if you have to.

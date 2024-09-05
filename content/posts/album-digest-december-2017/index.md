@@ -11,8 +11,6 @@ tags:
 - Neil Finn
 - Seventeen
 title: Album Digest, December 2017
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Bjork *Utopia'
 ---
 ## Bjork *Utopia*
 

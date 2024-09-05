@@ -8,9 +8,6 @@ tags:
 - Twenty
 - Booker Prize
 title: George Saunders, Lincoln In The Bardo
-heroImage: ../../assets/images/defaultHero.jpg
-description: I read this book on holiday in Belgium last year. Having forgotten to
-  pack a novel I scoured almost
 ---
 I read this book on holiday in Belgium last year. Having forgotten to pack a novel I scoured almost every book in the Waterstones at St. Pancras station before settling on this Booker prize winning novel by George Saunders.
 

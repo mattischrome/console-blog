@@ -11,8 +11,6 @@ tags:
 - Janelle Monae
 - Thirteen
 title: Album Digest, September 2013
-heroImage: ../../assets/images/defaultHero.jpg
-description: A nice diverse selection of albums this month
 ---
 A nice diverse selection of albums this month:
 

@@ -7,9 +7,6 @@ tags:
 - Blogging
 - Eighteen
 title: A Diary?
-heroImage: ../../assets/images/defaultHero.jpg
-description: This year promises to be exciting so this week I tried to buy a diary.
-  One of those day-to-a-page
 ---
 This year promises to be exciting so this week I tried to buy a diary. One of those day-to-a-page affairs for scribbling down all the things I've seen and learned about. I thought they might be cheap now the calendar is turning to February. No such luck. There were a few week-to-view diaries going for half price in Waterstones but nothing suitable for my needs. I have lots of Field Notes notebooks if my urge to write gets too much to resist.
 

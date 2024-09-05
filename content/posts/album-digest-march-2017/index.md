@@ -11,8 +11,6 @@ tags:
 - JFDR
 - Seventeen
 title: Album Digest, March 2017
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Blanck Mass *World Eater'
 ---
 ## Blanck Mass *World Eater* 
 

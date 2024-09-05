@@ -8,8 +8,6 @@ tags:
 - June
 - Twelve
 title: Another Reading List
-heroImage: ../../assets/images/defaultHero.jpg
-description: "![More books to add to the \u201CUniversity of life\u201D course list](../../assets/images/other/June-2012-"
 ---
 ![More books to add to the “University of life” course list](../../assets/images/other/June-2012-Bookstack.jpg)
 

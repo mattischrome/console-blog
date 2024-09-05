@@ -10,8 +10,6 @@ tags:
 - Eleven
 title: 'Understated Classics #9: Tiger Bay by Saint Etienne'
 slug: understated-classics-9
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Background'
 ---
 ## Background
 

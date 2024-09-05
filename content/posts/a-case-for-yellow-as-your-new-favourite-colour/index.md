@@ -8,9 +8,6 @@ tags:
 - Twelve
 - Yellow
 title: A Case For Yellow As Your New Favourite Colour
-heroImage: ../../assets/images/defaultHero.jpg
-description: "This post is about the films of Wes Anderson. I am no expert, I\u2019\
-  ve just watched them all recently ("
 ---
 This post is about the films of Wes Anderson. I am no expert, I’ve just watched them all recently (inspired by [seeing “Moonrise Kingdom”](moonrise-kingdom-a-short-review)) and spotted a some similarities and differences between the films and I thought it would be fun to write about them. My appearance on Mastermind with “The Films of Wes Anderson” as my specialist subject will have to wait for now. Feel free to add to the discussion in the comments. In case you don’t know what the films are, here they are in order (with links to their IMDB pages):
 

@@ -10,9 +10,6 @@ tags:
 - Electronic
 title: '2023 Albums of the Year #8: Everything But The Girl, Fuse'
 slug: 2023-albums-08-ebtg-fuse
-description: Kiss me while the world decays because I miss you like the deserts miss
-  the rain.
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 ![Cover of Fuse by Everything But The Girl](../../assets/images/albums-2023/ebtg-fuse.jpeg)
 

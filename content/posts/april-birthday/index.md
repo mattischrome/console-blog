@@ -8,8 +8,6 @@ tag:
 - Twelve
 - Birthday
 title: Ted Hughes, April Birthday
-heroImage: ../../assets/images/defaultHero.jpg
-description: When your birthday brings the world under your window
 ---
 When your birthday brings the world under your window  
 And the [song-thrush](http://www.rspb.org.uk/wildlife/birdguide/name/s/songthrush/index.aspx) sings wet-throated in the dew  

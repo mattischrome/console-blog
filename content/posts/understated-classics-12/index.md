@@ -9,8 +9,6 @@ tags:
 - Eleven
 title: 'Understated Classics #12: Look Sharp! by Roxette'
 slug: understated-classics-12
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Happy Birthday'
 ---
 ## Happy Birthday!
 

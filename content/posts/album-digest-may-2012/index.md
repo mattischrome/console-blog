@@ -11,8 +11,6 @@ tags:
 - Oxia
 - Twelve
 title: Album Digest, May 2012
-heroImage: ../../assets/images/defaultHero.jpg
-description: Four albums for Album Digest May 2012
 ---
 Four albums for Album Digest May 2012:
 

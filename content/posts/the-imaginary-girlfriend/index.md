@@ -9,9 +9,6 @@ tags:
 - Wrestling
 - Twenty Two
 title: John Irving, The Imaginary Girlfriend
-heroImage: ../../assets/images/defaultHero.jpg
-description: '*The Imaginary Girlfriend* is a short autobiography by American author
-  John Irving. In it, he'
 ---
 *The Imaginary Girlfriend* is a short autobiography by American author John Irving. In it, he explains the interwoven roles of writing and wrestling in his life.
 

@@ -6,9 +6,6 @@ tags:
 - Life Experiences
 - Fourteen
 title: Whatever Happened To That Hat?
-heroImage: ../../assets/images/defaultHero.jpg
-description: The hat in question is a Wilco baseball cap that I bought at a gig of
-  theirs in 2004, the night that
 ---
 The hat in question is a Wilco baseball cap that I bought at a gig of theirs in 2004, the night that Germany got eliminated from Euro 2004. I'd love to show you a picture of it but I can't, there isn't even a picture of it from a Wilco merch site: at least not one that Google or Bing images can see anyway. I did manage to find a side-on picture of it in my bedroom in 2005 and zoom right in on it like they do in CSI.
 

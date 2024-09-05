@@ -8,9 +8,6 @@ tags:
 - Photos
 - Ten
 title: Movember 10K
-heroImage: ../../assets/images/defaultHero.jpg
-description: So, Saturday. Finally. The big day. Would I a) be able to get to Greenwich
-  in time for the
 ---
 So, Saturday. Finally. The big day. Would I a) be able to get to Greenwich in time for the registration? and b) be able to make it all the way around the course without collapsing and crying?
 

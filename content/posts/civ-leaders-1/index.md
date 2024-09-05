@@ -8,8 +8,6 @@ tags:
 - Leaders
 title: 'Civ Leaders #1: Hojo Tokimune of Japan'
 slug: civ-leaders-1
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Civ ability'
 ---
 ## Civ ability
 *Meiji Restoration* Districts receive a +1 adjacency bonus for each adjacent district, instead of +0.5.

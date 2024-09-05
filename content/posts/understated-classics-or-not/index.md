@@ -10,9 +10,6 @@ tags:
 - Pop
 - Twenty Two
 title: Understated Classics Or Not?
-heroImage: ../../assets/images/defaultHero.jpg
-description: At the new year, thoughts and spare time for writing point me toward
-  writing some new posts for my
 ---
 At the new year, thoughts and spare time for writing point me toward writing some new posts for my understated classics series. Expect some new ones soon.
 

@@ -8,9 +8,6 @@ tags:
 - Thirteen
 - London
 title: Peter Ackroyd, Hawksmoor
-heroImage: ../../assets/images/defaultHero.jpg
-description: Peter Ackroyd's "Hawksmoor" was first published in 1985. I bought a recent
-  reissue that forms part
 ---
 Peter Ackroyd's "Hawksmoor" was first published in 1985. I bought a recent reissue that forms part of Penguin's decades collection whilst on a spree in Waterstone's. It appealed to me as I recently realised that despite growing up in the eighties and nineties, I had read very novels that were either written or set in the eighties. Happily "Hawksmoor" is both of these, sort of. It also appealed to me because it is (again, sort of) a detective story and I've found myself getting into those lately. John Squire's excellent artwork for the cover and the nice binding also helped to seal the deal: you don't get that with an iPad or a Kindle.
 

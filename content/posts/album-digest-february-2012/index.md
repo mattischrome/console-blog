@@ -11,8 +11,6 @@ tags:
 - The 2 Bears
 - Twelve
 title: Album Digest, February 2012
-heroImage: ../../assets/images/defaultHero.jpg
-description: One EP and three albums for Album Digest February 2012
 ---
 One EP and three albums for Album Digest February 2012:
 

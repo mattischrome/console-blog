@@ -7,8 +7,6 @@ tags:
 - CAN
 - Fifteen
 title: 'Inherent Vice: A Short Review'
-heroImage: ../../assets/images/defaultHero.jpg
-description: Tonight I finally caught up with [Inherent Vice](https://en.wikipedia.org/wiki/Inherent_Vice_(film
 ---
 Tonight I finally caught up with [Inherent Vice](https://en.wikipedia.org/wiki/Inherent_Vice_(film)), Paul Thomas Anderson's adaptation of [Thomas Pynchon's novel](http://www.amazon.co.uk/Inherent-Vice-Thomas-Pynchon/dp/0099542161/ref=sr_1_4?ie=UTF8&qid=1437860132&sr=8-4&keywords=inherent+vice). It stars [Joaquin Phoenix](http://www.imdb.com/name/nm0001618/) as Larry 'Doc' Sportello who's put on to a case of possible kidnapping by his "ex-old lady" Shasta, played by [Katherine Waterston](http://www.theguardian.com/film/2015/jun/16/katherine-waterston-jk-rowlings-fantastic-beasts-harry-potter).
 

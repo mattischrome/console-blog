@@ -7,9 +7,6 @@ tags:
 - Science Fiction
 - Twelve
 title: Nick Harkaway, The Gone-Away World
-heroImage: ../../assets/images/defaultHero.jpg
-description: "\u201CThe Gone-Away World\u201D is a novel by Nick Harkaway. It\u2019\
-  s about a world slightly askew to our own in"
 ---
 “The Gone-Away World” is a novel by Nick Harkaway. It’s about a world slightly askew to our own in which the powers-that-be have deigned to unleash a weapon that simply wipes the enemy out of existence. Unfortunately the enemies also have the same weapon and there are terrible consequences to the extent that the very fabric of reality is threatened. If you don’t already know what reification means, you will by the end.
 

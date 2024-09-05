@@ -12,9 +12,6 @@ tags:
 - Susan Ciani
 - Sixteen
 title: Album Digest, September 2016
-heroImage: ../../assets/images/defaultHero.jpg
-description: This month's album digest features albums by Wilco, M.I.A., Local Natives,
-  and a collaboration
 ---
 This month's album digest features albums by Wilco, M.I.A., Local Natives, and a collaboration between Kaitlyn Aurelia Smith and Suzanne Ciani.
 

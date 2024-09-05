@@ -9,9 +9,6 @@ tags:
 - Rock
 title: 'Understated Classics #26: Come On Die Young by Mogwai'
 slug: understated-classics-26
-heroImage: ../../assets/images/defaultHero.jpg
-description: '> I''ll tell you about punk rock: punk rock is a word used by dilettantes
-  and ah... and ah...'
 ---
 > I'll tell you about punk rock: punk rock is a word used by dilettantes and ah... and ah... heartless manipulators about music that takes up the energies and the bodies and the hearts and the souls and the time and the minds of young men who give what they have to it and give everything they have to it and it's a... it's a term that's based on contempt, it's a term that's based on fashion, style, elitism, satanism and everything that's rotten about rock 'n' roll. I don't know [Johnny Rotten](http://en.wikiquote.org/wiki/John_Lydon) but I'm sure... I'm sure he puts as much blood and sweat into what he does as [Sigmund Freud](http://en.wikiquote.org/wiki/Sigmund_Freud) did. You see, what sounds to you like a big load of trashy old noise is in fact the brilliant music of a genius, myself . And that music is so powerful that it's quite beyond my control and ah... when I'm in the grips of it I don't feel pleasure and I don't feel pain, either physically or emotionally. Do you understand what I'm talking about? Have you ever felt like that? When you just couldn't feel anything and you didn't want to either. You know? Like that? Do you understand what I'm saying sir? (Iggy Pop, Canadian TV, March 11th 1977.)
 

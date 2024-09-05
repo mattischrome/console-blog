@@ -7,8 +7,6 @@ tags:
 - Food
 - Nineteen
 title: Four Recipe Book Recommendations
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## The A-Z of Cooking by Felicity Cloake'
 ---
 ## The A-Z of Cooking by Felicity Cloake
 This book is for more luxurious and experimental recipes. There are 26 chapters, one for an ingredient beginning with each letter of the alphabet, but you probably guessed that already. Ingrid and I have been (very) slowly working our way through the chapters, making a couple of recipes from each one - we’re currently up to G for Garlic.

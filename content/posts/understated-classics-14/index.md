@@ -9,9 +9,6 @@ tags:
 - Eleven
 title: 'Understated Classics #14: Clear by Bomb The Bass'
 slug: understated-classics-14
-heroImage: ../../assets/images/defaultHero.jpg
-description: "> I think it\u2019s time to discuss your philosophy of drug use as it\
-  \ relates to artistic endeavour"
 ---
 > I think it’s time to discuss your philosophy of drug use as it relates to artistic endeavour…
 

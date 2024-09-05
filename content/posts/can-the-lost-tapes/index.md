@@ -8,9 +8,6 @@ tags:
 - Box Set
 - Rock
 title: CAN, The Lost Tapes
-heroImage: ../../assets/images/defaultHero.jpg
-description: This arrived on Monday and I thought I would give it a post of its own
-  because at over 3 hours of
 ---
 This arrived on Monday and I thought I would give it a post of its own because at over 3 hours of music, I am unlikely to do more than dip into it before writing the album digest next week. It is a far bigger and more enjoyable artefact than I thought it was going to be, so it probably deserves special attention for that reason too.
 

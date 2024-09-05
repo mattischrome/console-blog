@@ -6,8 +6,6 @@ tags:
 - The Simpsons
 - Fifteen
 title: Consider the Donut
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Or, From There to Here With the Simpsons'
 ---
 ## Or, From There to Here With the Simpsons
 

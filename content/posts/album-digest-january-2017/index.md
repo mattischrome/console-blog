@@ -10,8 +10,6 @@ tags:
 - The xx
 - Seventeen
 title: Album Digest, January 2017
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Mike Oldfield *Return to Ommadawn'
 ---
 ## Mike Oldfield *Return to Ommadawn*
 

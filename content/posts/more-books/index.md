@@ -6,8 +6,6 @@ tags:
 - Reading Projects
 - Eleven
 title: More Books
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Never mind the Ballards'
 ---
 ## Never mind the Ballards
 

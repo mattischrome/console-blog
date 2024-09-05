@@ -8,8 +8,6 @@ tags:
 - Brazil
 - Fourteen
 title: Clarice Lispector, Hour of the Star
-heroImage: ../../assets/images/defaultHero.jpg
-description: '[*Hour of the Star*](http://www.penguin.co.uk/nf/Book/BookDisplay/0,,9780141392035,00.html?'
 ---
 [*Hour of the Star*](http://www.penguin.co.uk/nf/Book/BookDisplay/0,,9780141392035,00.html?strSrchSql=hour+of+the+star/Hour_of_the_Star_Clarice_Lispector) is a short novel by [Clarice Lispector](http://en.wikipedia.org/wiki/Clarice_Lispector), a Ukrainian-born Brazilian author with an interesting life story. This is her last novel and is a remarkable book: inventive, funny, and sad, all at once. I found it in a special selection at the local library dedicated to Brazil because of the World Cup.
 

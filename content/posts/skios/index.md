@@ -7,9 +7,6 @@ tags:
 - Novel
 - Thirteen
 title: Michael Frayn, Skios
-heroImage: ../../assets/images/defaultHero.jpg
-description: "This week I read \u201CSkios\u201D by [Michael Frayn](https://en.wikipedia.org/wiki/Michael_Frayn)\
-  \ (who was"
 ---
 This week I read “Skios” by [Michael Frayn](https://en.wikipedia.org/wiki/Michael_Frayn) (who was born in Mill Hill). It’s another book from now customary pile of books that tends to develop around this time of year. ["Hawksmoor"](hawksmoor) and ["The Marriage Plot"](the-marriage-plot) were on the same ever-increasing pile. “Skios” is something of a change from what I normally read: it’s a comedic farce about stolen identities set on the (fictional) titular Greek island. Amusingly, [the wikipedia page for the novel](https://en.wikipedia.org/wiki/Skios) currently reads “Praise for Skios was entirely misplaced”, probably thanks to some curmudgeon who doesn't like the novel. Cue a ‘misplaced’ blog post about it, something that most people would consider to be business as usual for my blog.
 

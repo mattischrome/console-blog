@@ -11,9 +11,6 @@ tags:
 - Parquet Courts
 - Sixteen
 title: Album Digest, May 2016
-heroImage: ../../assets/images/defaultHero.jpg
-description: Album Digest May 2016 features the work of four bands or artists that
-  I have reviewed in previous
 ---
 Album Digest May 2016 features the work of four bands or artists that I have reviewed in previous album digests. I also own (or will own) all of these albums on vinyl, so it's handy that I've recently bought myself a record player!
 

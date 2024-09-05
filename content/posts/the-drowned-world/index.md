@@ -8,8 +8,6 @@ tags:
 - Books
 - Ten
 title: J. G. Ballard, The Drowned World
-heroImage: ../../assets/images/defaultHero.jpg
-description: '### Does Science Fiction have to be believable to be meaningful'
 ---
 ### Does Science Fiction have to be believable to be meaningful?
 

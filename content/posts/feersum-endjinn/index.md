@@ -7,9 +7,6 @@ tags:
 - Science Fiction
 - Fifteen
 title: Iain M. Banks, Feersum Endjinn
-heroImage: ../../assets/images/defaultHero.jpg
-description: Feersum Endjinn is one of Iain Banks' few non-Culture sci-fi novels.
-  Like the Culture novels, an
 ---
 Feersum Endjinn is one of Iain Banks' few non-Culture sci-fi novels. Like the Culture novels, an existential crisis drives the plot: in this case the action takes place on Earth in the far future and the sun has aged to a point where it will grow and swallow the earth. This is referred to as the Encroachment. The characters are divided between the good guys who seek to find a solution for the greater good and bad guys who use the Encroachment to consolidate their power and influence.
 

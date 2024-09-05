@@ -7,8 +7,6 @@ tags:
 - Work
 - Thirteen
 title: The Reset Button
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## Previously on'
 ---
 ## Previously on...
 

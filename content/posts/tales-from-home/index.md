@@ -8,8 +8,6 @@ tags:
 - Photos
 - Ten
 title: Tales From Home
-heroImage: ../../assets/images/defaultHero.jpg
-description: '### A question of identity'
 ---
 ### A question of identity
 

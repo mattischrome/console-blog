@@ -10,9 +10,6 @@ tags:
 - Goldfrapp
 - Seventeen
 title: Album Digest, September 2017
-heroImage: ../../assets/images/defaultHero.jpg
-description: 'Note: Recent months have been very busy, so this album digest combines
-  a review of the new album by'
 ---
 Note: Recent months have been very busy, so this album digest combines a review of the new album by The National with a couple of reviews left over from earlier in the year.
 

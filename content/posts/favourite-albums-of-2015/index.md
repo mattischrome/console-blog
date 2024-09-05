@@ -16,9 +16,6 @@ tags:
 - Grimes
 - Fifteen
 title: My Favourite Albums of 2015
-heroImage: ../../assets/images/defaultHero.jpg
-description: Given that I gave up on writing album digests for a bit this year, I
-  thought I would at least do a
 ---
 Given that I gave up on writing album digests for a bit this year, I thought I would at least do a proper top ten list of my favourite albums. There are quite a few albums that I did not have room for and I might try to revisit those later. In the mean time, let's crack on. (To save time, I have in some instances pasted my original review from the appropriate album digest.)
 

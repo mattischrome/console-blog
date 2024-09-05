@@ -11,9 +11,6 @@ tags:
 - Brian Eno
 - Twelve
 title: Album Digest, November 2012
-heroImage: ../../assets/images/defaultHero.jpg
-description: "Pretty much a sliding scale between songs and electronic wibble on this\
-  \ month\u2019s albums and a"
 ---
 Pretty much a sliding scale between songs and electronic wibble on this month’s albums and a particularly damp, chilly feeling to proceedings too.
 

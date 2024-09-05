@@ -7,9 +7,6 @@ tags:
 - Seventeen
 - Life Experiences
 title: Three Years
-heroImage: ../../assets/images/defaultHero.jpg
-description: Three years ago today I moved in to my little flat in Chichester, soon
-  to start a new job. I had no
 ---
 Three years ago today I moved in to my little flat in Chichester, soon to start a new job. I had no money left but at least, after a character building stint of six months sleeping on the floor, I had a bed. In the intervening three years, my job role has expanded, I've done another degree, the flat has become a home, and I've met and married Ingrid. Add to that the fact that it's almost four years since I left for South America and I start to realise that I've done a crazy amount of things in that time. I don't intend to stop.
 

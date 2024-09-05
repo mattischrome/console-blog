@@ -8,9 +8,6 @@ tags:
 - Photos
 - Sixteen
 title: Lausanne, Switzerland, March 2016
-heroImage: ../../assets/images/defaultHero.jpg
-description: Just before Easter Ingrid and I went to Lausanne in Switzerland for a
-  few days. It was a much-needed
 ---
 Just before Easter Ingrid and I went to Lausanne in Switzerland for a few days. It was a much-needed break and my first trip out of the UK since I got back from South America.
 

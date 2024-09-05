@@ -14,8 +14,6 @@ tags:
 - Fever Ray
 - Seventeen
 title: Album Digest, November 2017
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## 00110100 01010100 "0181'
 ---
 ## 00110100 01010100 "0181"
 

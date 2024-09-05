@@ -9,9 +9,6 @@ tags:
 - Eleven
 title: 'Understated Classics #8: Second Light by Dreadzone'
 slug: understated-classics-8
-heroImage: ../../assets/images/defaultHero.jpg
-description: In the [understated classics](understated-classics) series, I try to
-  alternate between pop/rock and
 ---
 In the [understated classics](understated-classics) series, I try to alternate between pop/rock and electronic albums. Keeping with this trend number eight is the wonderful dub-infused album _Second Light_ by [Dreadzone](http://www.dreadzone.com). Released in 1996 it was well-received critically and four of its tracks featured on [John Peel](http://www.bbc.co.uk/radio1/johnpeel/)'s best-of-year list that year. _Little Britain_ received a lot of radio play, a popular choice for that flag-waving period of [britpop](http://www.mojo4music.com/13834/the-story-of-britpop-in-60-albums/) and assorted other demons.
 

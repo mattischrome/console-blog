@@ -8,9 +8,6 @@ tags:
 - Fifteen
 - Music
 title: Everything Everything, Get To Heaven
-heroImage: ../../assets/images/defaultHero.jpg
-description: It's difficult to write honestly about your feelings. It's difficult
-  to write about your feelings
 ---
 It's difficult to write honestly about your feelings. It's difficult to write about your feelings consistently, for a living on a regular basis. It's difficult to write about your feelings when the world constantly intrudes with inanity, insanity and hatred. It's difficult to write under those conditions without seeming frayed, without coming loose at the edges.
 

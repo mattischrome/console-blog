@@ -6,9 +6,6 @@ tags:
 - Blogging
 - Seventeen
 title: Hills
-heroImage: ../../assets/images/defaultHero.jpg
-description: I'm a big fan of books. The way they transport you away to other places
-  and so on. As repositories
 ---
 I'm a big fan of books. The way they transport you away to other places and so on. As repositories of knowledge and adventure they can't be beat. I can think of no better way out of an existential fix than reading.
 

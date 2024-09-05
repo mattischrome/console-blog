@@ -14,8 +14,6 @@ tags:
 - LCD Soundsystem
 - Salva
 title: Album Digest, March 2011
-heroImage: ../../assets/images/defaultHero.jpg
-description: '## This is not an Album Digest March 2011'
 ---
 ## This is not an Album Digest March 2011
 

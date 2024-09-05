@@ -7,9 +7,6 @@ tags:
 - Fifteen
 - Fun
 title: 'Minions: A Short Review'
-heroImage: ../../assets/images/defaultHero.jpg
-description: The Minions got their own movie, just as I predicted in [my review of
-  Despicable Me 2](/despicable-
 ---
 The Minions got their own movie, just as I predicted in [my review of Despicable Me 2](/despicable-me-2-a-short-review/). I went to see it this week and I enjoyed it a lot. Here's a short review. Don't worry, there are no spoilers here that aren't in the trailer.
 

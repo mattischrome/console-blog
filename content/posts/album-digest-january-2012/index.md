@@ -14,8 +14,6 @@ tags:
 - Pinch
 - Twelve
 title: Album Digest, January 2012
-heroImage: ../../assets/images/defaultHero.jpg
-description: Five albums to see in the new year
 ---
 Five albums to see in the new year:
 

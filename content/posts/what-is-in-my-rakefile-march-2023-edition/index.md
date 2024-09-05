@@ -8,9 +8,6 @@ tags:
 - Housekeeping
 - Twenty Three
 title: What is in my Rakefile? (March 2023 edition)
-heroImage: ../../assets/images/defaultHero.jpg
-description: Because I am bored of forgetting what's in my website's Rakefile, I thought
-  I'd write a list. Also,
 ---
 Because I am bored of forgetting what's in my website's Rakefile, I thought I'd write a list. Also, as I'm probably going to move over to a node based approach soon, it's a handy wish list for my `package.json` file when the time comes.
 

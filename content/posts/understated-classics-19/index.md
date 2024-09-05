@@ -11,9 +11,6 @@ tags:
 - Electronic
 title: 'Understated Classics #19: The Dreaming by Kate Bush'
 slug: understated-classics-19
-heroImage: ../../assets/images/defaultHero.jpg
-description: "> \u201CI see the people working and see it working for them.\u201D\
-  \ (_Sat In Your Lap_"
 ---
 > “I see the people working and see it working for them.” (_Sat In Your Lap_)
 

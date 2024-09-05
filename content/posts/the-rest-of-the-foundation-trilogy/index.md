@@ -8,9 +8,6 @@ tags:
 - Isaac Asimov
 - Nineteen
 title: Isaac Asimov, Foundation and Empire, Second Foundation
-heroImage: ../../assets/images/defaultHero.jpg
-description: I managed to read all of the foundation novels since I [wrote about the
-  first one](/foundation). In
 ---
 I managed to read all of the foundation novels since I [wrote about the first one](/foundation). In this post, I’ll write about the next two, which covers the original trilogy of ‘novels’ created from the original short stories. I’ve tried to avoid spoilers.
 

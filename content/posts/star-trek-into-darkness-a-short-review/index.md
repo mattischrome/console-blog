@@ -6,9 +6,6 @@ tags:
 - Science Fiction
 - Thirteen
 title: 'Star Trek: Into Darkness - A Short Review'
-heroImage: ../../assets/images/defaultHero.jpg
-description: 'I saw _Star Trek: Into Darkness_ last night in 3D at the IMAX in Waterloo.
-  I am going to have to'
 ---
 I saw _Star Trek: Into Darkness_ last night in 3D at the IMAX in Waterloo. I am going to have to separate this into a review into two parts, a review of the film and a review of the viewing experience. I am not completely happy with how the film experience is changed by the 3D and the super big screen and I will try to explain what I mean.
 

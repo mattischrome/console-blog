@@ -10,9 +10,6 @@ tags:
 - Fourteen
 - Thirteen
 title: South America, Part 9
-heroImage: ../../assets/images/defaultHero.jpg
-description: In a tour full of highlights, Christmas week of 2013 was nonetheless
-  one of the greatest weeks of my
 ---
 In a tour full of highlights, Christmas week of 2013 was nonetheless one of the greatest weeks of my life. I may have moaned, groaned, and got completely soaked, but it was worth it to see Machu Picchu in the sunshine.
 

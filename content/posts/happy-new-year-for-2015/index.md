@@ -7,9 +7,6 @@ tags:
 - Life Experiences
 - Time Passing
 title: Happy New Year 2015!
-heroImage: ../../assets/images/defaultHero.jpg
-description: Just a brief message to wish everyone a happy new year. Getting my flat
-  connected to the internet
 ---
 Just a brief message to wish everyone a happy new year. Getting my flat connected to the internet continues to be a trial so it's still not as easy to post as I would like. However, I have some workarounds now and I hope to write (and post) more often from now on.
 

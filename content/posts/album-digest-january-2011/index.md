@@ -12,9 +12,6 @@ tags:
 - Joan As Police Woman
 - Eleven
 title: Album Digest, January 2011
-heroImage: ../../assets/images/defaultHero.jpg
-description: "Here\u2019s to 2011 and the start of a monthly album digest. I want\
-  \ it to be a brief trot through some of"
 ---
 Here’s to 2011 and the start of a monthly album digest. I want it to be a brief trot through some of the albums I have listened to each month. Sometimes January can bring a few quiet releases by big name bands. This happens if the previous album did not do as well as the record company hoped or if it is the kind of artist who would get lost under the hype of all the Christmas releases.
 

@@ -7,9 +7,6 @@ tags:
 - Life Experiences
 - Twenty One
 title: Jab 1
-heroImage: ../../assets/images/defaultHero.jpg
-description: I had my first Covid-19 vaccination on Friday. Leading up to it, I was
-  borderline having a panic
 ---
 I had my first Covid-19 vaccination on Friday. Leading up to it, I was borderline having a panic attack. From about lunchtime I was just all over the shop (the jab was at 7pm). I'm glad that the vaccination centres run with such exactitude, but also with a sense of cheeriness. By the time I'd had the jab, I was feeling much better just from the sheer relief of it. 
 

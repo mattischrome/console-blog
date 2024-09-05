@@ -17,14 +17,14 @@
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
        <meta property="og:title" content="TIL: footnotes in Latex captions" />
-<meta property="og:description" content="Today I had an interesting bug in some Latex code I am writing. Putting a footnote into a caption" />
+<meta property="og:description" content="" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://localhost:1313/posts/til-latex-footnotes-in-captions/" /><meta property="article:published_time" content="2022-02-08T00:00:00+00:00" />
 
 
 
 <meta name="twitter:title" content="TIL: footnotes in Latex captions"/>
-<meta name="twitter:description" content="Today I had an interesting bug in some Latex code I am writing. Putting a footnote into a caption"/>
+<meta name="twitter:description" content="Today I had an interesting bug in some Latex code I am writing. Putting a footnote into a caption caused the document to fail compilation. The problem was that this document doesn&rsquo;t use a table of figures at the start, so I hadn&rsquo;t thought to include a short summary caption. Apparently the curly brace in the footnote command does not sit well with that, even if you aren&rsquo;t using a list or table of figures in your document."/>
 
   
 

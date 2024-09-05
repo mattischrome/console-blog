@@ -7,9 +7,6 @@ tags:
 - Novels
 - Fifteen
 title: Ben Elton, Time and Time Again
-heroImage: ../../assets/images/defaultHero.jpg
-description: Time and Time Again is a ridiculously stupid novel by Ben Elton. A shadowy
-  sect (established by
 ---
 Time and Time Again is a ridiculously stupid novel by Ben Elton. A shadowy sect (established by Isaac Newton no less!) recruits a soldier to go back in time and prevent Franz Ferdinand's assassination in Sarajevo in August 1914. I wonder if it all goes to plan and everyone lives happily ever after with no weird timey-wimey after-effects?
 

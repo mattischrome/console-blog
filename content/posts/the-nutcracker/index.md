@@ -6,9 +6,6 @@ tags:
 - Ballet
 - Sixteen
 title: The Nutcracker
-heroImage: ../../assets/images/defaultHero.jpg
-description: For Ingrid's birthday, we went to see [The Nutcracker performed by the
-  Moscow City Ballet](http://
 ---
 For Ingrid's birthday, we went to see [The Nutcracker performed by the Moscow City Ballet](http://moscowcityballet.com/en/repertoire/ballet/1) at [The King's Theatre in Southsea](http://kingsportsmouth.co.uk).
 

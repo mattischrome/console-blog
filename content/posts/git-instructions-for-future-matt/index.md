@@ -9,9 +9,6 @@ tags:
 - Blogging
 - Hugo
 - git
-description: What I did when I wanted to make the Hugo branch of this blog's repository
-  main, without using a merge.
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 Dear Future Matt,
 

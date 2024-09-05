@@ -10,9 +10,6 @@ tags:
 - Electronic
 title: '2023 Albums of the Year #1: Sofia Kourtesis, Madres'
 slug: 2023-albums-01-sofia-kourtesis-madres
-description: Good vibes, global beats, and the life changing effects of brain surgery
-  abound in Sofia's debut.
-heroImage: ../../assets/images/defaultHero.jpg
 ---
 ![Cover of Madres by Sofia Kourtesis](../../assets/images/albums-2023/sofia-kourtesis-madres.jpeg)
 
