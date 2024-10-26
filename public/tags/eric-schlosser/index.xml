@@ -4,7 +4,7 @@
     <title>Eric Schlosser on mattischrome</title>
     <link>http://localhost:1313/tags/eric-schlosser/</link>
     <description>Recent content in Eric Schlosser on mattischrome</description>
-    <generator>Hugo 0.125.2</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 29 Sep 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/eric-schlosser/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>http://localhost:1313/posts/command-and-control/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/command-and-control/</guid>
-      <description>&amp;ldquo;Command and Control&amp;rdquo; by Eric Schlosser is about the history of nuclear weapons and their safety. This might not seem like a thrilling subject, but it&amp;rsquo;s absorbing from start to finish. I started it three years ago but only finished it more recently as the subject of nuclear weapons has become more pertinent to current affairs1. There are many people who would stand to gain a great deal from reading this book2.</description>
+      <description>&lt;p&gt;&amp;ldquo;Command and Control&amp;rdquo; by Eric Schlosser is about the history of nuclear weapons and their safety. This might not seem like a thrilling subject, but it&amp;rsquo;s absorbing from start to finish. I started it three years ago but only finished it more recently as the subject of nuclear weapons has become more pertinent to current affairs&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. There are many people who would stand to gain a great deal from reading this book&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eric Schlosser, Gods of Metal</title>
       <link>http://localhost:1313/posts/gods-of-metal/</link>
       <pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/gods-of-metal/</guid>
-      <description>Y-12 is the United States&amp;rsquo; most secure weapons-grade Uranium storage facility. It is known as the &amp;ldquo;Fort Knox of Uranium&amp;rdquo;. In 2012 it was infiltrated by three elderly peace protesters, sparking a major scandal about the safety of US nuclear sites. &amp;ldquo;Gods of Metal&amp;rdquo; by Eric Schlosser tells the story of that break-in alongside a history of both the anti-nuclear movement (in particular the Plowshares movement) and nuclear security in the United States.</description>
+      <description>&lt;p&gt;Y-12 is the United States&amp;rsquo; most secure weapons-grade Uranium storage facility. It is known as the &amp;ldquo;Fort Knox of Uranium&amp;rdquo;. In 2012 it was infiltrated by three elderly peace protesters, sparking a major scandal about the safety of US nuclear sites. &amp;ldquo;Gods of Metal&amp;rdquo; by Eric Schlosser tells the story of that break-in alongside a history of both the anti-nuclear movement (in particular &lt;a href=&#34;https://en.wikipedia.org/wiki/Plowshares_Movement&#34;&gt;the Plowshares movement&lt;/a&gt;) and nuclear security in the United States.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

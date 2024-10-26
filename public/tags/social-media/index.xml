@@ -4,16 +4,23 @@
     <title>Social Media on mattischrome</title>
     <link>http://localhost:1313/tags/social-media/</link>
     <description>Recent content in Social Media on mattischrome</description>
-    <generator>Hugo 0.125.2</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 18 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sympathy for the Screenager</title>
+      <link>http://localhost:1313/posts/sympathy-for-the-screenager/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sympathy-for-the-screenager/</guid>
+      <description>&lt;p&gt;Haidt&lt;/p&gt;&#xA;&lt;p&gt;The counter argument&lt;/p&gt;&#xA;&lt;p&gt;Correlation and causation, as usual&lt;/p&gt;&#xA;&lt;p&gt;Schmidt-Persson study&lt;/p&gt;&#xA;&lt;p&gt;Holiday blues&lt;/p&gt;&#xA;&lt;p&gt;Parents should set a good example&lt;/p&gt;&#xA;&lt;p&gt;Advice for my own inner screenager&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821176&#34;&gt;link to the study&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Time Is Time and That Is That</title>
       <link>http://localhost:1313/posts/time-is-time-and-that-is-that/</link>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/time-is-time-and-that-is-that/</guid>
-      <description>A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.&#xA;So why does Facebook feel the need to jiggle things about into a random order? Well most of you have that mobile phone app of theirs that sucks your battery and your data allowance like crazy (mainly by auto-playing videos like a dick).</description>
+      <description>&lt;p&gt;A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.&lt;/p&gt;&#xA;&lt;p&gt;So why does Facebook feel the need to jiggle things about into a random order? Well most of you have that mobile phone app of theirs that sucks your battery and your data allowance like crazy (mainly by auto-playing videos like a dick). They know you’re checking your Facebook on the loo at work and that that limits your interaction time. During this precious interlude they want you to see the stuff that they think interests you and the things that other people paid for you to see. You’re going to see some hick’s new tattoo, at least one photo of someone else’s child and an advert telling you to vote Conservative - whether you like it or not.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

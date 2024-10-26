@@ -4,7 +4,7 @@
     <title>Internet on mattischrome</title>
     <link>http://localhost:1313/tags/internet/</link>
     <description>Recent content in Internet on mattischrome</description>
-    <generator>Hugo 0.125.2</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/internet/index.xml" rel="self" type="application/rss+xml" />
@@ -13,49 +13,49 @@
       <link>http://localhost:1313/posts/the-forever-now/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/the-forever-now/</guid>
-      <description>Writing this post came about from frustration with blogging. Specifically the tools I am using. Often it feels like a new language or paradigm comes along that shifts one or two of the pain points of blogging. The biggest are:&#xA;How long it takes to get a post on the internet once you’ve written it The reliability of the resulting website How good the resulting website looks Note that none of this really impacts the quality of the writing.</description>
+      <description>&lt;p&gt;Writing this post came about from  frustration with blogging. Specifically the tools I am using. Often it feels like a new language or paradigm comes along that shifts one or two of the pain points of blogging. The biggest are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;How long it takes to get a post on the internet once you’ve written it&lt;/li&gt;&#xA;&lt;li&gt;The reliability of the resulting website&lt;/li&gt;&#xA;&lt;li&gt;How good the resulting website looks&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Note that none of this really impacts the quality of the writing. I’m not claiming to be a good writer: in fact I spend so much time blogging or thinking about blogging because it is my writing practice. (I think I am getting better, but slowly).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Living in the Pi Hole</title>
       <link>http://localhost:1313/posts/living-in-the-pi-hole/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/living-in-the-pi-hole/</guid>
-      <description>Ingrid bought me a raspberry pi for my birthday. I&amp;rsquo;ve set it up to run the Pi-hole software. Pi-hole is a nifty bit of kit that intercepts your web requests and purges any that ask for material on known ad servers. Essentially it&amp;rsquo;s like having an ad blocker on your network rather than just your computer.&#xA;I&amp;rsquo;ve written before about why I hate web advertising, and since then it&amp;rsquo;s got even more malign.</description>
+      <description>&lt;p&gt;Ingrid bought me a &lt;a href=&#34;https://www.raspberrypi.org&#34;&gt;raspberry pi&lt;/a&gt; for my birthday. I&amp;rsquo;ve set it up to run the &lt;a href=&#34;https://docs.pi-hole.net&#34;&gt;Pi-hole&lt;/a&gt; software. Pi-hole is a nifty bit of kit that intercepts your web requests and purges any that ask for material on known ad servers. Essentially it&amp;rsquo;s like having an ad blocker on your network rather than just your computer.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve written before about &lt;a href=&#34;http://localhost:1313/net-loss/&#34;&gt;why I hate web advertising&lt;/a&gt;, and since then it&amp;rsquo;s got even more malign. The use of our web browsing habits to track our every move and sell us crap has gotten way worse. Instagram is particularly &lt;em&gt;awful&lt;/em&gt; for it and gets more awful with every amendment that Facebook makes. An ad-blocking solution that works for apps as well as in the browser is especially welcome.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Time Is Time and That Is That</title>
       <link>http://localhost:1313/posts/time-is-time-and-that-is-that/</link>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/time-is-time-and-that-is-that/</guid>
-      <description>A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.&#xA;So why does Facebook feel the need to jiggle things about into a random order? Well most of you have that mobile phone app of theirs that sucks your battery and your data allowance like crazy (mainly by auto-playing videos like a dick).</description>
+      <description>&lt;p&gt;A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.&lt;/p&gt;&#xA;&lt;p&gt;So why does Facebook feel the need to jiggle things about into a random order? Well most of you have that mobile phone app of theirs that sucks your battery and your data allowance like crazy (mainly by auto-playing videos like a dick). They know you’re checking your Facebook on the loo at work and that that limits your interaction time. During this precious interlude they want you to see the stuff that they think interests you and the things that other people paid for you to see. You’re going to see some hick’s new tattoo, at least one photo of someone else’s child and an advert telling you to vote Conservative - whether you like it or not.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building Brains</title>
       <link>http://localhost:1313/posts/building-brains/</link>
       <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/building-brains/</guid>
-      <description>This is a longer form post about artificial intelligence inspired by reading a little bit of &amp;ldquo;The Pale King&amp;rdquo; by David Foster Wallace and putting a picture of a &amp;ldquo;ghost&amp;rdquo; up on Instagram. This might be the last of these that I&amp;rsquo;m able to write for a while.&#xA;On Not Reading &amp;ldquo;The Pale King&amp;rdquo; &amp;ldquo;The Pale King&amp;rdquo; is the third and final novel by American author David Foster Wallace. He was working on it when he committed suicide in 2008.</description>
+      <description>&lt;p&gt;This is a longer form post about artificial intelligence inspired by reading a little bit of &amp;ldquo;The Pale King&amp;rdquo; by David Foster Wallace and putting a picture of a &amp;ldquo;ghost&amp;rdquo; up on Instagram. This might be the last of these that I&amp;rsquo;m able to write for a while.&lt;/p&gt;&#xA;&lt;h2 id=&#34;on-not-reading-the-pale-king&#34;&gt;On Not Reading &amp;ldquo;The Pale King&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;The Pale King&amp;rdquo; is the third and final novel by American author &lt;a href=&#34;http://www.newsweek.com/david-foster-wallace-appreciation-david-gates-89371&#34;&gt;David Foster Wallace&lt;/a&gt;. He was working on it when he committed suicide in 2008. It was compiled from incomplete notes and released posthumously in 2011. It deals with several characters around an &lt;a href=&#34;http://en.m.wikipedia.org/wiki/Internal_Revenue_Service&#34;&gt;IRS&lt;/a&gt; tax office in Peoria, Illinois&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Should I Drop Dropbox?</title>
       <link>http://localhost:1313/posts/should-i-drop-dropbox/</link>
       <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/should-i-drop-dropbox/</guid>
-      <description>I am thinking about whether I want to use Dropbox to sync my files anymore. Don&amp;rsquo;t get me wrong, I love Dropbox. It came along in beta in just 2008 just as I needed it to manage my PhD thesis. In fact I often jokingly claim to having invented it by asking on the MacRumors forums whether a program like it existed - just a few weeks before its beta rode in to my life like a knight in shining armour.</description>
+      <description>&lt;p&gt;I am thinking about whether I want to use Dropbox to sync my files anymore. Don&amp;rsquo;t get me wrong, I love Dropbox. It came along in beta in just 2008 just as I needed it to manage my PhD thesis. In fact I often jokingly claim to having invented it by asking on the MacRumors forums whether a program like it existed  - just a few weeks before its beta rode in to my life like a knight in shining armour. I recognised the need for a service that would synchronise a single directory and its contents between multiple computers using The Power Of The Internet™. I was used to using commands like scp to maintain my static blog on the university&amp;rsquo;s servers and the multiple computers that I authored it from, though in 2008 when I moved back to my parents&amp;rsquo; house to write up my PhD I was frustrated that I couldn&amp;rsquo;t work out how to do the same things when the target was a PC running Windows XP.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Net Loss</title>
       <link>http://localhost:1313/posts/net-loss/</link>
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/net-loss/</guid>
-      <description>I pay to have this blog up and running. That is, I pay for the space where it is stored and I pay for the name. I have to look after all the files and plug-ins, I have to perform all the updates and optimise the database tables. All this is great fun but wouldn’t it be cheaper to slap the mattischro.me address onto a hosted WordPress.com account?&#xA;Well, yes it would.</description>
+      <description>&lt;p&gt;I pay to have this blog up and running. That is, I pay for the space where it is stored and I pay for the name. I have to look after all the files and plug-ins, I have to perform all the updates and optimise the database tables. All this is great fun but wouldn’t it be cheaper to slap the mattischro.me address onto a hosted WordPress.com account?&lt;/p&gt;&#xA;&lt;p&gt;Well, yes it would. I suppose I just like the independence of having my own little patch of cyberspace, sitting there waiting for all you dear readers to come and visit. Nice ideas don’t make the world go round though and so I need a better reason than that.&lt;/p&gt;</description>
     </item>
     <item>
       <title>In Defence Of Tolerance</title>
       <link>http://localhost:1313/posts/in-defence-of-tolerance/</link>
       <pubDate>Mon, 24 Jan 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/in-defence-of-tolerance/</guid>
-      <description>I’ve found twitter to be a bit boring lately but today a perfect storm brew up and once again the Daily Mail and one of its odious columnists was at its centre. Melanie Phillips’ opinion piece was a perfectly constructed piece of trolling that implied that since the repeal of section 28, schools have been flooded with an influx of gay propaganda in subjects like maths, history and geography. Well I’m all for it, Alan Turing was a genius brutally mistreated by his country despite turning the second world war in favour of the allies - that story is maths and history is combined.</description>
+      <description>&lt;p&gt;I’ve found twitter to be a bit boring lately but today a perfect storm brew up and once again the Daily Mail and one of its odious columnists was at its centre. Melanie Phillips’ opinion piece was a perfectly constructed piece of trolling that implied that since the repeal of section 28, schools have been flooded with an influx of gay propaganda in subjects like maths, history and geography. Well I’m all for it, Alan Turing &lt;em&gt;was&lt;/em&gt; a genius brutally mistreated by his country despite turning the second world war in favour of the allies - that story is maths and history is combined. Meanwhile, if you can spice up geography a bit go for it. I am not sure what you would do, discuss routes for pride marches? After all, the subject is hideously out of date now that we all have google maps on our phones.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

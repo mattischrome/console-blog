@@ -4,16 +4,23 @@
     <title>Series on mattischrome</title>
     <link>http://localhost:1313/tags/series/</link>
     <description>Recent content in Series on mattischrome</description>
-    <generator>Hugo 0.125.2</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Orphan Project</title>
+      <link>http://localhost:1313/posts/the-orphan-project/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-orphan-project/</guid>
+      <description>&lt;p&gt;One of the nice features added to this blog in its recent update was the tags page. With the help of this &lt;a href=&#34;&#34;&gt;very useful post&lt;/a&gt; and some additional CSS tweaks, [the resulting page is something that I am very happy with]. The page lists all of the tags that apply to any post in alphabetical order, along with the number of posts with that tag. It&amp;rsquo;s mostly intended as a guide for you the reader, to help you see whether your preoccupations match my own.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tade Thompson, Rosewater</title>
       <link>http://localhost:1313/posts/tade-thompson-rosewater/</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/tade-thompson-rosewater/</guid>
-      <description>Rosewater is an exciting science fiction novel set several decades after first contact with an alien called Wormwood, that has established itself as a large biodome in Nigeria. The novel follows Kaaro, a thief whose extra special abilities are forged from an unlikely connection with the alien. The whole thing is part sci-fi adventure and part spy novel.&#xA;The novel is set in multiple timelines with whole sections of the story told in flashback.</description>
+      <description>&lt;p&gt;Rosewater is an exciting science fiction novel set several decades after first contact with an alien called Wormwood, that has established itself as a large biodome in Nigeria. The novel follows Kaaro, a thief whose extra special abilities are forged from an unlikely connection with the alien. The whole thing is part sci-fi adventure and part spy novel.&lt;/p&gt;&#xA;&lt;p&gt;The novel is set in multiple timelines with whole sections of the story told in flashback. This gives a sense of hopping through Kaaro’s memories and helps us explore this strange futuristic vision of Nigeria. It also really helps with pace, first by throwing us into the story and then helping to explain the relationships between the characters we are introduced to.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

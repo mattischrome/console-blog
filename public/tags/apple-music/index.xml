@@ -4,7 +4,7 @@
     <title>Apple Music on mattischrome</title>
     <link>http://localhost:1313/tags/apple-music/</link>
     <description>Recent content in Apple Music on mattischrome</description>
-    <generator>Hugo 0.125.2</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 05 Jul 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/apple-music/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/an-initial-comparison-of-apple-music-and-spotify/</link>
       <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/an-initial-comparison-of-apple-music-and-spotify/</guid>
-      <description>My previous post about Apple Music was more a response to how it was presented at the WWDC Keynote rather than to the idea of Apple Music itself. I should have known better than to use that clickbait title. I knew I wasn&amp;rsquo;t writing about the product, more the flatness of its introduction (despite the names on show).&#xA;After a few days of living with it I thought I&amp;rsquo;d write about it and Spotify, so that it&amp;rsquo;s not just my snarky comments about the keynote that are on record here.</description>
+      <description>&lt;p&gt;My &lt;a href=&#34;http://localhost:1313/why-apple-music-feels-like-a-fail/&#34;&gt;previous post about Apple Music&lt;/a&gt; was more a response to how it was presented at the WWDC Keynote rather than to the idea of Apple Music itself. I should have known better than to use that clickbait title. I knew I wasn&amp;rsquo;t writing about the product, more the flatness of its introduction (despite the names on show).&lt;/p&gt;&#xA;&lt;p&gt;After a few days of living with it I thought I&amp;rsquo;d write about it and Spotify, so that it&amp;rsquo;s not just my snarky comments about the keynote that are on record here.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

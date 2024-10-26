@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metadata on mattischrome</title>
+    <link>http://localhost:1313/tags/metadata/</link>
+    <description>Recent content in Metadata on mattischrome</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/metadata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Orphan Project</title>
+      <link>http://localhost:1313/posts/the-orphan-project/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-orphan-project/</guid>
+      <description>&lt;p&gt;One of the nice features added to this blog in its recent update was the tags page. With the help of this &lt;a href=&#34;&#34;&gt;very useful post&lt;/a&gt; and some additional CSS tweaks, [the resulting page is something that I am very happy with]. The page lists all of the tags that apply to any post in alphabetical order, along with the number of posts with that tag. It&amp;rsquo;s mostly intended as a guide for you the reader, to help you see whether your preoccupations match my own.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

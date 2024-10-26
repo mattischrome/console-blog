@@ -25,10 +25,7 @@
 
 <meta name="twitter:title" content="A Little Lesson in R"/>
 <meta name="twitter:description" content="I had to compute an indicator this week. It had confidence intervals that relied on taking 100,000 samples from the indicator&rsquo;s approximate distribution. I had to repeat this over multiple GP practices and for twelve different demographic groups.
-I decided to use dplyr1 because I thought it would help me organise all subgroups involved. I used mutate_at() heavily and thought that dplyr was keeping everything organised. However, when I moved from the 10 samples I&rsquo;d used for testing to the 100,000 samples required by the specification of the indicator, my code moved to a crawl."/>
-
-  
-
+I decided to use dplyr1 because I thought it would help me organise all subgroups involved. I used mutate_at() heavily and thought that dplyr was keeping everything organised. However, when I moved from the 10 samples I&rsquo;d used for testing to the 100,000 samples required by the specification of the indicator, my code moved to a crawl. Fearing that my work laptop was a little puny, I left it running overnight on my Mac2 and by morning R was still holding up its infuriating little stop sign."/>
 
 </head>
 <body class="terminal">

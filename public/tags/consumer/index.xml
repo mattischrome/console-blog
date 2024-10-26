@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consumer on mattischrome</title>
+    <link>http://localhost:1313/tags/consumer/</link>
+    <description>Recent content in Consumer on mattischrome</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 03 Jan 2024 21:36:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/consumer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unprimed</title>
+      <link>http://localhost:1313/posts/unprimed/</link>
+      <pubDate>Wed, 03 Jan 2024 21:36:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/unprimed/</guid>
+      <description>&lt;p&gt;So I got the email telling me that Amazon are going to stick adverts in to programmes on Prime.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

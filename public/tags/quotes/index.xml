@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quotes on mattischrome</title>
+    <link>http://localhost:1313/tags/quotes/</link>
+    <description>Recent content in Quotes on mattischrome</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cheeseburgers</title>
+      <link>http://localhost:1313/posts/cheeseburgers/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cheeseburgers/</guid>
+      <description>&lt;p&gt;I think there&amp;rsquo;s a sense of safety when putting energy into something that&amp;rsquo;s latent and/or hidden as it immediately makes it low stakes. Other more open routes to success contain fear of failure, but also a fear of going after something that won&amp;rsquo;t give you the same buzz or edge. There&amp;rsquo;s a thrill seeking element but it&amp;rsquo;s also about containing and confining it to a success zone. Keeping this success zone private also means that there&amp;rsquo;s no risk that someone might try and take it away from you. There&amp;rsquo;s so much risk in putting any kind of desire or chance for failure out into the public domain.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

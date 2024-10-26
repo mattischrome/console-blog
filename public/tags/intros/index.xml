@@ -4,7 +4,7 @@
     <title>Intros on mattischrome</title>
     <link>http://localhost:1313/tags/intros/</link>
     <description>Recent content in Intros on mattischrome</description>
-    <generator>Hugo 0.125.2</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 02 Oct 2012 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/intros/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/nonlinear-systems-a-rough-intro/</link>
       <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/nonlinear-systems-a-rough-intro/</guid>
-      <description>This is another mathematics post that does not actually feature any equations or graphs. It is intended to set the way clear for writing regularly about nonlinear systems. This in itself is a precursor to writing more about mathematical biology as biological systems are inherently complex and nonlinear. I am reading P. G. Drazin’s textbook on Nonlinear Systems and this post is a glossary of terms from the start of the book laid down here because I wanted to remember how to typeset definition lists in Markdown (though in the end I (ab)used &amp;lt;h4&amp;gt; tags because it looked better).</description>
+      <description>&lt;p&gt;This is another mathematics post that does not actually feature any equations or graphs. It is intended to set the way clear for writing regularly about nonlinear systems. This in itself is a precursor to writing more about mathematical biology as biological systems are inherently complex and nonlinear. I am reading &lt;a href=&#34;http://www.amazon.co.uk/Nonlinear-Systems-Cambridge-Applied-Mathematics/dp/0521406684/ref=sr_1_1?ie=UTF8&amp;amp;qid=1349212296&amp;amp;sr=8-1&#34;&gt;P. G. Drazin’s textbook on Nonlinear Systems&lt;/a&gt; and this post is a glossary of terms from the start of the book laid down here because I wanted to remember how to typeset &lt;a href=&#34;http://www.w3schools.com/tags/tag_dl.asp&#34;&gt;definition lists&lt;/a&gt; in Markdown (though in the end I (ab)used &lt;code&gt;&amp;lt;h4&amp;gt;&lt;/code&gt; tags because it looked better).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Getting Better on mattischrome</title>
     <link>http://localhost:1313/tags/getting-better/</link>
     <description>Recent content in Getting Better on mattischrome</description>
-    <generator>Hugo 0.125.2</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 11 Jan 2024 17:24:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/getting-better/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/unindexed/</link>
       <pubDate>Thu, 11 Jan 2024 17:24:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/unindexed/</guid>
-      <description>There was an excellent article on The Verge yesterday about how Google is transforming the kinds of sites and blogs that are on the internet. I also read this slightly more personal take by Jason Velasquez, which is more about how social networks have gobbled up all the time and attention of people who might otherwise be making interesting web sites. This has made me think deeply about what this blog is for, and why I might continue to blog in Twenty Twenty Four.</description>
+      <description>&lt;p&gt;There was &lt;a href=&#34;https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization&#34;&gt;an excellent article on The Verge yesterday about how Google is transforming the kinds of sites and blogs that are on the internet&lt;/a&gt;. I also read &lt;a href=&#34;https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/&#34;&gt;this slightly more personal take by Jason Velasquez&lt;/a&gt;, which is more about how social networks have gobbled up all the time and attention of people who might otherwise be making interesting web sites. This has made me think deeply about what this blog is &lt;em&gt;for&lt;/em&gt;, and why I might continue to blog in Twenty Twenty Four.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
