@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diary on mattischrome</title>
-    <link>http://localhost:1313/tags/diary/</link>
+    <link>https://mattischrome.com/tags/diary/</link>
     <description>Recent content in Diary on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Negativity Casket</title>
-      <link>http://localhost:1313/posts/the-negativity-casket/</link>
+      <link>https://mattischrome.com/posts/the-negativity-casket/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-negativity-casket/</guid>
+      <guid>https://mattischrome.com/posts/the-negativity-casket/</guid>
       <description>&lt;p&gt;One of the things that people tend to start around this time of year is a diary. They usually get filled for as long as your new year&amp;rsquo;s resolutions last.&lt;/p&gt;&#xA;&lt;p&gt;However, I&amp;rsquo;ve been writing in my current diary for a while. It&amp;rsquo;s a Moleskine extra large ruled Notebook in beautiful Prussian Blue, covered in whatever stickers pass over my desk. (Hint: find my address and send me stickers Internet.) This is much more preferable to a &amp;lsquo;real&amp;rsquo; diary because I can leave a few days and then resume. I can also take breaks and write out a bunch of notes on Org-mode or the Julia programming language if I want to (and yes, I did).&lt;/p&gt;</description>
     </item>
   </channel>

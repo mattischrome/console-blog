@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autobiography on mattischrome</title>
-    <link>http://localhost:1313/tags/autobiography/</link>
+    <link>https://mattischrome.com/tags/autobiography/</link>
     <description>Recent content in Autobiography on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 26 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/autobiography/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/autobiography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Irving, The Imaginary Girlfriend</title>
-      <link>http://localhost:1313/posts/the-imaginary-girlfriend/</link>
+      <link>https://mattischrome.com/posts/the-imaginary-girlfriend/</link>
       <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-imaginary-girlfriend/</guid>
+      <guid>https://mattischrome.com/posts/the-imaginary-girlfriend/</guid>
       <description>&lt;p&gt;&lt;em&gt;The Imaginary Girlfriend&lt;/em&gt; is a short autobiography by American author John Irving. In it, he explains the interwoven roles of writing and wrestling in his life.&lt;/p&gt;&#xA;&lt;p&gt;As always with Irving, the book is absorbing from the off, and it&amp;rsquo;s tempting to use the anecdotes here to explain why most of his novels seem to have an underdog narrating them. It&amp;rsquo;s because he loves the work of Dickens so much. I kid. It might be because it is a role he has created for himself, and maybe he likes to write what he knows.&lt;/p&gt;</description>
     </item>
   </channel>

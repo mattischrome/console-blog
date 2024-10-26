@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on mattischrome</title>
-    <link>http://localhost:1313/photos/</link>
+    <link>https://mattischrome.com/photos/</link>
     <description>Recent content in Photos on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/photos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A new plant for the office</title>
-      <link>http://localhost:1313/photos/plant-3/</link>
+      <link>https://mattischrome.com/photos/plant-3/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/plant-3/</guid>
+      <guid>https://mattischrome.com/photos/plant-3/</guid>
       <description>&lt;p&gt;Ingrid bought me a new plant for my office. Beautiful flowers and cat friendly!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spider webs in the garden</title>
-      <link>http://localhost:1313/photos/spider-webs/</link>
+      <link>https://mattischrome.com/photos/spider-webs/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/spider-webs/</guid>
+      <guid>https://mattischrome.com/photos/spider-webs/</guid>
       <description>&lt;p&gt;Ingrid bravely took this photo of our Christmas tree which is summering out in the garden and is currently decorated with spiders&amp;rsquo; webs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bosham, July 2024</title>
-      <link>http://localhost:1313/photos/bosham/</link>
+      <link>https://mattischrome.com/photos/bosham/</link>
       <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/bosham/</guid>
+      <guid>https://mattischrome.com/photos/bosham/</guid>
       <description>&lt;p&gt;A nice shot of Bosham across the low tide while on a sunny walk with Ingrid&amp;rsquo;s cousin and family.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cats lounging in the sun, July 2024</title>
-      <link>http://localhost:1313/photos/sun-cats/</link>
+      <link>https://mattischrome.com/photos/sun-cats/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/sun-cats/</guid>
+      <guid>https://mattischrome.com/photos/sun-cats/</guid>
       <description>&lt;p&gt;Our cats lounging in the warm spots one sunny morning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stonehenge, June 2024</title>
-      <link>http://localhost:1313/photos/stonehenge-1/</link>
+      <link>https://mattischrome.com/photos/stonehenge-1/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/stonehenge-1/</guid>
+      <guid>https://mattischrome.com/photos/stonehenge-1/</guid>
       <description>&lt;p&gt;What a beautiful day it was to be back at Stonehenge!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stonehenge, June 2024</title>
-      <link>http://localhost:1313/photos/stonehenge-2/</link>
+      <link>https://mattischrome.com/photos/stonehenge-2/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/stonehenge-2/</guid>
+      <guid>https://mattischrome.com/photos/stonehenge-2/</guid>
       <description>&lt;p&gt;The ancient stones framed by cirrus clouds and beautiful blue skies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stonehenge, June 2024</title>
-      <link>http://localhost:1313/photos/stonehenge-3/</link>
+      <link>https://mattischrome.com/photos/stonehenge-3/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/stonehenge-3/</guid>
+      <guid>https://mattischrome.com/photos/stonehenge-3/</guid>
       <description>&lt;p&gt;View from the car on the way back home.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paris, January 2024</title>
-      <link>http://localhost:1313/photos/paris-1/</link>
+      <link>https://mattischrome.com/photos/paris-1/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/paris-1/</guid>
+      <guid>https://mattischrome.com/photos/paris-1/</guid>
       <description>&lt;p&gt;Sat in the Jardins du Tulleries in Paris with a cup of coffee, feeling philosophical in the winter sunshine.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paris, January 2024</title>
-      <link>http://localhost:1313/photos/paris-2/</link>
+      <link>https://mattischrome.com/photos/paris-2/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/paris-2/</guid>
+      <guid>https://mattischrome.com/photos/paris-2/</guid>
       <description>&lt;p&gt;The Eiffel Tower, but of course!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paris, January 2024</title>
-      <link>http://localhost:1313/photos/paris-0/</link>
+      <link>https://mattischrome.com/photos/paris-0/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/paris-0/</guid>
+      <guid>https://mattischrome.com/photos/paris-0/</guid>
       <description>&lt;p&gt;The highlight of our trip was a visit to the Rodin Museum. This is the &lt;em&gt;Burghers of Calais&lt;/em&gt;, a masterpiece that I&amp;rsquo;d not really paid much attention to before.&lt;/p&gt;</description>
     </item>
   </channel>

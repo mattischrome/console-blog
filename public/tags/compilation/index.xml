@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compilation on mattischrome</title>
-    <link>http://localhost:1313/tags/compilation/</link>
+    <link>https://mattischrome.com/tags/compilation/</link>
     <description>Recent content in Compilation on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/compilation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/compilation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fabric 44 by John Tejada</title>
-      <link>http://localhost:1313/posts/fabric-44-by-john-tejada/</link>
+      <link>https://mattischrome.com/posts/fabric-44-by-john-tejada/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fabric-44-by-john-tejada/</guid>
+      <guid>https://mattischrome.com/posts/fabric-44-by-john-tejada/</guid>
       <description>&lt;p&gt;This is one of my more played Fabric mix CDs so I decided to go for it when my random prompter plumped for this earlier today. One constraint of these posts was to write it in roughly the amount of time it takes to listen to it. You&amp;rsquo;d think that for a mix CD that would be ok. After all, this mix is a full CD and 74 minutes long.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leaders on mattischrome</title>
-    <link>http://localhost:1313/tags/leaders/</link>
+    <link>https://mattischrome.com/tags/leaders/</link>
     <description>Recent content in Leaders on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/leaders/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/leaders/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Civ Leaders #4: Qin Shi Huang (Mandate of Heaven) of China</title>
-      <link>http://localhost:1313/posts/civ-leaders-4/</link>
+      <link>https://mattischrome.com/posts/civ-leaders-4/</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/civ-leaders-4/</guid>
-      <description>&lt;p&gt;Well, it&amp;rsquo;s been a while since I wrote &lt;a href=&#34;http://localhost:1313/civ-leaders-3-amanitore-of-nubia&#34;&gt;my last Civ VI leader post about Amanitore of Nubia&lt;/a&gt; and there&amp;rsquo;s been a whole host of new leaders and personas added to the game since then. Among these the number of Chinese leaders has increased from two to five. Therefore it&amp;rsquo;s probably a good time to start writing about one of them, and where better to start than the OG himself, Qin Shi Huang. The recent leader pass has created a new persona for him but today we shall focus on his original version, which is now referred to in-game as his &amp;ldquo;Mandate of Heaven&amp;rdquo; persona.&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/civ-leaders-4/</guid>
+      <description>&lt;p&gt;Well, it&amp;rsquo;s been a while since I wrote &lt;a href=&#34;https://mattischrome.com/civ-leaders-3-amanitore-of-nubia&#34;&gt;my last Civ VI leader post about Amanitore of Nubia&lt;/a&gt; and there&amp;rsquo;s been a whole host of new leaders and personas added to the game since then. Among these the number of Chinese leaders has increased from two to five. Therefore it&amp;rsquo;s probably a good time to start writing about one of them, and where better to start than the OG himself, Qin Shi Huang. The recent leader pass has created a new persona for him but today we shall focus on his original version, which is now referred to in-game as his &amp;ldquo;Mandate of Heaven&amp;rdquo; persona.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Civ Leaders #3: Amanitore of Nubia</title>
-      <link>http://localhost:1313/posts/civ-leaders-3/</link>
+      <link>https://mattischrome.com/posts/civ-leaders-3/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/civ-leaders-3/</guid>
+      <guid>https://mattischrome.com/posts/civ-leaders-3/</guid>
       <description>&lt;p&gt;Amanitore of Nubia is available in a base game DLC. She also has her own scenario “The Gifts of the Nile”, which like most scenarios has unique tech and civic trees. You need to assert your dominance over the Nile by building seven temples. The scenario combines faith and military tactics in a satisfying way and you can also play it as Cleopatra for a different perspective.&lt;/p&gt;&#xA;&lt;h2 id=&#34;civ-ability&#34;&gt;Civ ability&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Ta-Seti&lt;/em&gt; +50% Production toward Ranged units. Note that this bonus does not apply fully with respect to archers because the Nubian unique archer (see below) costs more to produce. You can get around this by building Slingers and promoting them. All Ranged units gain +50% combat experience. Mines over strategic resources provide +1 Production. Mines over bonus and luxury resources provide +2 Gold.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Civ Leaders #2: Alexander of Macedon</title>
-      <link>http://localhost:1313/posts/civ-leaders-2/</link>
+      <link>https://mattischrome.com/posts/civ-leaders-2/</link>
       <pubDate>Sun, 12 May 2019 16:41:01 +0000</pubDate>
-      <guid>http://localhost:1313/posts/civ-leaders-2/</guid>
+      <guid>https://mattischrome.com/posts/civ-leaders-2/</guid>
       <description>&lt;p&gt;Alexander of Macedon is available in a base game DLC pack alongside Darius of Persia. He also has his own scenario “The Conquests of Alexander”, which is both fun to play and instructive in how to use the formidable benefits of his bonuses and unique units.&lt;/p&gt;&#xA;&lt;h2 id=&#34;civ-ability&#34;&gt;Civ ability&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Hellenistic Fusion&lt;/em&gt; When capturing a city, receive civic boosts for each holy site and theatre square, and tech boosts for each campus and encampment. This means you can grab up to four boosts when capturing cities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Civ Leaders #1: Hojo Tokimune of Japan</title>
-      <link>http://localhost:1313/posts/civ-leaders-1/</link>
+      <link>https://mattischrome.com/posts/civ-leaders-1/</link>
       <pubDate>Mon, 06 May 2019 19:14:48 +0000</pubDate>
-      <guid>http://localhost:1313/posts/civ-leaders-1/</guid>
+      <guid>https://mattischrome.com/posts/civ-leaders-1/</guid>
       <description>&lt;h2 id=&#34;civ-ability&#34;&gt;Civ ability&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Meiji Restoration&lt;/em&gt; Districts receive a +1 adjacency bonus for each adjacent district, instead of +0.5.&lt;/p&gt;&#xA;&lt;h2 id=&#34;leader-bonus&#34;&gt;Leader bonus:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Land units in Coastal tiles and naval units in Coast tiles receive +5 Combat Strength.&lt;/li&gt;&#xA;&lt;li&gt;+50% Production towards Encampment, Holy Site and Theatre Square districts.&lt;/li&gt;&#xA;&lt;li&gt;Units are immune to Hurricane damage.&lt;/li&gt;&#xA;&lt;li&gt;Civilisations at war with Japan receive +100% unit damage from hurricanes while in Japanese territory&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;unique-unit&#34;&gt;Unique unit&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;em&gt;samurai&lt;/em&gt;, a high combat strength unit that does not lose combat strength when damage and gains an extra 10 combat strength against anti-cavalry units. They are cheap to build and combine well with early support units, which makes them good for capturing cities. Unfortunately the samurai is stuck in Military Tactics, which is a weird dead end in the tech tree that I often skip over, in most of my games as Japan I forgot to build a samurai before they went out of date 🙃.&lt;/p&gt;</description>
     </item>
   </channel>

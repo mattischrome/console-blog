@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy on mattischrome</title>
-    <link>http://localhost:1313/tags/philosophy/</link>
+    <link>https://mattischrome.com/tags/philosophy/</link>
     <description>Recent content in Philosophy on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 19 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Light, Last Light</title>
-      <link>http://localhost:1313/posts/first-light-last-light/</link>
+      <link>https://mattischrome.com/posts/first-light-last-light/</link>
       <pubDate>Sun, 19 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-light-last-light/</guid>
+      <guid>https://mattischrome.com/posts/first-light-last-light/</guid>
       <description>&lt;p&gt;I often ponder whether the joys of waking up early are greater than those of staying up late. Empirical evidence seems to bear this out: all those people who get to work before you do, super-eager to get everything done. But then all the people walking under your windows late at night, drunk and laughing, they sound like they&amp;rsquo;re having a whale of a time too.&lt;/p&gt;&#xA;&lt;p&gt;I oscillate between the two extremes, though I tend to sleep better if I stay up late. My natural sleep hours are 1am to 8am, though I am usually human if I can get up just after 7. Whenever I try to stick to getting up early, to do masochistic things like running or being organised, I often find it harder to get to sleep or I wake up at 3 rather than 6. I end up second guessing my alarm clock.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Time Is Time and That Is That</title>
-      <link>http://localhost:1313/posts/time-is-time-and-that-is-that/</link>
+      <link>https://mattischrome.com/posts/time-is-time-and-that-is-that/</link>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/time-is-time-and-that-is-that/</guid>
+      <guid>https://mattischrome.com/posts/time-is-time-and-that-is-that/</guid>
       <description>&lt;p&gt;A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.&lt;/p&gt;&#xA;&lt;p&gt;So why does Facebook feel the need to jiggle things about into a random order? Well most of you have that mobile phone app of theirs that sucks your battery and your data allowance like crazy (mainly by auto-playing videos like a dick). They know you’re checking your Facebook on the loo at work and that that limits your interaction time. During this precious interlude they want you to see the stuff that they think interests you and the things that other people paid for you to see. You’re going to see some hick’s new tattoo, at least one photo of someone else’s child and an advert telling you to vote Conservative - whether you like it or not.&lt;/p&gt;</description>
     </item>
   </channel>

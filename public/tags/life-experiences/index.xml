@@ -2,199 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life Experiences on mattischrome</title>
-    <link>http://localhost:1313/tags/life-experiences/</link>
+    <link>https://mattischrome.com/tags/life-experiences/</link>
     <description>Recent content in Life Experiences on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/life-experiences/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sympathy for the Screenager</title>
-      <link>http://localhost:1313/posts/sympathy-for-the-screenager/</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sympathy-for-the-screenager/</guid>
-      <description>&lt;p&gt;Haidt&lt;/p&gt;&#xA;&lt;p&gt;The counter argument&lt;/p&gt;&#xA;&lt;p&gt;Correlation and causation, as usual&lt;/p&gt;&#xA;&lt;p&gt;Schmidt-Persson study&lt;/p&gt;&#xA;&lt;p&gt;Holiday blues&lt;/p&gt;&#xA;&lt;p&gt;Parents should set a good example&lt;/p&gt;&#xA;&lt;p&gt;Advice for my own inner screenager&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821176&#34;&gt;link to the study&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mattischrome.com/tags/life-experiences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Negativity Casket</title>
-      <link>http://localhost:1313/posts/the-negativity-casket/</link>
+      <link>https://mattischrome.com/posts/the-negativity-casket/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-negativity-casket/</guid>
+      <guid>https://mattischrome.com/posts/the-negativity-casket/</guid>
       <description>&lt;p&gt;One of the things that people tend to start around this time of year is a diary. They usually get filled for as long as your new year&amp;rsquo;s resolutions last.&lt;/p&gt;&#xA;&lt;p&gt;However, I&amp;rsquo;ve been writing in my current diary for a while. It&amp;rsquo;s a Moleskine extra large ruled Notebook in beautiful Prussian Blue, covered in whatever stickers pass over my desk. (Hint: find my address and send me stickers Internet.) This is much more preferable to a &amp;lsquo;real&amp;rsquo; diary because I can leave a few days and then resume. I can also take breaks and write out a bunch of notes on Org-mode or the Julia programming language if I want to (and yes, I did).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unindexed?</title>
-      <link>http://localhost:1313/posts/unindexed/</link>
+      <link>https://mattischrome.com/posts/unindexed/</link>
       <pubDate>Thu, 11 Jan 2024 17:24:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/unindexed/</guid>
+      <guid>https://mattischrome.com/posts/unindexed/</guid>
       <description>&lt;p&gt;There was &lt;a href=&#34;https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization&#34;&gt;an excellent article on The Verge yesterday about how Google is transforming the kinds of sites and blogs that are on the internet&lt;/a&gt;. I also read &lt;a href=&#34;https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/&#34;&gt;this slightly more personal take by Jason Velasquez&lt;/a&gt;, which is more about how social networks have gobbled up all the time and attention of people who might otherwise be making interesting web sites. This has made me think deeply about what this blog is &lt;em&gt;for&lt;/em&gt;, and why I might continue to blog in Twenty Twenty Four.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Agents of Chaos (2024 edition)</title>
-      <link>http://localhost:1313/posts/agents-of-chaos/</link>
+      <link>https://mattischrome.com/posts/agents-of-chaos/</link>
       <pubDate>Mon, 08 Jan 2024 21:36:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/agents-of-chaos/</guid>
+      <guid>https://mattischrome.com/posts/agents-of-chaos/</guid>
       <description>&lt;p&gt;The cats broke their new resolution not to knock stuff over in my office. Oh, who am I kidding? They never had such a resolution! If you can see a sheet of saturated paper, that was my to do list! Oh well.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../assets/images/2024/cat-chaos-2024.jpeg&#34; alt=&#34;A knocked over vase of flowers caused by the cats chasing one another&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The cats were either bounding across my desk to get to the window and look at the snow. Or they were just chasing each other around as usual.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reflections on 2023</title>
-      <link>http://localhost:1313/posts/reflections-2023/</link>
+      <link>https://mattischrome.com/posts/reflections-2023/</link>
       <pubDate>Tue, 02 Jan 2024 22:13:40 +0000</pubDate>
-      <guid>http://localhost:1313/posts/reflections-2023/</guid>
+      <guid>https://mattischrome.com/posts/reflections-2023/</guid>
       <description>&lt;h2 id=&#34;travel&#34;&gt;Travel&lt;/h2&gt;&#xA;&lt;p&gt;In 2023, it was Germany or go home.&lt;/p&gt;&#xA;&lt;p&gt;Went to Cologne in January. Here is photographic evidence:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../assets/images/2023/cologne-proof.jpeg&#34; alt=&#34;Photographic evidence of my visit to Cologne&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;We took the Eurostar via Brussels. A bit of a long day on the way back but much less stressful compared to flying.&lt;/p&gt;&#xA;&lt;p&gt;We went to the Isle of Wight in June. It was the first time I&amp;rsquo;d been since I was about 8. This time I didn&amp;rsquo;t get Chicken Pox. Anyway, here is photographic evidence:&lt;/p&gt;</description>
     </item>
     <item>
       <title>How random should things be?</title>
-      <link>http://localhost:1313/posts/how-random-should-things-be/</link>
+      <link>https://mattischrome.com/posts/how-random-should-things-be/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/how-random-should-things-be/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve managed to extract my music library, including all the albums I&amp;rsquo;ve added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for &lt;a href=&#34;http://localhost:1313/goldfrapp-black-cherry&#34;&gt;Goldfrapp&amp;rsquo;s Black Cherry.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;But I have to level with you. That was not the first album that was picked. Nor is the album selection process entirely unbiased. I got to a working situation and stopped there. Essentially, I smoosh together artist and album title, so that albums like compilations, or albums where the lead artist collaborates with multiple other artists, are slightly over-represented. I say slightly as the pool was already pretty large with just unique albums. I might do what I did yesterday and ignore singles or compilations, especially as the code takes almost zero time to give me another idea.&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/how-random-should-things-be/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve managed to extract my music library, including all the albums I&amp;rsquo;ve added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for &lt;a href=&#34;https://mattischrome.com/goldfrapp-black-cherry&#34;&gt;Goldfrapp&amp;rsquo;s Black Cherry.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;But I have to level with you. That was not the first album that was picked. Nor is the album selection process entirely unbiased. I got to a working situation and stopped there. Essentially, I smoosh together artist and album title, so that albums like compilations, or albums where the lead artist collaborates with multiple other artists, are slightly over-represented. I say slightly as the pool was already pretty large with just unique albums. I might do what I did yesterday and ignore singles or compilations, especially as the code takes almost zero time to give me another idea.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A list for &#39;23</title>
-      <link>http://localhost:1313/posts/a-list-for-23/</link>
+      <link>https://mattischrome.com/posts/a-list-for-23/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-list-for-23/</guid>
+      <guid>https://mattischrome.com/posts/a-list-for-23/</guid>
       <description>&lt;p&gt;A set of rules for living from now on (in no particular order)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Life is too short to look at adverts. Avoid them where possible. Block them if you have to.&lt;/li&gt;&#xA;&lt;li&gt;Embrace risk and chance, as they have contributed the most to where you are now.&lt;/li&gt;&#xA;&lt;li&gt;Intervene into physical things and leave your mark upon them. Draw pictures on the blank pages of books, even if they are dear to you. Fill your notebooks &lt;em&gt;before&lt;/em&gt; buying yourself new ones. Insert name tags in your clothes.&lt;/li&gt;&#xA;&lt;li&gt;Every day should be an attempt to see new things, and out of things, people like most to be seen.&lt;/li&gt;&#xA;&lt;li&gt;As good as it is to solve puzzles, try and avoid the rut of constantly solving the same puzzle lest it no longer require any mastery.&lt;/li&gt;&#xA;&lt;li&gt;Learn the 13 times table. (This is where I need to start, then I will move up to 17 and on up through the prime numbers.)&lt;/li&gt;&#xA;&lt;li&gt;Have a business card. Try to cram in as much information on both sides.&lt;/li&gt;&#xA;&lt;li&gt;Write write write. I will not be happy until I put some sort of rubbish on my blog &lt;strong&gt;every day&lt;/strong&gt;. Actually I could be writing three blogs but I need to get better at writing one first.&lt;/li&gt;&#xA;&lt;li&gt;Write out lists of quotes that inspire you in a notebook. Give those notebooks out as gifts. It’s not like anyone will read the quotes, much less take them to heart. But at least they’ll have a sampler for decoding your written notes after you shuffle off the mortal coil.&lt;/li&gt;&#xA;&lt;li&gt;If you have reached the age of forty three and don’t know how to knit, fucking well learn to knit a scarf. Of course, this does not apply to learning to drive, which is a violent and dangerous activity.&lt;/li&gt;&#xA;&lt;li&gt;Ask people about their tattoos and indulge your curiosity about how much they/it might have hurt.&lt;/li&gt;&#xA;&lt;li&gt;The reason for drawing terrible sketches, writing awful jokes and getting absolutely nowhere with the garden is simply to enjoy that process of being shit at things and making mistakes. Show people the bad stuff as well as the good stuff.&lt;/li&gt;&#xA;&lt;li&gt;Even at the middle of your life, there aren’t that many lunches left. You might want to alternate between what you like and what you’re curious about. (I freely admit that at the moment I am a terrible stick in the mud when it comes to my very conventional lunches.)&lt;/li&gt;&#xA;&lt;li&gt;Try to establish the clothes you most feel like yourself in (presumably these are also comfortable) and always wear those.&lt;/li&gt;&#xA;&lt;li&gt;Touch typing is a skill that is surprisingly enjoyable to practice. It’s like getting your left and right brains together to plan a heist (while they argue over who gets the G and the Y)&lt;/li&gt;&#xA;&lt;li&gt;Eat slowly, savour the flavours. Unless you are a guest and your host has expressed anxiety about the success of their culinary adventure, in that case you should savour or galumph it down as politeness dictates.&lt;/li&gt;&#xA;&lt;li&gt;When you’re asking someone if they need a bit of help, remember that some people need more cajoling than others. Remember also that some people won’t feel comfortable accepting help no matter how you press; sometimes you have to come back to it later.&lt;/li&gt;&#xA;&lt;li&gt;Adopt a new pose for every photo people take of you. Give the facial recognition overlords something to work with.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Cheeseburgers</title>
-      <link>http://localhost:1313/posts/cheeseburgers/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cheeseburgers/</guid>
-      <description>&lt;p&gt;I think there&amp;rsquo;s a sense of safety when putting energy into something that&amp;rsquo;s latent and/or hidden as it immediately makes it low stakes. Other more open routes to success contain fear of failure, but also a fear of going after something that won&amp;rsquo;t give you the same buzz or edge. There&amp;rsquo;s a thrill seeking element but it&amp;rsquo;s also about containing and confining it to a success zone. Keeping this success zone private also means that there&amp;rsquo;s no risk that someone might try and take it away from you. There&amp;rsquo;s so much risk in putting any kind of desire or chance for failure out into the public domain.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Come back to us Brother Matthew</title>
-      <link>http://localhost:1313/posts/come-back-to-us-brother-matthew/</link>
+      <link>https://mattischrome.com/posts/come-back-to-us-brother-matthew/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/come-back-to-us-brother-matthew/</guid>
+      <guid>https://mattischrome.com/posts/come-back-to-us-brother-matthew/</guid>
       <description>&lt;p&gt;As with most years, I had hoped to start off 2023 with a flurry of new blog posts. Instead I caught Covid, which knocked me out for most of &amp;lsquo;betweenmas&amp;rsquo; and put paid to my hopes for a productive start to the year. At the time of writing this post, I only just feel like I have begun to get back to &amp;rsquo;normal&amp;rsquo;, or at least as normal as things have been since 2020.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The paths in the wood</title>
-      <link>http://localhost:1313/posts/the-paths-in-the-wood/</link>
+      <link>https://mattischrome.com/posts/the-paths-in-the-wood/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-paths-in-the-wood/</guid>
+      <guid>https://mattischrome.com/posts/the-paths-in-the-wood/</guid>
       <description>&lt;p&gt;I began writing this post after realising that it is the first of June and I might as well attempt once more to write a post every day. The speed with which the first of the month comes around, inviting another such promise, always amuses me. But at the moment I am not sure whether this blog will still exist come the end of the month. I think I want to start again in pastures new.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jab 2</title>
-      <link>http://localhost:1313/posts/jab-two/</link>
+      <link>https://mattischrome.com/posts/jab-two/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jab-two/</guid>
+      <guid>https://mattischrome.com/posts/jab-two/</guid>
       <description>&lt;p&gt;I was due to have my second vaccination today, but like most people I rebooked to have it a bit earlier. No real side effects this time, save for a bit of malaise. Though that may have just been the thought of opening up the country when cases are still increasing quickly.&lt;/p&gt;&#xA;&lt;p&gt;It goes without saying that I&amp;rsquo;d urge everyone to get vaccinated and then to keep turning up for whatever boosters the people protecting us (e.g. JCVI, &lt;em&gt;not&lt;/em&gt; the government) recommend in future. It seems like we aren&amp;rsquo;t out of the woods yet, though the vaccination program appears to have had a decent impact on hospitalisation rates.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jab 1</title>
-      <link>http://localhost:1313/posts/jab-one/</link>
+      <link>https://mattischrome.com/posts/jab-one/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jab-one/</guid>
+      <guid>https://mattischrome.com/posts/jab-one/</guid>
       <description>&lt;p&gt;I had my first Covid-19 vaccination on Friday. Leading up to it, I was borderline having a panic attack. From about lunchtime I was just all over the shop (the jab was at 7pm). I&amp;rsquo;m glad that the vaccination centres run with such exactitude, but also with a sense of cheeriness. By the time I&amp;rsquo;d had the jab, I was feeling much better just from the sheer relief of it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some Tips For Saving Time</title>
-      <link>http://localhost:1313/posts/some-tips-for-saving-time/</link>
+      <link>https://mattischrome.com/posts/some-tips-for-saving-time/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/some-tips-for-saving-time/</guid>
+      <guid>https://mattischrome.com/posts/some-tips-for-saving-time/</guid>
       <description>&lt;p&gt;A non-exhaustive list of ideas for saving time:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Delete your social media&lt;/strong&gt;, and perhaps any other website or app that demands that you consume it rather than create with it.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Another way to think of it: all these sites and apps transform your time in to one thing or another, what are the most valuable products of that time? In general, Facebook products are designed to transform your time into greater awareness of companies who would like you or your friends to buy their products. (Or neo-nazis, depending on whether the day ends in a Y.)&lt;/li&gt;&#xA;&lt;li&gt;Possible exclusions are apps or websites for reading, you have to make the calculation of whether you get more out than you are putting in. Reading books in general are better value than websites or apps, but some online media can also be a net gain.&lt;/li&gt;&#xA;&lt;li&gt;You could also try scheduling times for using apps, particularly if need them to communicate (e.g. catching up with people on WhatsApp) or if they are a good source of ideas (e.g. Twitter is quite good for finding interesting new ways of doing things in R).&lt;/li&gt;&#xA;&lt;li&gt;Note that scheduling is a great way of dealing with procrastination. You can warm your brain up and wind it down at certain points of the day by scheduling your interactions with various apps, websites, and people. Try paying attention to what you do in a given day and shaping that into a schedule.&lt;/li&gt;&#xA;&lt;li&gt;Procrastination is best managed rather than avoided, so it&amp;rsquo;s better to schedule it. Be honest with yourself, do you need to procrastinate before you do things (like a run up to a jump?) or would you be better saying to yourself &amp;ldquo;I have to get X done today, but I need to leave 10 minutes to catch up on xkcd later on&amp;rdquo;?&lt;/li&gt;&#xA;&lt;li&gt;Sometimes changing your sources to something more curated is useful. I&amp;rsquo;ve recently signed up to the London Review of Books. Sure, it&amp;rsquo;s a bit fusty and old-fashioned but it&amp;rsquo;s well written and expands on a wide variety of topics.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Get a bike&lt;/strong&gt; (this is on my to do list!). A bike increases the distances you can travel in a short space of time, and can reduce the time it takes to do short distance chores like shopping. It has the added benefit of being better for the planet than a car and better for your body than walking or doing nothing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Borrow code from other people to get started on programming tasks.&lt;/strong&gt; I usually Google how to do a thing, once I have mapped out a rough spine of what I need to. (I find this mapping out step acts as a filter for the solutions provided to you, a sort of intuition for what the solution &lt;em&gt;should be&lt;/em&gt;) The same is true when you&amp;rsquo;re learning to do anything: be an apprentice, find someone who is good at a thing and learn from them. This is actually easy for anyone to do, and easier than you might first think.&lt;/li&gt;&#xA;&lt;li&gt;**Learn to communicate more effectively. **This is one that I feel I need to work on. I often feel that I am going backwards and forwards between people, whether it is trying to understand what other people want or communicating to others what it is that I want.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;One tip that gets bandied about is to record yourself speaking to people. It can be very cringy, but the trick is to be a critical friend to yourself while listening back. Just because you know it&amp;rsquo;s you, that&amp;rsquo;s no reason to judge harshly - just focus on what&amp;rsquo;s being said and how, and work from there.&lt;/li&gt;&#xA;&lt;li&gt;I also know that I need to ask more questions. It feels weird to say that because I regard myself as being on a personal quest to find out all of the stuff. The problem is that I&amp;rsquo;m also keen on sounding like I already know all the stuff. Can you tell this from my blog posts at all?!? Sometimes it can feel like asking a whole bunch of questions undermines that world view. I now consciously try to ask more questions in support of my quest.&lt;/li&gt;&#xA;&lt;li&gt;Also a memo to myself for later: IT DOESN&amp;rsquo;T HURT TO EDIT YOUR WRITING FROM TIME TO TIME.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Learn orthogonal skills. By which I mean, if you are a scientist try to find complementary subjects in the humanities and the arts. I&amp;rsquo;ve said &amp;ldquo;orthogonal&amp;rdquo; here to sound clever and to indicate that the connection to your chosen vocation isn&amp;rsquo;t going to be obvious, but really I just mean that it&amp;rsquo;s different and you might eventually apply it.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How does it save you time if you &lt;em&gt;spend&lt;/em&gt; time looking for connections? Well, if you find your connection, you have extra tools to use. If you fail, you may discover something else in the process.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Learn keyboard shortcuts.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;By way of a corollary, the more keyboard shortcuts you learn for an app the more you will do with an app, and the more you will use it. If there&amp;rsquo;s no shortcut for something that you do regularly, make one. If you don&amp;rsquo;t like a provided shortcut, or it doesn&amp;rsquo;t make sense to you, change it.&lt;/li&gt;&#xA;&lt;li&gt;Second corollary. Keyboard shortcuts are a great way to learn how to memorise things. It&amp;rsquo;s low stakes but incremental, if you learn N shortcuts, you can learn N+1.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Write stuff down.&lt;/strong&gt; And perhaps just as importantly &lt;strong&gt;have a strategy for coming back to things later&lt;/strong&gt;. The commandment that &lt;em&gt;thou shalt forego thy social networks&lt;/em&gt; at the top of this list is really a double headed command to use intentionality and self-control in order to sanitise your information inputs, and this is a friendly reminder that the time saved can be used to revisit and reinforce those inputs.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Get enough sleep.&lt;/strong&gt; I am so bad at this. I have been meaning to read &amp;ldquo;Why We Sleep&amp;rdquo; for over a year but I am too scared to learn what my terrible sleeping habits are doing to me. That said, I do tend to do better when I am following some of these other tips - especially the ones about acting with intentionality and self-control.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Again, this is another spend time (on sleeping) to save time (sluggishly prodding work tasks while waiting for the coffee or tea to kick in) later.&lt;/li&gt;&#xA;&lt;li&gt;This could probably do with its own post of do as I say not as I do advice.&lt;/li&gt;&#xA;&lt;li&gt;I&amp;rsquo;m loathe to say what the right amount of sleep is. You know when you&amp;rsquo;ve had enough. And it varies, which makes it hard to plan around. It always feels like I need two hours after the alarm clock!&lt;/li&gt;&#xA;&lt;li&gt;I don&amp;rsquo;t think framing sleep around quotes like &amp;ldquo;studies show most people need 4/6/8/14 hours a night&amp;rdquo; is helpful, as in my experience the more I fret the worse I do and the feeling of divergence from nature tends to increase my fretfulness.&lt;/li&gt;&#xA;&lt;li&gt;Related: &lt;strong&gt;Get enough exercise&lt;/strong&gt; - I am working on this.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Get a second/third/Nth monitor&lt;/strong&gt;. I have recently done this and the jury&amp;rsquo;s still out for me. If I&amp;rsquo;m honest I just use the biggest monitor available. I&amp;rsquo;ve still included it on the list because most people won&amp;rsquo;t buy a &lt;em&gt;smaller&lt;/em&gt; monitor than the one they have. I find that seeing more means doing more and concentrating better. When I grow up I hope to have more interesting anecdotes about how I used a multiple monitor setup, but I&amp;rsquo;m still pretty green.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>The Forever Now</title>
-      <link>http://localhost:1313/posts/the-forever-now/</link>
+      <link>https://mattischrome.com/posts/the-forever-now/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-forever-now/</guid>
+      <guid>https://mattischrome.com/posts/the-forever-now/</guid>
       <description>&lt;p&gt;Writing this post came about from  frustration with blogging. Specifically the tools I am using. Often it feels like a new language or paradigm comes along that shifts one or two of the pain points of blogging. The biggest are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;How long it takes to get a post on the internet once you’ve written it&lt;/li&gt;&#xA;&lt;li&gt;The reliability of the resulting website&lt;/li&gt;&#xA;&lt;li&gt;How good the resulting website looks&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Note that none of this really impacts the quality of the writing. I’m not claiming to be a good writer: in fact I spend so much time blogging or thinking about blogging because it is my writing practice. (I think I am getting better, but slowly).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Old photographs</title>
-      <link>http://localhost:1313/posts/old-photographs/</link>
+      <link>https://mattischrome.com/posts/old-photographs/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/old-photographs/</guid>
+      <guid>https://mattischrome.com/posts/old-photographs/</guid>
       <description>&lt;p&gt;Recently I&amp;rsquo;ve had cause to dig out some old photos. If I&amp;rsquo;m honest it&amp;rsquo;s made me sad. Sadder than I was expecting. There&amp;rsquo;s a quote from Nan Goldin that once felt like a warning but now just sounds like a sad statement of ongoing affairs:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“I used to think that I could never lose anyone if I photographed them enough. In fact, my pictures show me how much I’ve lost.”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Travel Writing After All This</title>
-      <link>http://localhost:1313/posts/travel-writing-after-all-this/</link>
+      <link>https://mattischrome.com/posts/travel-writing-after-all-this/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/travel-writing-after-all-this/</guid>
-      <description>&lt;p&gt;While sprucing up this blog a bit during lockdown, I fell into reading my old posts about &lt;a href=&#34;http://localhost:1313/tag/south%20america/&#34;&gt;South America&lt;/a&gt;. I enjoyed it, mostly for the memories, but also because the current lockdown is warping my sense of time and space. Hours feel like weeks, but then I blink and a month&amp;rsquo;s gone by. I find myself traipsing similar orbits each day around the house, and then perhaps over to the supermarket or the park. There&amp;rsquo;s a palpable escapism to be had in reminiscing about South America and other places.&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/travel-writing-after-all-this/</guid>
+      <description>&lt;p&gt;While sprucing up this blog a bit during lockdown, I fell into reading my old posts about &lt;a href=&#34;https://mattischrome.com/tag/south%20america/&#34;&gt;South America&lt;/a&gt;. I enjoyed it, mostly for the memories, but also because the current lockdown is warping my sense of time and space. Hours feel like weeks, but then I blink and a month&amp;rsquo;s gone by. I find myself traipsing similar orbits each day around the house, and then perhaps over to the supermarket or the park. There&amp;rsquo;s a palpable escapism to be had in reminiscing about South America and other places.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Three Years</title>
-      <link>http://localhost:1313/posts/three-years/</link>
+      <link>https://mattischrome.com/posts/three-years/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/three-years/</guid>
+      <guid>https://mattischrome.com/posts/three-years/</guid>
       <description>&lt;p&gt;Three years ago today I moved in to my little flat in Chichester, soon to start a new job. I had no money left but at least, after a character building stint of six months sleeping on the floor, I had a bed. In the intervening three years, my job role has expanded, I&amp;rsquo;ve done another degree, the flat has become a home, and I&amp;rsquo;ve met and married Ingrid. Add to that the fact that it&amp;rsquo;s almost four years since I left for South America and I start to realise that I&amp;rsquo;ve done a crazy amount of things in that time. I don&amp;rsquo;t intend to stop.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The same, but different</title>
-      <link>http://localhost:1313/posts/the-same-yet-different/</link>
+      <link>https://mattischrome.com/posts/the-same-yet-different/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-same-yet-different/</guid>
+      <guid>https://mattischrome.com/posts/the-same-yet-different/</guid>
       <description>&lt;p&gt;Ingrid and I got married a month ago. It was a lovely day. We had a simple ceremony with two witnesses, our friends Sue and Andrew. We kept it quiet and small, as we just wanted to be married without too much fuss. A month on, we&amp;rsquo;re happy to report that we are glad we did it.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;d like to thank everyone who nonetheless sent cards and gifts, and to all of those who wished us well on Facebook. Much as I&amp;rsquo;m wary of social networks this did seem to be one of those events to which an announcement on Facebook was well suited. We intend to have additional celebrations at some point in the near future so keep your eyes peeled. We&amp;rsquo;re aware that our little dyad cannot be the only point where our families intersect. We hope to overcome that, but it is those sorts of complications that drove us to a smaller scale event in the first place. I&amp;rsquo;m very keen on the &amp;lsquo;win the lottery and hire a few private jets&amp;rsquo; approach but they keep selling me faulty tickets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Happy New Year 2015!</title>
-      <link>http://localhost:1313/posts/happy-new-year-for-2015/</link>
+      <link>https://mattischrome.com/posts/happy-new-year-for-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/happy-new-year-for-2015/</guid>
+      <guid>https://mattischrome.com/posts/happy-new-year-for-2015/</guid>
       <description>&lt;p&gt;Just a brief message to wish everyone a happy new year. Getting my flat connected to the internet continues to be a trial so it&amp;rsquo;s still not as easy to post as I would like. However, I have some workarounds now and I hope to write (and post) more often from now on.&lt;/p&gt;&#xA;&lt;p&gt;Like everyone I make resolutions at this time of year, though as the years pass I realise that the best resolutions are to apopt a new way of being rather than a new way of doing. I find it quite difficult to &amp;ldquo;change&amp;rdquo; myself by willpower alone. I think this is true of most people. Travelling taught me that it&amp;rsquo;s better to evolve. I just do one little thing differently and then try to notice the benefits as they accrue. As you become are of how you are changing it gets easier and you can shift your focus to doing another little thing a bit differently, a bit better. At least that&amp;rsquo;s the theory.&lt;/p&gt;</description>
     </item>
     <item>
       <title>October and November 2014</title>
-      <link>http://localhost:1313/posts/october-november-2014/</link>
+      <link>https://mattischrome.com/posts/october-november-2014/</link>
       <pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/october-november-2014/</guid>
+      <guid>https://mattischrome.com/posts/october-november-2014/</guid>
       <description>&lt;p&gt;I recently started a new job and moved in to a new flat. This means I&amp;rsquo;m too busy to write any long blog posts at the moment. Also I&amp;rsquo;m still not quite at home there, so I tend to spend my evenings tidying up or setting up new things. It&amp;rsquo;s a shame because I have plenty of things to write about (even without observations on moving, starting a new job, etc) but I guess the writing will happen eventually&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Whatever Happened To That Hat?</title>
-      <link>http://localhost:1313/posts/whatever-happened-to-that-hat/</link>
+      <link>https://mattischrome.com/posts/whatever-happened-to-that-hat/</link>
       <pubDate>Thu, 03 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/whatever-happened-to-that-hat/</guid>
+      <guid>https://mattischrome.com/posts/whatever-happened-to-that-hat/</guid>
       <description>&lt;p&gt;The hat in question is a Wilco baseball cap that I bought at a gig of theirs in 2004, the night that Germany got eliminated from Euro 2004. I&amp;rsquo;d love to show you a picture of it but I can&amp;rsquo;t, there isn&amp;rsquo;t even a picture of it from a Wilco merch site: at least not one that Google or Bing images can see anyway. I did manage to find a side-on picture of it in my bedroom in 2005 and zoom right in on it like they do in CSI.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Reset Button</title>
-      <link>http://localhost:1313/posts/the-reset-button/</link>
+      <link>https://mattischrome.com/posts/the-reset-button/</link>
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-reset-button/</guid>
-      <description>&lt;h2 id=&#34;previously-on&#34;&gt;Previously on&amp;hellip;&lt;/h2&gt;&#xA;&lt;p&gt;I planned this post as a follow-up to one called &lt;a href=&#34;http://localhost:1313/the-truth-about-work/&#34;&gt;The Truth About Work&lt;/a&gt; from a couple of months ago, but a few things happened that changed my thinking. It has implications for my future and in particular, it redefines what this break from work and upcoming trip means to me.&lt;/p&gt;&#xA;&lt;p&gt;One of the punchlines to &amp;ldquo;The Truth About Work&amp;rdquo; was that, sometimes, the only way to move ahead is to quit. I originally put it a little more baldly: I said that you &lt;em&gt;always&lt;/em&gt; have to quit in order to move on from a sticky situation. Because I knew I was about to quit, I felt I had to write about that decision in unequivocal terms. Obviously I don&amp;rsquo;t think that you should just tap out every single time that things get a little tough. I am not even sure now whether I should have done it at all: hitting the reset button so far in advance of the tour no longer feels like the great idea that it once did. I wasted a lot of the last six weeks and the principal effect of that has been to erode my self-esteem and my bank account.&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/the-reset-button/</guid>
+      <description>&lt;h2 id=&#34;previously-on&#34;&gt;Previously on&amp;hellip;&lt;/h2&gt;&#xA;&lt;p&gt;I planned this post as a follow-up to one called &lt;a href=&#34;https://mattischrome.com/the-truth-about-work/&#34;&gt;The Truth About Work&lt;/a&gt; from a couple of months ago, but a few things happened that changed my thinking. It has implications for my future and in particular, it redefines what this break from work and upcoming trip means to me.&lt;/p&gt;&#xA;&lt;p&gt;One of the punchlines to &amp;ldquo;The Truth About Work&amp;rdquo; was that, sometimes, the only way to move ahead is to quit. I originally put it a little more baldly: I said that you &lt;em&gt;always&lt;/em&gt; have to quit in order to move on from a sticky situation. Because I knew I was about to quit, I felt I had to write about that decision in unequivocal terms. Obviously I don&amp;rsquo;t think that you should just tap out every single time that things get a little tough. I am not even sure now whether I should have done it at all: hitting the reset button so far in advance of the tour no longer feels like the great idea that it once did. I wasted a lot of the last six weeks and the principal effect of that has been to erode my self-esteem and my bank account.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Truth About Work</title>
-      <link>http://localhost:1313/posts/the-truth-about-work/</link>
+      <link>https://mattischrome.com/posts/the-truth-about-work/</link>
       <pubDate>Wed, 14 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-truth-about-work/</guid>
-      <description>&lt;h2 id=&#34;motivation-and-lies&#34;&gt;Motivation and Lies&lt;/h2&gt;&#xA;&lt;p&gt;Motivation is a fickle thing. You can see it in action here on this blog, or rather in inaction as there are often &amp;ldquo;&lt;a href=&#34;http://localhost:1313/articles/the-drought/&#34;&gt;droughts&lt;/a&gt;&amp;rdquo; between posts (and draughts between drafts&amp;hellip;). Back in June I tried to write a post each day that had a title of the form &amp;ldquo;X and Y&amp;rdquo;. I was overambitious and they petered out after a bit. This was one of those posts and was originally titled &amp;ldquo;Motivation and Lies&amp;rdquo; in melodramatic fashion. I came back to the original draft this evening and quite liked it; so I rewrote the introduction, cut out some of the swears, and rounded out the conclusion a bit.&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/the-truth-about-work/</guid>
+      <description>&lt;h2 id=&#34;motivation-and-lies&#34;&gt;Motivation and Lies&lt;/h2&gt;&#xA;&lt;p&gt;Motivation is a fickle thing. You can see it in action here on this blog, or rather in inaction as there are often &amp;ldquo;&lt;a href=&#34;https://mattischrome.com/articles/the-drought/&#34;&gt;droughts&lt;/a&gt;&amp;rdquo; between posts (and draughts between drafts&amp;hellip;). Back in June I tried to write a post each day that had a title of the form &amp;ldquo;X and Y&amp;rdquo;. I was overambitious and they petered out after a bit. This was one of those posts and was originally titled &amp;ldquo;Motivation and Lies&amp;rdquo; in melodramatic fashion. I came back to the original draft this evening and quite liked it; so I rewrote the introduction, cut out some of the swears, and rounded out the conclusion a bit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Five Things To Try When You Can&#39;t Sleep</title>
-      <link>http://localhost:1313/posts/five-things-to-try-when-you-cant-sleep/</link>
+      <link>https://mattischrome.com/posts/five-things-to-try-when-you-cant-sleep/</link>
       <pubDate>Tue, 05 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/five-things-to-try-when-you-cant-sleep/</guid>
+      <guid>https://mattischrome.com/posts/five-things-to-try-when-you-cant-sleep/</guid>
       <description>&lt;p&gt;Facebook is wonderful for keeping in touch but I’ve noticed that quite a few of my friends tend to use it to tell the world that they can’t sleep. Here’s some advice for you if you find yourself unable to sleep one night. I’ve often had to try these out myself! Note that these are just things that work for me and your mileage may vary, particularly if you are fortunate enough to have a partner next to you! You may need to appease them if you wriggle around too much.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tales From Home</title>
-      <link>http://localhost:1313/posts/tales-from-home/</link>
+      <link>https://mattischrome.com/posts/tales-from-home/</link>
       <pubDate>Fri, 24 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tales-from-home/</guid>
+      <guid>https://mattischrome.com/posts/tales-from-home/</guid>
       <description>&lt;h3 id=&#34;a-question-of-identity&#34;&gt;A question of identity&lt;/h3&gt;&#xA;&lt;p&gt;Three letters for Dad in the mail today, three variations on our surname including the aquatic &lt;em&gt;Dory&lt;/em&gt; version and the lesser-spotted &lt;em&gt;Dorny&lt;/em&gt;. It is perhaps best not to go back to the time he was accidentally listed in the Thompson directory as Mr. Dopey, bringing forth prank calls from all teenagers within a ten mile radius. Fortunately, Dr. Dorey doesn’t have this problem with his mail: he doesn’t get any.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Setback</title>
-      <link>http://localhost:1313/posts/the-setback/</link>
+      <link>https://mattischrome.com/posts/the-setback/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-setback/</guid>
+      <guid>https://mattischrome.com/posts/the-setback/</guid>
       <description>&lt;p&gt;Since the run there has been a bit of a hiatus in this blog. I wrote about how running was making me feel better. In fact, I should have said more. I recently stopped taking the antidepressants that I had been taking for eighteen months. This has been my longest period taking such medication but the running made me feel sufficiently good to decide that I could stop taking them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Movember 10K</title>
-      <link>http://localhost:1313/posts/movember-10k/</link>
+      <link>https://mattischrome.com/posts/movember-10k/</link>
       <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/movember-10k/</guid>
+      <guid>https://mattischrome.com/posts/movember-10k/</guid>
       <description>&lt;p&gt;So, Saturday. Finally. The big day. Would I a) be able to get to Greenwich in time for the registration? and b) be able to make it all the way around the course without collapsing and crying?&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../assets/images/other/movember01.jpg&#34; alt=&#34;Picture of Matt at Movember 10K run 2010&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Happily the answer to both questions was a resounding “Yes!” and I really enjoyed it. The weather was really good, especially compared to the two days before hand, and Marc came along to take some brilliant photos.&lt;/p&gt;</description>
     </item>
   </channel>

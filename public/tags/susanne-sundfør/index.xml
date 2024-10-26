@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Susanne Sundfør on mattischrome</title>
-    <link>http://localhost:1313/tags/susanne-sundf%C3%B8r/</link>
+    <link>https://mattischrome.com/tags/susanne-sundf%C3%B8r/</link>
     <description>Recent content in Susanne Sundfør on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 31 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/susanne-sundf%C3%B8r/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/susanne-sundf%C3%B8r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Favourite Albums of 2015</title>
-      <link>http://localhost:1313/posts/favourite-albums-of-2015/</link>
+      <link>https://mattischrome.com/posts/favourite-albums-of-2015/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/favourite-albums-of-2015/</guid>
+      <guid>https://mattischrome.com/posts/favourite-albums-of-2015/</guid>
       <description>&lt;p&gt;Given that I gave up on writing album digests for a bit this year, I thought I would at least do a proper top ten list of my favourite albums. There are quite a few albums that I did not have room for and I might try to revisit those later. In the mean time, let&amp;rsquo;s crack on. (To save time, I have in some instances pasted my original review from the appropriate album digest.)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, February 2015</title>
-      <link>http://localhost:1313/posts/album-digest-february-2015/</link>
+      <link>https://mattischrome.com/posts/album-digest-february-2015/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-february-2015/</guid>
-      <description>&lt;h2 id=&#34;aphex-twin-computer-controlled-acoustic-instruments-pt2-ep&#34;&gt;Aphex Twin &amp;ldquo;Computer Controlled Acoustic Instruments Pt2 EP&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;Aphex Twin follows SYRO (reviewed in &lt;a href=&#34;http://localhost:1313/album-digest-september-2014/&#34;&gt;Album Digest September 2014 here&lt;/a&gt;) with this 27 minute EP of music that, if we take the title literally, features computers playing acoustic musical instruments. It&amp;rsquo;s a very different sound to SYRO and sounds acoustic for the most part. It&amp;rsquo;s an important experiment about the role of the musician, one that is already blurred in the creation of electronic music.&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/album-digest-february-2015/</guid>
+      <description>&lt;h2 id=&#34;aphex-twin-computer-controlled-acoustic-instruments-pt2-ep&#34;&gt;Aphex Twin &amp;ldquo;Computer Controlled Acoustic Instruments Pt2 EP&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;Aphex Twin follows SYRO (reviewed in &lt;a href=&#34;https://mattischrome.com/album-digest-september-2014/&#34;&gt;Album Digest September 2014 here&lt;/a&gt;) with this 27 minute EP of music that, if we take the title literally, features computers playing acoustic musical instruments. It&amp;rsquo;s a very different sound to SYRO and sounds acoustic for the most part. It&amp;rsquo;s an important experiment about the role of the musician, one that is already blurred in the creation of electronic music.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

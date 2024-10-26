@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on mattischrome</title>
-    <link>http://localhost:1313/tags/news/</link>
+    <link>https://mattischrome.com/tags/news/</link>
     <description>Recent content in News on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Holiday Tabs</title>
-      <link>http://localhost:1313/posts/holiday-tabs/</link>
+      <link>https://mattischrome.com/posts/holiday-tabs/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/holiday-tabs/</guid>
+      <guid>https://mattischrome.com/posts/holiday-tabs/</guid>
       <description>&lt;p&gt;Over the course of a week on holiday, I started reading many interesting articles. In lockdown there isn&amp;rsquo;t much to do but read articles, but I still find myself not that good at finishing them. My phone has lots of tabs open and has become a Rolodex of shame. This post is to confess my sins.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m trying to re-familiarise myself with Python. As with all modern software development, Python now seems atomised and hyper-complicated. As a result, this series of posts from Claudio Jolowitz was useful. He cuts through lots of the complications and explains why they are there. Someone should ask him to write a book.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Suits Me</title>
-      <link>http://localhost:1313/posts/suits-me/</link>
+      <link>https://mattischrome.com/posts/suits-me/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/suits-me/</guid>
+      <guid>https://mattischrome.com/posts/suits-me/</guid>
       <description>&lt;p&gt;In recent weeks I have worn a suit to work. I bought a new furry woolly suit a few weeks ago and have alternated between it and my old one. I also bought new shoes that gave me blisters and made me cry. Enough time has passed that by now it feels natural rather than silly and those shoes don&amp;rsquo;t eat my feet as much as they used to.&lt;/p&gt;&#xA;&lt;p&gt;I think I feel calmer before I go to work as a result of wearing the suit. Suits are very little fuss. Pick the suit, pick the tie, job done. Besides, a suit flatters a man of my age and inclination towards biscuits. And finally my tie collection gets to see the light of day!&lt;/p&gt;</description>
     </item>
     <item>
       <title>In the space between this and that</title>
-      <link>http://localhost:1313/posts/in-the-space-between-this-and-that/</link>
+      <link>https://mattischrome.com/posts/in-the-space-between-this-and-that/</link>
       <pubDate>Sat, 25 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/in-the-space-between-this-and-that/</guid>
+      <guid>https://mattischrome.com/posts/in-the-space-between-this-and-that/</guid>
       <description>&lt;p&gt;Britain voted to leave the EU this week. It made for an angry and confused Friday morning. I posted snippy comments on Facebook at a rate of about one every fifteen minutes. I also knew that there was nothing I could do. Even when you feel like Charlton Heston at the end of &amp;quot;Planet of the Apes&amp;quot;, you have to suck it up and accept that sometimes things don&#39;t go as you like.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jim&#39;s Conservatory</title>
-      <link>http://localhost:1313/posts/jims-conservatory/</link>
+      <link>https://mattischrome.com/posts/jims-conservatory/</link>
       <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jims-conservatory/</guid>
+      <guid>https://mattischrome.com/posts/jims-conservatory/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s assume that Jim has just had a &lt;a href=&#34;https://en.wikipedia.org/wiki/2008_United_Kingdom_bank_rescue_package&#34;&gt;sudden unexpected expenditure&lt;/a&gt;: a neighbour released a bull into his back garden and &lt;a href=&#34;http://www.theguardian.com/business/2007/nov/01/creditcrunch.subprimecrisis&#34;&gt;it destroyed his conservatory&lt;/a&gt;. Let&amp;rsquo;s assume that the conservatory is essential to Jim&amp;rsquo;s wellbeing, so it has to be fixed immediately. As a result Jim&amp;rsquo;s debts, which &lt;a href=&#34;http://www.theguardian.com/business/2015/may/03/senior-tory-financial-crash-was-purely-a-banking-crisis-not-labour-overspend&#34;&gt;were previously small and well-managed&lt;/a&gt;, have now increased somewhat.&lt;/p&gt;&#xA;&lt;p&gt;Obviously Jim can&amp;rsquo;t keep that debt hanging over him forever. What does he do?&lt;/p&gt;&#xA;&lt;p&gt;Fortunately for Jim, the circumstances of his borrowing aren&amp;rsquo;t so different before and after the event. &lt;a href=&#34;http://www.telegraph.co.uk/finance/personalfinance/interest-rates/9922941/Interest-rates-predictions-Four-more-years-of-0.5.html&#34;&gt;Interest rates are low and are predicted to stay low&lt;/a&gt;, and the &lt;a href=&#34;http://www.bbc.co.uk/news/business-21554311&#34;&gt;terms of his credit haven&amp;rsquo;t changed a great deal despite his increased borrowing&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Like a Rhino Voting for Poaching</title>
-      <link>http://localhost:1313/posts/like-a-rhino-voting-for-poaching/</link>
+      <link>https://mattischrome.com/posts/like-a-rhino-voting-for-poaching/</link>
       <pubDate>Sat, 09 May 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/like-a-rhino-voting-for-poaching/</guid>
+      <guid>https://mattischrome.com/posts/like-a-rhino-voting-for-poaching/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s a reason I cannot and will not vote Conservative, and like most people&amp;rsquo;s apparent motive for voting tory it is also a selfish one. As someone employed in the public sector, working to ensure the greater good, I&amp;rsquo;m a member of an increasingly endangered species.&lt;/p&gt;&#xA;&lt;p&gt;Ah Matthew, I hear you say, you&amp;rsquo;re trotting out the old &amp;ldquo;the turkeys have voted for Christmas&amp;rdquo; line. Well no, like I said, this is purely selfish. When you mark that X in the box, you tend to think about yourself only. Never mind the turkeys (for now).&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Voting</title>
-      <link>http://localhost:1313/posts/on-voting/</link>
+      <link>https://mattischrome.com/posts/on-voting/</link>
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/on-voting/</guid>
+      <guid>https://mattischrome.com/posts/on-voting/</guid>
       <description>&lt;p&gt;We hear a lot about our rights but these are given to us in return for fulfilling our responsibilities. One of these is engagement in the democratic process, and in particular voting. You should register to vote, that’s a no brainer. You should take an interest in what politics means for you locally, nationally, and internationally. On the day you to get to the polling station and cast your vote. Then you need to hold you representative accountable afterwards, even if he or she isn’t the person you voted for.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The News</title>
-      <link>http://localhost:1313/posts/the-news/</link>
+      <link>https://mattischrome.com/posts/the-news/</link>
       <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-news/</guid>
+      <guid>https://mattischrome.com/posts/the-news/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“I read the news today, oh boy”  (The Beatles, &lt;em&gt;A Day In The Life&lt;/em&gt;.)&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Sometimes watching the news feels like a series of repeated blows to the face: arbitrary, cruel and unrelenting. It gets draining and upsetting, and leaves you fearful of what might come next.&lt;/p&gt;&#xA;&lt;p&gt;You won’t need me to tell you about the tragedies that have occurred all over the world in the last few days: drought in East Africa, the gunman running amok in Norway, the death of Amy Winehouse and the horrific train crash in China.&lt;/p&gt;</description>
     </item>
     <item>
       <title>In Defence Of Tolerance</title>
-      <link>http://localhost:1313/posts/in-defence-of-tolerance/</link>
+      <link>https://mattischrome.com/posts/in-defence-of-tolerance/</link>
       <pubDate>Mon, 24 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/in-defence-of-tolerance/</guid>
+      <guid>https://mattischrome.com/posts/in-defence-of-tolerance/</guid>
       <description>&lt;p&gt;I’ve found twitter to be a bit boring lately but today a perfect storm brew up and once again the Daily Mail and one of its odious columnists was at its centre. Melanie Phillips’ opinion piece was a perfectly constructed piece of trolling that implied that since the repeal of section 28, schools have been flooded with an influx of gay propaganda in subjects like maths, history and geography. Well I’m all for it, Alan Turing &lt;em&gt;was&lt;/em&gt; a genius brutally mistreated by his country despite turning the second world war in favour of the allies - that story is maths and history is combined. Meanwhile, if you can spice up geography a bit go for it. I am not sure what you would do, discuss routes for pride marches? After all, the subject is hideously out of date now that we all have google maps on our phones.&lt;/p&gt;</description>
     </item>
   </channel>

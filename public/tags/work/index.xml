@@ -2,39 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work on mattischrome</title>
-    <link>http://localhost:1313/tags/work/</link>
+    <link>https://mattischrome.com/tags/work/</link>
     <description>Recent content in Work on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On learning new tools</title>
-      <link>http://localhost:1313/posts/on-learning-new-tools/</link>
+      <link>https://mattischrome.com/posts/on-learning-new-tools/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/on-learning-new-tools/</guid>
+      <guid>https://mattischrome.com/posts/on-learning-new-tools/</guid>
       <description>&lt;p&gt;It strikes me that it is better to sit and think about what you need to do, rather than endless try out new tools and hoping you end up with a use for them. I&amp;rsquo;m not saying that innovation is bad, or that you shouldn&amp;rsquo;t stretch yourself into some new spot once in a while, but you will become more valuable to others if you can identify what it is you are supposed to be doing and then use your existing skills to get that job done. Don&amp;rsquo;t go looking at galleries of tools and techniques in service of finding something to do. Trust me, I know from experience that it is a great way to spend a hell of a lot of time not getting anywhere in particular.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Cheeseburgers</title>
-      <link>http://localhost:1313/posts/cheeseburgers/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cheeseburgers/</guid>
-      <description>&lt;p&gt;I think there&amp;rsquo;s a sense of safety when putting energy into something that&amp;rsquo;s latent and/or hidden as it immediately makes it low stakes. Other more open routes to success contain fear of failure, but also a fear of going after something that won&amp;rsquo;t give you the same buzz or edge. There&amp;rsquo;s a thrill seeking element but it&amp;rsquo;s also about containing and confining it to a success zone. Keeping this success zone private also means that there&amp;rsquo;s no risk that someone might try and take it away from you. There&amp;rsquo;s so much risk in putting any kind of desire or chance for failure out into the public domain.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>The Reset Button</title>
-      <link>http://localhost:1313/posts/the-reset-button/</link>
+      <link>https://mattischrome.com/posts/the-reset-button/</link>
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-reset-button/</guid>
-      <description>&lt;h2 id=&#34;previously-on&#34;&gt;Previously on&amp;hellip;&lt;/h2&gt;&#xA;&lt;p&gt;I planned this post as a follow-up to one called &lt;a href=&#34;http://localhost:1313/the-truth-about-work/&#34;&gt;The Truth About Work&lt;/a&gt; from a couple of months ago, but a few things happened that changed my thinking. It has implications for my future and in particular, it redefines what this break from work and upcoming trip means to me.&lt;/p&gt;&#xA;&lt;p&gt;One of the punchlines to &amp;ldquo;The Truth About Work&amp;rdquo; was that, sometimes, the only way to move ahead is to quit. I originally put it a little more baldly: I said that you &lt;em&gt;always&lt;/em&gt; have to quit in order to move on from a sticky situation. Because I knew I was about to quit, I felt I had to write about that decision in unequivocal terms. Obviously I don&amp;rsquo;t think that you should just tap out every single time that things get a little tough. I am not even sure now whether I should have done it at all: hitting the reset button so far in advance of the tour no longer feels like the great idea that it once did. I wasted a lot of the last six weeks and the principal effect of that has been to erode my self-esteem and my bank account.&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/the-reset-button/</guid>
+      <description>&lt;h2 id=&#34;previously-on&#34;&gt;Previously on&amp;hellip;&lt;/h2&gt;&#xA;&lt;p&gt;I planned this post as a follow-up to one called &lt;a href=&#34;https://mattischrome.com/the-truth-about-work/&#34;&gt;The Truth About Work&lt;/a&gt; from a couple of months ago, but a few things happened that changed my thinking. It has implications for my future and in particular, it redefines what this break from work and upcoming trip means to me.&lt;/p&gt;&#xA;&lt;p&gt;One of the punchlines to &amp;ldquo;The Truth About Work&amp;rdquo; was that, sometimes, the only way to move ahead is to quit. I originally put it a little more baldly: I said that you &lt;em&gt;always&lt;/em&gt; have to quit in order to move on from a sticky situation. Because I knew I was about to quit, I felt I had to write about that decision in unequivocal terms. Obviously I don&amp;rsquo;t think that you should just tap out every single time that things get a little tough. I am not even sure now whether I should have done it at all: hitting the reset button so far in advance of the tour no longer feels like the great idea that it once did. I wasted a lot of the last six weeks and the principal effect of that has been to erode my self-esteem and my bank account.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Truth About Work</title>
-      <link>http://localhost:1313/posts/the-truth-about-work/</link>
+      <link>https://mattischrome.com/posts/the-truth-about-work/</link>
       <pubDate>Wed, 14 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-truth-about-work/</guid>
-      <description>&lt;h2 id=&#34;motivation-and-lies&#34;&gt;Motivation and Lies&lt;/h2&gt;&#xA;&lt;p&gt;Motivation is a fickle thing. You can see it in action here on this blog, or rather in inaction as there are often &amp;ldquo;&lt;a href=&#34;http://localhost:1313/articles/the-drought/&#34;&gt;droughts&lt;/a&gt;&amp;rdquo; between posts (and draughts between drafts&amp;hellip;). Back in June I tried to write a post each day that had a title of the form &amp;ldquo;X and Y&amp;rdquo;. I was overambitious and they petered out after a bit. This was one of those posts and was originally titled &amp;ldquo;Motivation and Lies&amp;rdquo; in melodramatic fashion. I came back to the original draft this evening and quite liked it; so I rewrote the introduction, cut out some of the swears, and rounded out the conclusion a bit.&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/the-truth-about-work/</guid>
+      <description>&lt;h2 id=&#34;motivation-and-lies&#34;&gt;Motivation and Lies&lt;/h2&gt;&#xA;&lt;p&gt;Motivation is a fickle thing. You can see it in action here on this blog, or rather in inaction as there are often &amp;ldquo;&lt;a href=&#34;https://mattischrome.com/articles/the-drought/&#34;&gt;droughts&lt;/a&gt;&amp;rdquo; between posts (and draughts between drafts&amp;hellip;). Back in June I tried to write a post each day that had a title of the form &amp;ldquo;X and Y&amp;rdquo;. I was overambitious and they petered out after a bit. This was one of those posts and was originally titled &amp;ldquo;Motivation and Lies&amp;rdquo; in melodramatic fashion. I came back to the original draft this evening and quite liked it; so I rewrote the introduction, cut out some of the swears, and rounded out the conclusion a bit.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

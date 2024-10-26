@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Links on mattischrome</title>
-    <link>http://localhost:1313/tags/links/</link>
+    <link>https://mattischrome.com/tags/links/</link>
     <description>Recent content in Links on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/links/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Holiday Tabs</title>
-      <link>http://localhost:1313/posts/holiday-tabs/</link>
+      <link>https://mattischrome.com/posts/holiday-tabs/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/holiday-tabs/</guid>
+      <guid>https://mattischrome.com/posts/holiday-tabs/</guid>
       <description>&lt;p&gt;Over the course of a week on holiday, I started reading many interesting articles. In lockdown there isn&amp;rsquo;t much to do but read articles, but I still find myself not that good at finishing them. My phone has lots of tabs open and has become a Rolodex of shame. This post is to confess my sins.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m trying to re-familiarise myself with Python. As with all modern software development, Python now seems atomised and hyper-complicated. As a result, this series of posts from Claudio Jolowitz was useful. He cuts through lots of the complications and explains why they are there. Someone should ask him to write a book.&lt;/p&gt;</description>
     </item>
   </channel>

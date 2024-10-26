@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rake on mattischrome</title>
-    <link>http://localhost:1313/tags/rake/</link>
+    <link>https://mattischrome.com/tags/rake/</link>
     <description>Recent content in Rake on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/rake/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/rake/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is in my Rakefile? (March 2023 edition)</title>
-      <link>http://localhost:1313/posts/what-is-in-my-rakefile-march-2023-edition/</link>
+      <link>https://mattischrome.com/posts/what-is-in-my-rakefile-march-2023-edition/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/what-is-in-my-rakefile-march-2023-edition/</guid>
+      <guid>https://mattischrome.com/posts/what-is-in-my-rakefile-march-2023-edition/</guid>
       <description>&lt;p&gt;Because I am bored of forgetting what&amp;rsquo;s in my website&amp;rsquo;s Rakefile, I thought I&amp;rsquo;d write a list. Also, as I&amp;rsquo;m probably going to move over to a node based approach soon, it&amp;rsquo;s a handy wish list for my &lt;code&gt;package.json&lt;/code&gt; file when the time comes.&lt;/p&gt;&#xA;&lt;h3 id=&#34;make-a-new-post-in-_posts-named-title&#34;&gt;Make a new post in &lt;code&gt;_posts&lt;/code&gt; named &amp;ldquo;Title&amp;rdquo;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;code&gt;rake post[&amp;quot;Title&amp;quot;]&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;If no title is given, you will be prompted for one. The post will be opened in the editor specified in the Rakefile.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sprucing up the Blog</title>
-      <link>http://localhost:1313/posts/sprucing-up-the-blog/</link>
+      <link>https://mattischrome.com/posts/sprucing-up-the-blog/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sprucing-up-the-blog/</guid>
+      <guid>https://mattischrome.com/posts/sprucing-up-the-blog/</guid>
       <description>&lt;p&gt;This post explains some of the modifications I made to a minimal Jekyll theme to get this blog as I wanted it. This blog (currently) uses the excellent &lt;a href=&#34;https://sidey-jekyll.netlify.app/about&#34;&gt;Sidey theme&lt;/a&gt; by &lt;a href=&#34;https://www.ronaldsvilcins.com&#34;&gt;Ronalds Vilciņš&lt;/a&gt;. His site looks eerily similar to this one, at least at time of writing.&lt;/p&gt;&#xA;&lt;p&gt;The theme is pretty minimal in terms of features (and appearance) but it scores well on the Google Page Speed test. The features I added have increased the build time, but have not affected the speed of the site in terms of the page speed test.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohn on mattischrome</title>
-    <link>http://localhost:1313/tags/mohn/</link>
+    <link>https://mattischrome.com/tags/mohn/</link>
     <description>Recent content in Mohn on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 31 Jul 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mohn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/mohn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, July 2012</title>
-      <link>http://localhost:1313/posts/album-digest-july-2012/</link>
+      <link>https://mattischrome.com/posts/album-digest-july-2012/</link>
       <pubDate>Tue, 31 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-july-2012/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-july-2012/</guid>
       <description>&lt;p&gt;Just a short album digest this month. I bought a stack of CDs and am parcelling them out over the next few months (together with important additional releases as they crop up). This is in the hope that I can write more considered pieces about each one. This month I’ve grouped together albums with monochrome covers and a BT album from June that I found out about recently. These albums are not just linked by their artwork, they also form a cohesive whole. As a result I dispense with reviewing each album in depth. As usual there is a playlist at the end.&lt;/p&gt;</description>
     </item>
   </channel>
