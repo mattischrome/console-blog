@@ -1,5 +1,5 @@
 ---
-image: "country-sunshine.jpeg"
+image: "country-sun.jpeg"
 date: "2024-11-12"
 title: "Country Sunshine, November 2024"
 type: gallery
