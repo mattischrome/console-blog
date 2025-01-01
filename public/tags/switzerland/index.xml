@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Switzerland on mattischrome</title>
-    <link>https://mattischrome.com/tags/switzerland/</link>
+    <link>http://localhost:1313/tags/switzerland/</link>
     <description>Recent content in Switzerland on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 23 May 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/switzerland/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/switzerland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Werner Bischof: Point of View and Helvetica</title>
-      <link>https://mattischrome.com/posts/werner-bischof-exhibitions/</link>
+      <link>http://localhost:1313/posts/werner-bischof-exhibitions/</link>
       <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/werner-bischof-exhibitions/</guid>
+      <guid>http://localhost:1313/posts/werner-bischof-exhibitions/</guid>
       <description>&lt;p&gt;2016 marks the centenary of the birth of &lt;a href=&#34;http://www.magnumphotos.com/C.aspx?VP3=CMS3&amp;amp;VF=MAGO31_9_VForm&amp;amp;ERID=24KL534M5N&#34;&gt;Werner Bischof&lt;/a&gt;, the talented Magnum photojournalist who died in Peru in 1954, aged 38. He travelled widely, making the most of an incredible talent for photography. After the second world war, this led him all over Europe to document its aftermath. As the cold war began, Bischof found himself documenting events further afield.&lt;/p&gt;&#xA;&lt;p&gt;We saw two exhibitions of his photography at the &lt;a href=&#34;http://www.elysee.ch&#34;&gt;Musée de l&amp;rsquo;Elysée in Lausanne&lt;/a&gt;. &amp;ldquo;Point of View&amp;rdquo; explores his international work spanning the years 1945 to 1954. &amp;ldquo;Helvetica&amp;rdquo; explores his earlier work while isolated from travel in Switzerland during the second world war.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lausanne, Switzerland, March 2016</title>
-      <link>https://mattischrome.com/posts/lausanne-march-2016/</link>
+      <link>http://localhost:1313/posts/lausanne-march-2016/</link>
       <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/lausanne-march-2016/</guid>
+      <guid>http://localhost:1313/posts/lausanne-march-2016/</guid>
       <description>&lt;p&gt;Just before Easter Ingrid and I went to Lausanne in Switzerland for a few days. It was a much-needed break and my first trip out of the UK since I got back from South America.&lt;/p&gt;&#xA;&lt;p&gt;We caught an early train to Gatwick. It took a strange route along the coast via Worthing and Hove, which was annoying because we could have left later if a more direct train were available at that time of day. At least it wasn&#39;t late, which for Southern is really rare.&lt;/p&gt;</description>
     </item>
   </channel>

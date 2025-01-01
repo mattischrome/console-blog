@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organisation on mattischrome</title>
-    <link>https://mattischrome.com/tags/organisation/</link>
+    <link>http://localhost:1313/tags/organisation/</link>
     <description>Recent content in Organisation on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/organisation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/organisation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oh heck it&#39;s June</title>
-      <link>https://mattischrome.com/posts/oh-heck-its-june/</link>
+      <link>http://localhost:1313/posts/oh-heck-its-june/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/oh-heck-its-june/</guid>
+      <guid>http://localhost:1313/posts/oh-heck-its-june/</guid>
       <description>&lt;p&gt;White rabbits and all that.&lt;/p&gt;&#xA;&lt;p&gt;Even more than during the pandemic, I&amp;rsquo;m feeling these days like the days, weeks, and months are all blurring into one another. It&amp;rsquo;s getting harder to figure out what year something happened, how the old the cats are, and just how overdue all my promises are. It&amp;rsquo;s definitely getting harder to look at this blog and wonder whether it will ever get back to its heyday of regularly posted updates. It&amp;rsquo;s possible that the continued erosion of various social media sites might make blogs useful, useable, and used again, though popularity of a medium is no guarantee that I will actually use it!&lt;/p&gt;</description>
     </item>
   </channel>

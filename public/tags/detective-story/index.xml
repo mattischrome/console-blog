@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Detective Story on mattischrome</title>
-    <link>https://mattischrome.com/tags/detective-story/</link>
+    <link>http://localhost:1313/tags/detective-story/</link>
     <description>Recent content in Detective Story on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 06 Aug 2024 17:55:14 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/detective-story/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/detective-story/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bob Mortimer, The Satsuma Complex</title>
-      <link>https://mattischrome.com/posts/bob-mortimer-the-satsuma-complex/</link>
+      <link>http://localhost:1313/posts/bob-mortimer-the-satsuma-complex/</link>
       <pubDate>Tue, 06 Aug 2024 17:55:14 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/bob-mortimer-the-satsuma-complex/</guid>
+      <guid>http://localhost:1313/posts/bob-mortimer-the-satsuma-complex/</guid>
       <description>&lt;p&gt;A hardback book called &amp;ldquo;The Satsuma Complex&amp;rdquo; is all that remains of a mysterious young lady that young lawyer Gary is chatting up in the pub one night. It&amp;rsquo;s a book that everyone reckons is &amp;ldquo;a bit sh*t&amp;rdquo;. But Gary&amp;rsquo;s moping about after the Satsuma lady doing a runner while he was in the loo will have to be put on hold when his friend turns up dead.&lt;/p&gt;&#xA;&lt;p&gt;I really enjoyed this book. It&amp;rsquo;s not going to win any prizes for quality of writing but it is both fun and funny. There are a few repetitive phrases and at one point beers magically become lagers in the space of three paragraphs. The writing is very colloquial but there is a point-of-view shift at the start of part two that deploys some writerly skill. (This short-lived though as the new point-of-view soon collapses down into one similar to the main character.)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Decision to Leave</title>
-      <link>https://mattischrome.com/posts/decision-to-leave/</link>
+      <link>http://localhost:1313/posts/decision-to-leave/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/decision-to-leave/</guid>
+      <guid>http://localhost:1313/posts/decision-to-leave/</guid>
       <description>&lt;p&gt;I gave up writing reviews of movies because:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;I never felt I got the balance right between describing the plot and why I liked the film.&lt;/li&gt;&#xA;&lt;li&gt;I don&amp;rsquo;t watch enough movies to be able to draw comparisons that are interesting, just between the small subset of total films that I have watched.&lt;/li&gt;&#xA;&lt;li&gt;I don&amp;rsquo;t know enough about film making to properly describe why a movie made me feel a particular way and how to discuss the different possibilities available to the director, the actors, and the other artists involved with creating a movie.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;But of course, every now and then you see a movie and think &amp;ldquo;wow! I need to tell people about this&amp;rdquo;. And for me that recent film was &amp;ldquo;Decision To Leave&amp;rdquo;, a Korean film that was released last year.&lt;/p&gt;</description>
     </item>
   </channel>

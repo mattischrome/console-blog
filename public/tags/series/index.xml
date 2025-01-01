@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on mattischrome</title>
-    <link>https://mattischrome.com/tags/series/</link>
+    <link>http://localhost:1313/tags/series/</link>
     <description>Recent content in Series on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Orphan Project</title>
-      <link>https://mattischrome.com/posts/the-orphan-project/</link>
+      <link>http://localhost:1313/posts/the-orphan-project/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-orphan-project/</guid>
+      <guid>http://localhost:1313/posts/the-orphan-project/</guid>
       <description>&lt;p&gt;A nice feature I added to this blog in its recent update was a &lt;a href=&#34;https://mattischrome.com/tags/&#34;&gt;tags page&lt;/a&gt;. With the help of this &lt;a href=&#34;https://discourse.gohugo.io/t/how-to-get-a-tags-page/24213/4&#34;&gt;very useful discourse thread&lt;/a&gt; and some additional CSS tweaks, the resulting page is something that I am very happy with. It lists all of the tags that apply to any post, along with the number of posts with that tag, in alphabetical order. It&amp;rsquo;s mostly intended as a guide for you the reader, to help you see whether your preoccupations match my own.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tade Thompson, Rosewater</title>
-      <link>https://mattischrome.com/posts/tade-thompson-rosewater/</link>
+      <link>http://localhost:1313/posts/tade-thompson-rosewater/</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/tade-thompson-rosewater/</guid>
+      <guid>http://localhost:1313/posts/tade-thompson-rosewater/</guid>
       <description>&lt;p&gt;Rosewater is an exciting science fiction novel set several decades after first contact with an alien called Wormwood, that has established itself as a large biodome in Nigeria. The novel follows Kaaro, a thief whose extra special abilities are forged from an unlikely connection with the alien. The whole thing is part sci-fi adventure and part spy novel.&lt;/p&gt;&#xA;&lt;p&gt;The novel is set in multiple timelines with whole sections of the story told in flashback. This gives a sense of hopping through Kaaro’s memories and helps us explore this strange futuristic vision of Nigeria. It also really helps with pace, first by throwing us into the story and then helping to explain the relationships between the characters we are introduced to.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicolas Jaar on mattischrome</title>
-    <link>https://mattischrome.com/tags/nicolas-jaar/</link>
+    <link>http://localhost:1313/tags/nicolas-jaar/</link>
     <description>Recent content in Nicolas Jaar on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 31 Mar 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/nicolas-jaar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/nicolas-jaar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, March 2011</title>
-      <link>https://mattischrome.com/posts/this-is-not-an-album-digest-march-2011/</link>
+      <link>http://localhost:1313/posts/this-is-not-an-album-digest-march-2011/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/this-is-not-an-album-digest-march-2011/</guid>
-      <description>&lt;h2 id=&#34;this-is-not-an-album-digest-march-2011&#34;&gt;This is not an Album Digest March 2011&lt;/h2&gt;&#xA;&lt;p&gt;Well as I said at the end of &lt;a href=&#34;https://mattischrome.com/album-digest-february-2011/&#34;&gt;last month’s album digest post&lt;/a&gt;, I took a bit of a break from pursuing new music quite as closely as I have been. As promised, I sidestepped the new R.E.M. and Elbow albums - although I had been promised the latter as a birthday present it is yet to show up, maybe I will look at in April.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/this-is-not-an-album-digest-march-2011/</guid>
+      <description>&lt;h2 id=&#34;this-is-not-an-album-digest-march-2011&#34;&gt;This is not an Album Digest March 2011&lt;/h2&gt;&#xA;&lt;p&gt;Well as I said at the end of &lt;a href=&#34;http://localhost:1313/album-digest-february-2011/&#34;&gt;last month’s album digest post&lt;/a&gt;, I took a bit of a break from pursuing new music quite as closely as I have been. As promised, I sidestepped the new R.E.M. and Elbow albums - although I had been promised the latter as a birthday present it is yet to show up, maybe I will look at in April.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

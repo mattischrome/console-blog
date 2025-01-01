@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tegan and Sara on mattischrome</title>
-    <link>https://mattischrome.com/tags/tegan-and-sara/</link>
+    <link>http://localhost:1313/tags/tegan-and-sara/</link>
     <description>Recent content in Tegan and Sara on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 30 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/tegan-and-sara/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tegan-and-sara/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, June 2016</title>
-      <link>https://mattischrome.com/posts/album-digest-june-2016/</link>
+      <link>http://localhost:1313/posts/album-digest-june-2016/</link>
       <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-june-2016/</guid>
+      <guid>http://localhost:1313/posts/album-digest-june-2016/</guid>
       <description>&lt;p&gt;Album Digest June 2016 is a poppy batch of albums. We have the return of my long-time favourites Roxette and the heroes of my South American tour Tegan &amp;amp; Sara. There&amp;rsquo;s some dance music in the form of Flume&amp;rsquo;s album &amp;ldquo;Skin&amp;rdquo;: an Australian presence ahead of the new Avalanches album next month. Finally there is the first of two new albums by Islands - both were released back in May but one gets reviewed this month and the other next month.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, March 2014</title>
-      <link>https://mattischrome.com/posts/album-digest-march-2014/</link>
+      <link>http://localhost:1313/posts/album-digest-march-2014/</link>
       <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-march-2014/</guid>
-      <description>&lt;p&gt;I’m back in the UK so it’s back to posts about albums each month. This one is a bit different because I didn’t listen to very much new stuff while I was away so not all of the albums are up to date. I had to write about the new album by Liars though because it&amp;rsquo;s awesome and I couldn&amp;rsquo;t wait to discuss it! Here’s the list of albums:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Tegan and Sarah &lt;em&gt;Heartthrob&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Fanfarlo &lt;em&gt;Let&amp;rsquo;s Go Extinct&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Liars &lt;em&gt;Mess&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;London Grammar &lt;em&gt;If You Wait&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;tegan-and-sarah-_heartthrob_&#34;&gt;Tegan and Sarah &lt;em&gt;Heartthrob&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;I would argue, as I have throughout my sequence of &lt;a href=&#34;https://mattischrome.com/tags#understated-classics/&#34;&gt;understated classics&lt;/a&gt; posts, that a great album is one that changes you as a person. Sometimes an album changes your mood consistently, sometimes an album makes you think about the experiences in your life differently, and sometimes an album is just so great and comes along at just the right time to knock you for six. I’d say that in 2014 Tegan and Sara’s “Heartthrob” has been that album for me.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/album-digest-march-2014/</guid>
+      <description>&lt;p&gt;I’m back in the UK so it’s back to posts about albums each month. This one is a bit different because I didn’t listen to very much new stuff while I was away so not all of the albums are up to date. I had to write about the new album by Liars though because it&amp;rsquo;s awesome and I couldn&amp;rsquo;t wait to discuss it! Here’s the list of albums:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Tegan and Sarah &lt;em&gt;Heartthrob&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Fanfarlo &lt;em&gt;Let&amp;rsquo;s Go Extinct&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Liars &lt;em&gt;Mess&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;London Grammar &lt;em&gt;If You Wait&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;tegan-and-sarah-_heartthrob_&#34;&gt;Tegan and Sarah &lt;em&gt;Heartthrob&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;I would argue, as I have throughout my sequence of &lt;a href=&#34;http://localhost:1313/tags#understated-classics/&#34;&gt;understated classics&lt;/a&gt; posts, that a great album is one that changes you as a person. Sometimes an album changes your mood consistently, sometimes an album makes you think about the experiences in your life differently, and sometimes an album is just so great and comes along at just the right time to knock you for six. I’d say that in 2014 Tegan and Sara’s “Heartthrob” has been that album for me.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

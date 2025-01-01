@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flume on mattischrome</title>
-    <link>https://mattischrome.com/tags/flume/</link>
+    <link>http://localhost:1313/tags/flume/</link>
     <description>Recent content in Flume on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 30 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/flume/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/flume/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, June 2016</title>
-      <link>https://mattischrome.com/posts/album-digest-june-2016/</link>
+      <link>http://localhost:1313/posts/album-digest-june-2016/</link>
       <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-june-2016/</guid>
+      <guid>http://localhost:1313/posts/album-digest-june-2016/</guid>
       <description>&lt;p&gt;Album Digest June 2016 is a poppy batch of albums. We have the return of my long-time favourites Roxette and the heroes of my South American tour Tegan &amp;amp; Sara. There&amp;rsquo;s some dance music in the form of Flume&amp;rsquo;s album &amp;ldquo;Skin&amp;rdquo;: an Australian presence ahead of the new Avalanches album next month. Finally there is the first of two new albums by Islands - both were released back in May but one gets reviewed this month and the other next month.&lt;/p&gt;</description>
     </item>
   </channel>

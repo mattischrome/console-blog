@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>South Korea on mattischrome</title>
-    <link>https://mattischrome.com/tags/south-korea/</link>
+    <link>http://localhost:1313/tags/south-korea/</link>
     <description>Recent content in South Korea on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/south-korea/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/south-korea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decision to Leave</title>
-      <link>https://mattischrome.com/posts/decision-to-leave/</link>
+      <link>http://localhost:1313/posts/decision-to-leave/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/decision-to-leave/</guid>
+      <guid>http://localhost:1313/posts/decision-to-leave/</guid>
       <description>&lt;p&gt;I gave up writing reviews of movies because:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;I never felt I got the balance right between describing the plot and why I liked the film.&lt;/li&gt;&#xA;&lt;li&gt;I don&amp;rsquo;t watch enough movies to be able to draw comparisons that are interesting, just between the small subset of total films that I have watched.&lt;/li&gt;&#xA;&lt;li&gt;I don&amp;rsquo;t know enough about film making to properly describe why a movie made me feel a particular way and how to discuss the different possibilities available to the director, the actors, and the other artists involved with creating a movie.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;But of course, every now and then you see a movie and think &amp;ldquo;wow! I need to tell people about this&amp;rdquo;. And for me that recent film was &amp;ldquo;Decision To Leave&amp;rdquo;, a Korean film that was released last year.&lt;/p&gt;</description>
     </item>
   </channel>

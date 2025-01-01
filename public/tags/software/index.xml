@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on mattischrome</title>
-    <link>https://mattischrome.com/tags/software/</link>
+    <link>http://localhost:1313/tags/software/</link>
     <description>Recent content in Software on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On learning new tools</title>
-      <link>https://mattischrome.com/posts/on-learning-new-tools/</link>
+      <link>http://localhost:1313/posts/on-learning-new-tools/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/on-learning-new-tools/</guid>
+      <guid>http://localhost:1313/posts/on-learning-new-tools/</guid>
       <description>&lt;p&gt;It strikes me that it is better to sit and think about what you need to do, rather than endless try out new tools and hoping you end up with a use for them. I&amp;rsquo;m not saying that innovation is bad, or that you shouldn&amp;rsquo;t stretch yourself into some new spot once in a while, but you will become more valuable to others if you can identify what it is you are supposed to be doing and then use your existing skills to get that job done. Don&amp;rsquo;t go looking at galleries of tools and techniques in service of finding something to do. Trust me, I know from experience that it is a great way to spend a hell of a lot of time not getting anywhere in particular.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A February Project</title>
-      <link>https://mattischrome.com/posts/second-february-post/</link>
+      <link>http://localhost:1313/posts/second-february-post/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/second-february-post/</guid>
+      <guid>http://localhost:1313/posts/second-february-post/</guid>
       <description>&lt;p&gt;Hmmm it seems as though the &lt;code&gt;ffi&lt;/code&gt; gem as installed by bundler is not compatible with a Mac that has an M1 chip. This limits my ability to preview blog posts locally. I might have to swap to a more modern static site generator (which is probably easier than working out what &lt;code&gt;ffi&lt;/code&gt; actually does) - seems like a good February project!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sprucing up the Blog</title>
-      <link>https://mattischrome.com/posts/sprucing-up-the-blog/</link>
+      <link>http://localhost:1313/posts/sprucing-up-the-blog/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/sprucing-up-the-blog/</guid>
+      <guid>http://localhost:1313/posts/sprucing-up-the-blog/</guid>
       <description>&lt;p&gt;This post explains some of the modifications I made to a minimal Jekyll theme to get this blog as I wanted it. This blog (currently) uses the excellent &lt;a href=&#34;https://sidey-jekyll.netlify.app/about&#34;&gt;Sidey theme&lt;/a&gt; by &lt;a href=&#34;https://www.ronaldsvilcins.com&#34;&gt;Ronalds Vilciņš&lt;/a&gt;. His site looks eerily similar to this one, at least at time of writing.&lt;/p&gt;&#xA;&lt;p&gt;The theme is pretty minimal in terms of features (and appearance) but it scores well on the Google Page Speed test. The features I added have increased the build time, but have not affected the speed of the site in terms of the page speed test.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Living in the Pi Hole</title>
-      <link>https://mattischrome.com/posts/living-in-the-pi-hole/</link>
+      <link>http://localhost:1313/posts/living-in-the-pi-hole/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/living-in-the-pi-hole/</guid>
-      <description>&lt;p&gt;Ingrid bought me a &lt;a href=&#34;https://www.raspberrypi.org&#34;&gt;raspberry pi&lt;/a&gt; for my birthday. I&amp;rsquo;ve set it up to run the &lt;a href=&#34;https://docs.pi-hole.net&#34;&gt;Pi-hole&lt;/a&gt; software. Pi-hole is a nifty bit of kit that intercepts your web requests and purges any that ask for material on known ad servers. Essentially it&amp;rsquo;s like having an ad blocker on your network rather than just your computer.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve written before about &lt;a href=&#34;https://mattischrome.com/net-loss/&#34;&gt;why I hate web advertising&lt;/a&gt;, and since then it&amp;rsquo;s got even more malign. The use of our web browsing habits to track our every move and sell us crap has gotten way worse. Instagram is particularly &lt;em&gt;awful&lt;/em&gt; for it and gets more awful with every amendment that Facebook makes. An ad-blocking solution that works for apps as well as in the browser is especially welcome.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/living-in-the-pi-hole/</guid>
+      <description>&lt;p&gt;Ingrid bought me a &lt;a href=&#34;https://www.raspberrypi.org&#34;&gt;raspberry pi&lt;/a&gt; for my birthday. I&amp;rsquo;ve set it up to run the &lt;a href=&#34;https://docs.pi-hole.net&#34;&gt;Pi-hole&lt;/a&gt; software. Pi-hole is a nifty bit of kit that intercepts your web requests and purges any that ask for material on known ad servers. Essentially it&amp;rsquo;s like having an ad blocker on your network rather than just your computer.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve written before about &lt;a href=&#34;http://localhost:1313/net-loss/&#34;&gt;why I hate web advertising&lt;/a&gt;, and since then it&amp;rsquo;s got even more malign. The use of our web browsing habits to track our every move and sell us crap has gotten way worse. Instagram is particularly &lt;em&gt;awful&lt;/em&gt; for it and gets more awful with every amendment that Facebook makes. An ad-blocking solution that works for apps as well as in the browser is especially welcome.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Changes</title>
-      <link>https://mattischrome.com/posts/changes/</link>
+      <link>http://localhost:1313/posts/changes/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/changes/</guid>
+      <guid>http://localhost:1313/posts/changes/</guid>
       <description>&lt;h2 id=&#34;moving-the-blog-to-jekyll-again-sort-of&#34;&gt;Moving the blog to Jekyll (again, sort of)&lt;/h2&gt;&#xA;&lt;p&gt;Et voila, my blog lives! In a new body (&lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;) and at &lt;a href=&#34;%7B%7Babsolute.url%7D%7D&#34;&gt;a new location&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-process&#34;&gt;The Process&lt;/h2&gt;&#xA;&lt;p&gt;I set up Jekyll on my MacBook Air after loads of initial problems with installing the theme and getting assorted Ruby gems installed and working. &lt;a href=&#34;https://www.stackoverflow.com&#34;&gt;Stack Overflow&lt;/a&gt; is a friend for life now. By way of comparison, getting things up and running on my new Mac was simple.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adventures with Discover Weekly</title>
-      <link>https://mattischrome.com/posts/adventures-with-discover-weekly/</link>
+      <link>http://localhost:1313/posts/adventures-with-discover-weekly/</link>
       <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/adventures-with-discover-weekly/</guid>
-      <description>&lt;p&gt;Because I couldn&amp;rsquo;t find any albums coming out this month that I wanted to review for the album digest, I decided to let Spotify pick the albums to listen to. I listened to my algorithmically chosen &lt;a href=&#34;https://techcrunch.com/2015/07/20/why-browse-when-you-can-play/&#34;&gt;Discover Weekly&lt;/a&gt; playlist one week and selected albums based on the songs that I liked the most. The album also had to be released in 2016. The selections are ones that got away.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve done this before. &lt;a href=&#34;https://mattischrome.com/album-digest-august-2012/&#34;&gt;Three of the four albums that I wrote about in August four years ago&lt;/a&gt; were selected by &lt;a href=&#34;https://bleep.com&#34;&gt;Bleep&lt;/a&gt;: they were in the &amp;lsquo;best albums of the year so far&amp;rsquo; bundle that I bought. So this month&amp;rsquo;s album digest is bought to you by the same idea, just a different curator.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/adventures-with-discover-weekly/</guid>
+      <description>&lt;p&gt;Because I couldn&amp;rsquo;t find any albums coming out this month that I wanted to review for the album digest, I decided to let Spotify pick the albums to listen to. I listened to my algorithmically chosen &lt;a href=&#34;https://techcrunch.com/2015/07/20/why-browse-when-you-can-play/&#34;&gt;Discover Weekly&lt;/a&gt; playlist one week and selected albums based on the songs that I liked the most. The album also had to be released in 2016. The selections are ones that got away.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve done this before. &lt;a href=&#34;http://localhost:1313/album-digest-august-2012/&#34;&gt;Three of the four albums that I wrote about in August four years ago&lt;/a&gt; were selected by &lt;a href=&#34;https://bleep.com&#34;&gt;Bleep&lt;/a&gt;: they were in the &amp;lsquo;best albums of the year so far&amp;rsquo; bundle that I bought. So this month&amp;rsquo;s album digest is bought to you by the same idea, just a different curator.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Initial Comparison of Apple Music and Spotify</title>
-      <link>https://mattischrome.com/posts/an-initial-comparison-of-apple-music-and-spotify/</link>
+      <link>http://localhost:1313/posts/an-initial-comparison-of-apple-music-and-spotify/</link>
       <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/an-initial-comparison-of-apple-music-and-spotify/</guid>
-      <description>&lt;p&gt;My &lt;a href=&#34;https://mattischrome.com/why-apple-music-feels-like-a-fail/&#34;&gt;previous post about Apple Music&lt;/a&gt; was more a response to how it was presented at the WWDC Keynote rather than to the idea of Apple Music itself. I should have known better than to use that clickbait title. I knew I wasn&amp;rsquo;t writing about the product, more the flatness of its introduction (despite the names on show).&lt;/p&gt;&#xA;&lt;p&gt;After a few days of living with it I thought I&amp;rsquo;d write about it and Spotify, so that it&amp;rsquo;s not just my snarky comments about the keynote that are on record here.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/an-initial-comparison-of-apple-music-and-spotify/</guid>
+      <description>&lt;p&gt;My &lt;a href=&#34;http://localhost:1313/why-apple-music-feels-like-a-fail/&#34;&gt;previous post about Apple Music&lt;/a&gt; was more a response to how it was presented at the WWDC Keynote rather than to the idea of Apple Music itself. I should have known better than to use that clickbait title. I knew I wasn&amp;rsquo;t writing about the product, more the flatness of its introduction (despite the names on show).&lt;/p&gt;&#xA;&lt;p&gt;After a few days of living with it I thought I&amp;rsquo;d write about it and Spotify, so that it&amp;rsquo;s not just my snarky comments about the keynote that are on record here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Useful Ulysses</title>
-      <link>https://mattischrome.com/posts/useful-ulysses/</link>
+      <link>http://localhost:1313/posts/useful-ulysses/</link>
       <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/useful-ulysses/</guid>
+      <guid>http://localhost:1313/posts/useful-ulysses/</guid>
       <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.ulyssesapp.com&#34;&gt;Ulysses&lt;/a&gt; is a &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;markdown&lt;/a&gt; editor for the Mac. It has a simple drafting model that makes it easy to organise ideas and move between them. Pieces of writing are represented as sheets that can be tagged and grouped together - the grouping can be made manually or using filters. There are no files, the sheets are entries in a single database that is synced with iCloud. Because everything is plain text it won’t eat up your storage space. Individual sheets can be archived for use with Mac Os X’s versions feature.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Should I Drop Dropbox?</title>
-      <link>https://mattischrome.com/posts/should-i-drop-dropbox/</link>
+      <link>http://localhost:1313/posts/should-i-drop-dropbox/</link>
       <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/should-i-drop-dropbox/</guid>
+      <guid>http://localhost:1313/posts/should-i-drop-dropbox/</guid>
       <description>&lt;p&gt;I am thinking about whether I want to use Dropbox to sync my files anymore. Don&amp;rsquo;t get me wrong, I love Dropbox. It came along in beta in just 2008 just as I needed it to manage my PhD thesis. In fact I often jokingly claim to having invented it by asking on the MacRumors forums whether a program like it existed  - just a few weeks before its beta rode in to my life like a knight in shining armour. I recognised the need for a service that would synchronise a single directory and its contents between multiple computers using The Power Of The Internet™. I was used to using commands like scp to maintain my static blog on the university&amp;rsquo;s servers and the multiple computers that I authored it from, though in 2008 when I moved back to my parents&amp;rsquo; house to write up my PhD I was frustrated that I couldn&amp;rsquo;t work out how to do the same things when the target was a PC running Windows XP.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bob Mortimer on mattischrome</title>
-    <link>https://mattischrome.com/tags/bob-mortimer/</link>
+    <link>http://localhost:1313/tags/bob-mortimer/</link>
     <description>Recent content in Bob Mortimer on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 06 Aug 2024 17:55:14 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/bob-mortimer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bob-mortimer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bob Mortimer, The Satsuma Complex</title>
-      <link>https://mattischrome.com/posts/bob-mortimer-the-satsuma-complex/</link>
+      <link>http://localhost:1313/posts/bob-mortimer-the-satsuma-complex/</link>
       <pubDate>Tue, 06 Aug 2024 17:55:14 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/bob-mortimer-the-satsuma-complex/</guid>
+      <guid>http://localhost:1313/posts/bob-mortimer-the-satsuma-complex/</guid>
       <description>&lt;p&gt;A hardback book called &amp;ldquo;The Satsuma Complex&amp;rdquo; is all that remains of a mysterious young lady that young lawyer Gary is chatting up in the pub one night. It&amp;rsquo;s a book that everyone reckons is &amp;ldquo;a bit sh*t&amp;rdquo;. But Gary&amp;rsquo;s moping about after the Satsuma lady doing a runner while he was in the loo will have to be put on hold when his friend turns up dead.&lt;/p&gt;&#xA;&lt;p&gt;I really enjoyed this book. It&amp;rsquo;s not going to win any prizes for quality of writing but it is both fun and funny. There are a few repetitive phrases and at one point beers magically become lagers in the space of three paragraphs. The writing is very colloquial but there is a point-of-view shift at the start of part two that deploys some writerly skill. (This short-lived though as the new point-of-view soon collapses down into one similar to the main character.)&lt;/p&gt;</description>
     </item>
   </channel>

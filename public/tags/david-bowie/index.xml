@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Bowie on mattischrome</title>
-    <link>https://mattischrome.com/tags/david-bowie/</link>
+    <link>http://localhost:1313/tags/david-bowie/</link>
     <description>Recent content in David Bowie on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/david-bowie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/david-bowie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, David Bowie RIP</title>
-      <link>https://mattischrome.com/posts/album-digest-special-david-bowie/</link>
+      <link>http://localhost:1313/posts/album-digest-special-david-bowie/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-special-david-bowie/</guid>
+      <guid>http://localhost:1313/posts/album-digest-special-david-bowie/</guid>
       <description>&lt;p&gt;I thought I&amp;rsquo;d add three of my favourite David Bowie albums to my review of Blackstar to a form an album digest tribute. Also among my favourites but not included here is &amp;ldquo;Outside&amp;rdquo;, which will be included in the understated classics (currently it&amp;rsquo;s number 66) at some point. I thought about bumping &amp;ldquo;Outside&amp;rdquo; up the running order but I&amp;rsquo;d like to be objective about it when its turn comes.&lt;/p&gt;&#xA;&lt;h3 id=&#34;station-to-station&#34;&gt;Station To Station&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;It&amp;rsquo;s not the side effects of the cocaine / I&amp;rsquo;m thinking it must be love&amp;rdquo; sings Bowie on the title track of his tenth studio album &amp;ldquo;Station To Station&amp;rdquo;, released in 1976. But this album is most definitely almost entirely built on cocaine, from the weird Kabbalah channeling title track, to the smooth funk of &amp;ldquo;Golden Years&amp;rdquo; and on toward to the weepy conclusion of his cover of &amp;ldquo;Wild Is The Wind&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, March 2013</title>
-      <link>https://mattischrome.com/posts/album-digest-march-2013/</link>
+      <link>http://localhost:1313/posts/album-digest-march-2013/</link>
       <pubDate>Sun, 31 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-march-2013/</guid>
+      <guid>http://localhost:1313/posts/album-digest-march-2013/</guid>
       <description>&lt;p&gt;Just the David Bowie album this month as it’s pretty much the only new music that I’ve listened to.&lt;/p&gt;&#xA;&lt;p&gt;I must admit that I had no idea what to expect of “The Next Day”. It comes almost exactly ten years after “Reality”, an album that I have never really got into despite it having some pretty decent fun tracks like “New Killer Star” and a nice cover of “Pablo Picasso” that has never sent me in search of Jonathan Richman’s original.&lt;/p&gt;</description>
     </item>
   </channel>

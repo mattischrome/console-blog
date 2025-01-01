@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fun on mattischrome</title>
-    <link>https://mattischrome.com/tags/fun/</link>
+    <link>http://localhost:1313/tags/fun/</link>
     <description>Recent content in Fun on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/fun/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fun/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Civ Leaders #4: Qin Shi Huang (Mandate of Heaven) of China</title>
-      <link>https://mattischrome.com/posts/civ-leaders-4/</link>
+      <link>http://localhost:1313/posts/civ-leaders-4/</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/civ-leaders-4/</guid>
-      <description>&lt;p&gt;Well, it&amp;rsquo;s been a while since I wrote &lt;a href=&#34;https://mattischrome.com/civ-leaders-3-amanitore-of-nubia&#34;&gt;my last Civ VI leader post about Amanitore of Nubia&lt;/a&gt; and there&amp;rsquo;s been a whole host of new leaders and personas added to the game since then. Among these the number of Chinese leaders has increased from two to five. Therefore it&amp;rsquo;s probably a good time to start writing about one of them, and where better to start than the OG himself, Qin Shi Huang. The recent leader pass has created a new persona for him but today we shall focus on his original version, which is now referred to in-game as his &amp;ldquo;Mandate of Heaven&amp;rdquo; persona.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/civ-leaders-4/</guid>
+      <description>&lt;p&gt;Well, it&amp;rsquo;s been a while since I wrote &lt;a href=&#34;http://localhost:1313/civ-leaders-3-amanitore-of-nubia&#34;&gt;my last Civ VI leader post about Amanitore of Nubia&lt;/a&gt; and there&amp;rsquo;s been a whole host of new leaders and personas added to the game since then. Among these the number of Chinese leaders has increased from two to five. Therefore it&amp;rsquo;s probably a good time to start writing about one of them, and where better to start than the OG himself, Qin Shi Huang. The recent leader pass has created a new persona for him but today we shall focus on his original version, which is now referred to in-game as his &amp;ldquo;Mandate of Heaven&amp;rdquo; persona.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Civ Leaders #3: Amanitore of Nubia</title>
-      <link>https://mattischrome.com/posts/civ-leaders-3/</link>
+      <link>http://localhost:1313/posts/civ-leaders-3/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/civ-leaders-3/</guid>
+      <guid>http://localhost:1313/posts/civ-leaders-3/</guid>
       <description>&lt;p&gt;Amanitore of Nubia is available in a base game DLC. She also has her own scenario “The Gifts of the Nile”, which like most scenarios has unique tech and civic trees. You need to assert your dominance over the Nile by building seven temples. The scenario combines faith and military tactics in a satisfying way and you can also play it as Cleopatra for a different perspective.&lt;/p&gt;&#xA;&lt;h2 id=&#34;civ-ability&#34;&gt;Civ ability&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Ta-Seti&lt;/em&gt; +50% Production toward Ranged units. Note that this bonus does not apply fully with respect to archers because the Nubian unique archer (see below) costs more to produce. You can get around this by building Slingers and promoting them. All Ranged units gain +50% combat experience. Mines over strategic resources provide +1 Production. Mines over bonus and luxury resources provide +2 Gold.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Civ Leaders #2: Alexander of Macedon</title>
-      <link>https://mattischrome.com/posts/civ-leaders-2/</link>
+      <link>http://localhost:1313/posts/civ-leaders-2/</link>
       <pubDate>Sun, 12 May 2019 16:41:01 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/civ-leaders-2/</guid>
+      <guid>http://localhost:1313/posts/civ-leaders-2/</guid>
       <description>&lt;p&gt;Alexander of Macedon is available in a base game DLC pack alongside Darius of Persia. He also has his own scenario “The Conquests of Alexander”, which is both fun to play and instructive in how to use the formidable benefits of his bonuses and unique units.&lt;/p&gt;&#xA;&lt;h2 id=&#34;civ-ability&#34;&gt;Civ ability&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Hellenistic Fusion&lt;/em&gt; When capturing a city, receive civic boosts for each holy site and theatre square, and tech boosts for each campus and encampment. This means you can grab up to four boosts when capturing cities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Civ Leaders #1: Hojo Tokimune of Japan</title>
-      <link>https://mattischrome.com/posts/civ-leaders-1/</link>
+      <link>http://localhost:1313/posts/civ-leaders-1/</link>
       <pubDate>Mon, 06 May 2019 19:14:48 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/civ-leaders-1/</guid>
+      <guid>http://localhost:1313/posts/civ-leaders-1/</guid>
       <description>&lt;h2 id=&#34;civ-ability&#34;&gt;Civ ability&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Meiji Restoration&lt;/em&gt; Districts receive a +1 adjacency bonus for each adjacent district, instead of +0.5.&lt;/p&gt;&#xA;&lt;h2 id=&#34;leader-bonus&#34;&gt;Leader bonus:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Land units in Coastal tiles and naval units in Coast tiles receive +5 Combat Strength.&lt;/li&gt;&#xA;&lt;li&gt;+50% Production towards Encampment, Holy Site and Theatre Square districts.&lt;/li&gt;&#xA;&lt;li&gt;Units are immune to Hurricane damage.&lt;/li&gt;&#xA;&lt;li&gt;Civilisations at war with Japan receive +100% unit damage from hurricanes while in Japanese territory&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;unique-unit&#34;&gt;Unique unit&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;em&gt;samurai&lt;/em&gt;, a high combat strength unit that does not lose combat strength when damage and gains an extra 10 combat strength against anti-cavalry units. They are cheap to build and combine well with early support units, which makes them good for capturing cities. Unfortunately the samurai is stuck in Military Tactics, which is a weird dead end in the tech tree that I often skip over, in most of my games as Japan I forgot to build a samurai before they went out of date 🙃.&lt;/p&gt;</description>
     </item>
     <item>
       <title>All the Civs</title>
-      <link>https://mattischrome.com/posts/all-the-civs/</link>
+      <link>http://localhost:1313/posts/all-the-civs/</link>
       <pubDate>Wed, 24 Apr 2019 22:15:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/all-the-civs/</guid>
+      <guid>http://localhost:1313/posts/all-the-civs/</guid>
       <description>&lt;p&gt;Ingrid and I love playing Civ VI. It&amp;rsquo;s a fine game that improves on previous versions, adding many layers and mechanics that mean you can vary your playing style. In fact, with the recent Gathering Storm expansion there&amp;rsquo;s now an incredible variety of ways to play. The 39 leaders to play with both reflect and provide the game&amp;rsquo;s increased complexity. Each leader has a slightly different mechanic that influences how you play the game, and of course the leaders you are up against also affect your game play. You can pick leaders to go up against that will make your game easier or harder. Some leaders can even be an existential threat if you spawn near to them and, as I&amp;rsquo;ve learned the hard way, it&amp;rsquo;s not always the leaders you expect that cause these problems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Suits Me</title>
-      <link>https://mattischrome.com/posts/suits-me/</link>
+      <link>http://localhost:1313/posts/suits-me/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/suits-me/</guid>
+      <guid>http://localhost:1313/posts/suits-me/</guid>
       <description>&lt;p&gt;In recent weeks I have worn a suit to work. I bought a new furry woolly suit a few weeks ago and have alternated between it and my old one. I also bought new shoes that gave me blisters and made me cry. Enough time has passed that by now it feels natural rather than silly and those shoes don&amp;rsquo;t eat my feet as much as they used to.&lt;/p&gt;&#xA;&lt;p&gt;I think I feel calmer before I go to work as a result of wearing the suit. Suits are very little fuss. Pick the suit, pick the tie, job done. Besides, a suit flatters a man of my age and inclination towards biscuits. And finally my tie collection gets to see the light of day!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swaptastic Part 3: The Shiny App</title>
-      <link>https://mattischrome.com/posts/swaptastic-part-3/</link>
+      <link>http://localhost:1313/posts/swaptastic-part-3/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/swaptastic-part-3/</guid>
+      <guid>http://localhost:1313/posts/swaptastic-part-3/</guid>
       <description>&lt;p&gt;The shiny app embedded below allows you to explore the number of packets you need to complete the Panini sticker album for this summer&amp;rsquo;s Euro tournament. This builds on the results I presented in an [earlier post](link to earlier post) and allows you to explore how many fewer packets you need to buy when you have more friends to swap with. You can also vary the number of runs performed because the model runs considerably slower with more swappers involved.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swaptastic Part 1</title>
-      <link>https://mattischrome.com/posts/swaptastic-part-1/</link>
+      <link>http://localhost:1313/posts/swaptastic-part-1/</link>
       <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/swaptastic-part-1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../assets/images/other/StickersInThePost.jpg&#34; alt=&#34;Envelopes containing swaps that have arrived in the post in recent days.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Envelopes containing swaps that have arrived in the post in recent days. It is nice to get letters from all over the country, even if they do just contain a selection of &lt;a href=&#34;https://mattischrome.com/euro-2016-panini-stickers/&#34;&gt;panini stickers&lt;/a&gt;. As I mentioned in a previous post, I have used &lt;a href=&#34;http://www.stickerswapping.com&#34;&gt;the sticker swapping website&lt;/a&gt; to share my swaps with people all over the UK. I have sent swaps off to London, Bristol, Cornwall, Lancashire, Wales, and Gloucester. You&amp;rsquo;ll also be happy to know that I got my hands on an Aleksei Berezutski. Only 52 left to go!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/swaptastic-part-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../assets/images/other/StickersInThePost.jpg&#34; alt=&#34;Envelopes containing swaps that have arrived in the post in recent days.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Envelopes containing swaps that have arrived in the post in recent days. It is nice to get letters from all over the country, even if they do just contain a selection of &lt;a href=&#34;http://localhost:1313/euro-2016-panini-stickers/&#34;&gt;panini stickers&lt;/a&gt;. As I mentioned in a previous post, I have used &lt;a href=&#34;http://www.stickerswapping.com&#34;&gt;the sticker swapping website&lt;/a&gt; to share my swaps with people all over the UK. I have sent swaps off to London, Bristol, Cornwall, Lancashire, Wales, and Gloucester. You&amp;rsquo;ll also be happy to know that I got my hands on an Aleksei Berezutski. Only 52 left to go!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Minions: A Short Review</title>
-      <link>https://mattischrome.com/posts/minions-a-short-review/</link>
+      <link>http://localhost:1313/posts/minions-a-short-review/</link>
       <pubDate>Thu, 09 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/minions-a-short-review/</guid>
-      <description>&lt;p&gt;The Minions got their own movie, just as I predicted in &lt;a href=&#34;https://mattischrome.com/despicable-me-2-a-short-review/&#34;&gt;my review of Despicable Me 2&lt;/a&gt;. I went to see it this week and I enjoyed it a lot. Here&amp;rsquo;s a short review. Don&amp;rsquo;t worry, there are no spoilers here that aren&amp;rsquo;t in the trailer.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s very funny. Right from the opening credits you get the minions and their anarchic fun-loving slapstick humour. There&amp;rsquo;s always been something delightful about they way in which they innocently bumble around. Their penchant for evil bosses is inexplicable but incredibly amusing.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/minions-a-short-review/</guid>
+      <description>&lt;p&gt;The Minions got their own movie, just as I predicted in &lt;a href=&#34;http://localhost:1313/despicable-me-2-a-short-review/&#34;&gt;my review of Despicable Me 2&lt;/a&gt;. I went to see it this week and I enjoyed it a lot. Here&amp;rsquo;s a short review. Don&amp;rsquo;t worry, there are no spoilers here that aren&amp;rsquo;t in the trailer.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s very funny. Right from the opening credits you get the minions and their anarchic fun-loving slapstick humour. There&amp;rsquo;s always been something delightful about they way in which they innocently bumble around. Their penchant for evil bosses is inexplicable but incredibly amusing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Jigsaw</title>
-      <link>https://mattischrome.com/posts/a-jigsaw/</link>
+      <link>http://localhost:1313/posts/a-jigsaw/</link>
       <pubDate>Mon, 11 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/a-jigsaw/</guid>
+      <guid>http://localhost:1313/posts/a-jigsaw/</guid>
       <description>&lt;p&gt;The other weekend, beset by insomnia, I decided to follow &lt;a href=&#34;five-things-to-try-when-you-cant-sleep&#34;&gt;my own advice&lt;/a&gt; and get up to do something instead of wallowing unable to sleep. I pulled my emergency jigsaw out of the cupboard and set to it. I should stress that I mean a jigsaw puzzle and not an actually jigsaw: DIY at 2am is not such a good idea!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;d forgotten how interesting jigsaw puzzles actually are. As I sat there contemplating the 1000 pieces and wondered exactly what I&amp;rsquo;d let myself in for, I found myself thinking about a number of things.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programming a Carcassonne Game</title>
-      <link>https://mattischrome.com/posts/programming-a-carcassonne-game/</link>
+      <link>http://localhost:1313/posts/programming-a-carcassonne-game/</link>
       <pubDate>Fri, 21 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/programming-a-carcassonne-game/</guid>
+      <guid>http://localhost:1313/posts/programming-a-carcassonne-game/</guid>
       <description>&lt;p&gt;Although I have put off finishing &lt;a href=&#34;programming-an-uno-game&#34;&gt;my UNO game&lt;/a&gt; for over eighteen months, I thought I would get started with another pet project of mine: making a Carcassonne game. This is not a serious affair, there is an excellent app of Carcassonne available for those of you who have iOS devices (it works particularly well on the iPad). The game just strikes me as having the right level of complexity to be a taxing yet attainable project. I’d also like to understand strategies for playing the game and what better way to evaluate strategies for games of chance than to have a simulator to play all those millions of games that you don’t have time to play?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Favourite Numbers</title>
-      <link>https://mattischrome.com/posts/favourite-numbers/</link>
+      <link>http://localhost:1313/posts/favourite-numbers/</link>
       <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/favourite-numbers/</guid>
+      <guid>http://localhost:1313/posts/favourite-numbers/</guid>
       <description>&lt;p&gt;What’s your favourite number?&lt;/p&gt;&#xA;&lt;p&gt;I was ambivalent on this issue until a few months ago until I came across the following quirky result: if you start with the prime number 41 and then add 2 you get 43, which is also prime and then if you add 4 to 43, you get 47: also prime. &lt;a href=&#34;http://www.wolframalpha.com/input/?i=evaluate+x%5E2%E2%88%92x%2B41+for+x+from+0..40&#34;&gt;And this continues to produce prime numbers if you add successive multiples of two to your running total&lt;/a&gt;, UNTIL… you get to the 41st number in this sequence, which is 41 squared.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Five Superheroes We Can Live Without</title>
-      <link>https://mattischrome.com/posts/five-superheroes-we-can-live-without/</link>
+      <link>http://localhost:1313/posts/five-superheroes-we-can-live-without/</link>
       <pubDate>Thu, 05 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/five-superheroes-we-can-live-without/</guid>
+      <guid>http://localhost:1313/posts/five-superheroes-we-can-live-without/</guid>
       <description>&lt;p&gt;The other day while writing some rather self-pitying notes in my blog book (yes, I handwrite all this rubbish before I go to bed at night!) I came up with some useless superheroes, or rather the only superheroes that a washed-up guy in his early thirties could hope to be. Because I haven’t got any ideas for “five things on the fifth” this month, I decided to flesh out a few of these. Last month I began the five on the fifth meme with &lt;a href=&#34;five-things-to-try-when-you-cant-sleep&#34;&gt;five things to try if you can’t sleep&lt;/a&gt; and so this is a rather forced attempt to keep it going. I promise that I will try and think of more interesting posts on these lines for months.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Favourite Culture Ship Names</title>
-      <link>https://mattischrome.com/posts/favourite-culture-ship-names/</link>
+      <link>http://localhost:1313/posts/favourite-culture-ship-names/</link>
       <pubDate>Sun, 03 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/favourite-culture-ship-names/</guid>
+      <guid>http://localhost:1313/posts/favourite-culture-ship-names/</guid>
       <description>&lt;p&gt;As I mentioned before &lt;a href=&#34;more-books&#34;&gt;I am re-reading the novels of Iain Banks&lt;/a&gt; and this weekend I managed to finish &lt;em&gt;Consider Phlebas&lt;/em&gt;. A little post about it will be coming up soon. One of my favourite things about the Culture novels is how the ships are named and having found &lt;a href=&#34;http://en.wikipedia.org/wiki/List_of_ships_(The_Culture)&#34;&gt;a list on Wikipedia&lt;/a&gt;, I thought I would share ten of my favourites with you!&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;em&gt;You’ll Clean That Up Before You Leave&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Ravished By The Sheer Implausibility Of That Last Statement&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;All Through With This Niceness And Negotiation Stuff&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Prosthetic Conscience&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Of Course I Still Love You&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Size Isn’t Everything&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Hand Me The Gun And Ask Me Again&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Dramatic Exit, Or, Thank you And Goodnight&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;We Haven’t Met But You’re A Great Fan Of Mine&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Anticipation Of A New Lover’s Arrival, The&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Great names all I am sure you would agree. Not all of them appear as fully developed characters. In fact (and I will mention this again later) the ships don’t get nearly enough time as characters in the novels apart from &lt;em&gt;Excession&lt;/em&gt;, which is almost entirely devoted to them. In that novel, one ship is central to the story and is probably my favourite, an eccentric GCU (General Contact Unit) called &lt;em&gt;Grey Area&lt;/em&gt; that has been shunned by the other machines for “non-consensual mind reading”. It turns out the ship is somewhat morbid and likes to confront the perpetrators of genocides with their crimes. It is known by the other ships as “the meatf***er” and is totally badass.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programming an UNO game, part 2</title>
-      <link>https://mattischrome.com/posts/programming-an-uno-game-part-2/</link>
+      <link>http://localhost:1313/posts/programming-an-uno-game-part-2/</link>
       <pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/programming-an-uno-game-part-2/</guid>
+      <guid>http://localhost:1313/posts/programming-an-uno-game-part-2/</guid>
       <description>&lt;p&gt;It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.&lt;/p&gt;&#xA;&lt;h4 id=&#34;the-deck&#34;&gt;The deck&lt;/h4&gt;&#xA;&lt;p&gt;An UNO deck consists of four sets of coloured cards (red, yellow, green and blue) together with eight wild cards. The non-wild cards are marked with either numbers or special symbols. The numbers range from zero to nine with two of each number except for the zero, which is unique. For each colour there are also two each of three kinds of special card: SKIP, SWAP and DRAW. The eight wild cards are divided into four each of two types: WILD and WILDFOUR. The wild cards are usually black in UNO decks so we may refer to them as black cards on occasion. There are one hundred and eight cards in total.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programming an UNO game</title>
-      <link>https://mattischrome.com/posts/programming-an-uno-game/</link>
+      <link>http://localhost:1313/posts/programming-an-uno-game/</link>
       <pubDate>Tue, 28 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/programming-an-uno-game/</guid>
+      <guid>http://localhost:1313/posts/programming-an-uno-game/</guid>
       <description>&lt;h4 id=&#34;a-new-year-a-new-hobby&#34;&gt;A new year, a new hobby&lt;/h4&gt;&#xA;&lt;p&gt;I don’t write about programming enough. This is a shame because it is a very interesting subject and I find that the problem solving aspects of programming are very satisfying. Keenly aware of the need to do more hobby programming and to get up to speed on areas of software development that I’ve been neglecting, I have decided to give myself the project of creating a computerised version of the &lt;a href=&#34;http://en.wikipedia.org/wiki/Uno_(card_game)&#34;&gt;UNO card game&lt;/a&gt;. I know that one already exists, for example there’s an official one that you can play on MSN messenger.&lt;/p&gt;</description>
     </item>
   </channel>

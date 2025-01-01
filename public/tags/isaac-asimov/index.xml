@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Isaac Asimov on mattischrome</title>
-    <link>https://mattischrome.com/tags/isaac-asimov/</link>
+    <link>http://localhost:1313/tags/isaac-asimov/</link>
     <description>Recent content in Isaac Asimov on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 28 Apr 2019 21:30:15 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/isaac-asimov/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/isaac-asimov/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Isaac Asimov, Foundation and Empire, Second Foundation</title>
-      <link>https://mattischrome.com/posts/the-rest-of-the-foundation-trilogy/</link>
+      <link>http://localhost:1313/posts/the-rest-of-the-foundation-trilogy/</link>
       <pubDate>Sun, 28 Apr 2019 21:30:15 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-rest-of-the-foundation-trilogy/</guid>
-      <description>&lt;p&gt;I managed to read all of the foundation novels since I &lt;a href=&#34;https://mattischrome.com/foundation&#34;&gt;wrote about the first one&lt;/a&gt;. In this post, I’ll write about the next two, which covers the original trilogy of ‘novels’ created from the original short stories. I’ve tried to avoid spoilers.&lt;/p&gt;&#xA;&lt;h2 id=&#34;foundation-and-empire&#34;&gt;Foundation and Empire&lt;/h2&gt;&#xA;&lt;p&gt;Foundation and Empire comprises two novella length stories. The first story (“The General”) picks up from shortly after where the last of the five short stories in &lt;a href=&#34;https://mattischrome.com/foundation&#34;&gt;Foundation&lt;/a&gt; left off. While the Foundation has expanded its influence by using its monopoly on technology to control trade, the once great Empire begins to notice. One particular person who notices is a brilliant young General who is determined to crush the Foundation and restore the former power of the Empire.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/the-rest-of-the-foundation-trilogy/</guid>
+      <description>&lt;p&gt;I managed to read all of the foundation novels since I &lt;a href=&#34;http://localhost:1313/foundation&#34;&gt;wrote about the first one&lt;/a&gt;. In this post, I’ll write about the next two, which covers the original trilogy of ‘novels’ created from the original short stories. I’ve tried to avoid spoilers.&lt;/p&gt;&#xA;&lt;h2 id=&#34;foundation-and-empire&#34;&gt;Foundation and Empire&lt;/h2&gt;&#xA;&lt;p&gt;Foundation and Empire comprises two novella length stories. The first story (“The General”) picks up from shortly after where the last of the five short stories in &lt;a href=&#34;http://localhost:1313/foundation&#34;&gt;Foundation&lt;/a&gt; left off. While the Foundation has expanded its influence by using its monopoly on technology to control trade, the once great Empire begins to notice. One particular person who notices is a brilliant young General who is determined to crush the Foundation and restore the former power of the Empire.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Isaac Asimov, Foundation</title>
-      <link>https://mattischrome.com/posts/foundation/</link>
+      <link>http://localhost:1313/posts/foundation/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/foundation/</guid>
+      <guid>http://localhost:1313/posts/foundation/</guid>
       <description>&lt;p&gt;For our &lt;a href=&#34;the-same-but-different&#34;&gt;first anniversary&lt;/a&gt; we decided to exhange books. What better way to &lt;a href=&#34;https://ideas.hallmark.com/articles/anniversary-ideas/anniversary-gifts-by-year/&#34;&gt;celebrate a paper anniversary&lt;/a&gt;? Ingrid bought me the entire Foundation saga, most of which were &lt;a href=&#34;https://abcoverd.co.uk/archive/designers/topping-mike&#34;&gt;reissued in fancy new paperback designs by Mike Topping&lt;/a&gt; in 2016. All save for 1993&amp;rsquo;s &lt;a href=&#34;https://www.reddit.com/r/books/comments/7lueju/asimovs_forward_the_foundation_published_in_2016/&#34;&gt;Forward The Foundation&lt;/a&gt; that is, but Ingrid got me a copy anyway. Hence, here is a new series of blog posts!&lt;/p&gt;&#xA;&lt;p&gt;The Foundation novels detail a galactic empire in decline. A mathematician named Hari Seldon, using a novel science called psychohistory, realises that this is happening and formulates a plan for humanity, one that will reduce the time between empires. This, he reasons, will minimise human suffering and prevent an extended period of barbarism.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>February on mattischrome</title>
-    <link>https://mattischrome.com/tags/february/</link>
+    <link>http://localhost:1313/tags/february/</link>
     <description>Recent content in February on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/february/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/february/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Checking In</title>
-      <link>https://mattischrome.com/posts/first-of-feb-post/</link>
+      <link>http://localhost:1313/posts/first-of-feb-post/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/first-of-feb-post/</guid>
+      <guid>http://localhost:1313/posts/first-of-feb-post/</guid>
       <description>&lt;p&gt;Despite my best intentions, I didn’t manage to continue writing posts after the first day of 2022! But perhaps now I can try again as an excuse to test my blogging set up on my new computer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, February 2017</title>
-      <link>https://mattischrome.com/posts/album-digest-february-2017/</link>
+      <link>http://localhost:1313/posts/album-digest-february-2017/</link>
       <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-february-2017/</guid>
+      <guid>http://localhost:1313/posts/album-digest-february-2017/</guid>
       <description>&lt;h2 id=&#34;grails-chalice-hymnal&#34;&gt;Grails &lt;em&gt;Chalice Hymnal&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Some albums are good because a band continues making the music that you love. Some albums are good because a band takes their ideas a step or two further than before. &lt;em&gt;Chalice Hymnal&lt;/em&gt;is that rare album that does both of these things.&lt;/p&gt;&#xA;&lt;p&gt;The references to past albums include the track &lt;em&gt;Deeper Politics&lt;/em&gt; and &lt;em&gt;Deep Snow II&lt;/em&gt;, and, as per albums past, these tracks evolve slowly out of languid guitar hooks and smoky atmospherics. If it ain&amp;rsquo;t broke don&amp;rsquo;t fix it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, February 2015</title>
-      <link>https://mattischrome.com/posts/album-digest-february-2015/</link>
+      <link>http://localhost:1313/posts/album-digest-february-2015/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-february-2015/</guid>
-      <description>&lt;h2 id=&#34;aphex-twin-computer-controlled-acoustic-instruments-pt2-ep&#34;&gt;Aphex Twin &amp;ldquo;Computer Controlled Acoustic Instruments Pt2 EP&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;Aphex Twin follows SYRO (reviewed in &lt;a href=&#34;https://mattischrome.com/album-digest-september-2014/&#34;&gt;Album Digest September 2014 here&lt;/a&gt;) with this 27 minute EP of music that, if we take the title literally, features computers playing acoustic musical instruments. It&amp;rsquo;s a very different sound to SYRO and sounds acoustic for the most part. It&amp;rsquo;s an important experiment about the role of the musician, one that is already blurred in the creation of electronic music.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/album-digest-february-2015/</guid>
+      <description>&lt;h2 id=&#34;aphex-twin-computer-controlled-acoustic-instruments-pt2-ep&#34;&gt;Aphex Twin &amp;ldquo;Computer Controlled Acoustic Instruments Pt2 EP&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;Aphex Twin follows SYRO (reviewed in &lt;a href=&#34;http://localhost:1313/album-digest-september-2014/&#34;&gt;Album Digest September 2014 here&lt;/a&gt;) with this 27 minute EP of music that, if we take the title literally, features computers playing acoustic musical instruments. It&amp;rsquo;s a very different sound to SYRO and sounds acoustic for the most part. It&amp;rsquo;s an important experiment about the role of the musician, one that is already blurred in the creation of electronic music.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, February 2013</title>
-      <link>https://mattischrome.com/posts/album-digest-february-2013/</link>
+      <link>http://localhost:1313/posts/album-digest-february-2013/</link>
       <pubDate>Thu, 28 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-february-2013/</guid>
+      <guid>http://localhost:1313/posts/album-digest-february-2013/</guid>
       <description>&lt;p&gt;Most Februaries are quite quiet when it comes to albums (though this was not the case &lt;a href=&#34;album-digest-february-2011&#34;&gt;back in 2011&lt;/a&gt;) and although only the Foals album is a major release, I was quite surprised to find myself with four decent albums to write about. They are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Darkstar &amp;ldquo;News From Nowhere&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Foals &amp;ldquo;Holy Fire&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Daniel Hope &amp;ldquo;Spheres&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Apparat &amp;ldquo;Krieg und Frieden (Music For Theatre)&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;darkstar-news-from-nowhere&#34;&gt;Darkstar &amp;ldquo;News From Nowhere&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t need to give too much biographical background for the Darkstar album as I don&amp;rsquo;t know too much about who the are. I saw this album and its lovely artwork in an e-mail from &lt;a href=&#34;http://www.bleep.com/&#34;&gt;bleep.com&lt;/a&gt;. Because it was on Spotify, I gave it a go. At first I wasn&amp;rsquo;t too impressed but over repeated listens, it has become my favourite album of the month.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, February 2012</title>
-      <link>https://mattischrome.com/posts/album-digest-february-2012/</link>
+      <link>http://localhost:1313/posts/album-digest-february-2012/</link>
       <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-february-2012/</guid>
+      <guid>http://localhost:1313/posts/album-digest-february-2012/</guid>
       <description>&lt;p&gt;One EP and three albums for Album Digest February 2012:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Burial &lt;em&gt;Kindred EP&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;John Talabot &lt;em&gt;fIN&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Lilacs &amp;amp; Champagne &lt;em&gt;Lilacs &amp;amp; Champagne&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;The 2 Bears &lt;em&gt;Be Strong&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;album-digest-february-2011&#34;&gt;Last February&lt;/a&gt; was a pretty good month for song based albums, although the likes of Radiohead and James Blake provided plenty of electronic noodling in and around their song structures. (Interestingly, out of the two out-and-out song based albums, one was one of the worst albums of the year and the other one of the best).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, February 2011</title>
-      <link>https://mattischrome.com/posts/album-digest-february-2011/</link>
+      <link>http://localhost:1313/posts/album-digest-february-2011/</link>
       <pubDate>Mon, 28 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-february-2011/</guid>
+      <guid>http://localhost:1313/posts/album-digest-february-2011/</guid>
       <description>&lt;p&gt;February, the shortest month, harbinger of such delights as Groundhog Day and Valentine’s Day. Could it possibly produce any good albums? Well the candidates are the eponymous début album by &lt;strong&gt;James Blake&lt;/strong&gt;, &lt;em&gt;Zonoscope&lt;/em&gt; by &lt;strong&gt;Cut/Copy&lt;/strong&gt;, &lt;em&gt;Let England Shake&lt;/em&gt; by &lt;strong&gt;PJ Harvey&lt;/strong&gt; and &lt;em&gt;Smart Flesh&lt;/em&gt; by &lt;strong&gt;The Low Anthem&lt;/strong&gt;. Furthermore, there was an unexpected bonus when &lt;a href=&#34;http://www.radiohead.com/deadairspace/&#34;&gt;&lt;strong&gt;Radiohead&lt;/strong&gt;&lt;/a&gt; announced that their new album would be out and available to listen to this month too.&lt;/p&gt;</description>
     </item>
   </channel>

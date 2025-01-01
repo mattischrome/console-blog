@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scuba on mattischrome</title>
-    <link>https://mattischrome.com/tags/scuba/</link>
+    <link>http://localhost:1313/tags/scuba/</link>
     <description>Recent content in Scuba on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 31 Mar 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/scuba/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/scuba/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, March 2012</title>
-      <link>https://mattischrome.com/posts/album-digest-march-2012/</link>
+      <link>http://localhost:1313/posts/album-digest-march-2012/</link>
       <pubDate>Sat, 31 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-march-2012/</guid>
+      <guid>http://localhost:1313/posts/album-digest-march-2012/</guid>
       <description>&lt;p&gt;Five albums for Album Digest March 2012&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Fanfarlo &lt;em&gt;Rooms Filled With Light&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;The Shins &lt;em&gt;Port Of Morrow&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Grails &lt;em&gt;Deep Politics&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;New Build &lt;em&gt;Yesterday Was Lived And Lost&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Scuba &lt;em&gt;Personality&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;A nice collection of albums this month - things usually pick up in March after a slow period after Christmas. One of these is a “catch-up” (the album by Grails) but apart from that one, everything else was released in the last five weeks or so… I should probably have included the album by Racehorses that I bought on my birthday but I will have to leave that for next month as I haven’t listened to it that much. In fact, it is still in my housemate’s car!&lt;/p&gt;</description>
     </item>
   </channel>

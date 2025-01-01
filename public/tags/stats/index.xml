@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stats on mattischrome</title>
-    <link>https://mattischrome.com/tags/stats/</link>
+    <link>http://localhost:1313/tags/stats/</link>
     <description>Recent content in Stats on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/stats/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/stats/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swaptastic Part 3: The Shiny App</title>
-      <link>https://mattischrome.com/posts/swaptastic-part-3/</link>
+      <link>http://localhost:1313/posts/swaptastic-part-3/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/swaptastic-part-3/</guid>
+      <guid>http://localhost:1313/posts/swaptastic-part-3/</guid>
       <description>&lt;p&gt;The shiny app embedded below allows you to explore the number of packets you need to complete the Panini sticker album for this summer&amp;rsquo;s Euro tournament. This builds on the results I presented in an [earlier post](link to earlier post) and allows you to explore how many fewer packets you need to buy when you have more friends to swap with. You can also vary the number of runs performed because the model runs considerably slower with more swappers involved.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swaptastic Part 2</title>
-      <link>https://mattischrome.com/posts/swaptastic-part-2/</link>
+      <link>http://localhost:1313/posts/swaptastic-part-2/</link>
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/swaptastic-part-2/</guid>
-      <description>&lt;p&gt;As a follow-up to my post about the &lt;a href=&#34;https://mattischrome.com/euro-2016-panini-stickers/&#34;&gt;Euro 2016 Panini Stickers&lt;/a&gt;, I&amp;rsquo;ve now completed the collection with &lt;a href=&#34;https://mattischrome.com/swaptastic-part-1/&#34;&gt;the help of an online swapping site&lt;/a&gt; and by buying the last 39 stickers directly from Panini. I also managed to write a new simulator, this time with additional collectors involved.&lt;/p&gt;&#xA;&lt;p&gt;I assume that each of N collectors will buy a packet of stickers and add any new stickers to their album. Then they attempt to swap any leftovers with the rest of their friends. The intersect function in R makes this pretty easy to code up. Every collector who finishes the album stops buying stickers.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/swaptastic-part-2/</guid>
+      <description>&lt;p&gt;As a follow-up to my post about the &lt;a href=&#34;http://localhost:1313/euro-2016-panini-stickers/&#34;&gt;Euro 2016 Panini Stickers&lt;/a&gt;, I&amp;rsquo;ve now completed the collection with &lt;a href=&#34;http://localhost:1313/swaptastic-part-1/&#34;&gt;the help of an online swapping site&lt;/a&gt; and by buying the last 39 stickers directly from Panini. I also managed to write a new simulator, this time with additional collectors involved.&lt;/p&gt;&#xA;&lt;p&gt;I assume that each of N collectors will buy a packet of stickers and add any new stickers to their album. Then they attempt to swap any leftovers with the rest of their friends. The intersect function in R makes this pretty easy to code up. Every collector who finishes the album stops buying stickers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Euro 2016 Panini Stickers</title>
-      <link>https://mattischrome.com/posts/euro-2016-panini-stickers/</link>
+      <link>http://localhost:1313/posts/euro-2016-panini-stickers/</link>
       <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/euro-2016-panini-stickers/</guid>
+      <guid>http://localhost:1313/posts/euro-2016-panini-stickers/</guid>
       <description>&lt;p&gt;Sound the conspicuous consumption klaxon! 📣 I know it&amp;rsquo;s foolish but I decided to collect the Panini stickers for the Euro 2016 tournament this summer. I think it&amp;rsquo;s a more edifying waste of money than a series of group game accumulators that don&amp;rsquo;t come off. If this week&amp;rsquo;s long read in The Guardian is anything to go by, &lt;a href=&#34;https://www.theguardian.com/business/2016/may/31/big-gamble-dangerous-british-betting-shops&#34;&gt;we really shouldn&amp;rsquo;t be giving any more of our money to betting companies&lt;/a&gt;. The album also looks better than any of the official books. Anyway, this post celebrates my inner collector/geek and the beauty of the shiny sticker!&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to generate random numbers in R</title>
-      <link>https://mattischrome.com/posts/generate-random-numbers-in-r/</link>
+      <link>http://localhost:1313/posts/generate-random-numbers-in-r/</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/generate-random-numbers-in-r/</guid>
+      <guid>http://localhost:1313/posts/generate-random-numbers-in-r/</guid>
       <description>&lt;p&gt;This post deals with how to generate random numbers in R. It is good to know how to generate random numbers with a particular language or software package for at least one of the following three reasons:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;You want to test something that depends on a particular distribution.&lt;/li&gt;&#xA;&lt;li&gt;You’re running a stochastic process of some kind (Branching process, random walk etc) and you need random numbers for deciding whether an event occurs.&lt;/li&gt;&#xA;&lt;li&gt;You forgot to pick your lottery numbers this week.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Let’s step through doing each of these with R. Over time I will write this post out again for C++, Java, Python, and Ruby. This post is just a memory aid that I can use later on and is not meant as anything more rigorous than that. As such it is a living document, I will mutate this post in place as and when I need to. Memory aids are useful for when you haven’t used a particular programming language or software package for a while. Who knows, it might save me a couple of searches with DuckDuckGo.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brecht on mattischrome</title>
-    <link>https://mattischrome.com/tags/brecht/</link>
+    <link>http://localhost:1313/tags/brecht/</link>
     <description>Recent content in Brecht on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 24 Sep 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/brecht/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/brecht/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Threepenny Opera</title>
-      <link>https://mattischrome.com/posts/threepenny-opera/</link>
+      <link>http://localhost:1313/posts/threepenny-opera/</link>
       <pubDate>Sat, 24 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/threepenny-opera/</guid>
+      <guid>http://localhost:1313/posts/threepenny-opera/</guid>
       <description>&lt;p&gt;A few weeks ago, Ingrid and I went to see The Threepenny Opera at the National Theatre.&lt;/p&gt;&#xA;&lt;p&gt;The Threepenny Opera was written by Bertolt Brecht and Kurt Weill, based on Elisabeth Hauptmann&amp;rsquo;s German translation of John Gay&amp;rsquo;s &amp;ldquo;A Beggar&amp;rsquo;s Opera&amp;rdquo;. It was first performed in Weimar Berlin in 1928 and has evolved over time through many adaptations, including several film and off-Broadway versions. It&amp;rsquo;s a work with very powerful musical overtones and, despite avowals otherwise throughout by the narrator, it has a powerful moral message.&lt;/p&gt;</description>
     </item>
   </channel>

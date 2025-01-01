@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Facebook on mattischrome</title>
-    <link>https://mattischrome.com/tags/facebook/</link>
+    <link>http://localhost:1313/tags/facebook/</link>
     <description>Recent content in Facebook on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Forever Now</title>
-      <link>https://mattischrome.com/posts/the-forever-now/</link>
+      <link>http://localhost:1313/posts/the-forever-now/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-forever-now/</guid>
+      <guid>http://localhost:1313/posts/the-forever-now/</guid>
       <description>&lt;p&gt;Writing this post came about from  frustration with blogging. Specifically the tools I am using. Often it feels like a new language or paradigm comes along that shifts one or two of the pain points of blogging. The biggest are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;How long it takes to get a post on the internet once you’ve written it&lt;/li&gt;&#xA;&lt;li&gt;The reliability of the resulting website&lt;/li&gt;&#xA;&lt;li&gt;How good the resulting website looks&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Note that none of this really impacts the quality of the writing. I’m not claiming to be a good writer: in fact I spend so much time blogging or thinking about blogging because it is my writing practice. (I think I am getting better, but slowly).&lt;/p&gt;</description>
     </item>
   </channel>

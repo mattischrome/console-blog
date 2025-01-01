@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nigel Slater on mattischrome</title>
-    <link>https://mattischrome.com/tags/nigel-slater/</link>
+    <link>http://localhost:1313/tags/nigel-slater/</link>
     <description>Recent content in Nigel Slater on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 21 Oct 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/nigel-slater/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/nigel-slater/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Only Chocolate Cake Recipe You’ll Ever Need</title>
-      <link>https://mattischrome.com/posts/chocolate-cake-recipe/</link>
+      <link>http://localhost:1313/posts/chocolate-cake-recipe/</link>
       <pubDate>Mon, 21 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/chocolate-cake-recipe/</guid>
-      <description>&lt;p&gt;As I mentioned &lt;a href=&#34;https://mattischrome.com/the-reset-button/&#34;&gt;in a previous post&lt;/a&gt;, I baked a chocolate cake the other day and it was a great success. Here is the recipe, which is a trivial modification of one that appears in Nigel Slater&amp;rsquo;s &amp;ldquo;Real Food&amp;rdquo; (Amazon links: &lt;a href=&#34;http://www.amazon.co.uk/Real-Food-Nigel-Slater/dp/1841151440/ref=sr_1_1?ie=UTF8&amp;amp;qid=1382362805&amp;amp;sr=8-1&amp;amp;keywords=nigel+slater+real+food&#34;&gt;UK&lt;/a&gt;, &lt;a href=&#34;http://www.amazon.com/Real-Food-Nigel-Slater/dp/1841151440/ref=sr_1_1?ie=UTF8&amp;amp;qid=1382362827&amp;amp;sr=8-1&amp;amp;keywords=nigel+slater+real+food&#34;&gt;US&lt;/a&gt;). &amp;ldquo;Real Food&amp;rdquo; is a cookbook that I genuinely treasure. The modification I have made for this recipe is to omit the espresso but I will point out where it should be added, in case you want to give that a try.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/chocolate-cake-recipe/</guid>
+      <description>&lt;p&gt;As I mentioned &lt;a href=&#34;http://localhost:1313/the-reset-button/&#34;&gt;in a previous post&lt;/a&gt;, I baked a chocolate cake the other day and it was a great success. Here is the recipe, which is a trivial modification of one that appears in Nigel Slater&amp;rsquo;s &amp;ldquo;Real Food&amp;rdquo; (Amazon links: &lt;a href=&#34;http://www.amazon.co.uk/Real-Food-Nigel-Slater/dp/1841151440/ref=sr_1_1?ie=UTF8&amp;amp;qid=1382362805&amp;amp;sr=8-1&amp;amp;keywords=nigel+slater+real+food&#34;&gt;UK&lt;/a&gt;, &lt;a href=&#34;http://www.amazon.com/Real-Food-Nigel-Slater/dp/1841151440/ref=sr_1_1?ie=UTF8&amp;amp;qid=1382362827&amp;amp;sr=8-1&amp;amp;keywords=nigel+slater+real+food&#34;&gt;US&lt;/a&gt;). &amp;ldquo;Real Food&amp;rdquo; is a cookbook that I genuinely treasure. The modification I have made for this recipe is to omit the espresso but I will point out where it should be added, in case you want to give that a try.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

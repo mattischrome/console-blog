@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Birds on mattischrome</title>
-    <link>https://mattischrome.com/tags/birds/</link>
+    <link>http://localhost:1313/tags/birds/</link>
     <description>Recent content in Birds on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 24 Dec 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/birds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/birds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tales From Home</title>
-      <link>https://mattischrome.com/posts/tales-from-home/</link>
+      <link>http://localhost:1313/posts/tales-from-home/</link>
       <pubDate>Fri, 24 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/tales-from-home/</guid>
+      <guid>http://localhost:1313/posts/tales-from-home/</guid>
       <description>&lt;h3 id=&#34;a-question-of-identity&#34;&gt;A question of identity&lt;/h3&gt;&#xA;&lt;p&gt;Three letters for Dad in the mail today, three variations on our surname including the aquatic &lt;em&gt;Dory&lt;/em&gt; version and the lesser-spotted &lt;em&gt;Dorny&lt;/em&gt;. It is perhaps best not to go back to the time he was accidentally listed in the Thompson directory as Mr. Dopey, bringing forth prank calls from all teenagers within a ten mile radius. Fortunately, Dr. Dorey doesn’t have this problem with his mail: he doesn’t get any.&lt;/p&gt;</description>
     </item>
   </channel>

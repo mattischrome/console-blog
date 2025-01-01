@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The 2 Bears on mattischrome</title>
-    <link>https://mattischrome.com/tags/the-2-bears/</link>
+    <link>http://localhost:1313/tags/the-2-bears/</link>
     <description>Recent content in The 2 Bears on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 28 Feb 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/the-2-bears/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/the-2-bears/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, February 2012</title>
-      <link>https://mattischrome.com/posts/album-digest-february-2012/</link>
+      <link>http://localhost:1313/posts/album-digest-february-2012/</link>
       <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-february-2012/</guid>
+      <guid>http://localhost:1313/posts/album-digest-february-2012/</guid>
       <description>&lt;p&gt;One EP and three albums for Album Digest February 2012:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Burial &lt;em&gt;Kindred EP&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;John Talabot &lt;em&gt;fIN&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Lilacs &amp;amp; Champagne &lt;em&gt;Lilacs &amp;amp; Champagne&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;The 2 Bears &lt;em&gt;Be Strong&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;album-digest-february-2011&#34;&gt;Last February&lt;/a&gt; was a pretty good month for song based albums, although the likes of Radiohead and James Blake provided plenty of electronic noodling in and around their song structures. (Interestingly, out of the two out-and-out song based albums, one was one of the worst albums of the year and the other one of the best).&lt;/p&gt;</description>
     </item>
   </channel>

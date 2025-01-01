@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on mattischrome</title>
-    <link>https://mattischrome.com/tags/technology/</link>
+    <link>http://localhost:1313/tags/technology/</link>
     <description>Recent content in Technology on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>M1 External Monitor Issues</title>
-      <link>https://mattischrome.com/posts/m1-external-monitor-issues/</link>
+      <link>http://localhost:1313/posts/m1-external-monitor-issues/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/m1-external-monitor-issues/</guid>
+      <guid>http://localhost:1313/posts/m1-external-monitor-issues/</guid>
       <description>&lt;p&gt;Since moving to an M1 Mac, I&amp;rsquo;ve noticed some issues with my second screen that I do not experience with my previous Intel Mac or with my current work laptop, which is a Dell Intel PC running Windows 10.&lt;/p&gt;&#xA;&lt;p&gt;I get a lot of flickering on the screen, which is intolerable if I have Pro-motion and True Tone turned on. Note that these are options for the main display rather than the external monitor. I think this means that Apple does not or cannot let you apply these settings granularly, they have to be on or off system-wide.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Holiday Tabs</title>
-      <link>https://mattischrome.com/posts/holiday-tabs/</link>
+      <link>http://localhost:1313/posts/holiday-tabs/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/holiday-tabs/</guid>
+      <guid>http://localhost:1313/posts/holiday-tabs/</guid>
       <description>&lt;p&gt;Over the course of a week on holiday, I started reading many interesting articles. In lockdown there isn&amp;rsquo;t much to do but read articles, but I still find myself not that good at finishing them. My phone has lots of tabs open and has become a Rolodex of shame. This post is to confess my sins.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m trying to re-familiarise myself with Python. As with all modern software development, Python now seems atomised and hyper-complicated. As a result, this series of posts from Claudio Jolowitz was useful. He cuts through lots of the complications and explains why they are there. Someone should ask him to write a book.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Should I Drop Dropbox?</title>
-      <link>https://mattischrome.com/posts/should-i-drop-dropbox/</link>
+      <link>http://localhost:1313/posts/should-i-drop-dropbox/</link>
       <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/should-i-drop-dropbox/</guid>
+      <guid>http://localhost:1313/posts/should-i-drop-dropbox/</guid>
       <description>&lt;p&gt;I am thinking about whether I want to use Dropbox to sync my files anymore. Don&amp;rsquo;t get me wrong, I love Dropbox. It came along in beta in just 2008 just as I needed it to manage my PhD thesis. In fact I often jokingly claim to having invented it by asking on the MacRumors forums whether a program like it existed  - just a few weeks before its beta rode in to my life like a knight in shining armour. I recognised the need for a service that would synchronise a single directory and its contents between multiple computers using The Power Of The Internet™. I was used to using commands like scp to maintain my static blog on the university&amp;rsquo;s servers and the multiple computers that I authored it from, though in 2008 when I moved back to my parents&amp;rsquo; house to write up my PhD I was frustrated that I couldn&amp;rsquo;t work out how to do the same things when the target was a PC running Windows XP.&lt;/p&gt;</description>
     </item>
   </channel>

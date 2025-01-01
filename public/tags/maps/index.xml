@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maps on mattischrome</title>
-    <link>https://mattischrome.com/tags/maps/</link>
+    <link>http://localhost:1313/tags/maps/</link>
     <description>Recent content in Maps on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 02 Jul 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/maps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/maps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maps And Charts</title>
-      <link>https://mattischrome.com/posts/maps-and-charts/</link>
+      <link>http://localhost:1313/posts/maps-and-charts/</link>
       <pubDate>Sat, 02 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/maps-and-charts/</guid>
+      <guid>http://localhost:1313/posts/maps-and-charts/</guid>
       <description>&lt;p&gt;When I was growing up a framed print of a map hung on the wall in the hallway. It was one of my favourite things, littered with strange latin names and with Vs where Us should have been. The outlines of the continents and countries were all familiar and yet slightly distorted, becoming more recognisable around the shores of western Europe.&lt;/p&gt;&#xA;&lt;p&gt;I don’t know the provenance of that map print but at some point it got taken to the charity shop and replaced by Van Gogh’s sunflowers. I guess that means that I shall never be able to work out exactly what map it was and when it was from.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cut Copy on mattischrome</title>
-    <link>https://mattischrome.com/tags/cut-copy/</link>
+    <link>http://localhost:1313/tags/cut-copy/</link>
     <description>Recent content in Cut Copy on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 28 Feb 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/cut-copy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cut-copy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, February 2011</title>
-      <link>https://mattischrome.com/posts/album-digest-february-2011/</link>
+      <link>http://localhost:1313/posts/album-digest-february-2011/</link>
       <pubDate>Mon, 28 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-february-2011/</guid>
+      <guid>http://localhost:1313/posts/album-digest-february-2011/</guid>
       <description>&lt;p&gt;February, the shortest month, harbinger of such delights as Groundhog Day and Valentine’s Day. Could it possibly produce any good albums? Well the candidates are the eponymous début album by &lt;strong&gt;James Blake&lt;/strong&gt;, &lt;em&gt;Zonoscope&lt;/em&gt; by &lt;strong&gt;Cut/Copy&lt;/strong&gt;, &lt;em&gt;Let England Shake&lt;/em&gt; by &lt;strong&gt;PJ Harvey&lt;/strong&gt; and &lt;em&gt;Smart Flesh&lt;/em&gt; by &lt;strong&gt;The Low Anthem&lt;/strong&gt;. Furthermore, there was an unexpected bonus when &lt;a href=&#34;http://www.radiohead.com/deadairspace/&#34;&gt;&lt;strong&gt;Radiohead&lt;/strong&gt;&lt;/a&gt; announced that their new album would be out and available to listen to this month too.&lt;/p&gt;</description>
     </item>
   </channel>

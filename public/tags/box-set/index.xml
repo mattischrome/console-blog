@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Box Set on mattischrome</title>
-    <link>https://mattischrome.com/tags/box-set/</link>
+    <link>http://localhost:1313/tags/box-set/</link>
     <description>Recent content in Box Set on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 24 Jun 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/box-set/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/box-set/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CAN, The Lost Tapes</title>
-      <link>https://mattischrome.com/posts/can-the-lost-tapes/</link>
+      <link>http://localhost:1313/posts/can-the-lost-tapes/</link>
       <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/can-the-lost-tapes/</guid>
+      <guid>http://localhost:1313/posts/can-the-lost-tapes/</guid>
       <description>&lt;p&gt;This arrived on Monday and I thought I would give it a post of its own because at over 3 hours of music, I am unlikely to do more than dip into it before writing the album digest next week. It is a far bigger and more enjoyable artefact than I thought it was going to be, so it probably deserves special attention for that reason too.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Can_(band)&#34;&gt;CAN&lt;/a&gt; are a German (“&lt;a href=&#34;http://en.wikipedia.org/wiki/Krautrock&#34;&gt;Krautrock&lt;/a&gt;”) band that I got into about four years ago after my interest in the genre was sparked by the “Neu! 75” album and the Kraftwerk box set. I have four of CAN&amp;rsquo;s albums and I have thought about which one I should include as an &lt;a href=&#34;understated-classics&#34;&gt;understated classic&lt;/a&gt;. It will probably be “Soon Over Babaluma” because no one really writes about that one. Then again, Portishead’s “Third” probably wouldn’t sound as awesome as it does without the influence of “Ege Bamyasi”, so that might be worth considering too. Everyone writes about “Tago Mago” and “Future Days” but for good reason.&lt;/p&gt;</description>
     </item>
   </channel>

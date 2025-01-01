@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frank Herbert on mattischrome</title>
-    <link>https://mattischrome.com/tags/frank-herbert/</link>
+    <link>http://localhost:1313/tags/frank-herbert/</link>
     <description>Recent content in Frank Herbert on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 27 Mar 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/frank-herbert/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/frank-herbert/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jodorowsky&#39;s Dune</title>
-      <link>https://mattischrome.com/posts/jodorowskys-dune/</link>
+      <link>http://localhost:1313/posts/jodorowskys-dune/</link>
       <pubDate>Fri, 27 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/jodorowskys-dune/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.imdb.com/title/tt1935156/?ref_=fn_al_tt_1&#34;&gt;Jodorowsky&amp;rsquo;s Dune&lt;/a&gt; is a documentary about outlandish Chilean director &lt;a href=&#34;http://en.wikipedia.org/wiki/Alejandro_Jodorowsky&#34;&gt;Alejandro Jodorosky&amp;rsquo;s&lt;/a&gt; attempt at a film adaptation of &lt;a href=&#34;https://mattischrome.com/dune/&#34;&gt;Frank Herbert&amp;rsquo;s Dune&lt;/a&gt; in the 1970s. As a big fan of the novel and of science fiction in general, I was very interested in this film. It does not disappoint. It gives a great insight into the mind of a little known (if slightly batty) director and shows even an artistic failure can lead to shock waves that can be felt in later work by others.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/jodorowskys-dune/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.imdb.com/title/tt1935156/?ref_=fn_al_tt_1&#34;&gt;Jodorowsky&amp;rsquo;s Dune&lt;/a&gt; is a documentary about outlandish Chilean director &lt;a href=&#34;http://en.wikipedia.org/wiki/Alejandro_Jodorowsky&#34;&gt;Alejandro Jodorosky&amp;rsquo;s&lt;/a&gt; attempt at a film adaptation of &lt;a href=&#34;http://localhost:1313/dune/&#34;&gt;Frank Herbert&amp;rsquo;s Dune&lt;/a&gt; in the 1970s. As a big fan of the novel and of science fiction in general, I was very interested in this film. It does not disappoint. It gives a great insight into the mind of a little known (if slightly batty) director and shows even an artistic failure can lead to shock waves that can be felt in later work by others.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Frank Herbert, Dune</title>
-      <link>https://mattischrome.com/posts/dune/</link>
+      <link>http://localhost:1313/posts/dune/</link>
       <pubDate>Fri, 09 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/dune/</guid>
+      <guid>http://localhost:1313/posts/dune/</guid>
       <description>&lt;p&gt;A week or so ago, I finished reading &lt;em&gt;Dune&lt;/em&gt; by Frank Herbert. It tells the story of a revolution within a Galactic Empire that takes place on a harsh and unforgiving desert planet called Arrakis. One central theme is how destinies can be shaped despite being intertwined around many axes. Another is the importance of adaptation in the fight for survival.&lt;/p&gt;&#xA;&lt;p&gt;I came to &lt;em&gt;Dune&lt;/em&gt; via the &lt;a href=&#34;http://www.imdb.com/title/tt0087182/&#34;&gt;David Lynch film&lt;/a&gt; and then &lt;a href=&#34;http://en.wikipedia.org/wiki/Frank_Herbert%27s_Dune&#34;&gt;the Sci-Fi Channel’s mini-series&lt;/a&gt;, which I was able to &lt;a href=&#34;http://www.lovefilm.com/film/Dune-Part-1/161663/&#34;&gt;stream through LoveFilm&lt;/a&gt;. Of the two filmed versions, I found the latter to be more enjoyable and this is almost certainly because it runs to nearly six hours. The 1984 film runs to over 3 hours and yet still feels rather rushed. The Lynch version is to be praised though as in my opinion it develops a unique aesthetic for the Dune universe that I did not detect so much in the book.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maths on mattischrome</title>
-    <link>https://mattischrome.com/tags/maths/</link>
+    <link>http://localhost:1313/tags/maths/</link>
     <description>Recent content in Maths on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 25 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/maths/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/maths/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to generate random numbers in R</title>
-      <link>https://mattischrome.com/posts/generate-random-numbers-in-r/</link>
+      <link>http://localhost:1313/posts/generate-random-numbers-in-r/</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/generate-random-numbers-in-r/</guid>
+      <guid>http://localhost:1313/posts/generate-random-numbers-in-r/</guid>
       <description>&lt;p&gt;This post deals with how to generate random numbers in R. It is good to know how to generate random numbers with a particular language or software package for at least one of the following three reasons:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;You want to test something that depends on a particular distribution.&lt;/li&gt;&#xA;&lt;li&gt;You’re running a stochastic process of some kind (Branching process, random walk etc) and you need random numbers for deciding whether an event occurs.&lt;/li&gt;&#xA;&lt;li&gt;You forgot to pick your lottery numbers this week.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Let’s step through doing each of these with R. Over time I will write this post out again for C++, Java, Python, and Ruby. This post is just a memory aid that I can use later on and is not meant as anything more rigorous than that. As such it is a living document, I will mutate this post in place as and when I need to. Memory aids are useful for when you haven’t used a particular programming language or software package for a while. Who knows, it might save me a couple of searches with DuckDuckGo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Posters</title>
-      <link>https://mattischrome.com/posts/posters/</link>
+      <link>http://localhost:1313/posts/posters/</link>
       <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/posters/</guid>
+      <guid>http://localhost:1313/posts/posters/</guid>
       <description>&lt;p&gt;In 2005, towards the end of the second year of my PhD I presented a poster at a conference in Dresden, Germany. My eccentric colleagues and I stayed on a huge canal boat moored on the Elbe for no discernible reason other than it seemed like a laugh at the time. In reality I was the second worst snorer of the three of us and it also turned out that our room was right underneath the gang-plank and every morning at six the person who made breakfast would stomp across it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ideas for TV shows: Great Mathematicians</title>
-      <link>https://mattischrome.com/posts/ideas-for-tv-shows-great-mathematicians/</link>
+      <link>http://localhost:1313/posts/ideas-for-tv-shows-great-mathematicians/</link>
       <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/ideas-for-tv-shows-great-mathematicians/</guid>
+      <guid>http://localhost:1313/posts/ideas-for-tv-shows-great-mathematicians/</guid>
       <description>&lt;p&gt;I want to see a TV show about great mathematicians of the past on a channel like BBC Four. Programmes about mathematics tend to be rather condescending, at least to anyone who has a bit of mathematical knowledge. Perhaps a way around this is to delve into the social and historical circumstances of the great mathematicians and how that along with their personality produced the mathematical results for which they are famous.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nonlinear Systems: A Rough Intro</title>
-      <link>https://mattischrome.com/posts/nonlinear-systems-a-rough-intro/</link>
+      <link>http://localhost:1313/posts/nonlinear-systems-a-rough-intro/</link>
       <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/nonlinear-systems-a-rough-intro/</guid>
+      <guid>http://localhost:1313/posts/nonlinear-systems-a-rough-intro/</guid>
       <description>&lt;p&gt;This is another mathematics post that does not actually feature any equations or graphs. It is intended to set the way clear for writing regularly about nonlinear systems. This in itself is a precursor to writing more about mathematical biology as biological systems are inherently complex and nonlinear. I am reading &lt;a href=&#34;http://www.amazon.co.uk/Nonlinear-Systems-Cambridge-Applied-Mathematics/dp/0521406684/ref=sr_1_1?ie=UTF8&amp;amp;qid=1349212296&amp;amp;sr=8-1&#34;&gt;P. G. Drazin’s textbook on Nonlinear Systems&lt;/a&gt; and this post is a glossary of terms from the start of the book laid down here because I wanted to remember how to typeset &lt;a href=&#34;http://www.w3schools.com/tags/tag_dl.asp&#34;&gt;definition lists&lt;/a&gt; in Markdown (though in the end I (ab)used &lt;code&gt;&amp;lt;h4&amp;gt;&lt;/code&gt; tags because it looked better).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Favourite Numbers</title>
-      <link>https://mattischrome.com/posts/favourite-numbers/</link>
+      <link>http://localhost:1313/posts/favourite-numbers/</link>
       <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/favourite-numbers/</guid>
+      <guid>http://localhost:1313/posts/favourite-numbers/</guid>
       <description>&lt;p&gt;What’s your favourite number?&lt;/p&gt;&#xA;&lt;p&gt;I was ambivalent on this issue until a few months ago until I came across the following quirky result: if you start with the prime number 41 and then add 2 you get 43, which is also prime and then if you add 4 to 43, you get 47: also prime. &lt;a href=&#34;http://www.wolframalpha.com/input/?i=evaluate+x%5E2%E2%88%92x%2B41+for+x+from+0..40&#34;&gt;And this continues to produce prime numbers if you add successive multiples of two to your running total&lt;/a&gt;, UNTIL… you get to the 41st number in this sequence, which is 41 squared.&lt;/p&gt;</description>
     </item>
   </channel>

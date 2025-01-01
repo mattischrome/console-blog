@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Washed Out on mattischrome</title>
-    <link>https://mattischrome.com/tags/washed-out/</link>
+    <link>http://localhost:1313/tags/washed-out/</link>
     <description>Recent content in Washed Out on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 31 Aug 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/washed-out/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/washed-out/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, August 2013</title>
-      <link>https://mattischrome.com/posts/album-digest-august-2013/</link>
+      <link>http://localhost:1313/posts/album-digest-august-2013/</link>
       <pubDate>Sat, 31 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-august-2013/</guid>
+      <guid>http://localhost:1313/posts/album-digest-august-2013/</guid>
       <description>&lt;p&gt;For reasons that will become apparent, there will be a short period soon where I will not be writing album digests. Until then, I&amp;rsquo;m clearing a backlog of some albums that I&amp;rsquo;ve been listening to but haven&amp;rsquo;t had enough time or motivation to write about. Only one of this month&amp;rsquo;s albums was released this month, something that&amp;rsquo;s not that uncommon at this time of the year as it is not the best time to release things. Here&amp;rsquo;s the list:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, July 2011</title>
-      <link>https://mattischrome.com/posts/album-digest-july-2011/</link>
+      <link>http://localhost:1313/posts/album-digest-july-2011/</link>
       <pubDate>Sun, 31 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-july-2011/</guid>
+      <guid>http://localhost:1313/posts/album-digest-july-2011/</guid>
       <description>&lt;p&gt;Quite a mixed bag this month.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;SBTRKT &lt;em&gt;SBTRKT&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Zomby &lt;em&gt;Dedication&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Brian Eno &lt;em&gt;Drums Between The Bells&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Bon Iver &lt;em&gt;Bon Iver&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Washed Out &lt;em&gt;Within and Without&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This month’s collection of albums is a rather mellow bunch. The SBTRKT album (self-titled) is probably the most frenetic of the five though even that does not exactly pound four to the floor. Most of it is pretty calm, though  the occasional burst of pop to spice things up: sometimes it is as downtempo as the rest (&lt;em&gt;Right Thing To Do&lt;/em&gt; and &lt;em&gt;Trials Of The Past&lt;/em&gt;) but at other times things spark into life, as on &lt;em&gt;Pharaohs&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

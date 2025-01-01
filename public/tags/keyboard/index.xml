@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keyboard on mattischrome</title>
-    <link>https://mattischrome.com/tags/keyboard/</link>
+    <link>http://localhost:1313/tags/keyboard/</link>
     <description>Recent content in Keyboard on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 09 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Logitech K380 Review</title>
-      <link>https://mattischrome.com/posts/logitech-k380-review/</link>
+      <link>http://localhost:1313/posts/logitech-k380-review/</link>
       <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/logitech-k380-review/</guid>
+      <guid>http://localhost:1313/posts/logitech-k380-review/</guid>
       <description>&lt;p&gt;Time for a little gear review. This is the &lt;a href=&#34;http://www.logitech.com/en-us/product/multi-device-keyboard-k380&#34;&gt;Logitech K380 keyboard&lt;/a&gt;. It pairs with devices wirelessly over Bluetooth. I bought it to use with my Apple TV, iPad and iPhone. It runs on 2 AAA batteries, but the supplied batteries are not rechargeable. The keyboard is light and portable but you definitely know you have it in your bag.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s lovely to type on. For a go-anywhere keyboard it has a surprisingly nice feel to the keys. It also gives equal weight to Windows and Mac keys, so it&amp;rsquo;s quite easy to use across both platforms. The only frustration is that the iPad doesn&amp;rsquo;t support keyboards as it should and the iPhone is even worse. I&amp;rsquo;m expecting that to change in iOS 10, which is due to be announced at WWDC next week. Of course, none of this is the fault of the keyboard.&lt;/p&gt;</description>
     </item>
   </channel>

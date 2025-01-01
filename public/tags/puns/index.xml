@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Puns on mattischrome</title>
-    <link>https://mattischrome.com/tags/puns/</link>
+    <link>http://localhost:1313/tags/puns/</link>
     <description>Recent content in Puns on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 14 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/puns/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/puns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sofa So Good</title>
-      <link>https://mattischrome.com/posts/sofa-so-good/</link>
+      <link>http://localhost:1313/posts/sofa-so-good/</link>
       <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/sofa-so-good/</guid>
+      <guid>http://localhost:1313/posts/sofa-so-good/</guid>
       <description>&lt;p&gt;Once upon a time, a cat named Nerys ripped into the bottom of our sofa to make herself a cozy burrow. This was all well and good, except for the times when she would do it when we were using the sofa too. On these occasions (and presumably on most others) she would proceed to sharpen her claws on what remained of the fabric. (A less charitable reason for this behaviour would be that she was simply widening the whole for her future self after eating more and more kibbles!)&lt;/p&gt;</description>
     </item>
   </channel>

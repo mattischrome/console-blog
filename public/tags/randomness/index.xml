@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Randomness on mattischrome</title>
-    <link>https://mattischrome.com/tags/randomness/</link>
+    <link>http://localhost:1313/tags/randomness/</link>
     <description>Recent content in Randomness on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 03 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/randomness/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/randomness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How random should things be?</title>
-      <link>https://mattischrome.com/posts/how-random-should-things-be/</link>
+      <link>http://localhost:1313/posts/how-random-should-things-be/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/how-random-should-things-be/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve managed to extract my music library, including all the albums I&amp;rsquo;ve added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for &lt;a href=&#34;https://mattischrome.com/goldfrapp-black-cherry&#34;&gt;Goldfrapp&amp;rsquo;s Black Cherry.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;But I have to level with you. That was not the first album that was picked. Nor is the album selection process entirely unbiased. I got to a working situation and stopped there. Essentially, I smoosh together artist and album title, so that albums like compilations, or albums where the lead artist collaborates with multiple other artists, are slightly over-represented. I say slightly as the pool was already pretty large with just unique albums. I might do what I did yesterday and ignore singles or compilations, especially as the code takes almost zero time to give me another idea.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/how-random-should-things-be/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve managed to extract my music library, including all the albums I&amp;rsquo;ve added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for &lt;a href=&#34;http://localhost:1313/goldfrapp-black-cherry&#34;&gt;Goldfrapp&amp;rsquo;s Black Cherry.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;But I have to level with you. That was not the first album that was picked. Nor is the album selection process entirely unbiased. I got to a working situation and stopped there. Essentially, I smoosh together artist and album title, so that albums like compilations, or albums where the lead artist collaborates with multiple other artists, are slightly over-represented. I say slightly as the pool was already pretty large with just unique albums. I might do what I did yesterday and ignore singles or compilations, especially as the code takes almost zero time to give me another idea.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

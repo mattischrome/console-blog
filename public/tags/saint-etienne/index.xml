@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saint Etienne on mattischrome</title>
-    <link>https://mattischrome.com/tags/saint-etienne/</link>
+    <link>http://localhost:1313/tags/saint-etienne/</link>
     <description>Recent content in Saint Etienne on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 30 Jun 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/saint-etienne/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/saint-etienne/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, June 2012</title>
-      <link>https://mattischrome.com/posts/album-digest-june-2012/</link>
+      <link>http://localhost:1313/posts/album-digest-june-2012/</link>
       <pubDate>Sat, 30 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-june-2012/</guid>
+      <guid>http://localhost:1313/posts/album-digest-june-2012/</guid>
       <description>&lt;p&gt;Three fantastic albums for Album Digest June 2012:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Saint Etienne &lt;em&gt;Words and Music by Saint Etienne&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Liars &lt;em&gt;WIXIW&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Hot Chip &lt;em&gt;In Our Heads&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This month is a curious selection in that the albums are all by bands that I already own a few records by. When there is so much other directly related material that you can write about, it makes focussing on the album in hand quite difficult. I am always thinking up rankings and comparisons. Where does this new album fit in with the rest of them? Will I like it as much when the novelty wears off? What would it sound like if they had done Y or Z like they did back on album X?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understated Classics #9: Tiger Bay by Saint Etienne</title>
-      <link>https://mattischrome.com/posts/understated-classics-9/</link>
+      <link>http://localhost:1313/posts/understated-classics-9/</link>
       <pubDate>Fri, 06 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/understated-classics-9/</guid>
+      <guid>http://localhost:1313/posts/understated-classics-9/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Tiger Bay&lt;/em&gt; is Saint Etienne&amp;rsquo;s third album and I think it is among their best. It was released in June 1994 on Heavenly records. I first owned a copy in 1998 when I picked it up while living in halls as an undergraduate. The reason for including this album in the understated classics series is the same as for &lt;a href=&#34;uc8&#34;&gt;&lt;em&gt;Second Light&lt;/em&gt;&lt;/a&gt; by Dreadzone: it marries traditional forms to newer electronic music&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. &lt;em&gt;Second Light&lt;/em&gt; melds classical music and sea shanties to house and dub reggae to evoke the rolling hills and mystic caves of England. &lt;em&gt;Tiger Bay&lt;/em&gt; grafts folk structures on to Balearic pop songs and electronic experiments in order to visit motorway verges, windswept seashores, and Mediterranean holidays. There is even a ghost story (&lt;em&gt;Boy Scouts of America&lt;/em&gt;) for good measure.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, March 2011</title>
-      <link>https://mattischrome.com/posts/this-is-not-an-album-digest-march-2011/</link>
+      <link>http://localhost:1313/posts/this-is-not-an-album-digest-march-2011/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/this-is-not-an-album-digest-march-2011/</guid>
-      <description>&lt;h2 id=&#34;this-is-not-an-album-digest-march-2011&#34;&gt;This is not an Album Digest March 2011&lt;/h2&gt;&#xA;&lt;p&gt;Well as I said at the end of &lt;a href=&#34;https://mattischrome.com/album-digest-february-2011/&#34;&gt;last month’s album digest post&lt;/a&gt;, I took a bit of a break from pursuing new music quite as closely as I have been. As promised, I sidestepped the new R.E.M. and Elbow albums - although I had been promised the latter as a birthday present it is yet to show up, maybe I will look at in April.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/this-is-not-an-album-digest-march-2011/</guid>
+      <description>&lt;h2 id=&#34;this-is-not-an-album-digest-march-2011&#34;&gt;This is not an Album Digest March 2011&lt;/h2&gt;&#xA;&lt;p&gt;Well as I said at the end of &lt;a href=&#34;http://localhost:1313/album-digest-february-2011/&#34;&gt;last month’s album digest post&lt;/a&gt;, I took a bit of a break from pursuing new music quite as closely as I have been. As promised, I sidestepped the new R.E.M. and Elbow albums - although I had been promised the latter as a birthday present it is yet to show up, maybe I will look at in April.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

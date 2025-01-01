@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Watter on mattischrome</title>
-    <link>https://mattischrome.com/tags/watter/</link>
+    <link>http://localhost:1313/tags/watter/</link>
     <description>Recent content in Watter on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 27 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/watter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/watter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, December 2017</title>
-      <link>https://mattischrome.com/posts/album-digest-december-2017/</link>
+      <link>http://localhost:1313/posts/album-digest-december-2017/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-december-2017/</guid>
+      <guid>http://localhost:1313/posts/album-digest-december-2017/</guid>
       <description>&lt;h2 id=&#34;bjork-utopia&#34;&gt;Bjork &lt;em&gt;Utopia&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;Utopia&amp;rdquo; is Björk&amp;rsquo;s ninth album. It&amp;rsquo;s a happier album compared to the emotional wreckage of &amp;ldquo;Vulnicura&amp;rdquo;. But while &amp;ldquo;Vulnicura&amp;rdquo; was a compelling if uncomfortable listen, &amp;ldquo;Utopia&amp;rdquo; is more comfortable and, unfortunately, not that compelling. This is old ground retrodden with few glimmers of past glories.&lt;/p&gt;&#xA;&lt;p&gt;The brevity, succinctness and sharpness are all gone. Even on the best songs (the first three), there is very little strength in the lyrics. The music is all texture and no melody. And while formlessness and adaptability are central to the album&amp;rsquo;s lyrical themes, the songs themselves are ill-served by allowing these same concepts to take hold of their arrangements.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, June 2014</title>
-      <link>https://mattischrome.com/posts/album-digest-june-2014/</link>
+      <link>http://localhost:1313/posts/album-digest-june-2014/</link>
       <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-june-2014/</guid>
+      <guid>http://localhost:1313/posts/album-digest-june-2014/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://temporaryresidence.com/artists/watter&#34;&gt;Watter&lt;/a&gt; are a &amp;ldquo;supergroup&amp;rdquo; composed from various members of Grails, &lt;a href=&#34;http://touchandgorecords.com/bands/band.php?id=70&#34;&gt;Slint&lt;/a&gt;, and other bands. I did not know anything about Hundred Waters before this month: &amp;ldquo;The Moon Rang Like A Bell&amp;rdquo; is their second album. In fact second albums by bands I know nothing about are a something of theme because &amp;ldquo;Sunbathing Animal&amp;rdquo; is Parquet Courts&amp;rsquo; sophomore effort and I don&amp;rsquo;t know anything about them either. Meanwhile, I&amp;rsquo;ve meant to write about &amp;ldquo;The Four Seasons Recomposed&amp;rdquo; since April.&lt;/p&gt;</description>
     </item>
   </channel>

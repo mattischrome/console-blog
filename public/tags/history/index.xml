@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>History on mattischrome</title>
-    <link>https://mattischrome.com/tags/history/</link>
+    <link>http://localhost:1313/tags/history/</link>
     <description>Recent content in History on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/history/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Laurent Binet, Civilisations</title>
-      <link>https://mattischrome.com/posts/laurent-binet-civilisations/</link>
+      <link>http://localhost:1313/posts/laurent-binet-civilisations/</link>
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/laurent-binet-civilisations/</guid>
+      <guid>http://localhost:1313/posts/laurent-binet-civilisations/</guid>
       <description>&lt;p&gt;&amp;lsquo;Civilisations&amp;rsquo; is a counterfactual historical novel that attempts to extrapolate the future course of history after changing one pivotal moment of the timeline. I usually find novels like this are great fun, another entertaining example is &amp;lsquo;Making History&amp;rsquo; by Stephen Fry. The novel, originally written in French, won some big awards in France last year. I read the translation by Sam Taylor.&lt;/p&gt;&#xA;&lt;p&gt;In &amp;lsquo;Civilisations&amp;rsquo;, Binet makes the pivotal point of his tale, the migration of Erik the Red to America in the late 900s. The idea of the novel is that as the vikings move down the coast of north and Central America, they bring exposure to (and therefore some eventual immunity from) smallpox and the ability to work with iron. This equips and prepares the indigenous people ahead of Christopher Columbus&amp;rsquo; arrival in 1492.&lt;/p&gt;</description>
     </item>
   </channel>

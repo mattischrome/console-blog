@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ambient on mattischrome</title>
-    <link>https://mattischrome.com/tags/ambient/</link>
+    <link>http://localhost:1313/tags/ambient/</link>
     <description>Recent content in Ambient on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/ambient/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ambient/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Orb, Live at Brighton Concord 2</title>
-      <link>https://mattischrome.com/posts/the-orb---brighton-concord-2/</link>
+      <link>http://localhost:1313/posts/the-orb---brighton-concord-2/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-orb---brighton-concord-2/</guid>
+      <guid>http://localhost:1313/posts/the-orb---brighton-concord-2/</guid>
       <description>&lt;p&gt;Went with my friend Nick to see The Orb at Concord 2 last night. The last time I&amp;rsquo;d seen the Orb was back in 2004, at the start of their relatively dry spell. That night, they&amp;rsquo;d been a bit lacklustre despite playing (some of) the hits and a relatively decent album in &amp;ldquo;Bicycles and Tricycles&amp;rdquo;. I left feeling that I&amp;rsquo;d seen the past rather than the future, something that I wouldn&amp;rsquo;t glimpse again in their records until 2015.&lt;/p&gt;</description>
     </item>
   </channel>

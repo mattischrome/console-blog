@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jamie Woon on mattischrome</title>
-    <link>https://mattischrome.com/tags/jamie-woon/</link>
+    <link>http://localhost:1313/tags/jamie-woon/</link>
     <description>Recent content in Jamie Woon on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 30 Apr 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/jamie-woon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/jamie-woon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, April 2011</title>
-      <link>https://mattischrome.com/posts/album-digest-april-2011/</link>
+      <link>http://localhost:1313/posts/album-digest-april-2011/</link>
       <pubDate>Sat, 30 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-april-2011/</guid>
+      <guid>http://localhost:1313/posts/album-digest-april-2011/</guid>
       <description>&lt;h2 id=&#34;album-of-the-month-_mirrorwriting_-by-jamie-woon&#34;&gt;Album of the month: &lt;em&gt;Mirrorwriting&lt;/em&gt; by Jamie Woon&lt;/h2&gt;&#xA;&lt;p&gt;Jamie Woon was brought to my attention late last year by Pitchfork who wrote an article about the video for lead single &lt;em&gt;Night Air&lt;/em&gt;. I’ve put that video down below because I think that it is very good, a simple well executed and the tune itself is brilliant, probably my favourite individual track of 2010. It’s a downtempo tune full of dark spaces and empty beats, full of nocturnal promise and mystery. Hungry for more, I also bought the &lt;em&gt;Wayfaring Stranger&lt;/em&gt; EP and pre-ordered &lt;em&gt;Mirrorwriting&lt;/em&gt; as soon as it was possible.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apple on mattischrome</title>
-    <link>https://mattischrome.com/tags/apple/</link>
+    <link>http://localhost:1313/tags/apple/</link>
     <description>Recent content in Apple on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>M1 External Monitor Issues</title>
-      <link>https://mattischrome.com/posts/m1-external-monitor-issues/</link>
+      <link>http://localhost:1313/posts/m1-external-monitor-issues/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/m1-external-monitor-issues/</guid>
+      <guid>http://localhost:1313/posts/m1-external-monitor-issues/</guid>
       <description>&lt;p&gt;Since moving to an M1 Mac, I&amp;rsquo;ve noticed some issues with my second screen that I do not experience with my previous Intel Mac or with my current work laptop, which is a Dell Intel PC running Windows 10.&lt;/p&gt;&#xA;&lt;p&gt;I get a lot of flickering on the screen, which is intolerable if I have Pro-motion and True Tone turned on. Note that these are options for the main display rather than the external monitor. I think this means that Apple does not or cannot let you apply these settings granularly, they have to be on or off system-wide.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A pox on both their houses</title>
-      <link>https://mattischrome.com/posts/a-pox-on-both-their-houses/</link>
+      <link>http://localhost:1313/posts/a-pox-on-both-their-houses/</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/a-pox-on-both-their-houses/</guid>
+      <guid>http://localhost:1313/posts/a-pox-on-both-their-houses/</guid>
       <description>&lt;p&gt;How hard is it to just listen to music these days?&lt;/p&gt;&#xA;&lt;p&gt;Spotify has crammed in all sorts of crap in to the app lately. Lyric videos, those weird interactive art things that are turned on by default, podcasts (so many podcasts), &lt;a href=&#34;https://www.theverge.com/2021/11/23/22798338/spotify-netflix-hub-exclusive-audio-extras&#34;&gt;Netflix tie-ins&lt;/a&gt;, and audiobooks. It wants to be the app that opens when you plug in your headphones (not that we’ll be doing that for much longer the way things are going). But I just want to listen to music!&lt;/p&gt;</description>
     </item>
   </channel>
