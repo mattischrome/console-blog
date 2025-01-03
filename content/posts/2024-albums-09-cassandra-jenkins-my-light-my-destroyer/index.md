@@ -1,5 +1,5 @@
 ---
-title: "2024 Albums of the Year 9: Cassandra Jenkins, My Light, My Destroyer"
+title: "2024 Albums of the Year #9: Cassandra Jenkins, My Light, My Destroyer"
 category: "Album Digest"
 tags: [Twenty Four, Cassandra Jenkins, Female vocalist, Indie, Rock]
 date: "2025-01-02"
