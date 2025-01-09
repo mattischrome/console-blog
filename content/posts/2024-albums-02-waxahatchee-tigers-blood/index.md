@@ -4,7 +4,6 @@ category: "Album Digest"
 tags: [Twenty Four, Country, Indie, Rock, Album, Waxahatchee]
 date: "2025-01-09"
 description: "A glorious bundle of songs that writhe with brains and heart, with love and friendship, and many other complements and opposites."
-draft: true
 ---
 
 "Tiger's Blood" is a glorious bundle of songs that writhe with brains and heart, with love and friendship, and many other complements and opposites. The music is mostly alternative AOR with a distinct country twang. The lyrics were pretty impenetrable to me, at least until I looked them up online (and they're also on the back of the poster that came with the LP), but they're mostly songs of hope and happiness. It was satisfying to listen to an album this care-free, even if there is a hint of darker times in the background. 
