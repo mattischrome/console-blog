@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content Management on mattischrome</title>
+    <link>http://localhost:1313/tags/content-management/</link>
+    <description>Recent content in Content Management on mattischrome</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/content-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fun With Chat-GPT</title>
+      <link>http://localhost:1313/posts/fun-with-chatgpt/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fun-with-chatgpt/</guid>
+      <description>&lt;p&gt;I asked:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;For my blog I have a folder called posts. In that folder are more folders that are named for the slug of each post, as per the conventions of the Hugo static site generator. Those folders each contain a markdown file named index.md, each of which has a YAML header. Draft posts have a YAML key called draft which has the value true. Please can you write me a shell script that I can run from the directory above posts that tells me which folders in the posts folder contain draft posts?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
