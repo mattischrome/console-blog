@@ -1,5 +1,5 @@
 ---
-title: "A realisation"
+title: "A Realisation"
 category: "Coding"
 tags: [Coding, Software, Twenty Five, Ideas]
 date: "2025-01-16"
