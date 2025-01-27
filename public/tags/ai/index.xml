@@ -6,8 +6,15 @@
     <description>Recent content in AI on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 11 Jan 2024 17:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Human in the Loop</title>
+      <link>http://localhost:1313/posts/the-human-in-the-loop/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-human-in-the-loop/</guid>
+      <description>&lt;p&gt;I want to start making generative art again. I can&amp;rsquo;t say I ever did it that seriously but using programming languages to generate &amp;lsquo;art&amp;rsquo; is a pretty fun to while away the hours, especially when one&amp;rsquo;s talents for drawing truculently refuse to improve. Of course, more recently the phrase generative art might be said to have grown to encompass the GPT-class models that generate images from prompts. So what would be the point of coding something, when you can make &amp;lsquo;proper&amp;rsquo; art?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Unindexed?</title>
       <link>http://localhost:1313/posts/unindexed/</link>

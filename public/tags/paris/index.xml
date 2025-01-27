@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paris on mattischrome</title>
+    <link>http://localhost:1313/tags/paris/</link>
+    <description>Recent content in Paris on mattischrome</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/paris/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In Praise of Paris</title>
+      <link>http://localhost:1313/posts/in-praise-of-paris/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/in-praise-of-paris/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/Paris-01.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/Paris-02.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/Paris-03.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/Paris-04.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/Paris-05.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/Paris-06.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/Paris-07.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/Paris-08.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/Paris-09.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/Paris-10.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/Paris-11.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/Paris-12.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

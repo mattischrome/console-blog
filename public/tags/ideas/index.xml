@@ -6,8 +6,22 @@
     <description>Recent content in Ideas on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nineteen Out Of Nineteen?</title>
+      <link>http://localhost:1313/posts/nineteen-out-of-nineteen/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/nineteen-out-of-nineteen/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m having trouble finding something to write about today. Partly the problem of having a productive weekend of doing things rather than ruminating on blog topics. So unfortunately, we get another space-filling post.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve got lots of books on the go at the moment, including &amp;ldquo;Orbital&amp;rdquo; which won the Booker prize this year and &amp;ldquo;Otherlands&amp;rdquo; which is a really cool book about natural history going back in time through the eras of the Earth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Realisation</title>
+      <link>http://localhost:1313/posts/a-realisation/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a-realisation/</guid>
+      <description>&lt;p&gt;One of the best pieces of advice I have ever been given about how to tackle programming problems is to treat your code as comments that describe your program to the computer, whilst the comments that are there for humans to read should tell them how the program is supposed to work.&lt;/p&gt;&#xA;&lt;p&gt;In recent days I have come to a realisation that you also need to try and see things as the computer sees them, rather than expecting it to see what you can see. I was working with some data that were formatted in a pretty way for humans and I was completely flummoxed because I couldn&amp;rsquo;t get &lt;em&gt;any&lt;/em&gt; of it into R. The more I stared at the files, the more I began to see all these weird anomalies like completely blank columns that had been shrunk to near zero widths and inconsistencies between files with how the main components of the data were stored. It&amp;rsquo;s been a strange experience!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Doing the thing</title>
       <link>http://localhost:1313/posts/doing-the-thing/</link>

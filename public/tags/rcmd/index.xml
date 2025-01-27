@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rcmd on mattischrome</title>
+    <link>http://localhost:1313/tags/rcmd/</link>
+    <description>Recent content in Rcmd on mattischrome</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rcmd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Push the right key</title>
+      <link>http://localhost:1313/posts/push-the-right-key/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/push-the-right-key/</guid>
+      <description>&lt;p&gt;One of the absurd barriers to writing regularly is that my new post script is written to open the new markdown file in Neovim and until this week I had no idea how to type a hashtag (which markdown uses for headers) in this editor.&lt;/p&gt;&#xA;&lt;p&gt;Neovim, and its venerable predecessors vi and vim, is notorious for being a bit tricksy to work with. This is because it is a modal editor: you use keys to switch the editor between modes. The same key presses mean different things in different modes, which can be frustrating when you first start out and have no clue what is going on.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

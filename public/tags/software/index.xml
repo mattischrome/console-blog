@@ -6,8 +6,29 @@
     <description>Recent content in Software on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Push the right key</title>
+      <link>http://localhost:1313/posts/push-the-right-key/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/push-the-right-key/</guid>
+      <description>&lt;p&gt;One of the absurd barriers to writing regularly is that my new post script is written to open the new markdown file in Neovim and until this week I had no idea how to type a hashtag (which markdown uses for headers) in this editor.&lt;/p&gt;&#xA;&lt;p&gt;Neovim, and its venerable predecessors vi and vim, is notorious for being a bit tricksy to work with. This is because it is a modal editor: you use keys to switch the editor between modes. The same key presses mean different things in different modes, which can be frustrating when you first start out and have no clue what is going on.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Lost Guide to CIV VI</title>
+      <link>http://localhost:1313/posts/the-lost-guide-to-civ-vi/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-lost-guide-to-civ-vi/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve written some guides about how to play as various leaders in Sid Meier&amp;rsquo;s Civilization VI, covering &lt;a href=&#34;https://mattischrome.com/posts/civ-leaders-1/&#34;&gt;Hojo&lt;/a&gt;, &lt;a href=&#34;https://mattischrome.com/posts/civ-leaders-2/&#34;&gt;Alexander&lt;/a&gt;, &lt;a href=&#34;https://mattischrome.com/posts/civ-leaders-3/&#34;&gt;Amanitore&lt;/a&gt;, and &lt;a href=&#34;https://mattischrome.com/posts/civ-leaders-4/&#34;&gt;Qin&lt;/a&gt; in his Mandate of Heaven persona. I&amp;rsquo;m pretty sure I also wrote a guide to Gorgo at some point but all I can find are game screenshots I took one of the times that I played as her.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/gorgo_1.jpg&#34; alt=&#34;A screenshot of a CIV VI game where I played as Gorgo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;As such, I lost momentum on what would have been quite a nice writing project. However, with less than a month to go until Civ VII, it doesn&amp;rsquo;t seem as though writing those posts would even be useful for me.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Realisation</title>
+      <link>http://localhost:1313/posts/a-realisation/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a-realisation/</guid>
+      <description>&lt;p&gt;One of the best pieces of advice I have ever been given about how to tackle programming problems is to treat your code as comments that describe your program to the computer, whilst the comments that are there for humans to read should tell them how the program is supposed to work.&lt;/p&gt;&#xA;&lt;p&gt;In recent days I have come to a realisation that you also need to try and see things as the computer sees them, rather than expecting it to see what you can see. I was working with some data that were formatted in a pretty way for humans and I was completely flummoxed because I couldn&amp;rsquo;t get &lt;em&gt;any&lt;/em&gt; of it into R. The more I stared at the files, the more I began to see all these weird anomalies like completely blank columns that had been shrunk to near zero widths and inconsistencies between files with how the main components of the data were stored. It&amp;rsquo;s been a strange experience!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Fun With Chat-GPT</title>
       <link>http://localhost:1313/posts/fun-with-chatgpt/</link>
