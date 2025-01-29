@@ -43,3 +43,4 @@ Blitz all the above ingredients together into a paste, using a food processor or
 ### Notes
 1. You can replace the chicken with vegetables, beef, or firm tofu.
 2. You can also cook some vegetables with the curry, such as shreds of carrots, mange tout, green beans, tender stem broccoli, and baby corn.
+3. Remove the lime leaves on serving.

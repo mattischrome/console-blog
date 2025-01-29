@@ -14,7 +14,7 @@ Even when you do have some clue what is going on, there can be settings that are
 
 But the right key works! As in, the actual right-hand alt key. So I can now type a hash in Neovim. Progress! Delight!
 
-Moreover, theres a nice synergy with another app that I use called [rcmd]() that turns the right-hand CMD key into an app switcher. And it doesn't just enable alt/cmd+tab style switching between the app you're using and the previous one, it allows you to jump to a specific app. It's not something I need all the time, but the more I use it, the more that I remember to use it and the more useful it becomes.
+Moreover, theres a nice synergy with another app that I use called [rcmd](https://lowtechguys.com/rcmd) that turns the right-hand CMD key into an app switcher. And it doesn't just enable alt/cmd+tab style switching between the app you're using and the previous one, it allows you to jump to a specific app. It's not something I need all the time, but the more I use it, the more that I remember to use it and the more useful it becomes.
 
 The same is also true of Neovim. I'm getting used to some of the shortcuts that I use most regularly like `dd` for deleting a whole line (which is useful for promoting drafts to full posts) and `$` for jumping to the end of the line. I know from various accidental invocations of the pasteboard that there is a hyper-logical and precise way to perform sophisticated copy/paste actions. The other day I even managed to paste something I'd copied (yanked in (Neo)vim parlance) a few copies earlier, getting around that annoying situation where you accidentally copy again before you paste what was there before.
 
