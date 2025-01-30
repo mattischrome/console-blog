@@ -4,15 +4,253 @@
     
         
         <url>
+            <loc>http://localhost:1313/tags/albums/</loc>
+            <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/in-praise-of-pomme-fritz/</loc>
+            <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/</loc>
-            <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+            <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/music/</loc>
+            <lastmod>2025-02-03T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/posts/</loc>
+            <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/</loc>
+            <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/the-orb/</loc>
+            <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/twenty-five/</loc>
+            <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/blogging/</loc>
+            <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/creativity/</loc>
+            <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/dive-in/</loc>
+            <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/ideas/</loc>
+            <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/reading/</loc>
+            <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/dithering-around/</loc>
             <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/fodmap-february/</loc>
+            <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/food/</loc>
+            <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/household/</loc>
+            <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/imagemagick/</loc>
+            <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/life-experiences/</loc>
+            <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/paris/</loc>
+            <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/photos/</loc>
+            <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/recipes/</loc>
+            <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/software/</loc>
+            <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/album-revisit/</loc>
+            <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/charlie-xcx/</loc>
+            <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/charlie-xcx-brat/</loc>
+            <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/dance/</loc>
+            <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/pop/</loc>
+            <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/art/</loc>
+            <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/bloomsbury-group/</loc>
+            <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/dora-carrington/</loc>
+            <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/dora-carrington-at-pallant-house/</loc>
+            <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/pallant-house/</loc>
+            <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/curry/</loc>
+            <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/gluten-free/</loc>
+            <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/thai-green-curry/</loc>
+            <lastmod>2025-01-28T00:00:00+00:00</lastmod>
         </url>
         
     
@@ -32,13 +270,6 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/paris/</loc>
-            <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/tags/rodin/</loc>
             <lastmod>2025-01-27T00:00:00+00:00</lastmod>
         </url>
@@ -46,21 +277,7 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/</loc>
-            <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/tags/travel/</loc>
-            <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/twenty-five/</loc>
             <lastmod>2025-01-27T00:00:00+00:00</lastmod>
         </url>
         
@@ -81,21 +298,7 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/art/</loc>
-            <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/tags/brian-eno/</loc>
-            <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/creativity/</loc>
             <lastmod>2025-01-26T00:00:00+00:00</lastmod>
         </url>
         
@@ -172,20 +375,6 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/music/</loc>
-            <lastmod>2025-01-24T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/pop/</loc>
-            <lastmod>2025-01-24T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/tags/the-beatles/</loc>
             <lastmod>2025-01-24T00:00:00+00:00</lastmod>
         </url>
@@ -194,13 +383,6 @@
         
         <url>
             <loc>http://localhost:1313/tags/album/</loc>
-            <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/dance/</loc>
             <lastmod>2025-01-23T00:00:00+00:00</lastmod>
         </url>
         
@@ -228,13 +410,6 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/blogging/</loc>
-            <lastmod>2025-01-22T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/tags/neovim/</loc>
             <lastmod>2025-01-22T00:00:00+00:00</lastmod>
         </url>
@@ -256,28 +431,7 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/software/</loc>
-            <lastmod>2025-01-22T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/tags/dessert/</loc>
-            <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/food/</loc>
-            <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/gluten-free/</loc>
             <lastmod>2025-01-21T00:00:00+00:00</lastmod>
         </url>
         
@@ -327,13 +481,6 @@
         
         <url>
             <loc>http://localhost:1313/tags/consistency/</loc>
-            <lastmod>2025-01-19T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/ideas/</loc>
             <lastmod>2025-01-19T00:00:00+00:00</lastmod>
         </url>
         
@@ -410,13 +557,6 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/album-revisit/</loc>
-            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/tags/indie/</loc>
             <lastmod>2025-01-15T00:00:00+00:00</lastmod>
         </url>
@@ -452,7 +592,28 @@
     
         
         <url>
+            <loc>http://localhost:1313/posts/balancing-bad-luck/</loc>
+            <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/balatro/</loc>
+            <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/tags/fitness/</loc>
+            <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/games/</loc>
             <lastmod>2025-01-13T00:00:00+00:00</lastmod>
         </url>
         
@@ -473,7 +634,28 @@
     
         
         <url>
+            <loc>http://localhost:1313/tags/maths/</loc>
+            <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/obsessions/</loc>
+            <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/tags/pilates/</loc>
+            <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/stats/</loc>
             <lastmod>2025-01-13T00:00:00+00:00</lastmod>
         </url>
         
@@ -697,13 +879,6 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/albums/</loc>
-            <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/tags/postmodern/</loc>
             <lastmod>2025-01-01T00:00:00+00:00</lastmod>
         </url>
@@ -802,6 +977,34 @@
     
         
         <url>
+            <loc>http://localhost:1313/tags/emotions/</loc>
+            <lastmod>2024-07-19T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/mobile-phones/</loc>
+            <lastmod>2024-07-19T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/social-media/</loc>
+            <lastmod>2024-07-19T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/sympathy-for-the-screenager/</loc>
+            <lastmod>2024-07-19T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/photos/spider-webs/</loc>
             <lastmod>2024-07-18T00:00:00+00:00</lastmod>
         </url>
@@ -893,20 +1096,6 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/emotions/</loc>
-            <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/life-experiences/</loc>
-            <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/posts/the-negativity-casket/</loc>
             <lastmod>2024-01-12T00:00:00+00:00</lastmod>
         </url>
@@ -986,6 +1175,34 @@
         <url>
             <loc>http://localhost:1313/posts/git-instructions-for-future-matt/</loc>
             <lastmod>2024-01-07T21:36:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/ads/</loc>
+            <lastmod>2024-01-03T21:36:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/amazon/</loc>
+            <lastmod>2024-01-03T21:36:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/consumer/</loc>
+            <lastmod>2024-01-03T21:36:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/unprimed/</loc>
+            <lastmod>2024-01-03T21:36:00+00:00</lastmod>
         </url>
         
     
@@ -1243,13 +1460,6 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/recipes/</loc>
-            <lastmod>2023-06-07T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/tags/compilation/</loc>
             <lastmod>2023-06-05T00:00:00+00:00</lastmod>
         </url>
@@ -1440,13 +1650,6 @@
         
         <url>
             <loc>http://localhost:1313/tags/live-music/</loc>
-            <lastmod>2022-10-29T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/the-orb/</loc>
             <lastmod>2022-10-29T00:00:00+00:00</lastmod>
         </url>
         
@@ -1685,13 +1888,6 @@
         
         <url>
             <loc>http://localhost:1313/tags/getting-stuff-done/</loc>
-            <lastmod>2022-02-05T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/household/</loc>
             <lastmod>2022-02-05T00:00:00+00:00</lastmod>
         </url>
         
@@ -2195,13 +2391,6 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/ads/</loc>
-            <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/tags/economics/</loc>
             <lastmod>2020-05-29T00:00:00+00:00</lastmod>
         </url>
@@ -2407,13 +2596,6 @@
         <url>
             <loc>http://localhost:1313/posts/reboot/</loc>
             <lastmod>2018-06-10T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/photos/</loc>
-            <lastmod>2018-02-23T00:00:00+00:00</lastmod>
         </url>
         
     
@@ -3378,13 +3560,6 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/stats/</loc>
-            <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/posts/swaptastic-part-3/</loc>
             <lastmod>2016-07-01T00:00:00+00:00</lastmod>
         </url>
@@ -3917,13 +4092,6 @@
     
         
         <url>
-            <loc>http://localhost:1313/tags/social-media/</loc>
-            <lastmod>2015-06-18T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/posts/time-is-time-and-that-is-that/</loc>
             <lastmod>2015-06-18T00:00:00+00:00</lastmod>
         </url>
@@ -4233,13 +4401,6 @@
         
         <url>
             <loc>http://localhost:1313/posts/generate-random-numbers-in-r/</loc>
-            <lastmod>2014-09-25T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/maths/</loc>
             <lastmod>2014-09-25T00:00:00+00:00</lastmod>
         </url>
         
@@ -4591,13 +4752,6 @@
         <url>
             <loc>http://localhost:1313/posts/grumble-grumble/</loc>
             <lastmod>2013-12-19T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/amazon/</loc>
-            <lastmod>2013-12-02T00:00:00+00:00</lastmod>
         </url>
         
     
@@ -5206,13 +5360,6 @@
         
         <url>
             <loc>http://localhost:1313/posts/a-jigsaw/</loc>
-            <lastmod>2013-02-11T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/tags/games/</loc>
             <lastmod>2013-02-11T00:00:00+00:00</lastmod>
         </url>
         

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charlie XCX on mattischrome</title>
+    <link>http://localhost:1313/tags/charlie-xcx/</link>
+    <description>Recent content in Charlie XCX on mattischrome</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/charlie-xcx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charlie XCX, Brat</title>
+      <link>http://localhost:1313/posts/charlie-xcx-brat/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/charlie-xcx-brat/</guid>
+      <description>&lt;p&gt;When making my albums of the year posts at the start of the month, I realised that compared to many other critics lists, there was no sign of &lt;em&gt;Brat&lt;/em&gt; by Charlie XCX. In this post, I re-evaluate the album and see whether it should have made the list.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

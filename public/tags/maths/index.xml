@@ -6,8 +6,15 @@
     <description>Recent content in Maths on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 25 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/maths/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Balancing Bad Luck</title>
+      <link>http://localhost:1313/posts/balancing-bad-luck/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/balancing-bad-luck/</guid>
+      <description></description>
+    </item>
     <item>
       <title>How to generate random numbers in R</title>
       <link>http://localhost:1313/posts/generate-random-numbers-in-r/</link>
