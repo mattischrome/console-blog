@@ -23,6 +23,7 @@ Highlights include "Estacion Ezperanza" (a collaboration with Manu Chao), "How M
 
 This album came out in October and I didn’t listen to it quite as much as some other albums in this top ten, partly because as part of the promotion for the album Sofia produced a DJ mix for the Tim Sweeney’s Beats In Space show on Apple Music and I listened to that a ton as well. That mix also gets counted by the Albums app (post on this coming soon), and would have been a Top 20 if I’d decided to spend all of January 2024 writing about albums/mixtapes from 2023. That was where I encountered “Fiorucci Made Me Hardcore” by Barry Can’t Swim and “Nadia” by Anish Kumar. The whole mix is worth checking out so I’ve included it alongside the album below. So as not to deprive listeners on Spotify, I’ve also included her track IDs playlist which is unmixed (though you could try it with crossfade turned on) and much longer at 100 tracks.
 
+{{< rawhtml >}}
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/gb/album/madres/1695712922"></iframe>
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/gb/album/beats-in-space-086-sofia-kourtesis-dj-mix/1704755392"></iframe>
@@ -30,3 +31,4 @@ This album came out in October and I didn’t listen to it quite as much as some
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6zt8N56kz8b58cnHnBhx9f?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DWVFhnU8yozBd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< /rawhtml >}}
