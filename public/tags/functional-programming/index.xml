@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Functional Programming on mattischrome</title>
+    <link>http://localhost:1313/tags/functional-programming/</link>
+    <description>Recent content in Functional Programming on mattischrome</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/functional-programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slots and Pipes</title>
+      <link>http://localhost:1313/posts/slots-and-pipes/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/slots-and-pipes/</guid>
+      <description>&lt;p&gt;Recent explorations in R have reminded me about two ways of thinking about how you refer to objects or (parts of objects) in the language.&lt;/p&gt;&#xA;&lt;p&gt;Slots are probably what you learn about first, they use the &lt;code&gt;$&lt;/code&gt; syntax. In R, the &lt;code&gt;$&lt;/code&gt; operator is used to access specific elements or columns within a data structure, such as a list, data frame, or environment. You can think of it as an ersatz shorthand for the &lt;code&gt;tidyverse::select()&lt;/code&gt; function, except that the latter is more powerful because you can do funky things like selecting multiple columns programmatically. By programmatically I mean &amp;ldquo;in some way that is not predetermined until you run your code&amp;rdquo;, e.g. because you are selecting a subset of columns of your data frame that didn&amp;rsquo;t exist until (long) before that step. Anyway, back to &lt;code&gt;$&lt;/code&gt;, it&amp;rsquo;s a way of selecting a particular column of a data frame or any smaller part of an object in R. In fact, one of my main use cases for &lt;code&gt;$&lt;/code&gt; used to be for recalculating columns in a data frame when I wasn&amp;rsquo;t confident about using &lt;code&gt;mutate()&lt;/code&gt;: changing a column to a factor with &lt;code&gt;mutate()&lt;/code&gt; gave me the heebie-jeebies for a long time.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

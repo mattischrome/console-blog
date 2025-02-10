@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poem on mattischrome</title>
+    <link>http://localhost:1313/tags/poem/</link>
+    <description>Recent content in Poem on mattischrome</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/poem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patch (A poem)</title>
+      <link>http://localhost:1313/posts/patch-a-poem/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/patch-a-poem/</guid>
+      <description>&lt;p&gt;This is a short poem I wrote for Ingrid about our little herb garden. I am reproducing it here in celebration of work that is shortly going to start on our new garden!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

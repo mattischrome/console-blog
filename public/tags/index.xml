@@ -6,125 +6,286 @@
     <description>Recent content in Tags on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Albums</title>
-      <link>http://localhost:1313/tags/albums/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/albums/</guid>
+      <title>Bargains</title>
+      <link>http://localhost:1313/tags/bargains/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bargains/</guid>
       <description></description>
     </item>
     <item>
-      <title>Music</title>
-      <link>http://localhost:1313/tags/music/</link>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Orb</title>
-      <link>http://localhost:1313/tags/the-orb/</link>
-      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/the-orb/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Twenty Five</title>
-      <link>http://localhost:1313/tags/twenty-five/</link>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/twenty-five/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blogging</title>
-      <link>http://localhost:1313/tags/blogging/</link>
-      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/blogging/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Creativity</title>
-      <link>http://localhost:1313/tags/creativity/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/creativity/</guid>
+      <title>Calendar</title>
+      <link>http://localhost:1313/tags/calendar/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/calendar/</guid>
       <description></description>
     </item>
     <item>
       <title>Ideas</title>
       <link>http://localhost:1313/tags/ideas/</link>
-      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ideas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Twenty Eighty</title>
+      <link>http://localhost:1313/tags/twenty-eighty/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/twenty-eighty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Twenty Five</title>
+      <link>http://localhost:1313/tags/twenty-five/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/twenty-five/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Twenty Four</title>
+      <link>http://localhost:1313/tags/twenty-four/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/twenty-four/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Album Revisit</title>
+      <link>http://localhost:1313/tags/album-revisit/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/album-revisit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/tags/music/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peter Gabriel</title>
+      <link>http://localhost:1313/tags/peter-gabriel/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/peter-gabriel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pop</title>
+      <link>http://localhost:1313/tags/pop/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rock</title>
+      <link>http://localhost:1313/tags/rock/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blogging</title>
+      <link>http://localhost:1313/tags/blogging/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/blogging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Depression</title>
+      <link>http://localhost:1313/tags/depression/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/depression/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perfectionism</title>
+      <link>http://localhost:1313/tags/perfectionism/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/perfectionism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>http://localhost:1313/tags/writing/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consistency</title>
+      <link>http://localhost:1313/tags/consistency/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/consistency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meta</title>
+      <link>http://localhost:1313/tags/meta/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/meta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Creativity</title>
+      <link>http://localhost:1313/tags/creativity/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/creativity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pottery</title>
+      <link>http://localhost:1313/tags/pottery/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pottery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Garden</title>
+      <link>http://localhost:1313/tags/garden/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/garden/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poem</title>
+      <link>http://localhost:1313/tags/poem/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/poem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recipes</title>
+      <link>http://localhost:1313/tags/recipes/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/recipes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notebooks</title>
+      <link>http://localhost:1313/tags/notebooks/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/notebooks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>http://localhost:1313/tags/notes/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Albums</title>
+      <link>http://localhost:1313/tags/albums/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/albums/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Orb</title>
+      <link>http://localhost:1313/tags/the-orb/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/the-orb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Functional Programming</title>
+      <link>http://localhost:1313/tags/functional-programming/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/functional-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/tags/programming/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>http://localhost:1313/tags/r/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/r/</guid>
       <description></description>
     </item>
     <item>
       <title>Reading</title>
       <link>http://localhost:1313/tags/reading/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/reading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tidyverse</title>
+      <link>http://localhost:1313/tags/tidyverse/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tidyverse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Streak</title>
+      <link>http://localhost:1313/tags/streak/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/streak/</guid>
       <description></description>
     </item>
     <item>
       <title>Food</title>
       <link>http://localhost:1313/tags/food/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Household</title>
       <link>http://localhost:1313/tags/household/</link>
-      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/household/</guid>
       <description></description>
     </item>
     <item>
       <title>Imagemagick</title>
       <link>http://localhost:1313/tags/imagemagick/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/imagemagick/</guid>
       <description></description>
     </item>
     <item>
       <title>Life Experiences</title>
       <link>http://localhost:1313/tags/life-experiences/</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/life-experiences/</guid>
       <description></description>
     </item>
     <item>
       <title>Paris</title>
       <link>http://localhost:1313/tags/paris/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/paris/</guid>
       <description></description>
     </item>
     <item>
       <title>Photos</title>
       <link>http://localhost:1313/tags/photos/</link>
-      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/photos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Recipes</title>
-      <link>http://localhost:1313/tags/recipes/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/recipes/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
       <link>http://localhost:1313/tags/software/</link>
-      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/software/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Album Revisit</title>
-      <link>http://localhost:1313/tags/album-revisit/</link>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/album-revisit/</guid>
       <description></description>
     </item>
     <item>
@@ -139,13 +300,6 @@
       <link>http://localhost:1313/tags/dance/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/dance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pop</title>
-      <link>http://localhost:1313/tags/pop/</link>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pop/</guid>
       <description></description>
     </item>
     <item>
@@ -209,13 +363,6 @@
       <link>http://localhost:1313/tags/travel/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/travel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Twenty Four</title>
-      <link>http://localhost:1313/tags/twenty-four/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/twenty-four/</guid>
       <description></description>
     </item>
     <item>
@@ -345,27 +492,6 @@
       <description></description>
     </item>
     <item>
-      <title>Notebooks</title>
-      <link>http://localhost:1313/tags/notebooks/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/notebooks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Writing</title>
-      <link>http://localhost:1313/tags/writing/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/writing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Consistency</title>
-      <link>http://localhost:1313/tags/consistency/</link>
-      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/consistency/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Civ VI</title>
       <link>http://localhost:1313/tags/civ-vi/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
@@ -419,13 +545,6 @@
       <link>http://localhost:1313/tags/parquet-courts/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/parquet-courts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rock</title>
-      <link>http://localhost:1313/tags/rock/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rock/</guid>
       <description></description>
     </item>
     <item>
@@ -496,13 +615,6 @@
       <link>http://localhost:1313/tags/drafts/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/drafts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Meta</title>
-      <link>http://localhost:1313/tags/meta/</link>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/meta/</guid>
       <description></description>
     </item>
     <item>
@@ -755,13 +867,6 @@
       <link>http://localhost:1313/tags/git/</link>
       <pubDate>Sun, 07 Jan 2024 21:36:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/git/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
-      <pubDate>Sun, 07 Jan 2024 21:36:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
@@ -1073,13 +1178,6 @@
       <description></description>
     </item>
     <item>
-      <title>Programming</title>
-      <link>http://localhost:1313/tags/programming/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/programming/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Apple</title>
       <link>http://localhost:1313/tags/apple/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
@@ -1210,13 +1308,6 @@
       <link>http://localhost:1313/tags/chores/</link>
       <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/chores/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Garden</title>
-      <link>http://localhost:1313/tags/garden/</link>
-      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/garden/</guid>
       <description></description>
     </item>
     <item>
@@ -1371,13 +1462,6 @@
       <link>http://localhost:1313/tags/quote/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/quote/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Notes</title>
-      <link>http://localhost:1313/tags/notes/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/notes/</guid>
       <description></description>
     </item>
     <item>
@@ -1560,13 +1644,6 @@
       <link>http://localhost:1313/tags/george-saunders/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/george-saunders/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Depression</title>
-      <link>http://localhost:1313/tags/depression/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/depression/</guid>
       <description></description>
     </item>
     <item>
@@ -1791,13 +1868,6 @@
       <link>http://localhost:1313/tags/matt-haig/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/matt-haig/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R</title>
-      <link>http://localhost:1313/tags/r/</link>
-      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/r/</guid>
       <description></description>
     </item>
     <item>
@@ -3548,13 +3618,6 @@
       <link>http://localhost:1313/tags/memories/</link>
       <pubDate>Tue, 22 Nov 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/memories/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Peter Gabriel</title>
-      <link>http://localhost:1313/tags/peter-gabriel/</link>
-      <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/peter-gabriel/</guid>
       <description></description>
     </item>
     <item>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pottery on mattischrome</title>
+    <link>http://localhost:1313/tags/pottery/</link>
+    <description>Recent content in Pottery on mattischrome</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pottery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ingrid&#39;s Pottery</title>
+      <link>http://localhost:1313/posts/ingrids-pottery/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ingrids-pottery/</guid>
+      <description>&lt;p&gt;Here are some photos of Ingrid&amp;rsquo;s pottery, some very pretty pots! (And more complex pieces are on the way!)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/Ingrids_pottery_01.jpg&#34; alt=&#34;A photo of some pots by Ingrid on a table&#34;&gt;&#xA;&lt;img src=&#34;./images/Ingrids_pottery_02.jpg&#34; alt=&#34;A photo of some pots by Ingrid on a table, side on&#34;&gt;&#xA;&lt;img src=&#34;./images/Ingrids_pottery_03.jpg&#34; alt=&#34;A photo of some pots by Ingrid on a table, from above&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

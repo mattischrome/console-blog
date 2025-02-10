@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>mattischrome/posts/slots-and-pipes/</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/terminal-0.7.2.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/animate-4.1.1.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/console.css">
+    
+      <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+       
+    
+</head>
+<body class="terminal">
+    <div class="container">
+        <div class="terminal-nav">
+          <header class="terminal-logo">
+            <div class="logo terminal-prompt">
+              
+              
+              <a href="http://localhost:1313/" class="no-style ">mattischrome</a>:~# 
+              <a href='http://localhost:1313/posts'>posts</a>/<a href='http://localhost:1313/posts/slots-and-pipes'>slots-and-pipes</a>/</div></header>
+          <nav class="terminal-menu">
+            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
+                
+            </ul>
+          </nav>
+        </div>
+    </div>
+
+    <div class="container " >
+        
+<h1>Slots and Pipes</h1>
+<p>Feb. 2, 2025</p>
+<br/><br/>
+<p>Recent explorations in R have reminded me about two ways of thinking about how you refer to objects or (parts of objects) in the language.</p>
+<p>Slots are probably what you learn about first, they use the <code>$</code> syntax. In R, the <code>$</code> operator is used to access specific elements or columns within a data structure, such as a list, data frame, or environment. You can think of it as an ersatz shorthand for the <code>tidyverse::select()</code> function, except that the latter is more powerful because you can do funky things like selecting multiple columns programmatically. By programmatically I mean &ldquo;in some way that is not predetermined until you run your code&rdquo;, e.g. because you are selecting a subset of columns of your data frame that didn&rsquo;t exist until (long) before that step. Anyway, back to <code>$</code>, it&rsquo;s a way of selecting a particular column of a data frame or any smaller part of an object in R. In fact, one of my main use cases for <code>$</code> used to be for recalculating columns in a data frame when I wasn&rsquo;t confident about using <code>mutate()</code>: changing a column to a factor with <code>mutate()</code> gave me the heebie-jeebies for a long time.</p>
+<p>Here are some examples of how the <code>$</code> syntax is used in R:</p>
+<ol>
+<li>Accessing columns in a data frame</li>
+<li>Accessing elements in a list</li>
+<li>Accessing variables in an environment (we&rsquo;ll come back to this later)</li>
+<li>Accessing nested elements</li>
+<li>Modifying data frame columns</li>
+<li>Accessing columns in a Tidyverse tibble (this is part of the whole &ldquo;tibbles are like data frames, only better&rdquo; talk that I have to give to everyone eventually)</li>
+<li>Accessing attributes of objects (again, we&rsquo;ll come back to this later)</li>
+</ol>
+<p>So the <code>$</code> operator is a versatile tool in R for accessing and manipulating elements in data frames, lists, environments, and other objects. It is particularly useful for working with named elements or columns. And then pipes come along and change everything. At least they did for me. You that adage about how if you have a hammer everything looks like a nail? That&rsquo;s been with pipes in R for quite a long time.</p>
+<p>For those uninitiated into pipe lore, it&rsquo;s an operator in R that you follow with a function that takes an argument that, unless otherwise explicitly denoted by the user, is the previous line of code. So something like:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-R" data-lang="R"><span style="display:flex;"><span>my_processed_tibble <span style="color:#f92672">&lt;-</span> my_tibble <span style="color:#f92672">%&gt;%</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">select</span>(<span style="color:#a6e22e">all_of</span>(my_interesting_columns)) <span style="color:#f92672">%&gt;%</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">mutate</span>(interesting_column_sum <span style="color:#f92672">=</span> interesting_column_1 <span style="color:#f92672">+</span> interesting_column_2)
+</span></span></code></pre></div><p>is actually really the incredibly long and fraught (at least horizontally):</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-R" data-lang="R"><span style="display:flex;"><span>my_processed_tibble <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">mutate</span>(<span style="color:#a6e22e">select</span>(my_tibble,<span style="color:#a6e22e">all_of</span>(my_interesting_columns)), interesting_column_sum <span style="color:#f92672">=</span> interesting_column_1 <span style="color:#f92672">+</span> interesting_column_2) 
+</span></span></code></pre></div><p>It was incredibly stressful to copy and paste that together from the version with the pipes. I&rsquo;m not even sure it&rsquo;s right! The top version is a lot easier to debug, because you have the chain of functions applied in order to the original data frame. Note that I&rsquo;ve used <code>%&gt;%</code> which is the pipe function from the <code>magrittr</code> package. Version 4.1.0 of R introduced a &rsquo;native&rsquo; pipe operator, it looks like this <code>|&gt;</code>. I&rsquo;ve continued using the OG <code>magrittr</code> pipe for two reasons. The first is simple muscle memory, and the second is that it lets you use <code>.</code> as a placeholder for previous values when using functions that are not pipe-friendly (e.g. for some reason they don&rsquo;t take the data frame as the first value).</p>
+<p>By way of a short digression, one of my favourite uses of pipes is to assign them to functions so you can reuse chunks of code, e.g.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-R" data-lang="R"><span style="display:flex;"><span>group_by_sex_and_summarise <span style="color:#f92672">&lt;-</span> . <span style="color:#f92672">%&gt;%</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">group_by</span>(sex) <span style="color:#f92672">%&gt;%</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">summarise</span>(Value <span style="color:#f92672">=</span> <span style="color:#a6e22e">sum</span>(Value))
+</span></span></code></pre></div><p>But it&rsquo;s also good to not forget about slots once you know about pipes. I don&rsquo;t think pipes are to blame for me forgetting about slots, per se, just that whole &ldquo;everything&rsquo;s a nail&rdquo; outlook I mentioned above. But sometimes, you want to pick things out easily. Over the years I&rsquo;ve gotten myself into also sorts of <code>my_df %&gt;% select(my_column) %&gt;% as.vector()</code> contortions when a simple <code>my_df$my_column</code> would have sufficed.</p>
+<p>Lately I&rsquo;ve been wanting to create plots inside of loops and then access those plots later, for the purposes of putting them into a slide deck. This is what drove me back to slots. You can obviously cram your generated plots into a list, but let&rsquo;s say you want the titles of your plots to be the titles of your slides. Well, the simple to pull out the titles is to use the <code>$</code> operator. <code>my_ggplot$labels$title</code> will let you grab the title of the plot to use somewhere else. A simple thing, but something I had completely forgotten!</p>
+
+ 
+<ul class="post_tags">
+   <li>
+    <a href="http://localhost:1313/tags/r/">r</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/twenty-five/">twenty-five</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/programming/">programming</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/functional-programming/">functional-programming</a>
+  </li> <li>
+    <a href="http://localhost:1313/tags/tidyverse/">tidyverse</a>
+  </li></ul>
+
+
+
+  <h3>See Also</h3>
+  <ul>
+   
+     <li><a href="/posts/a-little-lesson-in-r/">A Little Lesson in R</a></li>
+   
+     <li><a href="/posts/personal-ggplot-tips-and-tweaks/">Personal ggplot tips and tweaks</a></li>
+   
+     <li><a href="/posts/swaptastic-part-3/">Swaptastic Part 3: The Shiny App</a></li>
+   
+     <li><a href="/posts/swaptastic-part-2/">Swaptastic Part 2</a></li>
+   
+     <li><a href="/posts/dive-in/">Dive In?</a></li>
+   
+  </ul>
+
+<div aria-label="Browse" class="post-single__browse browse-nav">
+    
+    <div class="browse-nav__next">
+      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--next">
+        &#10142;
+      </div>
+      <a href="http://localhost:1313/posts/dive-in/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: Dive In?">Dive In?</a>
+    </div>
+    
+  
+    
+    <div class="browse-nav__prev">
+      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--prev">
+        &#10142;
+      </div>
+      <a href="http://localhost:1313/posts/into-february/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: Into February">Into February</a>
+    </div>
+    
+  
+    <a href="http://localhost:1313/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
+</div>
+
+        <div class="footer">
+    Powered by <a href="https://gohugo.io/">Hugo</a> with
+    <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console Theme</a>. 
+</div>
+
+    </div>
+  </body>
+</html>

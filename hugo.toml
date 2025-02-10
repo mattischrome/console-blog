@@ -3,8 +3,17 @@ languageCode = 'en-gb'
 title = 'mattischrome'
 theme = 'hugo-theme-console'
 [params]
+  math = false
   [params.posts]
     paginate = 12
 
   [params.photos]
     paginate = 12
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
