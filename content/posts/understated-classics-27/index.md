@@ -10,7 +10,7 @@ tags:
 title: 'Understated Classics #27: A Ghost Is Born by Wilco'
 slug: understated-classics-27
 ---
-[I have already given some of the personal background to why I love this album](whatever-happened-to-that-hat) and now it’s time to give a bit of love to the music itself so I’ll stick to giving a track by track account of “A Ghost Is Born”.
+[I have already given some of the personal background to why I love this album](/whatever-happened-to-that-hat/) and now it’s time to give a bit of love to the music itself so I’ll stick to giving a track by track account of “A Ghost Is Born”.
 
 If you are familiar with Wilco’s first few albums, you’ll know that A Ghost Is Born is on the line of best fit through Being There, Summerteeth, and Yankee Hotel Foxtrot. It continues its predecessor’s experimentation, but also gets reined in a little. Great songs - some of my favourite Wilco songs - were left off Yankee Hotel Foxtrot (“[Venus Stopped The Train](http://www.bemydemon.org/songs/venus.htm)”, “[A Magazine Called Sunset](http://wilcoworld.net/#!/song/a-magazine-called-sunset/)”) so the follow-up could easily have been more of the same and everyone would have gone home happy.
 
