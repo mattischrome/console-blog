@@ -10,7 +10,7 @@ tags:
 title: 'Understated Classics #27: A Ghost Is Born by Wilco'
 slug: understated-classics-27
 ---
-[I have already given some of the personal background to why I love this album](/whatever-happened-to-that-hat/) and now it’s time to give a bit of love to the music itself so I’ll stick to giving a track by track account of “A Ghost Is Born”.
+[I have already given some of the personal background to why I love this album](/posts/whatever-happened-to-that-hat/) and now it’s time to give a bit of love to the music itself so I’ll stick to giving a track by track account of “A Ghost Is Born”.
 
 If you are familiar with Wilco’s first few albums, you’ll know that A Ghost Is Born is on the line of best fit through Being There, Summerteeth, and Yankee Hotel Foxtrot. It continues its predecessor’s experimentation, but also gets reined in a little. Great songs - some of my favourite Wilco songs - were left off Yankee Hotel Foxtrot (“[Venus Stopped The Train](http://www.bemydemon.org/songs/venus.htm)”, “[A Magazine Called Sunset](http://wilcoworld.net/#!/song/a-magazine-called-sunset/)”) so the follow-up could easily have been more of the same and everyone would have gone home happy.
 
@@ -50,7 +50,7 @@ The next track “Less Than You Think” lasts for fifteen minutes. It begins wi
 
 The album ends with “[The Late Greats](http://wilcoworld.net/#!/song/the-late-greats/)”, a great song that was apparently added to the track listing at the last minute. It has a wonderful throwaway sound to it and it’s very straightforward, yet somehow it would not sit as perfectly as it does on any other Wilco album. It’s a beautiful chiming song about the ephemeral nature of pop music: “The best songs never get sung / the best laugh never leaves your lungs / it’s so good you will never know / they never even played a show” (a bit like all my “bands”).
 
-I love this album: its sentiments, its confusion and most of all some cracking guitar solos. As I said [when I wrote about that hat](/whatever-happened-to-that-hat), I first encountered this album while in a foggy state in my life and its feints and dead ends, its heart and head, all served to draw me in. The ghost in the machine, the soul in the body. The long-lasting light.
+I love this album: its sentiments, its confusion and most of all some cracking guitar solos. As I said [when I wrote about that hat](/posts/whatever-happened-to-that-hat), I first encountered this album while in a foggy state in my life and its feints and dead ends, its heart and head, all served to draw me in. The ghost in the machine, the soul in the body. The long-lasting light.
 
 ---
 
