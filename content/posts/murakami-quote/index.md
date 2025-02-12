@@ -1,8 +1,8 @@
 ---
-category: Quote
+category: Ideas
 pubDate: '2021-02-25T00:00:00Z'
 tags:
-- Quote
+- Quotes
 - Fiction
 - Murakami
 - Twenty One

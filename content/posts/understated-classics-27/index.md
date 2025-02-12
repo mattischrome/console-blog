@@ -40,7 +40,7 @@ The album’s beautiful ambient core is “Wishful Thinking”, a straight-up od
 
 ### I’ll lay it down, a ghost is born
 
-“I’m A Wheel” is a pallette-cleansing bit of punky noise, a song that dislodged the similar sounding “Kicking Television” from the track list. Both tracks are pretty inconsequential and I wonder if “Kicking Television” didn’t come along too late to be on the album (it was played for the first time at the Portsmouth gig) because I think it’s the better song.
+“I’m A Wheel” is a palette-cleansing bit of punky noise, a song that dislodged the similar sounding “Kicking Television” from the track list. Both tracks are pretty inconsequential and I wonder if “Kicking Television” didn’t come along too late to be on the album (it was played for the first time at the Portsmouth gig) because I think it’s the better song.
 
 Then along comes “Theologians” with all its anti-religious bluster “Theologians… don’t know nothing about my soul” and the repeated chorus of “a ghost is born”. The end refrain of “I’m a cherry ghost” lends a surreal aspect to the song and yet somehow makes complete sense.
 
@@ -50,11 +50,11 @@ The next track “Less Than You Think” lasts for fifteen minutes. It begins wi
 
 The album ends with “[The Late Greats](http://wilcoworld.net/#!/song/the-late-greats/)”, a great song that was apparently added to the track listing at the last minute. It has a wonderful throwaway sound to it and it’s very straightforward, yet somehow it would not sit as perfectly as it does on any other Wilco album. It’s a beautiful chiming song about the ephemeral nature of pop music: “The best songs never get sung / the best laugh never leaves your lungs / it’s so good you will never know / they never even played a show” (a bit like all my “bands”).
 
-I love this album: its sentiments, its confusion and most of all some cracking guitar solos. As I said [when I wrote about that hat](whatever-happened-to-that-hat), I first encountered this album while in a foggy state in my life and its feints and dead ends, its heart and head, all served to draw me in. The ghost in the machine, the soul in the body. The long-lasting light.
+I love this album: its sentiments, its confusion and most of all some cracking guitar solos. As I said [when I wrote about that hat](/whatever-happened-to-that-hat), I first encountered this album while in a foggy state in my life and its feints and dead ends, its heart and head, all served to draw me in. The ghost in the machine, the soul in the body. The long-lasting light.
 
-***
+---
 
-Hero image is a [Wilco Easter Egg](https://flic.kr/p/e4oByj) based on the cover of "A Ghost is Born", [creative commons license](https://creativecommons.org/licenses/by-nc-nd/2.0/).
+<!--Hero image is a [Wilco Easter Egg](https://flic.kr/p/e4oByj) based on the cover of "A Ghost is Born", [creative commons license](https://creativecommons.org/licenses/by-nc-nd/2.0/).-->
 
 [^1]: Yes, another squall. Just like number 27. And I note the fact that I’m following up a review of “Come On Die Young” with one of “A Ghost Is Born”. I don’t plan it like this, honest.
-[^2]: No wonder Lennon and McCartney fell out: John takes a load of drugs and explores the life of the mind, Paul stays at home to learn musique concrete and write songs about a shaggy Old English Sheepdog.
+[^2]: No wonder Lennon and McCartney fell out: John takes a load of drugs and explores the life of the mind, Paul stays at home to learn _musique concrete_ and write songs about a shaggy Old English Sheepdog.

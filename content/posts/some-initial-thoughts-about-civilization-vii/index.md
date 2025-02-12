@@ -3,13 +3,13 @@ title: "Some Initial Thoughts About Civilization VII"
 category: "Software"
 tags: [Twenty Five, Civ VII, Games, Software]
 date: "2025-02-11"
-description: 'Sid Meier''s Civilization VII is out today to much fanfare. After spending what top scientists are calling "far too long" playing Civ VI and a couple of run throughs during the early access period, here are some thoughts on the new instalment.'
+description: 'Sid Meier\'s Civilization VII is out today to much fanfare. After spending what top scientists are calling "far too long" playing Civ VI and a couple of run throughs during the early access period, here are some thoughts on the new instalment.'
 ---
-Sid Meier''s Civilization VII is out today to much fanfare. After spending what top scientists are calling "far too long" playing Civ VI and a couple of run throughs during the early access period, here are some thoughts on the new instalment.
+Sid Meier's Civilization VII is out today to much fanfare. After spending what top scientists are calling "far too long" playing Civ VI and a couple of run-throughs of the new game during the early access period, here are some thoughts on the new instalment.
 
 ### It's not really finished yet
 
-Civ games are rarely finished on day 1. Civ V was not really the game I came to know and love until its third DLC. Civ VI kept breaking, including a memorable "every resource becomes bananas" bug in Mac multiplayer. It's improved at a pretty consistent rate over its long lifespan, both from the DLC and modding perspective. In some ways, Civ VI remains unfinished for Mac players as a game-breaking bug introduced in the last six months has still not been fixed.
+Civ games are rarely finished on day 1. Civ V was not really the game I came to know and love until its third DLC. Civ VI kept breaking, including a memorable "every resource becomes bananas" bug in Mac multiplayer. It's improved at a pretty consistent rate over its long lifespan, both from the DLC and modding perspective. In some ways, Civ VI remains unfinished for Mac players as a game-breaking bug was introduced in the last six months that has still not been fixed.
 
 So it's no surprise that Civ VII comes with a few bits missing. For us chez mattischrome, the big miss is a team mode in multiplayer so that Ingrid and I can play co-operatively. But the thing that feels least finished of all is the user interface, which brings me to my next point...
 
