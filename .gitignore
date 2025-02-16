@@ -1,3 +1,4 @@
 ./public
 ./new_post.sh
 ./find_drafts.sh
+./find_dates.sh

@@ -1,5 +1,5 @@
 ---
-category: Ideas, Mathematics
+category: Mathematics
 pubDate: '2013-07-29T00:00:00Z'
 tags:
 - Ideas
