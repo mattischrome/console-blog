@@ -28,14 +28,11 @@ So far so dull, but at the same time I have also started to learn an appreciable
 
 I also use Obsidian to make notes now but can access and create them in Neovim. This is really cool. My Obsidian vault is on iCloud, so I can edit these notes on my phone when I'm on the go and still use Neovim when I want to do some serious typing. I've also configured some keyboard shortcuts for the Neovim Obsidian plugin and it's quite fun to know that I've set those up each time I use them.
 
-|-------------------|------------------------|
 | Obsidian function | Matt's Neovim Shortcut |
-|-------------------|------------------------|
 | Open current file in Obsidian app | LDR o o o |
 | Make a new Obsidian note | LDR o n o |
 | Make a new Obsidian note from a template | LDR o n t |
 | Open today's Obsidian daily note | LDR o d t |
-|-------------------|------------------------|
 
 In the above table "LDR" is the leader key, which for me is the spacebar.
 
