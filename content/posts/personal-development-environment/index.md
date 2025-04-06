@@ -28,15 +28,24 @@ So far so dull, but at the same time I have also started to learn an appreciable
 
 I also use Obsidian to make notes now but can access and create them in Neovim. This is really cool. My Obsidian vault is on iCloud, so I can edit these notes on my phone when I'm on the go and still use Neovim when I want to do some serious typing. I've also configured some keyboard shortcuts for the Neovim Obsidian plugin and it's quite fun to know that I've set those up each time I use them.
 
-| Obsidian function                        | Matt's Neovim Shortcut |
-| ---------------------------------------- | ---------------------- |
-| Open current file in Obsidian app        | `LDR o o o`            |
-| Make a new Obsidian note                 | `LDR o n o`            |
-| Make a new Obsidian note from a template | `LDR o n t`            |
-| Open today's Obsidian daily note         | `LDR o d t`            |
-| Open yesterday's Obsidian daily note     | `LDR o d y`            |
+| Obsidian function                             | Matt's Neovim Shortcut |
+| --------------------------------------------- | ---------------------- |
+| Open current file in Obsidian app             | `LDR o o o`            |
+| Make a new Obsidian note                      | `LDR o n`              |
+| Open Obsisian Quick Search                    | `LDR o q s`            |
+| Follow link in a note                         | `LDR o f l`            |
+| Make a new Obsidian note from a template      | `LDR o n t`            |
+| Open today's Obsidian daily note              | `LDR o d t`            |
+| Open yesterday's Obsidian daily note          | `LDR o d y`            |
+| Open tomorrow's Obsidian daily note           | `LDR o d w`            |
+| Search Obsidian                               | `LDR o s`              |
+| Make link from visual selection               | `LDR o l`              |
+| Link to a new note from visual selection      | `LDR o l n`            |
+| Extract a new note from visual selection      | `LDR o e n`            |
+| Make a picker of links in a note              | `LDR o l k`            |
+| Paste an image from the clipboard into a note | `LDR o p i`            |
 
-In the above table "LDR" is the leader key, which for me is the spacebar.
+In the above table "LDR" is the leader key, which for me is the spacebar. Some of these are still a bit hit and miss in my setup but I'm hoping I can work through the issues with time.
 
 I've also set up autocomplete with a custom function that produces behaviour like the intellisense function on Visual Studio Code. This is nice when you've been typing for a while as more words become available for you to TAB to completion. It's really nice when you are making notes because you start to type notes faster the longer your note starts to get!
 
