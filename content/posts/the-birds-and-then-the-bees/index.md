@@ -8,7 +8,9 @@ description: "On the successive uses of the bird box in our garden"
 
 "I've never had one fail" says my Dad brandishing his drill on Boxing Day 2022, before heading out into the garden and putting up our Christmas gift, a handsome wooden bird box. "If I put it up, they'll come along eventually."
 
-The first year we watched and waiting. A couple of blue tits sniffed around before moving on. To be fair, our garden was not that hospitable an environment. We'd put the black plastic down that autumn to kill off the grass and do our own little reset. Time eventually passed to the point where we weren't going to be doing it ourselves.
+<!--more-->
+
+The first year we watched and waited. A couple of blue tits sniffed around before moving on. To be fair, our garden was not that hospitable an environment. We'd put the black plastic down that autumn to kill off the grass and do our own little reset. Time eventually passed to the point where we weren't going to be doing it ourselves.
 
 But early last year, I caught this glimpse of a blue tit looking out of the box. I was making a cup of tea and handily I had my phone in my pocket. I took this rather blurry snap and sent it to Dad. "Looking good", he pinged back almost instantly.
 
