@@ -2,7 +2,7 @@
 title: "The Birds and then the Bees"
 category: "Garden"
 tags: [Twenty Five, Garden, Bees, Birds, Nature]
-date: "2025-05-30"
+date: "2025-06-01"
 description: "On the successive uses of the bird box in our garden"
 ---
 
