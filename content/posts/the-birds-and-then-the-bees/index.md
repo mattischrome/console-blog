@@ -16,9 +16,13 @@ But early last year, I caught this glimpse of a blue tit looking out of the box.
 
 ![An early sighting of a blue tit at the bird box](images/01_blue_tit_early_sighting.jpg)
 
-Over the next few weeks we saw definite signs of next building activity. We began to take almost as much interest in the visits of neighbouring cats as own cats did. One of them, a black cat with white legs whom we dubbed Socks, was an almost daily visitor. Ingrid, growing fearful that the unseen brood might become a tasty snack for Socks, fashioned a sort of attempt at a barbed wire cordon. Well, a wire one anyway.
+Over the next few weeks we saw definite signs of nest building activity. Blue Tit 1 and Blue Tit 2 fussing back and forth. (We thought there were two but I don't think we saw the two together until later.)
 
-It seemed to work. Socks began to avoid our garden. More likely from our shooing them off, rather than any effect of the wire. One sunny day, Ingrid was able to shoot three minutes of video with both parents popping in and out of the bird box with wriggling caterpillars in their beaks.
+We began to take almost as much interest in the visits of neighbouring cats as our own cats did. One of them, a black cat with white legs whom we dubbed Socks, was an almost daily visitor. Ingrid, growing fearful that the unseen brood might become a tasty snack for Socks, fashioned a sort of attempt at a barbed wire cordon. Well, a wire one anyway.
+
+It seemed to work. Socks began to avoid our garden. More likely from our shooing them off, rather than any effect of the wire.
+
+One sunny day, Ingrid was able to shoot three minutes of video with both parents popping in and out of the bird box with wriggling caterpillars in their beaks.
 
 ![Still from Ingrid's video of blue tit feeding young at the bird box](images/02_blue_tit_at_box.jpg)
 
@@ -26,9 +30,9 @@ Before flying away to find more. Obviously, no interventions were staged to save
 
 ![Still from Ingrid's video with the blue tit flying away](images/03_blue_tit_in_flight.jpg)
 
-As time passed, we saw less and less of the blue tits. Spring, Summer, Autumn, all that. We have no idea whether the wire protection prevented Socks from getting a tasty snack.
+As time passed, we saw less and less of the blue tits. We looked out for fledglings learning to fly but saw none. The pressures of natural selection mean that doesn't take too long. Time passed: Spring, Summer, Autumn, all that. We have no idea whether the wire protection prevented Socks from getting a tasty snack.
 
-Meanwhile, we decided to finally get the garden sorted. I fretted about getting the bird box down from the fence, thinking that the work would disturb the birds. But because work began in February, it was probably too early for the nesting to start anyway. We left it up.
+Meanwhile, we decided to finally get the garden sorted. I fretted about getting the bird box down from the fence, thinking that the work would disturb any birds that decided to use the box this year. But because work began in February, it was probably too early for the nesting to start anyway. We left it up.
 
 And so the bird box became a bee box. I accidently knocked when laying out the parts for our new shed. Cue a miffed blur of buzzing and a brown bee sauntering out and into the blue yonder.
 
