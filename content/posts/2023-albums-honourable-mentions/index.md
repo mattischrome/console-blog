@@ -1,16 +1,14 @@
 ---
 category: Album Digest
-pubDate: '2024-01-01T13:35:06Z'
-tags:
-- Music
-- Album Digest
-- Twenty Three
-- Twenty Four
-- Albums
-title: '2023 Albums: Honourable Mentions'
+date: '2024-01-01'
 slug: 2023-albums-honourable-mentions
+tableOfContents: true
+tags: ["Music", "Album Digest", "Twenty Three", "Twenty Four", "Albums"]
+title: '2023 Albums: Honourable Mentions'
 ---
 A quick list of ten other albums I considered to be among the best of last year. I either listened to these less, or in the cases of "Transmission Three" and "Be Opened By The Wonderful" considered them to be ineligible as they are compilations.
+
+<!--more-->
 
 ### Yves Tumor, "Praise a Lord Who Chews but Which Does Not Consume; (Or Simply, Hot Between Worlds)"
 

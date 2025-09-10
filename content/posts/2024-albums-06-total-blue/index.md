@@ -1,11 +1,16 @@
 ---
-title: "2024 Albums of the Year #6: Total Blue, Total Blue"
-category: "Album Digest"
-tags: [Twenty Four, Music, Total Blue, Electronic, Jazz, Ambient]
-date: "2025-01-05"
-description: "A beautiful and woozy concoction of ambient electronica and jazz, Total Blue channels all the chill vibes and optimism found in mid-90s ambient music. Plus it's great to fall asleep to!"
+category: Album Digest
+date: '2025-01-05'
+tableOfContents: true
+tags:
+- Twenty Four
+- Music
+- Total Blue
+- Electronic
+- Jazz
+- Ambient
+title: '2024 Albums of the Year #6: Total Blue, Total Blue'
 ---
-
 What do you think of when you think of the colour blue? The sea? Perhaps the sky? Maybe it makes you think of blue stones like sapphires, or flowers such as forget-me-nots? Maybe the colour blue is the glow of a phone screen on someone's face (maybe yours) in the dark? Blue gathers at the edges of the harsh white LED light that has come to dominate our night time existence.
 
 Think again of a clear flowing stream and you'll be instantly transported to the sound world of "The Path", the first track on Total Blue's eponymous album. A mixture of soft jazz and delicate ambient electronics, it flows over and under itself, in layers that ripple and shimmer like a river in motion. If we are living in the future of virtual reality headsets, then "Total Blue" will make you realise that the technology was in our heads all along. the next track "Corsair" is evocative of so many things: different times and places, memories, all created and summoned into your head with just a few melodies and motifs.

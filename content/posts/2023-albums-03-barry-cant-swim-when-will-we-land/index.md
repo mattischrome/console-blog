@@ -1,19 +1,15 @@
 ---
 category: Album Digest
-pubDate: '2023-12-29T18:35:06Z'
-tags:
-- Album Digest
-- Music
-- Twenty Three
-- Albums
-- Barry Can't Swim
-- Electronic
-title: '2023 Albums of the Year #3: Barry Can''t Swim, When Will We Land?'
+date: '2023-12-29'
 slug: 2023-albums-03-barry-cant-swim-when-will-we-land
+tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Barry Can't Swim", "Electronic"]
+title: '2023 Albums of the Year #3: Barry Can''t Swim, When Will We Land?'
 ---
-![Cover of When Will We Land by Barry Can't Swim](../../assets/images/albums-2023/barry-cant-swim-when-will-we-land.jpeg)
-
 Some albums you come to one way: a good review on a blog you respect, a track appearing on a playlist by someone whose taste you trust, etc and so on. And sometimes you get directed to something multiple times. This is what happened to me this year with the irrepressible “When Will We Land?” by Barry Can’t Swim. Anyway, tracks by "Barry" appeared in mixes a lot this year and the album kept popping up in eagerly anticipated lists.
+
+<!--more-->
+
+![Cover of When Will We Land by Barry Can't Swim](../../assets/images/albums-2023/barry-cant-swim-when-will-we-land.jpeg)
 
 I've listened to this album a lot but I still have questions. Like is "can't swim" his last name? Was he not made to learn in detention at lunchtime in the school's outdoor pool in an English April like yours truly?! 
 

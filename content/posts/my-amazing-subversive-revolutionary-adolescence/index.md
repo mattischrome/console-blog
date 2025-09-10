@@ -1,11 +1,8 @@
 ---
 category: Music
-pubDate: '2014-07-22T00:00:00Z'
-tags:
-- Music
-- The Orb
-- Fourteen
-- Electronic
+date: '2014-07-22'
+tableOfContents: true
+tags: ["Music", "The Orb", "Fourteen", "Electronic"]
 title: My Amazing Subversive Revolutionary Adolescence
 ---
 ## Or at least its subversive soundtrack…

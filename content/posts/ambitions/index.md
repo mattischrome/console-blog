@@ -1,11 +1,8 @@
 ---
 category: Ideas
-pubDate: '2012-11-10T00:00:00Z'
-tags:
-- Ideas
-- Lists
-- Self Improvement
-- Twelve
+date: '2012-11-10'
+
+tags: ["Ideas", "Lists", "Self Improvement", "Twelve"]
 title: Ambitions
 ---
 Sometimes, when I am feeling a bit down, I like to write down some of my ambitions. As you can see from this list they are mostly pretty humble but they are also a bit cheesy and embarassing, so I have put them after the fold!

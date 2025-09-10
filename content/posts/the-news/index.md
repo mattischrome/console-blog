@@ -1,10 +1,8 @@
 ---
 category: Ideas
-pubDate: '2011-07-25T00:00:00Z'
-tags:
-- News
-- Ideas
-- Eleven
+date: '2011-07-25'
+
+tags: ["News", "Ideas", "Eleven"]
 title: The News
 ---
 > “I read the news today, oh boy”  (The Beatles, _A Day In The Life_.)

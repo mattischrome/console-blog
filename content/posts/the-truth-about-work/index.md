@@ -1,10 +1,8 @@
 ---
 category: Life Experiences
-pubDate: '2013-08-14T00:00:00Z'
-tags:
-- Life Experiences
-- Work
-- Thirteen
+date: '2013-08-14'
+tableOfContents: true
+tags: ["Life Experiences", "Work", "Thirteen"]
 title: The Truth About Work
 ---
 ## Motivation and Lies

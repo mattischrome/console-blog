@@ -1,15 +1,8 @@
 ---
 category: Music
-pubDate: '2016-06-30T00:00:00Z'
-tags:
-- Album Digest
-- June
-- Music
-- Roxette
-- Tegan and Sara
-- Flume
-- Islands
-- Sixteen
+date: '2016-06-30'
+tableOfContents: true
+tags: ["Album Digest", "June", "Music", "Roxette", "Tegan and Sara", "Flume", "Islands", "Sixteen"]
 title: Album Digest, June 2016
 ---
 Album Digest June 2016 is a poppy batch of albums. We have the return of my long-time favourites Roxette and the heroes of my South American tour Tegan & Sara. There's some dance music in the form of Flume's album "Skin": an Australian presence ahead of the new Avalanches album next month. Finally there is the first of two new albums by Islands - both were released back in May but one gets reviewed this month and the other next month.

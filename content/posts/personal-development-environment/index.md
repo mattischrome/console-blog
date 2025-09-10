@@ -1,21 +1,17 @@
 ---
-title: "Personal Development Environment"
-category: "Software"
+category: Software
+date: '2025-04-02'
 tags:
-  [
-    Twenty Five,
-    Neovim,
-    R,
-    Python,
-    Configuration,
-    Ideas,
-    Knowledge Management,
-    Notes,
-  ]
-date: "2025-04-02"
-description: "How I'm trying to use Neovim as a multi-functional everything app."
+- Twenty Five
+- Neovim
+- R
+- Python
+- Configuration
+- Ideas
+- Knowledge Management
+- Notes
+title: Personal Development Environment
 ---
-
 I've been trying to settle on a text editor, IDE, and terminal for a long time now. Partly I'm limited by what I can use at work because I owe to myself and my colleagues to be able to reproduce all my skills in a work setting. However, part of me has also wandered off a bit after reading about the idea of a "personal Development Environment" (or PDE I guess, though in a former life that [meant something very different](https://en.wikipedia.org/wiki/Partial_differential_equation)), which is essentially an application where you can do anything and have it configured exactly how you like. Here's an update on my progress on that front:
 
 <!--more-->

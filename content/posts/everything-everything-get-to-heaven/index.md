@@ -1,12 +1,8 @@
 ---
 category: Music
-pubDate: '2015-09-01T00:00:00Z'
-tags:
-- Album Digest
-- August
-- Everything Everything
-- Fifteen
-- Music
+date: '2015-09-01'
+
+tags: ["Album Digest", "August", "Everything Everything", "Fifteen", "Music"]
 title: Everything Everything, Get To Heaven
 ---
 It's difficult to write honestly about your feelings. It's difficult to write about your feelings consistently, for a living on a regular basis. It's difficult to write about your feelings when the world constantly intrudes with inanity, insanity and hatred. It's difficult to write under those conditions without seeming frayed, without coming loose at the edges.

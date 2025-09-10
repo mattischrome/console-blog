@@ -1,15 +1,8 @@
 ---
 category: Music
-pubDate: '2013-05-31T00:00:00Z'
-tags:
-- Album Digest
-- May
-- Music
-- Lilacs and Champagne
-- The Phoenix Foundation
-- The National
-- Vampire Weekend
-- Thirteen
+date: '2013-05-31'
+tableOfContents: true
+tags: ["Album Digest", "May", "Music", "Lilacs and Champagne", "The Phoenix Foundation", "The National", "Vampire Weekend", "Thirteen"]
 title: Album Digest, May 2013
 ---
 ## Lilacs & Champagne _Danish & Blue_

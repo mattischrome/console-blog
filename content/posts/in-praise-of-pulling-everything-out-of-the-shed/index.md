@@ -1,11 +1,14 @@
 ---
-title: "In Praise of Pulling Everything out of the Shed..."
-category: "Ideas"
-tags: [Twenty Five, Garden, Shed, Ideas, Getting Stuff Done]
-date: "2025-02-17"
-description: "Yesterday I pulled everything out of our shed and we took the stuff we didn't need down to the dump. No one likes going to the dump, but it was strangely cathartic."
+category: Ideas
+date: '2025-02-17'
+tags:
+- Twenty Five
+- Garden
+- Shed
+- Ideas
+- Getting Stuff Done
+title: In Praise of Pulling Everything out of the Shed...
 ---
-
 Yesterday I pulled everything out of our shed and we took the stuff we didn't need down to the dump. No one likes going to the dump, but it was strangely cathartic. It's due in part to letting go of things from the past, but also the fact that I haven't felt up to much lately. It ended up being a sunny afternoon so it was a pleasant walk back after we dropped off the hire car.
 
 <!--more-->

@@ -1,10 +1,8 @@
 ---
 category: Ideas
-pubDate: '2011-07-19T00:00:00Z'
-tags:
-- Ideas
-- Self Improvement
-- Eleven
+date: '2011-07-19'
+
+tags: ["Ideas", "Self Improvement", "Eleven"]
 title: A Beta Test Of Everything
 ---
 Reading a few articles about the recent launch of Google+, a few things hit home. Google tends to launch a product that works and not always one that is perfect or finished (like, say, Apple). Sometimes it takes them several iterations to get right. They love the beta tag. In fact, I think it was Google (or possibly Flickr) that made me aware of the concept of beta software.

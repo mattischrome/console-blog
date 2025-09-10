@@ -1,11 +1,8 @@
 ---
 category: Writing
-pubDate: '2018-06-10T00:00:00Z'
-tags:
-- Writing
-- Ideas
-- Blogging
-- Eighteen
+date: '2018-06-10'
+
+tags: ["Writing", "Ideas", "Blogging", "Eighteen"]
 title: Reboot
 ---
 As much as I hate to write about writing, especially when I write so infrequently, I feel I need to reboot this blog. I wrote so few posts in recent months I considered giving up altogether.

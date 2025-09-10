@@ -1,11 +1,8 @@
 ---
 category: Ideas
-pubDate: '2023-06-19T00:00:00Z'
-tags:
-- Procrastination
-- Work
-- Software
-- Twenty Three
+date: '2023-06-19'
+
+tags: ["Procrastination", "Work", "Software", "Twenty Three"]
 title: On learning new tools
 ---
 It strikes me that it is better to sit and think about what you need to do, rather than endless try out new tools and hoping you end up with a use for them. I'm not saying that innovation is bad, or that you shouldn't stretch yourself into some new spot once in a while, but you will become more valuable to others if you can identify what it is you are supposed to be doing and then use your existing skills to get that job done. Don't go looking at galleries of tools and techniques in service of finding something to do. Trust me, I know from experience that it is a great way to spend a hell of a lot of time not getting anywhere in particular.

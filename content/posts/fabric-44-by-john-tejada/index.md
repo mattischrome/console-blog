@@ -1,14 +1,8 @@
 ---
 category: Music
-pubDate: '2023-06-05T00:00:00Z'
-tags:
-- Music
-- Album Revisit
-- Electronic
-- Compilation
-- Fabric
-- John Tejada
-- Twenty Three
+date: '2023-06-05'
+
+tags: ["Music", "Album Revisit", "Electronic", "Compilation", "Fabric", "John Tejada", "Twenty Three"]
 title: Fabric 44 by John Tejada
 ---
 This is one of my more played Fabric mix CDs so I decided to go for it when my random prompter plumped for this earlier today. One constraint of these posts was to write it in roughly the amount of time it takes to listen to it. You'd think that for a mix CD that would be ok. After all, this mix is a full CD and 74 minutes long.

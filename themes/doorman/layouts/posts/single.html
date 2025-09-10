@@ -1,0 +1,54 @@
+{{ define "main" }}
+
+<!-- Include RSS/Atom feed info if needed -->
+{{ if and .IsPage (not .IsHome) }}
+<h1>{{ .Title }}</h1>
+{{ end }}
+
+<article>
+  <p class="header">
+    {{ if .Date }}
+    Posted on {{ .Date.Format "2006-01-02" }}
+    {{ end }}
+    {{ if .Params.readingTime }}
+    &thinsp;·&thinsp; <span title="{{ .WordCount }} words">{{ .Params.readingTime }}</span> &thinsp;·&nbsp;
+    {{ else if .ReadingTime }}
+    &thinsp;·&thinsp; <span title="{{ .WordCount }} words">{{ .ReadingTime }} min read</span> &thinsp;·&nbsp;
+    {{ end }}
+    {{ range $index, $tag := .Params.tags }}
+    {{ if gt $index 0 }}&thinsp;·&thinsp;{{ end }}
+  <a title="All pages tagged '{{ $tag }}'." href="{{ printf "/tags/%s" (urlize $tag) | relURL }}" rel="tag">{{ $tag }}</a>
+    {{ end }}
+  </p>
+  
+  <section>
+    <!-- Table of contents inline for smaller screens -->
+    {{ if .Params.tableOfContents }}
+    <div id="contents">
+      <p class="mini-header">Contents</p>
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
+
+    <!-- Main content -->
+    {{ .Content }}
+  </section>
+
+  <!--{{ partial "tags.html" . }}-->
+  {{ partial "related.html" . }}
+  
+  {{ if .Site.Params.show_post_footer }}
+  <!-- Post footer with fleuron -->
+  <div style="text-align:center;">
+    {{ if .Site.Params.fleuron_image }}
+    <img class="fleuron-block" src="{{ .Site.Params.fleuron_image | relURL }}" style="max-width: 3cm" alt="End of post fleuron">
+    {{ end }}
+    {{ if .Site.Params.contact_email }}
+    Have a comment? Write me an <a href="{{ .Site.Params.about_url | default "/about" | relURL }}">email!</a>
+    {{ end }}
+  </div>
+  {{ end }}
+</article>
+{{ partial "prevnext.html" . }}
+
+{{ end }}

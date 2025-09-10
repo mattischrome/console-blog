@@ -1,12 +1,8 @@
 ---
 category: Life Experiences
-pubDate: '2016-09-08T00:00:00Z'
-tags:
-- Writing
-- Blogging
-- Depression
-- Ideas
-- Sixteen
+date: '2016-09-08'
+
+tags: ["Writing", "Blogging", "Depression", "Ideas", "Sixteen"]
 title: I Don't Have a Clue, part 43
 ---
 *A little man wearing a bow tie, and possibly a fez, scurries into the middle of the frame clutching a clapboard. Breathing heavily he hoists the clapboard up to chest height. He holds the clapper up then brings down while slurring &quot;This is a blog post about not having a clue, take 43&quot;. He exits to the right of the frame.*

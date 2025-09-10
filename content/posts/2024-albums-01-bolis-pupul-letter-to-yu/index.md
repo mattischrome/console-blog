@@ -1,11 +1,14 @@
 ---
-title: "2024 Albums of the Year #1: Bolis Pupul, Letter To Yu"
-category: "Album Digest"
-tags: [Twenty Four, Album, Electronic, Bolis Pupul]
-date: "2025-01-10"
-description: "Come for the story and stay for the beats. Letter To Yu is an emotional and uplifting account of an artist's search for meaning in their past and that of a parent."
+category: Album Digest
+date: '2025-01-10'
+tableOfContents: true
+tags:
+- Twenty Four
+- Album
+- Electronic
+- Bolis Pupul
+title: '2024 Albums of the Year #1: Bolis Pupul, Letter To Yu'
 ---
-
 [Bolis Pupul](https://bolispupul.bandcamp.com) (the stage name of Boris Zeebroek) is an artist on [Soulwax's Deewee label](https://deew.ee/catalogue). ["Letter to Yu"](https://deew.ee/catalogue/074) is his debut album, inspired by a trip to Hong Kong to investigate his family history. It investigates themes of place, family, and identity. We are exposed to everywhere all at once but we're also all *from* somewhere, even if it's somewhere we might not recommend or understand.
 
 Aside from the theme of the album, it's a satisfying and varied electronic album. You have a pop song early on in "Completely Half" ("I thought that I / would fit right in / I'm on the border of the state I'm in") but the rest of side one is fine electro, peaking with the frenetic "Doctor Says" and ebbing out with the ringing "Spicy Crab". (I realised writing this that the vinyl omits "Frogs" from the streaming version, but this makes the vinyl version of the album better paced.)

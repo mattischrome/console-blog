@@ -1,11 +1,8 @@
 ---
 category: Books
-pubDate: '2018-10-30T00:00:00Z'
-tags:
-- Books
-- Richard Powers
-- Fiction
-- Eighteen
+date: '2018-10-30'
+
+tags: ["Books", "Richard Powers", "Fiction", "Eighteen"]
 title: Richard Powers, The Overstory
 ---
 "The Overstory" by Richard Powers piqued my interest among the novels shortlisted for the Booker Prize. And [once again](satin-island-tom-mccarthy-review) the book that interested me most did not win. One year I will succeed in my prediction!

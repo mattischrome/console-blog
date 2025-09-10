@@ -1,15 +1,8 @@
 ---
 category: Music
-pubDate: '2013-09-30T00:00:00Z'
-tags:
-- Album Digest
-- September
-- Music
-- Arctic Monkeys
-- BT
-- Goldfrapp
-- Janelle Monae
-- Thirteen
+date: '2013-09-30'
+tableOfContents: true
+tags: ["Album Digest", "September", "Music", "Arctic Monkeys", "BT", "Goldfrapp", "Janelle Monae", "Thirteen"]
 title: Album Digest, September 2013
 ---
 A nice diverse selection of albums this month:

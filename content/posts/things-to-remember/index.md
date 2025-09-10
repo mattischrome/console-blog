@@ -1,11 +1,8 @@
 ---
 category: Ideas
-pubDate: '2020-05-26T00:00:00Z'
-tags:
-- Ideas
-- Self Improvement
-- Depression
-- Twenty
+date: '2020-05-26'
+
+tags: ["Ideas", "Self Improvement", "Depression", "Twenty"]
 title: Things to Remember
 ---
 These are some things I jotted down one day last week, I'll refine them a bit more later on. Think of it as an aide-memoire of things that work for me, your milage may vary.

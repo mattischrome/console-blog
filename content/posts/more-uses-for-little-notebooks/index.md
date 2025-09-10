@@ -1,11 +1,15 @@
 ---
-title: "More Uses For Little Notebooks"
-category: "Writing"
-tags: [Twenty Five, Notebooks, Notes, Blogging, Ideas, Writing]
-date: "2025-02-04"
-description: "I'm a hoarder of small notebooks and I've come up with a nice way to use them."
+category: Writing
+date: '2025-02-04'
+tags:
+- Twenty Five
+- Notebooks
+- Notes
+- Blogging
+- Ideas
+- Writing
+title: More Uses For Little Notebooks
 ---
-
 I'm an avid collector of small notebooks. So much so that I have a box full of them in my office. I'm not afraid of writing in them, it's just that I've bought so many over the years I can't get through them quick enough.<!--more-->
 
 The mania began with Field Notes shortly after I got back from South America. That trip made me hyperaware of the need for a notebook that was always with you. Fortunately, when travelling a camera can often take the place of a notebook. It allows you to capture the moment, though not always the exact thought going through your head when you presser the shutter down.

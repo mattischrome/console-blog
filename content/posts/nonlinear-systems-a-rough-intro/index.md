@@ -1,11 +1,8 @@
 ---
 category: Mathematics
-pubDate: '2012-10-02T00:00:00Z'
-tags:
-- Maths
-- Lists
-- Intros
-- Twelve
+date: '2012-10-02'
+tableOfContents: true
+tags: ["Maths", "Lists", "Intros", "Twelve"]
 title: 'Nonlinear Systems: A Rough Intro'
 ---
 This is another mathematics post that does not actually feature any equations or graphs. It is intended to set the way clear for writing regularly about nonlinear systems. This in itself is a precursor to writing more about mathematical biology as biological systems are inherently complex and nonlinear. I am reading [P. G. Drazin’s textbook on Nonlinear Systems](http://www.amazon.co.uk/Nonlinear-Systems-Cambridge-Applied-Mathematics/dp/0521406684/ref=sr_1_1?ie=UTF8&qid=1349212296&sr=8-1) and this post is a glossary of terms from the start of the book laid down here because I wanted to remember how to typeset [definition lists](http://www.w3schools.com/tags/tag_dl.asp) in Markdown (though in the end I (ab)used `<h4>` tags because it looked better).

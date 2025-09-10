@@ -1,21 +1,20 @@
 ---
 category: Understated Classics
-pubDate: '2010-09-11T00:00:00Z'
-tags:
-- Understated Classics
-- Music
-- Biosphere
-- Electronic
-- Ten
-title: 'Understated Classics #4: Substrata by Biosphere'
+date: '2010-09-11'
 slug: understated-classics-4
+tableOfContents: true
+tags: ["Understated Classics", "Music", "Biosphere", "Electronic", "Ten"]
+title: 'Understated Classics #4: Substrata by Biosphere'
 ---
+
+I bought this album in the summer between my two years at college. I remember listening to this music under skies glowering with clouds so 1997 must have been a poor summer. I’d just bought a book of photography too, which placed photos from the north and south poles on opposite pages. I bought it mainly for the penguins that were, of course, on pretty much every other page. The pictures of 
+snow and ice soon became the ideal companions to this album.
+
+<!-- more -->
+
 ![](../../assets/images/other/UC4add1.jpg)
 
-I bought this album in the summer between my two years at college. I remember listening to this music under skies glowering with clouds so 1997 must have been a poor summer. I’d just bought a book of photography too, which placed photos from the north and south poles on opposite pages. I bought it mainly for the penguins that were, of course, on pretty much every other page. The pictures of snow and ice soon became the ideal companions to this album.
-
 In 1997, I was still finding my feet in terms of taste, so when I bought Substrata I knew that it would be aligned to my emerging thirst for all things ambient and electronic, but it was nonetheless something of a risk. This was before you could stream something off the internet, a time when you bought music out of curiosity because you thought you might like it, not out of guilt after you’ve pirated it because it turns out that you do.
-
 
 I think with Substrata I had a good hunch. I grew to like it more and more as time went on. It is a splendid ambient album that, as you can infer from the pictures of icy mountain ranges plastered all over this post, has a distinctly Arctic theme[^1]. It contains some lovely found sound too. I am a big fan of ambient music, but I find that found sound rarely works for me. I think that Substrata is the exception that proves my rule. I think that found sound tends to tip ambient music into somewhere a bit cheesy, into something not unlike those CDs of babbling brooks or jungle atmospheres that gather dust at the checkouts of health food stores.
 

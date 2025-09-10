@@ -1,12 +1,8 @@
 ---
 category: Writing
-pubDate: '2022-06-01T00:00:00Z'
-tags:
-- Writing
-- Blogging
-- Thoughts
-- Life Experiences
-- Programming
+date: '2022-06-01'
+
+tags: ["Writing", "Blogging", "Thoughts", "Life Experiences", "Programming"]
 title: The paths in the wood
 ---
 I began writing this post after realising that it is the first of June and I might as well attempt once more to write a post every day. The speed with which the first of the month comes around, inviting another such promise, always amuses me. But at the moment I am not sure whether this blog will still exist come the end of the month. I think I want to start again in pastures new.

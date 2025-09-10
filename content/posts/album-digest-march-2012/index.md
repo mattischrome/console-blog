@@ -1,16 +1,8 @@
 ---
 category: Music
-pubDate: '2012-03-31T00:00:00Z'
-tags:
-- Album Digest
-- March
-- Music
-- Fanfarlo
-- The Shins
-- Grails
-- New Build
-- Scuba
-- Twelve
+date: '2012-03-31'
+tableOfContents: true
+tags: ["Album Digest", "March", "Music", "Fanfarlo", "The Shins", "Grails", "New Build", "Scuba", "Twelve"]
 title: Album Digest, March 2012
 ---
 Five albums for Album Digest March 2012

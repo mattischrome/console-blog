@@ -1,11 +1,8 @@
 ---
 category: Books
-pubDate: '2015-03-16T00:00:00Z'
-tags:
-- Books
-- Ned Beauman
-- Fiction
-- Fifteen
+date: '2015-03-16'
+tableOfContents: true
+tags: ["Books", "Ned Beauman", "Fiction", "Fifteen"]
 title: Ned Beauman, Glow
 ---
 Glow is about a guy called Raf, a Londoner whose life is going nowhere in particular; a state of affairs not helped by “Non-24 Hour Sleep/Wake Syndrome”. One night while experimenting with a new ecstacy-like drug that’s apparently derived from a social anxiety medication for dogs, Raf meets a beautiful girl and then loses her to the crowd in a blink-and-you-miss-it moment. From there a conspiracy evolves involving the titular dog-medication-derived drug, Burmese dissidents, corporate espionage, pirate radio stations, and urban foxes.

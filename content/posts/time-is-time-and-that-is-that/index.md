@@ -1,13 +1,8 @@
 ---
 category: Politics and Beliefs
-pubDate: '2015-06-18T00:00:00Z'
-tags:
-- Ideas
-- Philosophy
-- Social Media
-- Fifteen
-- Blogging
-- Internet
+date: '2015-06-18'
+
+tags: ["Ideas", "Philosophy", "Social Media", "Fifteen", "Blogging", "Internet"]
 title: Time Is Time and That Is That
 ---
 A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.

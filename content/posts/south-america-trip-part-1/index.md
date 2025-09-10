@@ -1,11 +1,8 @@
 ---
 category: Travel
-pubDate: '2013-11-29T00:00:00Z'
-tags:
-- South America
-- Ecuador
-- Quito
-- Thirteen
+date: '2013-11-29'
+
+tags: ["South America", "Ecuador", "Quito", "Thirteen"]
 title: South America, Part 1
 ---
 By the time this goes up, I will be at least a week in to my South American tour. I flew out to Ecuador last Thursday (the 21st) and ended up being awake for more than twenty four hours. My flight left London early and I had a three hour stopover in Madrid, then a twelve hour flight onward to Quito. My bag didn't leave Madrid though, so we were separated for about twenty four nerve-racking hours. Luckily, I'd packed a change of clothes and so I was still able to explore Quito with Lee and Miriam (fellow Tucan travellers) the next day without too much discomfort.

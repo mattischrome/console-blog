@@ -1,13 +1,8 @@
 ---
 category: Travel
-pubDate: '2018-11-21T00:00:00Z'
-tags:
-- Time Passing
-- Ideas
-- South America
-- Eighteen
-- Thirteen
-- Ecuador
+date: '2018-11-21'
+
+tags: ["Time Passing", "Ideas", "South America", "Eighteen", "Thirteen", "Ecuador"]
 title: Five years after
 ---
 Five years ago I set out at 3am for Heathrow airport to catch the early morning flight to Madrid. There I connected with a flight to Quito in Ecuador. The previous days and weeks had been fraught with worry about whether I was doing the right thing. Did I get the right vaccinations? Would I have enough money? Would I cope with all that travel? Was I coming back? What was I going to do with all my stuff?

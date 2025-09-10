@@ -1,12 +1,8 @@
 ---
 category: Books
-pubDate: '2010-08-14T00:00:00Z'
-tags:
-- J. G. Ballard
-- Reading Projects
-- Science Fiction
-- Books
-- Ten
+date: '2010-08-14'
+tableOfContents: true
+tags: ["J. G. Ballard", "Reading Projects", "Science Fiction", "Books", "Ten"]
 title: J. G. Ballard, The Drowned World
 ---
 ### Does Science Fiction have to be believable to be meaningful?

@@ -1,11 +1,8 @@
 ---
 category: Books
-pubDate: '2013-05-20T00:00:00Z'
-tags:
-- Jeffrey Eugenides
-- Books
-- Novel
-- Thirteen
+date: '2013-05-20'
+
+tags: ["Jeffrey Eugenides", "Books", "Novel", "Thirteen"]
 title: Jeffrey Eugenides, The Marriage Plot
 ---
 "The Marriage Plot" by Jeffrey Eugenides is a novel about love and growing up set in the privileged world of US academia in the early eighties. The main plot concerns a love triangle involving two guys and a girl. Madeline Hanna, the girl at the apex of the love triangle, is the main focus of the novel and the majority of the novel is told from her standpoint. I think her sections are incredibly well written but I'd love the thoughts of a female reader, in case it is actually all a horribly male way of seeing through a young woman's eyes. In love with Madeline (and the guy that we meet first) is Mitchell Grammaticus, an overly deep guy who is terribly concerned about whether he is doing the right thing in the world. He thinks that religious studies is for him but later finds that it is harder to live up to your ideals than you first imagine.

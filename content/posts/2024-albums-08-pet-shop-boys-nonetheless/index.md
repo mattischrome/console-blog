@@ -1,11 +1,14 @@
 ---
-title: "2024 Albums of the Year #8: Pet Shop Boys Nonetheless"
-category: "Album Digest"
-tags: [Twenty Four, Pet Shop Boys, Pop, Dance]
-date: "2025-01-03"
-description: "Initially underwhelming, this album turned out to be brilliant nonetheless. See what I did there?"
+category: Album Digest
+date: '2025-01-03'
+tableOfContents: true
+tags:
+- Twenty Four
+- Pet Shop Boys
+- Pop
+- Dance
+title: '2024 Albums of the Year #8: Pet Shop Boys Nonetheless'
 ---
-
 Nonetheless is the fifteenth album by the Pet Shop Boys. As seems to be a common theme with this top 10 so far, it's an album that initially underwhelmed me. Well, perhaps "underwhelmed" is a little unfair, it was more that it didn't seem to have much to it to distinguish it from their previous albums, and there have been some palpable duds in the previous fourteen.
 
 Nonetheless, this album is definitely a grower. As I've gotten to know some of the songs, I've come to appreciate the little details strewn throughout. For example, the lovely little rave riff that breaks into the bridge on "Loneliness", something that turns a potentially stern song into something a lot more fun.

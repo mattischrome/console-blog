@@ -1,15 +1,10 @@
 ---
 category: Understated Classics
-pubDate: '2012-01-23T00:00:00Z'
-tags:
-- Understated Classics
-- Bjork
-- Music
-- Electronic
-- Pop
-- Twelve
-title: "Understated Classics #15: D\xE9but by Bj\xF6rk"
+date: '2012-01-23'
 slug: understated-classics-15
+tableOfContents: true
+tags: ["Understated Classics", "Bjork", "Music", "Electronic", "Pop", "Twelve"]
+title: 'Understated Classics #15: Début by Björk'
 ---
 I got into Début via a cassette from the library, much like I did with [_Together Alone_ by Crowded House](uc1). I suppose it is less obscure than many of my choices for [this strand](understated-classics) but I do think that _Post_ is more well-known (because of _It’s Oh So Quiet_, which we shall mention here only briefly) and that _Homogenic_ is probably more popular among her fans.
 

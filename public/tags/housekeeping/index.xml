@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/what-is-in-my-rakefile-march-2023-edition/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/what-is-in-my-rakefile-march-2023-edition/</guid>
-      <description>&lt;p&gt;Because I am bored of forgetting what&amp;rsquo;s in my website&amp;rsquo;s Rakefile, I thought I&amp;rsquo;d write a list. Also, as I&amp;rsquo;m probably going to move over to a node based approach soon, it&amp;rsquo;s a handy wish list for my &lt;code&gt;package.json&lt;/code&gt; file when the time comes.&lt;/p&gt;&#xA;&lt;h3 id=&#34;make-a-new-post-in-_posts-named-title&#34;&gt;Make a new post in &lt;code&gt;_posts&lt;/code&gt; named &amp;ldquo;Title&amp;rdquo;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;code&gt;rake post[&amp;quot;Title&amp;quot;]&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;If no title is given, you will be prompted for one. The post will be opened in the editor specified in the Rakefile.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Because I am bored of forgetting what&amp;rsquo;s in my website&amp;rsquo;s Rakefile, I thought I&amp;rsquo;d write a list. Also, as I&amp;rsquo;m probably going to move over to a node based approach soon, it&amp;rsquo;s a handy wish list for my &lt;code&gt;package.json&lt;/code&gt; file when the time comes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,47 +1,124 @@
 <!DOCTYPE html>
-<html lang="en-gb">
+<html lang="en-gb" dir="ltr">
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>mattischrome/posts/programming-an-uno-game-part-2/</title>
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="all,follow">
-    <meta name="googlebot" content="index,follow,snippet,archive">
-    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/terminal-0.7.2.min.css">
-    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/animate-4.1.1.min.css">
-    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/console.css">
-    
-      <!--[if lt IE 9]>
-          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-      <![endif]-->
-       
-    
-</head>
-<body class="terminal">
-    <div class="container">
-        <div class="terminal-nav">
-          <header class="terminal-logo">
-            <div class="logo terminal-prompt">
-              
-              
-              <a href="http://localhost:1313/" class="no-style ">mattischrome</a>:~# 
-              <a href='http://localhost:1313/posts'>posts</a>/<a href='http://localhost:1313/posts/programming-an-uno-game-part-2'>programming-an-uno-game-part-2</a>/</div></header>
-          <nav class="terminal-menu">
-            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
-                
-            </ul>
-          </nav>
-        </div>
-    </div>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <div class="container " >
+
+
+<title>
+  Programming an UNO game, part 2 · mattischrome
+</title>
+
+
+<link rel="stylesheet" type="text/css" href="/css/navbar.css">
+<link rel="stylesheet" type="text/css" href="/css/colours.css">
+<link rel="stylesheet" type="text/css" href="/css/fonts.css">
+<link rel="stylesheet" type="text/css" href="/css/default.css">
+
+<link rel="stylesheet" type="text/css" href="/css/pygments.css">
+
+
+<link rel="stylesheet" type="text/css" href="/css/sidenotes.css">
+
+
+
+  
+</head>
+<body>
+  <div class="navbar-space">
+    <div id="navigation" class="no-print">
+    <div class="menu menu-open">
+      <a href="/" class="menu-heading menu-title">
+        Blog<br>
+        <span class="menu-subtitle">mattischrome</span>
+      </a>
+      <ul>
         
+        <li><a href="/about/">About</a></li>
+        
+        <li><a href="/">Home</a></li>
+        
+        <li><a href="/posts/">Posts</a></li>
+        
+        <li><a href="/tags/">Tags</a></li>
+        
+        
+      </ul>
+    </div>
+  </div>
+    
+    
+    
+    <div id="contents-big">
+      <p class="mini-header">Contents <a id="up-arrow" href="#">↑</a></p>
+      <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </div>
+    
+  </div>
+  
+  <div class="text-space">
+    <div id="content">
+      
+
+
+
 <h1>Programming an UNO game, part 2</h1>
-<p>Feb. 2, 2011</p>
-<br/><br/>
-<p>It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.</p>
+
+
+<article>
+  <p class="header">
+    
+    Posted on 2011-02-02
+    
+    
+    &thinsp;·&thinsp; <span title="1082 words">6 min read</span> &thinsp;·&nbsp;
+    
+    
+    
+  <a title="All pages tagged 'Programming'." href="/tags/programming" rel="tag">Programming</a>
+    
+    &thinsp;·&thinsp;
+  <a title="All pages tagged 'Projects'." href="/tags/projects" rel="tag">Projects</a>
+    
+    &thinsp;·&thinsp;
+  <a title="All pages tagged 'Games'." href="/tags/games" rel="tag">Games</a>
+    
+    &thinsp;·&thinsp;
+  <a title="All pages tagged 'Fun'." href="/tags/fun" rel="tag">Fun</a>
+    
+    &thinsp;·&thinsp;
+  <a title="All pages tagged 'Eleven'." href="/tags/eleven" rel="tag">Eleven</a>
+    
+  </p>
+  
+  <section>
+    
+    
+    <div id="contents">
+      <p class="mini-header">Contents</p>
+      <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </div>
+    
+
+    
+    <p>It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.</p>
 <h4 id="the-deck">The deck</h4>
 <p>An UNO deck consists of four sets of coloured cards (red, yellow, green and blue) together with eight wild cards. The non-wild cards are marked with either numbers or special symbols. The numbers range from zero to nine with two of each number except for the zero, which is unique. For each colour there are also two each of three kinds of special card: SKIP, SWAP and DRAW. The eight wild cards are divided into four each of two types: WILD and WILDFOUR. The wild cards are usually black in UNO decks so we may refer to them as black cards on occasion. There are one hundred and eight cards in total.</p>
 <h4 id="gameplay">Gameplay</h4>
@@ -62,21 +139,10 @@
 <h4 id="moving-on-to-the-code">Moving on to the code</h4>
 <p>Stay tuned for part three, where I will discuss how I program the game and will also give some screenshots of the console based version.</p>
 
- 
-<ul class="post_tags">
-   <li>
-    <a href="http://localhost:1313/tags/programming/">programming</a>
-  </li> <li>
-    <a href="http://localhost:1313/tags/projects/">projects</a>
-  </li> <li>
-    <a href="http://localhost:1313/tags/games/">games</a>
-  </li> <li>
-    <a href="http://localhost:1313/tags/fun/">fun</a>
-  </li> <li>
-    <a href="http://localhost:1313/tags/eleven/">eleven</a>
-  </li></ul>
+  </section>
 
-
+  
+  
 
   <h3>See Also</h3>
   <ul>
@@ -93,6 +159,9 @@
    
   </ul>
 
+  
+  
+</article>
 <div aria-label="Browse" class="post-single__browse browse-nav">
     
     <div class="browse-nav__next">
@@ -115,11 +184,19 @@
     <a href="http://localhost:1313/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
 </div>
 
-        <div class="footer">
-    Powered by <a href="https://gohugo.io/">Hugo</a> with
-    <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console Theme</a>. 
-</div>
 
     </div>
-  </body>
+    
+<div id="footer">
+    
+    <a id="to-top" href="#">top</a>
+    
+    
+    
+    
+    <a href="/about">About</a>
+    
+  </div>
+  </div>
+</body>
 </html>

@@ -1,11 +1,8 @@
 ---
 category: Books
-pubDate: '2012-08-15T00:00:00Z'
-tags:
-- Books
-- Nick Harkaway
-- Science Fiction
-- Twelve
+date: '2012-08-15'
+
+tags: ["Books", "Nick Harkaway", "Science Fiction", "Twelve"]
 title: Nick Harkaway, The Gone-Away World
 ---
 “The Gone-Away World” is a novel by Nick Harkaway. It’s about a world slightly askew to our own in which the powers-that-be have deigned to unleash a weapon that simply wipes the enemy out of existence. Unfortunately the enemies also have the same weapon and there are terrible consequences to the extent that the very fabric of reality is threatened. If you don’t already know what reification means, you will by the end.

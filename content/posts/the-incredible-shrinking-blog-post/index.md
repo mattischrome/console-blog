@@ -1,11 +1,14 @@
 ---
-title: "The Incredible Shrinking Blog Post"
-category: "Blogging"
-tags: [Twenty Five, Blogging, Writing, Meta, Consistency]
-date: "2025-02-07"
-description: "The problem with keeping up a blog streak for however many days it is now is that you don't actually get a huge amount of time to think of ideas for posts and actually write them."
+category: Blogging
+date: '2025-02-07'
+tags:
+- Twenty Five
+- Blogging
+- Writing
+- Meta
+- Consistency
+title: The Incredible Shrinking Blog Post
 ---
-
 The problem with keeping up a blog streak for however many days it is now is that you don't actually get a huge amount of time to think of ideas for posts and actually write them. Ironically, I've been thinking about this post for a while though. <!--more--> I've become very aware that I'm dredging up posts from old drafts or old notes and not really adding much to them. Sometimes, when I've decided what to write in advance, a lot of ideas circle within my head right up until it's time to write... and then nothing.
 
 Still, the streak is now driving me onwards. It's motivating me to think about what else I could be doing to make the writing of daily posts a little bit easier. I do have a stack of prompts in my drawer, albeit for a rather staid and academic set of posts. I need to sit down with that and figure out the gamut of posts that I can write. It's a list I have had for quite some time now, so I probably need to refresh it.

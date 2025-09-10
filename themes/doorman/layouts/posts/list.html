@@ -1,0 +1,49 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ if .Pages }}
+<section>
+  {{ $the_posts := where .Site.RegularPages "Section" "posts" }}
+  {{ $the_posts = $the_posts.ByDate.Reverse }}
+  {{ range (.Paginate $the_posts 12).Pages }}
+  <article style="margin-bottom: 2rem;">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p class="header">
+      {{ if .Date }}
+      Posted on {{ .Date.Format "2006-01-02" }}
+      {{ end }}
+      {{ if .Params.readingTime }}
+      &thinsp;·&thinsp; <span title="{{ .WordCount }} words">{{ .Params.readingTime }}</span> &thinsp;·&nbsp;
+      {{ else if .ReadingTime }}
+      &thinsp;·&thinsp; <span title="{{ .WordCount }} words">{{ .ReadingTime }} min read</span> &thinsp;·&nbsp;
+      {{ end }}
+      {{ range $index, $tag := .Params.tags }}
+      {{ if gt $index 0 }}&thinsp;·&thinsp;{{ end }}
+      <a title="All pages tagged '{{ $tag }}'." href="{{ printf "/tags/%s" (urlize $tag) | relURL }}" rel="tag">{{ $tag }}</a>
+      {{ end }}
+    </p>
+    {{ if .Summary }}
+    {{ $content := .Summary }}
+    {{ $section := .Section }}
+    <!-- Fix relative post links -->
+    {{ $content = $content | replaceRE `href="\.\.\/([^"]*)\/"` (printf `href="/%s/$1/"` $section) }}
+    {{ $content = $content | replaceRE `href="\.\/([^"]*)\/"` (printf `href="/%s/$1/"` $section) }}
+    <!-- Fix relative image paths -->
+    {{ $content = $content | replaceRE `src="(\.\.\/)*assets\/images\/([^"]*)"` `/assets/images/$2` }}
+    <div>{{ $content | safeHTML }}</div>
+    {{ if .Truncated }}
+    <p><a href="{{ .RelPermalink }}">Read more...</a></p>
+    {{ end }}
+    {{ end }}
+  </article>
+  {{ end }}
+</section>
+{{ end }}
+
+<div class="pager">
+    {{ template "_internal/pagination.html" . }}
+</div>
+
+{{ end }}

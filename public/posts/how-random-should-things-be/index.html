@@ -1,47 +1,98 @@
 <!DOCTYPE html>
-<html lang="en-gb">
+<html lang="en-gb" dir="ltr">
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>mattischrome/posts/how-random-should-things-be/</title>
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="all,follow">
-    <meta name="googlebot" content="index,follow,snippet,archive">
-    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/terminal-0.7.2.min.css">
-    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/animate-4.1.1.min.css">
-    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/console.css">
-    
-      <!--[if lt IE 9]>
-          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-      <![endif]-->
-       
-    
-</head>
-<body class="terminal">
-    <div class="container">
-        <div class="terminal-nav">
-          <header class="terminal-logo">
-            <div class="logo terminal-prompt">
-              
-              
-              <a href="http://localhost:1313/" class="no-style ">mattischrome</a>:~# 
-              <a href='http://localhost:1313/posts'>posts</a>/<a href='http://localhost:1313/posts/how-random-should-things-be'>how-random-should-things-be</a>/</div></header>
-          <nav class="terminal-menu">
-            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
-                
-            </ul>
-          </nav>
-        </div>
-    </div>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <div class="container " >
+
+
+<title>
+  How random should things be? · mattischrome
+</title>
+
+
+<link rel="stylesheet" type="text/css" href="/css/navbar.css">
+<link rel="stylesheet" type="text/css" href="/css/colours.css">
+<link rel="stylesheet" type="text/css" href="/css/fonts.css">
+<link rel="stylesheet" type="text/css" href="/css/default.css">
+
+<link rel="stylesheet" type="text/css" href="/css/pygments.css">
+
+
+<link rel="stylesheet" type="text/css" href="/css/sidenotes.css">
+
+
+
+  
+</head>
+<body>
+  <div class="navbar-space">
+    <div id="navigation" class="no-print">
+    <div class="menu menu-open">
+      <a href="/" class="menu-heading menu-title">
+        Blog<br>
+        <span class="menu-subtitle">mattischrome</span>
+      </a>
+      <ul>
         
+        <li><a href="/about/">About</a></li>
+        
+        <li><a href="/">Home</a></li>
+        
+        <li><a href="/posts/">Posts</a></li>
+        
+        <li><a href="/tags/">Tags</a></li>
+        
+        
+      </ul>
+    </div>
+  </div>
+    
+    
+    
+  </div>
+  
+  <div class="text-space">
+    <div id="content">
+      
+
+
+
 <h1>How random should things be?</h1>
-<p>Jun. 3, 2023</p>
-<br/><br/>
-<p>I&rsquo;ve managed to extract my music library, including all the albums I&rsquo;ve added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for <a href="/goldfrapp-black-cherry">Goldfrapp&rsquo;s Black Cherry.</a></p>
+
+
+<article>
+  <p class="header">
+    
+    Posted on 2023-06-03
+    
+    
+    &thinsp;·&thinsp; <span title="759 words">4 min read</span> &thinsp;·&nbsp;
+    
+    
+    
+  <a title="All pages tagged 'Music'." href="/tags/music" rel="tag">Music</a>
+    
+    &thinsp;·&thinsp;
+  <a title="All pages tagged 'Album Revisit'." href="/tags/album-revisit" rel="tag">Album Revisit</a>
+    
+    &thinsp;·&thinsp;
+  <a title="All pages tagged 'Randomness'." href="/tags/randomness" rel="tag">Randomness</a>
+    
+    &thinsp;·&thinsp;
+  <a title="All pages tagged 'Life Experiences'." href="/tags/life-experiences" rel="tag">Life Experiences</a>
+    
+    &thinsp;·&thinsp;
+  <a title="All pages tagged 'Twenty Three'." href="/tags/twenty-three" rel="tag">Twenty Three</a>
+    
+  </p>
+  
+  <section>
+    
+    
+
+    
+    <p>I&rsquo;ve managed to extract my music library, including all the albums I&rsquo;ve added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for <a href="/goldfrapp-black-cherry">Goldfrapp&rsquo;s Black Cherry.</a></p>
 <p>But I have to level with you. That was not the first album that was picked. Nor is the album selection process entirely unbiased. I got to a working situation and stopped there. Essentially, I smoosh together artist and album title, so that albums like compilations, or albums where the lead artist collaborates with multiple other artists, are slightly over-represented. I say slightly as the pool was already pretty large with just unique albums. I might do what I did yesterday and ignore singles or compilations, especially as the code takes almost zero time to give me another idea.</p>
 <p>I&rsquo;ve experimented with this sort of idea before. I have a big list of about thirty or so &rsquo;things to write about&rsquo;. (It&rsquo;s actually thirty one, because I once was such an optimist that I thought I could write something every day about something totally different.) Selecting from that list at random does bring up repetitions pretty often, it&rsquo;s a fair while before you get through all of your list. Some simulations are probably in order, I&rsquo;ll do that when I get some time.</p>
 <p>Then I thought about how interesting blog posts are often about the mix and match of ideas, making unusual crossovers. I investigated picking two of my topics so that the writing suggestion would be &ldquo;write about (main topic) from the point of view of (secondary topic)&rdquo;. This often produces interesting results, but some are non-starters. You definitely wouldn&rsquo;t want to be bound by that approach. However, it would be quite interesting to pick two albums at random from my library now and then, the enforced comparison (even if it takes place briefly in my head) might spark a post about a different comparison that&rsquo;s more valid, or even given me a way in to how to write about one of the albums.</p>
@@ -50,21 +101,10 @@
 <p>As for the benefits of randomness, I think it is a way of shrugging off bias (or at least trying to) and pointing myself toward the lesser visited spots in my library. And it is my library at least, so I should in theory like what is there. And if I don&rsquo;t, at least that might make for an interesting post too. I know I have loads of stuff (especially since streaming) that I have barely listened to or not at all. As with books, I sometimes dip in a little and never get the chance to come back later. At least this approach might increase those chances.</p>
 <p>I&rsquo;ve also tried an app that generates notifications at random from a list. The list was meant to be prompts me to write various posts but I have never managed to write a single post prompted by the app. This is likely because I only gave it five rather abstruse suggestions. It also always seems to catch me at the wrong time. I will have to think about how that could be made to work more effectively. If you&rsquo;re interested, the app is called <a href="https://apps.apple.com/app/id1437096658">Yapp</a> and I recommend it because even though I didn&rsquo;t act on its suggestions, the app itself did everything I wanted to do and it was free (and ad-free!).</p>
 
- 
-<ul class="post_tags">
-   <li>
-    <a href="http://localhost:1313/tags/music/">music</a>
-  </li> <li>
-    <a href="http://localhost:1313/tags/album-revisit/">album-revisit</a>
-  </li> <li>
-    <a href="http://localhost:1313/tags/randomness/">randomness</a>
-  </li> <li>
-    <a href="http://localhost:1313/tags/life-experiences/">life-experiences</a>
-  </li> <li>
-    <a href="http://localhost:1313/tags/twenty-three/">twenty-three</a>
-  </li></ul>
+  </section>
 
-
+  
+  
 
   <h3>See Also</h3>
   <ul>
@@ -81,6 +121,9 @@
    
   </ul>
 
+  
+  
+</article>
 <div aria-label="Browse" class="post-single__browse browse-nav">
     
     <div class="browse-nav__next">
@@ -103,11 +146,19 @@
     <a href="http://localhost:1313/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
 </div>
 
-        <div class="footer">
-    Powered by <a href="https://gohugo.io/">Hugo</a> with
-    <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console Theme</a>. 
-</div>
 
     </div>
-  </body>
+    
+<div id="footer">
+    
+    <a id="to-top" href="#">top</a>
+    
+    
+    
+    
+    <a href="/about">About</a>
+    
+  </div>
+  </div>
+</body>
 </html>

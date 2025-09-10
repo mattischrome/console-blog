@@ -1,13 +1,8 @@
 ---
 category: Travel
-pubDate: '2014-02-10T00:00:00Z'
-tags:
-- South America
-- Peru
-- Arequipa
-- Cusco
-- Thirteen
-- Fourteen
+date: '2014-02-10'
+tableOfContents: true
+tags: ["South America", "Peru", "Arequipa", "Cusco", "Thirteen", "Fourteen"]
 title: South America, Part 8
 ---
 Arequipa and Cusco -- the two cities that are the subject of this post -- are probably the two cities in Peru that are most amenable to travellers (though Lima certainly has a lot to offer too). For me they should have been punctuated with a trip to [Colca canyon](http://en.wikipedia.org/wiki/Colca_Canyon), one of the deepest canyons in the world and twice as deep as the Grand Canyon. Unfortunately, I got really sick on the second day in Arequipa as my attempts at keeping my tummy bug at bay finally failed. (Even so, I didn't actually seek any proper medical help till the second day in Cusco, I was pretty boneheaded about it.)

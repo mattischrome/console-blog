@@ -1,11 +1,14 @@
 ---
-title: "2024 Albums of the Year #7: MGMT, Loss Of Life"
-category: "Album Digest"
-tags: [Twenty Four, MGMT, Rock, Indie]
-date: "2025-01-04"
-description: "This is simply a great collection of songs that I really enjoyed, which is as good a reason to make a top 10 as any other."
+category: Album Digest
+date: '2025-01-04'
+tableOfContents: true
+tags:
+- Twenty Four
+- MGMT
+- Rock
+- Indie
+title: '2024 Albums of the Year #7: MGMT, Loss Of Life'
 ---
-
 I don't know very much about MGMT these days. I haven't read any interviews about their albums. The video to the single "Nothing to Declare" was brought to my attention by the YouTube channel Justin Hawkins Rides Again. In it he points out how melodically interesting the song is. To be honest I was more than a little bit in love with the video. 
 
 After that I added the album to my library and heard a few more singles in the run up to the release of the album, including "Bubblegum Dog" and "Mother Nature". The album itself is crammed with similarly interesting songs and has a circular structure, beginning with part 2 of the title track. I'd love to know what poem is being read or sampled or cut up on "Loss of Life, Pt. 2". Other highlights include "Phradie's Song" and a song called "Nothing Changes" which goes a bot bonkers in the second half, completely undermining the title of the song!

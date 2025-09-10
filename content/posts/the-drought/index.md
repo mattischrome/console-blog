@@ -1,19 +1,18 @@
 ---
 category: Books
-pubDate: '2010-09-08T00:00:00Z'
-tags:
-- Books
-- J. G. Ballard
-- Science Fiction
-- Reading Projects
-- Ten
+date: '2010-09-08'
+tableOfContents: true
+tags: ["Books", "J. G. Ballard", "Science Fiction", "Reading Projects", "Ten"]
 title: J. G. Ballard, The Drought
 ---
-## The world created by nature versus the world constructed by humans
 
-On to The Drought by J. G. Ballard in [my ongoing quest to read and review all of his novels](/j-g-ballard/). This is his second novel, if we assume his convention of never acknowledging “The Wind From Nowhere” as being his first novel. “The Drought” itself was renamed from “The Burning World” and additional content added later on. This was quite common practice in SF in the 50s and 60s where novels were serialised in magazines like [Amazing SF](http://philsp.com/mags/amazing_stories.html) and [Interzone](http://ttapress.com/interzone/about/). It is evidence though of Ballard finding his voice as he wrote and from The Drought it is easy to see that he is iterating his thought processes and subject matter with each novel.
+On to The Drought by J. G. Ballard in [my ongoing quest to read and review all of his novels](/posts/j-g-ballard/). This is his second novel, if we assume his convention of never acknowledging “The Wind From Nowhere” as being his first novel. “The Drought” itself was renamed from “The Burning World” and additional content added later on. This was quite common practice in SF in the 50s and 60s where novels were serialised in magazines like [Amazing SF](http://philsp.com/mags/amazing_stories.html) and [Interzone](http://ttapress.com/interzone/about/). It is evidence though of Ballard finding his voice as he wrote and from The Drought it is easy to see that he is iterating his thought processes and subject matter with each novel.
 
 “The Drought” is marvellous in a way that “The Drowned World” is not. Here Ballard has cut away much of the ropy science of that novel and left us with a much more realistic scenario of global drought without having to worry about all the outré trappings of giant iguanas and dragonflies the size of your head. Instead, all the magnetic and mesmerising elements of Ballard’s work are beginning to take form: the eccentric recluse with possible sinister intent, the confused and detached protagonist, the ambivalently regarded woman of standing, the encroachment of nature and the human tendency to defile pretty much all it touches, including all that it has constructed and lived alongside.
+
+<!--more-->
+
+## The world created by nature versus the world constructed by humans
 
 The action begins in the painful death throes of a drought that has caused those living further inland to escape to the sea. There is no rain and only some water, all mention of water assumes that there is a finite supply that will eventually be exhausted. The water cycle has been disrupted due to the sea being covered by a skin of monomeric compound that prevents evaporation, its presence due to industrial pollution.
 

@@ -1,15 +1,8 @@
 ---
 category: Music
-pubDate: '2013-10-31T00:00:00Z'
-tags:
-- Album Digest
-- October
-- Music
-- Chvrches
-- Darkside
-- Four Tet
-- HAIM
-- Thirteen
+date: '2013-10-31'
+tableOfContents: true
+tags: ["Album Digest", "October", "Music", "Chvrches", "Darkside", "Four Tet", "HAIM", "Thirteen"]
 title: Album Digest, October 2013
 ---
 Four great albums this month for the last album digest in a while.

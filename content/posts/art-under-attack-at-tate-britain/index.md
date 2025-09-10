@@ -1,11 +1,8 @@
 ---
 category: Art
-pubDate: '2013-10-12T00:00:00Z'
-tags:
-- Art
-- Tate Britain
-- Art Under Attack
-- Thirteen
+date: '2013-10-12'
+
+tags: ["Art", "Tate Britain", "Art Under Attack", "Thirteen"]
 title: Art Under Attack at Tate Britain
 ---
 Today I went with a friend to see [Tate Britain's "Art Under Attack" show](http://www.tate.org.uk/whats-on/tate-britain/exhibition/art-under-attack-histories-british-iconoclasm). It's an interesting, if uneven, affair that entertains but doesn't quite succeed in everything it attempts to do. The big word that you learn is iconoclasm: the act of attacking an object believed to represent particular beliefs. The show splits into two parts: ideological acts of iconoclasm committed against works of art in Britain and the work of British artists who embrace iconoclasm as a means for making art. The first half (comprising more than half of the show - because I lump together two of the shows sections "Religion" and "Politics" into this half) is more interesting and successful than the second ("Aesthetics").

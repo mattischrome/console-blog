@@ -6,8 +6,15 @@
     <description>Recent content in Civ on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/civ/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some more thoughts on Civ 7</title>
+      <link>http://localhost:1313/posts/some-more-thoughts-on-civ-7/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/some-more-thoughts-on-civ-7/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been about 5 months now since the release of Civilisation VII and it&amp;rsquo;s starting to become a playable game. This is partly due to me getting used to it and partly the effect of quality of life patches and additional features.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Civ Leaders #4: Qin Shi Huang (Mandate of Heaven) of China</title>
       <link>http://localhost:1313/posts/civ-leaders-4/</link>
@@ -20,26 +27,26 @@
       <link>http://localhost:1313/posts/civ-leaders-3/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/civ-leaders-3/</guid>
-      <description>&lt;p&gt;Amanitore of Nubia is available in a base game DLC. She also has her own scenario “The Gifts of the Nile”, which like most scenarios has unique tech and civic trees. You need to assert your dominance over the Nile by building seven temples. The scenario combines faith and military tactics in a satisfying way and you can also play it as Cleopatra for a different perspective.&lt;/p&gt;&#xA;&lt;h2 id=&#34;civ-ability&#34;&gt;Civ ability&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Ta-Seti&lt;/em&gt; +50% Production toward Ranged units. Note that this bonus does not apply fully with respect to archers because the Nubian unique archer (see below) costs more to produce. You can get around this by building Slingers and promoting them. All Ranged units gain +50% combat experience. Mines over strategic resources provide +1 Production. Mines over bonus and luxury resources provide +2 Gold.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Amanitore of Nubia is available in a base game DLC. She also has her own scenario “The Gifts of the Nile”, which like most scenarios has unique tech and civic trees. You need to assert your dominance over the Nile by building seven temples. The scenario combines faith and military tactics in a satisfying way and you can also play it as Cleopatra for a different perspective.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Civ Leaders #2: Alexander of Macedon</title>
       <link>http://localhost:1313/posts/civ-leaders-2/</link>
-      <pubDate>Sun, 12 May 2019 16:41:01 +0000</pubDate>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/civ-leaders-2/</guid>
-      <description>&lt;p&gt;Alexander of Macedon is available in a base game DLC pack alongside Darius of Persia. He also has his own scenario “The Conquests of Alexander”, which is both fun to play and instructive in how to use the formidable benefits of his bonuses and unique units.&lt;/p&gt;&#xA;&lt;h2 id=&#34;civ-ability&#34;&gt;Civ ability&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Hellenistic Fusion&lt;/em&gt; When capturing a city, receive civic boosts for each holy site and theatre square, and tech boosts for each campus and encampment. This means you can grab up to four boosts when capturing cities.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Alexander of Macedon is available in a base game DLC pack alongside Darius of Persia. He also has his own scenario “The Conquests of Alexander”, which is both fun to play and instructive in how to use the formidable benefits of his bonuses and unique units.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Civ Leaders #1: Hojo Tokimune of Japan</title>
       <link>http://localhost:1313/posts/civ-leaders-1/</link>
-      <pubDate>Mon, 06 May 2019 19:14:48 +0000</pubDate>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/civ-leaders-1/</guid>
-      <description>&lt;h2 id=&#34;civ-ability&#34;&gt;Civ ability&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Meiji Restoration&lt;/em&gt; Districts receive a +1 adjacency bonus for each adjacent district, instead of +0.5.&lt;/p&gt;&#xA;&lt;h2 id=&#34;leader-bonus&#34;&gt;Leader bonus:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Land units in Coastal tiles and naval units in Coast tiles receive +5 Combat Strength.&lt;/li&gt;&#xA;&lt;li&gt;+50% Production towards Encampment, Holy Site and Theatre Square districts.&lt;/li&gt;&#xA;&lt;li&gt;Units are immune to Hurricane damage.&lt;/li&gt;&#xA;&lt;li&gt;Civilisations at war with Japan receive +100% unit damage from hurricanes while in Japanese territory&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;unique-unit&#34;&gt;Unique unit&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;em&gt;samurai&lt;/em&gt;, a high combat strength unit that does not lose combat strength when damage and gains an extra 10 combat strength against anti-cavalry units. They are cheap to build and combine well with early support units, which makes them good for capturing cities. Unfortunately the samurai is stuck in Military Tactics, which is a weird dead end in the tech tree that I often skip over, in most of my games as Japan I forgot to build a samurai before they went out of date 🙃.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Let&amp;rsquo;s write a guide for all the leaders in Civ 6! It&amp;rsquo;s a nice writing project and I seem to have plenty of time on my hands. For playing Civ VI that is, writing a post for every leader might be another matter&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Anyway, let&amp;rsquo;s start with one of my favourites: Hojo Tokimune of Japan.&lt;/p&gt;</description>
     </item>
     <item>
       <title>All the Civs</title>
       <link>http://localhost:1313/posts/all-the-civs/</link>
-      <pubDate>Wed, 24 Apr 2019 22:15:00 +0000</pubDate>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/all-the-civs/</guid>
       <description>&lt;p&gt;Ingrid and I love playing Civ VI. It&amp;rsquo;s a fine game that improves on previous versions, adding many layers and mechanics that mean you can vary your playing style. In fact, with the recent Gathering Storm expansion there&amp;rsquo;s now an incredible variety of ways to play. The 39 leaders to play with both reflect and provide the game&amp;rsquo;s increased complexity. Each leader has a slightly different mechanic that influences how you play the game, and of course the leaders you are up against also affect your game play. You can pick leaders to go up against that will make your game easier or harder. Some leaders can even be an existential threat if you spawn near to them and, as I&amp;rsquo;ve learned the hard way, it&amp;rsquo;s not always the leaders you expect that cause these problems.&lt;/p&gt;</description>
     </item>

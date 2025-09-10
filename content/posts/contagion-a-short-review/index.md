@@ -1,14 +1,8 @@
 ---
 category: Films
-pubDate: '2011-11-03T00:00:00Z'
-tags:
-- Films
-- Disease Modelling
-- Science Fiction
-- Eleven
-- Twenty
-- Marion Cotillard
-- Thriller
+date: '2011-11-03'
+tableOfContents: true
+tags: ["Films", "Disease Modelling", "Science Fiction", "Eleven", "Twenty", "Marion Cotillard", "Thriller"]
 title: 'Contagion: A Short Review'
 ---
 There was much excitement about [Contagion](http://www.imdb.com/title/tt1598778/) at work. Finally a movie that explains  as part of the plot! A bunch of us went to see it, mainly to see whether [a disaster movie about a global pandemic](http://contagionmovie.warnerbros.com/index.html) could hold up as entertainment and to have a bit of a giggle if it couldn’t.

@@ -1,11 +1,8 @@
 ---
 category: Books
-pubDate: '2015-09-02T00:00:00Z'
-tags:
-- Books
-- Eric Schlosser
-- Non Fiction
-- Fifteen
+date: '2015-09-02'
+
+tags: ["Books", "Eric Schlosser", "Non Fiction", "Fifteen"]
 title: Eric Schlosser, Gods of Metal
 ---
 Y-12 is the United States' most secure weapons-grade Uranium storage facility. It is known as the "Fort Knox of Uranium". In 2012 it was infiltrated by three elderly peace protesters, sparking a major scandal about the safety of US nuclear sites. "Gods of Metal" by Eric Schlosser tells the story of that break-in alongside a history of both the anti-nuclear movement (in particular [the Plowshares movement](https://en.wikipedia.org/wiki/Plowshares_Movement)) and nuclear security in the United States.

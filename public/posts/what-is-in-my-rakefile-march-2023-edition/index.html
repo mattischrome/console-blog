@@ -1,47 +1,141 @@
 <!DOCTYPE html>
-<html lang="en-gb">
+<html lang="en-gb" dir="ltr">
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>mattischrome/posts/what-is-in-my-rakefile-march-2023-edition/</title>
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="all,follow">
-    <meta name="googlebot" content="index,follow,snippet,archive">
-    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/terminal-0.7.2.min.css">
-    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/animate-4.1.1.min.css">
-    <link rel="stylesheet" href="http://localhost:1313/hugo-theme-console/css/console.css">
-    
-      <!--[if lt IE 9]>
-          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-      <![endif]-->
-       
-    
-</head>
-<body class="terminal">
-    <div class="container">
-        <div class="terminal-nav">
-          <header class="terminal-logo">
-            <div class="logo terminal-prompt">
-              
-              
-              <a href="http://localhost:1313/" class="no-style ">mattischrome</a>:~# 
-              <a href='http://localhost:1313/posts'>posts</a>/<a href='http://localhost:1313/posts/what-is-in-my-rakefile-march-2023-edition'>what-is-in-my-rakefile-march-2023-edition</a>/</div></header>
-          <nav class="terminal-menu">
-            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
-                
-            </ul>
-          </nav>
-        </div>
-    </div>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <div class="container " >
+
+
+<title>
+  What is in my Rakefile? (March 2023 edition) · mattischrome
+</title>
+
+
+<link rel="stylesheet" type="text/css" href="/css/navbar.css">
+<link rel="stylesheet" type="text/css" href="/css/colours.css">
+<link rel="stylesheet" type="text/css" href="/css/fonts.css">
+<link rel="stylesheet" type="text/css" href="/css/default.css">
+
+<link rel="stylesheet" type="text/css" href="/css/pygments.css">
+
+
+<link rel="stylesheet" type="text/css" href="/css/sidenotes.css">
+
+
+
+  
+</head>
+<body>
+  <div class="navbar-space">
+    <div id="navigation" class="no-print">
+    <div class="menu menu-open">
+      <a href="/" class="menu-heading menu-title">
+        Blog<br>
+        <span class="menu-subtitle">mattischrome</span>
+      </a>
+      <ul>
         
+        <li><a href="/about/">About</a></li>
+        
+        <li><a href="/">Home</a></li>
+        
+        <li><a href="/posts/">Posts</a></li>
+        
+        <li><a href="/tags/">Tags</a></li>
+        
+        
+      </ul>
+    </div>
+  </div>
+    
+    
+    
+    <div id="contents-big">
+      <p class="mini-header">Contents <a id="up-arrow" href="#">↑</a></p>
+      <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#make-a-new-post-in-_posts-named-title">Make a new post in <code>_posts</code> named &ldquo;Title&rdquo;</a></li>
+        <li><a href="#make-a-new-post-in-_drafts-named-title">Make a new post in <code>_drafts</code> named &ldquo;Title&rdquo;</a></li>
+        <li><a href="#move-a-post-from-_drafts-to-_posts">Move a post from <code>_drafts</code> to <code>_posts</code></a></li>
+        <li><a href="#make-a-page-for-the-website-named-title">Make a page for the website named &ldquo;Title&rdquo;</a></li>
+        <li><a href="#build-the-site">Build the site</a></li>
+        <li><a href="#various-ways-to-preview-the-site">Various ways to preview the site</a></li>
+        <li><a href="#view-a-local-preview-of-the-site-in-your-browser">View a local preview of the site in your browser</a></li>
+        <li><a href="#deploy-the-site-to-remote-git-repo">Deploy the site to remote git repo</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </div>
+    
+  </div>
+  
+  <div class="text-space">
+    <div id="content">
+      
+
+
+
 <h1>What is in my Rakefile? (March 2023 edition)</h1>
-<p>Mar. 15, 2023</p>
-<br/><br/>
-<p>Because I am bored of forgetting what&rsquo;s in my website&rsquo;s Rakefile, I thought I&rsquo;d write a list. Also, as I&rsquo;m probably going to move over to a node based approach soon, it&rsquo;s a handy wish list for my <code>package.json</code> file when the time comes.</p>
+
+
+<article>
+  <p class="header">
+    
+    Posted on 2023-03-15
+    
+    
+    &thinsp;·&thinsp; <span title="589 words">3 min read</span> &thinsp;·&nbsp;
+    
+    
+    
+  <a title="All pages tagged 'Blogging'." href="/tags/blogging" rel="tag">Blogging</a>
+    
+    &thinsp;·&thinsp;
+  <a title="All pages tagged 'Writing'." href="/tags/writing" rel="tag">Writing</a>
+    
+    &thinsp;·&thinsp;
+  <a title="All pages tagged 'Jekyll'." href="/tags/jekyll" rel="tag">Jekyll</a>
+    
+    &thinsp;·&thinsp;
+  <a title="All pages tagged 'Rake'." href="/tags/rake" rel="tag">Rake</a>
+    
+    &thinsp;·&thinsp;
+  <a title="All pages tagged 'Housekeeping'." href="/tags/housekeeping" rel="tag">Housekeeping</a>
+    
+    &thinsp;·&thinsp;
+  <a title="All pages tagged 'Twenty Three'." href="/tags/twenty-three" rel="tag">Twenty Three</a>
+    
+  </p>
+  
+  <section>
+    
+    
+    <div id="contents">
+      <p class="mini-header">Contents</p>
+      <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#make-a-new-post-in-_posts-named-title">Make a new post in <code>_posts</code> named &ldquo;Title&rdquo;</a></li>
+        <li><a href="#make-a-new-post-in-_drafts-named-title">Make a new post in <code>_drafts</code> named &ldquo;Title&rdquo;</a></li>
+        <li><a href="#move-a-post-from-_drafts-to-_posts">Move a post from <code>_drafts</code> to <code>_posts</code></a></li>
+        <li><a href="#make-a-page-for-the-website-named-title">Make a page for the website named &ldquo;Title&rdquo;</a></li>
+        <li><a href="#build-the-site">Build the site</a></li>
+        <li><a href="#various-ways-to-preview-the-site">Various ways to preview the site</a></li>
+        <li><a href="#view-a-local-preview-of-the-site-in-your-browser">View a local preview of the site in your browser</a></li>
+        <li><a href="#deploy-the-site-to-remote-git-repo">Deploy the site to remote git repo</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </div>
+    
+
+    
+    <p>Because I am bored of forgetting what&rsquo;s in my website&rsquo;s Rakefile, I thought I&rsquo;d write a list. Also, as I&rsquo;m probably going to move over to a node based approach soon, it&rsquo;s a handy wish list for my <code>package.json</code> file when the time comes.</p>
 <h3 id="make-a-new-post-in-_posts-named-title">Make a new post in <code>_posts</code> named &ldquo;Title&rdquo;</h3>
 <p><code>rake post[&quot;Title&quot;]</code></p>
 <p>If no title is given, you will be prompted for one. The post will be opened in the editor specified in the Rakefile.</p>
@@ -85,24 +179,10 @@
 git commit -m &#34;[skip ci] Commit message 🧹&#34;
 git push origin main
 </code></pre><p>NB the main branch is true of my repos, but the deployment branch of the repository is set in Jekyll&rsquo;s <code>_config.yml</code>.</p>
+  </section>
 
- 
-<ul class="post_tags">
-   <li>
-    <a href="http://localhost:1313/tags/blogging/">blogging</a>
-  </li> <li>
-    <a href="http://localhost:1313/tags/writing/">writing</a>
-  </li> <li>
-    <a href="http://localhost:1313/tags/jekyll/">jekyll</a>
-  </li> <li>
-    <a href="http://localhost:1313/tags/rake/">rake</a>
-  </li> <li>
-    <a href="http://localhost:1313/tags/housekeeping/">housekeeping</a>
-  </li> <li>
-    <a href="http://localhost:1313/tags/twenty-three/">twenty-three</a>
-  </li></ul>
-
-
+  
+  
 
   <h3>See Also</h3>
   <ul>
@@ -119,13 +199,16 @@ git push origin main
    
   </ul>
 
+  
+  
+</article>
 <div aria-label="Browse" class="post-single__browse browse-nav">
     
     <div class="browse-nav__next">
       <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--next">
         &#10142;
       </div>
-      <a href="http://localhost:1313/posts/cheeseburgers/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: Cheeseburgers 🍔">Cheeseburgers 🍔</a>
+      <a href="http://localhost:1313/posts/post-3/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: Post 3">Post 3</a>
     </div>
     
   
@@ -134,18 +217,26 @@ git push origin main
       <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--prev">
         &#10142;
       </div>
-      <a href="http://localhost:1313/posts/come-back-to-us-brother-matthew/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: Come back to us Brother Matthew">Come back to us Brother Matthew</a>
+      <a href="http://localhost:1313/posts/post-2/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: Post 2">Post 2</a>
     </div>
     
   
     <a href="http://localhost:1313/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
 </div>
 
-        <div class="footer">
-    Powered by <a href="https://gohugo.io/">Hugo</a> with
-    <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console Theme</a>. 
-</div>
 
     </div>
-  </body>
+    
+<div id="footer">
+    
+    <a id="to-top" href="#">top</a>
+    
+    
+    
+    
+    <a href="/about">About</a>
+    
+  </div>
+  </div>
+</body>
 </html>

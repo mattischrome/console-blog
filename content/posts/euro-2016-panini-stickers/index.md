@@ -1,11 +1,8 @@
 ---
 category: Football
-pubDate: '2016-06-05T00:00:00Z'
-tags:
-- Football
-- Stats
-- Modelling
-- Sixteen
+date: '2016-06-05'
+tableOfContents: true
+tags: ["Football", "Stats", "Modelling", "Sixteen"]
 title: Euro 2016 Panini Stickers
 ---
 Sound the conspicuous consumption klaxon! &#x1F4E3; I know it's foolish but I decided to collect the Panini stickers for the Euro 2016 tournament this summer. I think it's a more edifying waste of money than a series of group game accumulators that don't come off. If this week's long read in The Guardian is anything to go by, [we really shouldn't be giving any more of our money to betting companies](https://www.theguardian.com/business/2016/may/31/big-gamble-dangerous-british-betting-shops). The album also looks better than any of the official books. Anyway, this post celebrates my inner collector/geek and the beauty of the shiny sticker!

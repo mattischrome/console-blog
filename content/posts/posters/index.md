@@ -1,11 +1,8 @@
 ---
 category: Ideas
-pubDate: '2013-08-13T00:00:00Z'
-tags:
-- Ideas
-- LaTeX
-- Maths
-- Thirteen
+date: '2013-08-13'
+
+tags: ["Ideas", "LaTeX", "Maths", "Thirteen"]
 title: Posters
 ---
 In 2005, towards the end of the second year of my PhD I presented a poster at a conference in Dresden, Germany. My eccentric colleagues and I stayed on a huge canal boat moored on the Elbe for no discernible reason other than it seemed like a laugh at the time. In reality I was the second worst snorer of the three of us and it also turned out that our room was right underneath the gang-plank and every morning at six the person who made breakfast would stomp across it.

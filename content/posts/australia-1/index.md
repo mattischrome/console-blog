@@ -1,10 +1,8 @@
 ---
 category: Travel
-pubDate: '2018-02-19T00:00:00Z'
-tags:
-- Australia
-- Travel
-- Eighteen
+date: '2018-02-19'
+
+tags: ["Australia", "Travel", "Eighteen"]
 title: A Day in the Air
 ---
 ![The Plane](../../assets/images/australia_1/australia_1_01.jpg)

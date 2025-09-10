@@ -1,16 +1,8 @@
 ---
 category: Music
-pubDate: '2011-07-31T00:00:00Z'
-tags:
-- Album Digest
-- July
-- Music
-- SBTRKT
-- Zomby
-- Brian Eno
-- Bon Iver
-- Washed Out
-- Eleven
+date: '2011-07-31'
+
+tags: ["Album Digest", "July", "Music", "SBTRKT", "Zomby", "Brian Eno", "Bon Iver", "Washed Out", "Eleven"]
 title: Album Digest, July 2011
 ---
 Quite a mixed bag this month.

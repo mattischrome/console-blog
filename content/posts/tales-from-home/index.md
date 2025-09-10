@@ -1,12 +1,8 @@
 ---
 category: Life Experiences
-pubDate: '2010-12-24T00:00:00Z'
-tags:
-- Life Experiences
-- Christmas
-- Birds
-- Photos
-- Ten
+date: '2010-12-24'
+tableOfContents: true
+tags: ["Life Experiences", "Christmas", "Birds", "Photos", "Ten"]
 title: Tales From Home
 ---
 ### A question of identity

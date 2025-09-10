@@ -1,13 +1,9 @@
 ---
-pubDate: '2022-02-04T00:00:00Z'
-tags:
-- Understated Classics
-- Electronic
-- Music
-- Future Sound of London
-- Twenty Two
-title: 'Understated Classics #39: Lifeforms by Future Sound of London'
+date: '2022-02-04'
 slug: understated-classics-39
+tableOfContents: true
+tags: ["Understated Classics", "Electronic", "Music", "Future Sound of London", "Twenty Two"]
+title: 'Understated Classics #39: Lifeforms by Future Sound of London'
 ---
 **Lifeforms** is the 1994 album from the Future Sound of London. A double album (just), it also features the talents of Robert Fripp, Ozric Tentacles, Talvin Singh, Toni Halliday, and Liz Frazer. It reached number 6 on the UK album chart and went silver.  
 

@@ -1,15 +1,8 @@
 ---
 category: Music
-pubDate: '2014-03-31T00:00:00Z'
-tags:
-- Album Digest
-- March
-- Music
-- Tegan and Sara
-- Fanfarlo
-- Liars
-- London Grammar
-- Fourteen
+date: '2014-03-31'
+tableOfContents: true
+tags: ["Album Digest", "March", "Music", "Tegan and Sara", "Fanfarlo", "Liars", "London Grammar", "Fourteen"]
 title: Album Digest, March 2014
 ---
 I’m back in the UK so it’s back to posts about albums each month. This one is a bit different because I didn’t listen to very much new stuff while I was away so not all of the albums are up to date. I had to write about the new album by Liars though because it's awesome and I couldn't wait to discuss it! Here’s the list of albums:

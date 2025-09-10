@@ -1,9 +1,14 @@
 ---
-title: "Peter Gabriel, So"
-category: "Music"
-tags: [Twenty Five, Music, Album Revisit, Peter Gabriel, Pop, Rock]
-date: "2025-02-09"
-description: "I watched the great albums documentary on Amazon about Peter Gabriel's excellent album So"
+category: Music
+date: '2025-02-09'
+tags:
+- Twenty Five
+- Music
+- Album Revisit
+- Peter Gabriel
+- Pop
+- Rock
+title: Peter Gabriel, So
 ---
 I recently watched the entry about Peter Gabriel's 1986 album "So" in the Classic Albums series on Amazon Prime. It was an entertaining way to fill an evening hour. 
 

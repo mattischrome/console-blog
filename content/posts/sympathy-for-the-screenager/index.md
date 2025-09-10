@@ -1,15 +1,11 @@
 ---
-title: Sympathy for the Screenager
-slug: sympathy-for-the-screenager
 category: Life Experiences
-tags:
-- Twenty Four
-- Emotions
-- Life Experiences
-- Mobile Phones
-- Social Media
-pubDate: 2024-07-19
 draft: true
+date: 2024-07-19
+slug: sympathy-for-the-screenager
+
+tags: ["Twenty Four", "Emotions", "Life Experiences", "Mobile Phones", "Social Media"]
+title: Sympathy for the Screenager
 ---
 Haidt
 

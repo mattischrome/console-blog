@@ -1,12 +1,8 @@
 ---
 category: Books
-pubDate: '2012-06-25T00:00:00Z'
-tags:
-- Books
-- Lists
-- Photos
-- June
-- Twelve
+date: '2012-06-25'
+
+tags: ["Books", "Lists", "Photos", "June", "Twelve"]
 title: Another Reading List
 ---
 ![More books to add to the “University of life” course list](../../assets/images/other/June-2012-Bookstack.jpg)

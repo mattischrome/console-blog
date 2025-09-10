@@ -1,14 +1,10 @@
 ---
 category: Understated Classics
-pubDate: '2016-07-20T00:00:00Z'
-tags:
-- Understated Classics
-- Maxwell
-- Music
-- Sixteen
-- Pop
-title: 'Understated Classics #33: Embrya by Maxwell'
+date: '2016-07-20'
 slug: understated-classics-33
+
+tags: ["Understated Classics", "Maxwell", "Music", "Sixteen", "Pop"]
+title: 'Understated Classics #33: Embrya by Maxwell'
 ---
 I give the impression of planning these posts but to be honest I came across an article about Maxwell a few weeks ago and fondly remembered my cassette copy of this album. The joy of Spotify is that it's easy to dig up old favourites. The recent warm weather makes for a good opportunity to enjoy the sultry embrace of "Embrya" once more.
 

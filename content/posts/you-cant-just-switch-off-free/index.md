@@ -1,13 +1,9 @@
 ---
 category: Music
-pubDate: '2015-03-11T00:00:00Z'
-tags:
-- Music
-- Ideas
-- Fifteen
-- Spotify
-- Economics
-title: "You Can\u2019t Just Switch Off Free"
+date: '2015-03-11'
+tableOfContents: true
+tags: ["Music", "Ideas", "Fifteen", "Spotify", "Economics"]
+title: You Can’t Just Switch Off Free
 ---
 [Ministry of Sound boss Lohan Presencer does the cry baby act in today's Guardian](http://www.theguardian.com/technology/2015/mar/11/ministry-of-sound-streaming-switch-off-free), complaining that Spotify's freemium model doesn't allow him to bathe in a Scrooge McDuck style swimming pool of golden coins any more. The cat is out of the bag for streaming music now, and no matter how much music companies cry foul they can't stop Spotify and their ilk, and there wouldn't be pots of gold waiting for them even if they could.
 

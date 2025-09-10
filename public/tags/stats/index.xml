@@ -6,14 +6,21 @@
     <description>Recent content in Stats on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/stats/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Balancing Bad Luck</title>
-      <link>http://localhost:1313/posts/balancing-bad-luck/</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/balancing-bad-luck/</guid>
-      <description></description>
+      <title>Post Statistics, Part 2</title>
+      <link>http://localhost:1313/posts/post-statistics-part-2/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-statistics-part-2/</guid>
+      <description>&lt;p&gt;Here are some more stats about the blog after I ran out of time yesterday due to&#xA;data cleaning! This time I&amp;rsquo;ve taken the date of each post and extracted the&#xA;month and year. Then I added the number of posts in each month and the number of&#xA;words written. I had to left join on the complete time span between August 2010&#xA;and February 2025, filling in any NA values for the zeros that were missing&#xA;before I did that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post Statistics</title>
+      <link>http://localhost:1313/posts/post-statistics/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-statistics/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s of graph of how the number of posts and the total word count on mattischrome has evolved over the years:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swaptastic Part 3: The Shiny App</title>

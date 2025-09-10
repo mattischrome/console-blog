@@ -1,15 +1,8 @@
 ---
 category: Music
-pubDate: '2011-09-30T00:00:00Z'
-tags:
-- Music
-- Album Digest
-- September
-- John Beltran
-- Four Tet
-- The Rapture
-- Wilco
-- Eleven
+date: '2011-09-30'
+tableOfContents: true
+tags: ["Music", "Album Digest", "September", "John Beltran", "Four Tet", "The Rapture", "Wilco", "Eleven"]
 title: Album Digest, September 2011
 ---
 Hmmm, a rather grey looking selection of covers this month. The albums I have listened to most are:

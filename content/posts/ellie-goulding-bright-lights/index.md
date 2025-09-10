@@ -1,12 +1,8 @@
 ---
 category: Music
-pubDate: '2023-06-08T00:00:00Z'
-tags:
-- Music
-- Album Revisit
-- Ellie Goulding
-- Pop
-- Twenty Three
+date: '2023-06-08'
+
+tags: ["Music", "Album Revisit", "Ellie Goulding", "Pop", "Twenty Three"]
 title: Ellie Goulding - Bright Lights
 ---
 So today [my random album script](/how-random-should-things-be/) picked out "Bright Lights" by Ellie Goulding, an album I wasn't sure I've ever listened to. I looked in my music library and there it was! As a result this is not so much an [album revisit](/tag/album%20revisit/) as an album __visit_.

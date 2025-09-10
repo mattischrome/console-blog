@@ -1,12 +1,8 @@
 ---
 category: Music
-pubDate: '2023-06-02T00:00:00Z'
-tags:
-- Music
-- Dance
-- Goldfrapp
-- Album Revisit
-- Twenty Three
+date: '2023-06-02'
+
+tags: ["Music", "Dance", "Goldfrapp", "Album Revisit", "Twenty Three"]
 title: Goldfrapp - Black Cherry
 ---
 _This is the first in an unplanned series of **album revisits**, I will write a post explaining the process soon._

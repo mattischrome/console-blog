@@ -1,10 +1,8 @@
 ---
 category: Music
-pubDate: '2017-12-31T00:00:00Z'
-tags:
-- Music
-- Lists
-- Seventeen
+date: '2017-12-31'
+tableOfContents: true
+tags: ["Music", "Lists", "Seventeen"]
 title: Top 10 Albums 2017
 ---
 ## 10. Grails "Chalice Hymnal"

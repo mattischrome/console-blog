@@ -1,12 +1,8 @@
 ---
 category: Books
-pubDate: '2020-05-28T00:00:00Z'
-tags:
-- George Saunders
-- Books
-- Fiction
-- Twenty
-- Booker Prize
+date: '2020-05-28'
+
+tags: ["George Saunders", "Books", "Fiction", "Twenty", "Booker Prize"]
 title: George Saunders, Lincoln In The Bardo
 ---
 I read this book on holiday in Belgium last year. Having forgotten to pack a novel I scoured almost every book in the Waterstones at St. Pancras station before settling on this Booker prize winning novel by George Saunders.

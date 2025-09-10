@@ -1,11 +1,8 @@
 ---
 category: Short Fiction
-pubDate: '2012-01-13T00:00:00Z'
-tags:
-- Ideas
-- Modelling
-- Short Story
-- Twelve
+date: '2012-01-13'
+
+tags: ["Ideas", "Modelling", "Short Story", "Twelve"]
 title: The Painter
 ---
 Once upon a time there was a man who loved to paint. He studied the art and craft of painting for many years. He chose to invest his time and energy into creating the most realistic portraits that he could paint. For him the joy came not from completing the paintings but the process of recreating the real world with the strokes of his brush.

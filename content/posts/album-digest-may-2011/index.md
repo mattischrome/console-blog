@@ -1,15 +1,8 @@
 ---
 category: Music
-pubDate: '2011-05-31T00:00:00Z'
-tags:
-- Music
-- Album Digest
-- May
-- Kate Bush
-- Africa Hitech
-- Fleet Foxes
-- TV On The Radio
-- Eleven
+date: '2011-05-31'
+tableOfContents: true
+tags: ["Music", "Album Digest", "May", "Kate Bush", "Africa Hitech", "Fleet Foxes", "TV On The Radio", "Eleven"]
 title: Album Digest, May 2011
 ---
 Four albums this month:

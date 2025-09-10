@@ -1,11 +1,15 @@
 ---
-title: "2024 Albums of the Year #10: Yard Act, Where's My Utopia?"
-category: "Album Digest"
-tags: [Twenty Four, Albums, Indie, Postmodern, Yard Act]
-date: "2025-01-01"
-description: "Another year, another list of top ten albums. Number ten is Yard Act's second album, which took a while to win me over. I am glad it did."
+category: Album Digest
+date: '2025-01-01'
+tableOfContents: true
+tags:
+- Twenty Four
+- Albums
+- Indie
+- Postmodern
+- Yard Act
+title: '2024 Albums of the Year #10: Yard Act, Where''s My Utopia?'
 ---
-
 Yard Act are a post-punk band from Leeds. "Where's My Utopia?" is their second album. I first encountered Yard Act in a review of this album, which sent me to look at the excellent video to their non-album single "The Trenchcoat Museum". I enjoyed the metatextual references both in the video and the song, so I eagerly added "Where's My Utopia?" to my library.
 
 However, the album took a while to win me over. Fourth-wall breaking asides and meta references are fine in a single song, even one as long as "The Trenchcoat Museum", but combined over the length of a whole album, it can be a bit off-putting. Nevertheless, WMU? rewards repeat listens (especially on headphones) because it's genuinely funny - I think comedy is an underrated quality in Indie music - and the songs themselves are ace.

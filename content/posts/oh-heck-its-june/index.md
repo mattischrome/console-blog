@@ -1,10 +1,7 @@
 ---
-pubDate: '2023-06-01T00:00:00Z'
-tags:
-- June
-- Time passing
-- Organisation
-- Twenty Three
+date: '2023-06-01'
+
+tags: ["June", "Time passing", "Organisation", "Twenty Three"]
 title: Oh heck it's June
 ---
 White rabbits and all that. 

@@ -1,10 +1,15 @@
 ---
-title: "Gluten Free Toad In The Hole"
 category: Food
-tags: [Recipe, Gluten Free, Twenty Five, Food]
-date: "2025-01-14"
-description: "A recipe for gluten free toad in the hole."
+date: '2025-01-14'
+tableOfContents: true
+tags: ["Recipe","Gluten Free","Twenty Five","Food"]
+title: Gluten Free Toad In The Hole
 ---
+
+This is a weekly lifter of spirits during the winter months!
+
+<!--more-->
+
 ## Ingredients
 
 - 1 tbsp of sunflower oil or other high smoke point oil

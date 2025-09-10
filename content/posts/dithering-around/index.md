@@ -1,11 +1,15 @@
 ---
-title: "Dithering Around"
-category: "Blogging"
-tags: [Twenty Five, Imagemagick, Paris, Photos, Blogging, Software]
-date: "2025-01-31"
-description: "While off sick and under the weather I decided to play around with presenting the photos on this blog in a fashion more in keeping with the current Hugo theme."
+category: Blogging
+date: '2025-01-31'
+tags:
+- Twenty Five
+- Imagemagick
+- Paris
+- Photos
+- Blogging
+- Software
+title: Dithering Around
 ---
-
 While off sick and under the weather I decided to play around with presenting the photos on this blog in a fashion more in keeping with the current Hugo theme.
 
 I used [Imagemagick](https://imagemagick.org) to process the same files from [the Paris post](/posts/in-praise-of-paris/) earlier this week. I made them a bit smaller, reduced the number of colours to 256, posterized them (a built-in Imagemagick function that groups colours), and then did a dither on them.

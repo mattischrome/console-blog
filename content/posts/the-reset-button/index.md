@@ -1,11 +1,8 @@
 ---
 category: Life Experiences
-pubDate: '2013-10-16T00:00:00Z'
-tags:
-- Life Experiences
-- Self Improvement
-- Work
-- Thirteen
+date: '2013-10-16'
+tableOfContents: true
+tags: ["Life Experiences", "Self Improvement", "Work", "Thirteen"]
 title: The Reset Button
 ---
 ## Previously on...

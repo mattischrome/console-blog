@@ -1,11 +1,8 @@
 ---
 category: Books
-pubDate: '2017-09-29T00:00:00Z'
-tags:
-- Books
-- Non Fiction
-- Eric Schlosser
-- Seventeen
+date: '2017-09-29'
+
+tags: ["Books", "Non Fiction", "Eric Schlosser", "Seventeen"]
 title: Eric Schlosser, Command and Control
 ---
 "Command and Control" by Eric Schlosser is about the history of nuclear weapons and their safety. This might not seem like a thrilling subject, but it's absorbing from start to finish. I started it three years ago but only finished it more recently as the subject of nuclear weapons has become more pertinent to current affairs[^1]. There are many people who would stand to gain a great deal from reading this book[^2].

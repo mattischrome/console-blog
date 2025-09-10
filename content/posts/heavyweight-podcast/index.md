@@ -1,6 +1,7 @@
 ---
 category: Podcasts
-pubDate: '2016-10-10T00:00:00Z'
+date: '2016-10-10'
+
 tag:
 - Podcast
 - Ideas

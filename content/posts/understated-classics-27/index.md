@@ -1,18 +1,16 @@
 ---
 category: Understated Classics
-pubDate: '2014-08-19T00:00:00Z'
-tags:
-- Understated Classics
-- Music
-- Wilco
-- Fourteen
-- Rock
-title: 'Understated Classics #27: A Ghost Is Born by Wilco'
+date: '2014-08-19'
 slug: understated-classics-27
+tableOfContents: true
+tags: ["Understated Classics", "Music", "Wilco", "Fourteen", "Rock"]
+title: 'Understated Classics #27: A Ghost Is Born by Wilco'
 ---
 [I have already given some of the personal background to why I love this album](/posts/whatever-happened-to-that-hat/) and now it’s time to give a bit of love to the music itself so I’ll stick to giving a track by track account of “A Ghost Is Born”.
 
 If you are familiar with Wilco’s first few albums, you’ll know that A Ghost Is Born is on the line of best fit through Being There, Summerteeth, and Yankee Hotel Foxtrot. It continues its predecessor’s experimentation, but also gets reined in a little. Great songs - some of my favourite Wilco songs - were left off Yankee Hotel Foxtrot (“[Venus Stopped The Train](http://www.bemydemon.org/songs/venus.htm)”, “[A Magazine Called Sunset](http://wilcoworld.net/#!/song/a-magazine-called-sunset/)”) so the follow-up could easily have been more of the same and everyone would have gone home happy.
+
+<!--more-->
 
 It is to Wilco’s credit then that they set out push the envelope again. It is not quite the shock to the system that Yankee Hotel Foxtrot was, but nor is it the hangover that early reviews first implied. If Yankee… demonstrated that a modern Wilco was possible, then for the most part A Ghost Is Born takes the baton and runs with it.
 
@@ -51,10 +49,6 @@ The next track “Less Than You Think” lasts for fifteen minutes. It begins wi
 The album ends with “[The Late Greats](http://wilcoworld.net/#!/song/the-late-greats/)”, a great song that was apparently added to the track listing at the last minute. It has a wonderful throwaway sound to it and it’s very straightforward, yet somehow it would not sit as perfectly as it does on any other Wilco album. It’s a beautiful chiming song about the ephemeral nature of pop music: “The best songs never get sung / the best laugh never leaves your lungs / it’s so good you will never know / they never even played a show” (a bit like all my “bands”).
 
 I love this album: its sentiments, its confusion and most of all some cracking guitar solos. As I said [when I wrote about that hat](/posts/whatever-happened-to-that-hat), I first encountered this album while in a foggy state in my life and its feints and dead ends, its heart and head, all served to draw me in. The ghost in the machine, the soul in the body. The long-lasting light.
-
----
-
-<!--Hero image is a [Wilco Easter Egg](https://flic.kr/p/e4oByj) based on the cover of "A Ghost is Born", [creative commons license](https://creativecommons.org/licenses/by-nc-nd/2.0/).-->
 
 [^1]: Yes, another squall. Just like number 27. And I note the fact that I’m following up a review of “Come On Die Young” with one of “A Ghost Is Born”. I don’t plan it like this, honest.
 [^2]: No wonder Lennon and McCartney fell out: John takes a load of drugs and explores the life of the mind, Paul stays at home to learn _musique concrete_ and write songs about a shaggy Old English Sheepdog.

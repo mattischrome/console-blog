@@ -1,16 +1,8 @@
 ---
 category: Music
-pubDate: '2016-09-30T00:00:00Z'
-tags:
-- Album Digest
-- September
-- Music
-- Wilco
-- MIA
-- Local Natives
-- Kaitlyn Aurelia Smith
-- Susan Ciani
-- Sixteen
+date: '2016-09-30'
+tableOfContents: true
+tags: ["Album Digest", "September", "Music", "Wilco", "MIA", "Local Natives", "Kaitlyn Aurelia Smith", "Susan Ciani", "Sixteen"]
 title: Album Digest, September 2016
 ---
 This month's album digest features albums by Wilco, M.I.A., Local Natives, and a collaboration between Kaitlyn Aurelia Smith and Suzanne Ciani.

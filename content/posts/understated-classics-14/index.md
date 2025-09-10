@@ -1,14 +1,10 @@
 ---
 category: Understated Classics
-pubDate: '2011-11-07T00:00:00Z'
-tags:
-- Understated Classics
-- Bomb The Bass
-- Music
-- Electronic
-- Eleven
-title: 'Understated Classics #14: Clear by Bomb The Bass'
+date: '2011-11-07'
 slug: understated-classics-14
+
+tags: ["Understated Classics", "Bomb The Bass", "Music", "Electronic", "Eleven"]
+title: 'Understated Classics #14: Clear by Bomb The Bass'
 ---
 > I think it’s time to discuss your philosophy of drug use as it relates to artistic endeavour…
 

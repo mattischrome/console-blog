@@ -1,15 +1,8 @@
 ---
 category: Music
-pubDate: '2012-07-31T00:00:00Z'
-tags:
-- Music
-- Album Digest
-- July
-- BT
-- Actress
-- Monolake
-- Mohn
-- Twelve
+date: '2012-07-31'
+tableOfContents: true
+tags: ["Music", "Album Digest", "July", "BT", "Actress", "Monolake", "Mohn", "Twelve"]
 title: Album Digest, July 2012
 ---
 Just a short album digest this month. I bought a stack of CDs and am parcelling them out over the next few months (together with important additional releases as they crop up). This is in the hope that I can write more considered pieces about each one. This month I’ve grouped together albums with monochrome covers and a BT album from June that I found out about recently. These albums are not just linked by their artwork, they also form a cohesive whole. As a result I dispense with reviewing each album in depth. As usual there is a playlist at the end.

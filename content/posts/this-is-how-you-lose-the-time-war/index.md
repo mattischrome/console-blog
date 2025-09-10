@@ -1,12 +1,8 @@
 ---
 category: Books
-pubDate: '2021-01-03T00:00:00Z'
-tags:
-- Books
-- Science Fiction
-- Amal El-Mohtar
-- Max Gladstone
-- Twenty One
+date: '2021-01-03'
+
+tags: ["Books", "Science Fiction", "Amal El-Mohtar", "Max Gladstone", "Twenty One"]
 title: Amal El-Mohtar & Max Gladstone, This Is How You Lose the Time War
 ---
 This Is How You Lose the Time War is a short novella about two members of opposing factions (Red and Blue) engaged in a 'time war’: that is they travel in time and attempt to erase each other's existence. Except that one day Red decides to taunt Blue with a letter, and a correspondence emerges.

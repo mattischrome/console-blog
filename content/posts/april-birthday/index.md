@@ -1,6 +1,7 @@
 ---
 category: Poems
-pubDate: '2012-04-10T00:00:00Z'
+date: '2012-04-10'
+
 tag:
 - Poem
 - Ted Hughes

@@ -1,14 +1,10 @@
 ---
 category: Understated Classics
-pubDate: '2015-04-19T00:00:00Z'
-tags:
-- Music
-- Red Snapper
-- Understated Classics
-- Fifteen
-- Electronic
-title: 'Understated Classics #30: Our Aim Is to Satisfy by Red Snapper'
+date: '2015-04-19'
 slug: understated-classics-30
+
+tags: ["Music", "Red Snapper", "Understated Classics", "Fifteen", "Electronic"]
+title: 'Understated Classics #30: Our Aim Is to Satisfy by Red Snapper'
 ---
 The thirtieth understated classic is by a band named after a fish. There isn't a great deal for me to say about "Our Aim Is To Satisfy"[^1] apart from the usual insistence that it is quite good. There's no overarching theme to write about, and no deep personal story attached. It was bound to happen eventually.
 

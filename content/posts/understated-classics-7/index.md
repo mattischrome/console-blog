@@ -1,18 +1,14 @@
 ---
 category: Understated Classics
-pubDate: '2011-01-09T00:00:00Z'
-tags:
-- Understated Classics
-- Idlewild
-- Rock
-- Music
-- Eleven
-title: 'Understated Classics #7: 100 Broken Windows by Idlewild'
+date: '2011-01-09'
 slug: understated-classics-7
+
+tags: ["Understated Classics", "Idlewild", "Rock", "Music", "Eleven"]
+title: 'Understated Classics #7: 100 Broken Windows by Idlewild'
 ---
 Idewild are a solid band who have released four or five albums that I could consider for this series. I'm even in the sleeve credits of one: _Post-Electric Blues_, if you're asking.
 
-In the end I went for _100 Broken Windows_ because it means a lot to me. It has more of a place in my life than the others. Usually I find that this happens if I can remember where I bought an album. In this case I bought a copy of the [cassette](http://www.bbc.co.uk/news/business-22533522) in Bath HMV at Easter 2000. I can remember the first time that I listened to it too, it was as I marched home to Oldfield Park down Bathwick hill from the [university](www.bath.ac.uk) that same afternoon. It took exactly the two sides of the tape to get from one door to the other.
+In the end I went for _100 Broken Windows_ because it means a lot to me. It has more of a place in my life than the others. Usually I find that this happens if I can remember where I bought an album. In this case I bought a copy of the [cassette](http://www.bbc.co.uk/news/business-22533522) in Bath HMV at Easter 2000. I can remember the first time that I listened to it too, it was as I marched home to Oldfield Park down Bathwick hill from the [university](https://www.bath.ac.uk) that same afternoon. It took exactly the two sides of the tape to get from one door to the other.
 
 That period of time - from [door to door](http://en.wikipedia.org/wiki/Door-to-door) - is about the perfect length for an album. Starting with _Little Discourage_, a wonderful little anthem about wanting the world and never getting it, the album tumbles and spits its way through side one. It pauses for breath with _Let Me Sleep (Next To The Mirror)_ ("I'm sure that you'll be fine / ten more years of this it will nearly be time") but it has to after the tracks that precede it. You have _I Don't Have The Map_, which re-tells the [Robinson Crusoe](http://www.sparknotes.com/lit/crusoe/) tale while relocating it to [the Shetlands](http://visit.shetland.org). _Roseability_ is an anthem to philosopher [Gertrude Stein](http://www.poets.org/poetsorg/poet/gertrude-stein): "Gertrude Stein says that’s enough / I know that it’s not enough now”. Then there is a plea to see the world afresh in _These Wooden Ideas_: “You can't keep waiting for progress / You can wait but I can't accept at all". It all rushes by in such a brash and energetic fashion that side one seems to end within a heartbeat.
 

@@ -1,11 +1,14 @@
 ---
-title: "Push the right key"
-category: "Software"
-tags: [Twenty Five, Neovim, Blogging, Software, rcmd]
-date: "2025-01-22"
-description: "All I had to do was press the right key..."
+category: Software
+date: '2025-01-22'
+tags:
+- Twenty Five
+- Neovim
+- Blogging
+- Software
+- rcmd
+title: Push the right key
 ---
-
 One of the absurd barriers to writing regularly is that my new post script is written to open the new markdown file in Neovim and until this week I had no idea how to type a hashtag (which markdown uses for headers) in this editor.
 
 Neovim, and its venerable predecessors vi and vim, is notorious for being a bit tricksy to work with. This is because it is a modal editor: you use keys to switch the editor between modes. The same key presses mean different things in different modes, which can be frustrating when you first start out and have no clue what is going on.

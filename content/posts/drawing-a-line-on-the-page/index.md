@@ -1,12 +1,8 @@
 ---
 category: Ideas
-pubDate: '2021-02-26T00:00:00Z'
-tags:
-- Creativity
-- Twenty one
-- Drawing
-- Ideas
-- Make a draft
+date: '2021-02-26'
+
+tags: ["Creativity", "Twenty one", "Drawing", "Ideas", "Make a draft"]
 title: Drawing a line on the page
 ---
 Ingrid has joined an online drawing class. She sits there on Teams getting feedback on her drawings, while I sit there attempting to absorb everything. I'm also learning by doing, by making a line on the page. In some ways, it's instructive to observe the difference in what we learn with and without the feedback.

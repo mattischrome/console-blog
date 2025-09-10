@@ -1,12 +1,8 @@
 ---
 category: Books
-pubDate: '2010-08-02T00:00:00Z'
-tags:
-- Reading Projects
-- Science Fiction
-- Books
-- J. G. Ballard
-- Ten
+date: '2010-08-02'
+
+tags: ["Reading Projects", "Science Fiction", "Books", "J. G. Ballard", "Ten"]
 title: J. G. Ballard
 ---
 Reading "Crash" at 17 left me in a state of numb shock. It got me hooked and left me with [J. G. Ballard](http://en.wikipedia.org/wiki/J._G._Ballard) as one of my favourite authors. I then devoured a short story collection called "Myths of the Near Future" around the same time. You may recognise it because the Klaxons appropriated the title for their debut album. Those stories captured my imagination, in particular the eponymous story of a world gone to run amid "space sickness".

@@ -1,11 +1,8 @@
 ---
 category: Books
-pubDate: '2022-02-08T00:00:00Z'
-tags:
-- Books
-- Fiction
-- History
-- Twenty Two
+date: '2022-02-08'
+
+tags: ["Books", "Fiction", "History", "Twenty Two"]
 title: Laurent Binet, Civilisations
 ---
 'Civilisations' is a counterfactual historical novel that attempts to extrapolate the future course of history after changing one pivotal moment of the timeline. I usually find novels like this are great fun, another entertaining example is 'Making History' by Stephen Fry. The novel, originally written in French, won some big awards in France last year. I read the translation by Sam Taylor. 

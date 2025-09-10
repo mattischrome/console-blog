@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<h1>Welcome!</h1>
+
+<p>
+  mattischrome is the personal blog of Matthew Dorey, an analyst and data scientist from the UK. <a href="about/">(more)</a>
+</p>
+<br/>
+
+{{ if .Site.Params.recent_posts }}
+<h2>Recent Posts</h2>
+<section>
+  {{ range first (.Site.Params.recent_posts_count | default 5) (where .Site.RegularPages "Type" "posts") }}
+  <article style="margin-bottom: 2rem;">
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <p class="header">
+      {{ if .Date }}
+      Posted on {{ .Date.Format "2006-01-02" }}
+      {{ end }}
+      {{ if .Params.readingTime }}
+      &thinsp;·&thinsp; <span title="{{ .WordCount }} words">{{ .Params.readingTime }}</span> &thinsp;·&nbsp;
+      {{ else if .ReadingTime }}
+      &thinsp;·&thinsp; <span title="{{ .WordCount }} words">{{ .ReadingTime }} min read</span> &thinsp;·&nbsp;
+      {{ end }}
+      {{ range $index, $tag := .Params.tags }}
+      {{ if gt $index 0 }}&thinsp;·&thinsp;{{ end }}
+      <a title="All pages tagged '{{ $tag }}'." href="{{ printf "/tags/%s" (urlize $tag) | relURL }}" rel="tag">{{ $tag }}</a>
+      {{ end }}
+    </p>
+    {{ if .Summary }}
+    <div>{{ .Summary }}</div>
+    {{ if .Truncated }}
+    <p><a href="{{ .RelPermalink }}">Read more...</a></p>
+    {{ end }}
+    {{ end }}
+  </article>
+  {{ end }}
+</section>
+
+{{ if gt (len (where .Site.RegularPages "Type" "posts")) (.Site.Params.recent_posts_count | default 5) }}
+<p><a href="{{ "/posts" | relURL }}">View all posts</a></p>
+{{ end }}
+{{ end }}
+
+{{ end }}

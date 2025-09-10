@@ -1,14 +1,10 @@
 ---
 category: Understated Classics
-pubDate: '2012-06-05T00:00:00Z'
-tags:
-- Understated Classics
-- Fabric
-- Music
-- Twelve
-- Electronic
-title: 'Understated Classics #18: Fabric 12 mixed by The Amalgamation Of Soundz'
+date: '2012-06-05'
 slug: understated-classics-18
+
+tags: ["Understated Classics", "Fabric", "Music", "Twelve", "Electronic"]
+title: 'Understated Classics #18: Fabric 12 mixed by The Amalgamation Of Soundz'
 ---
 Say what? We’re allowing compilations now?
 

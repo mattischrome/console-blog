@@ -1,10 +1,8 @@
 ---
 category: Life Experiences
-pubDate: '2013-02-11T00:00:00Z'
-tags:
-- Fun
-- Games
-- Thirteen
+date: '2013-02-11'
+
+tags: ["Fun", "Games", "Thirteen"]
 title: A Jigsaw
 ---
 The other weekend, beset by insomnia, I decided to follow [my own advice](five-things-to-try-when-you-cant-sleep) and get up to do something instead of wallowing unable to sleep. I pulled my emergency jigsaw out of the cupboard and set to it. I should stress that I mean a jigsaw puzzle and not an actually jigsaw: DIY at 2am is not such a good idea!

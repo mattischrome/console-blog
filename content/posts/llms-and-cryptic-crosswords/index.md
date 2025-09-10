@@ -1,11 +1,14 @@
 ---
-title: "LLMs and Cryptic Crosswords"
-category: "Software"
-tags: [Twenty Five, LLM, Software, Crosswords, Hype]
-date: "2025-06-02"
-description: "At the time of writing, one of the best ways to demonstrate the illusory nature of LLMs is to get one to answer a cryptic crossword clue."
+category: Software
+date: '2025-06-02'
+tags:
+- Twenty Five
+- LLM
+- Software
+- Crosswords
+- Hype
+title: LLMs and Cryptic Crosswords
 ---
-
 At the time of writing, one way to demonstrate the illusory nature of LLM intelligence is to get one to try and answer a cryptic crossword clue.
 
 <!--more-->
@@ -27,7 +30,7 @@ The sorts of (easy) clues that you get include:
 
 The more difficult cryptics take these formulae even further, usually including a whole canon of different clue types and signifiers. In some ways, a cryptic is often a duel with the setter. The more you know the setter, the more you know how to do the crossword. It's a learned skill and the setter sets not only the puzzle but also the learning curve.
 
-It's surprising how easy it is to find the answers to cryptic crosswords online[^1]. You can usually just pop the clue and the number of letters into a search engine because the answer has already been indexed somewhere. But that's no fun. So I thought "why not feed this tricky clue into an LLM and ask it to explain the answer?" Because they're rubbish at them, that's why.
+It's surprising how easy it is to find the answers to cryptic crosswords online.{{% sidenote "sn-cross" %}}It should also be noted that we do our crosswords on an app that gives the answer when we want to give up. This is a nice feature for cryptics because then the puzzle becomes one of working backwards from the clue to the solution.{{% /sidenote %}} You can usually just pop the clue and the number of letters into a search engine because the answer has already been indexed somewhere. But that's no fun. So I thought "why not feed this tricky clue into an LLM and ask it to explain the answer?" Because they're rubbish at them, that's why.
 
 To give the one I used some credit, it did attempt to explain what it was doing before just completely melting down and stopping mid-sentence. Not unlike me in a meeting at work where I'm saying what I think we should do and suddenly think about chocolate hob nobs instead. (This happens more often than I would like it to, but in my defence chocolate hobnobs _are_ ace.) The techniques it suggested were on the right lines but it failed to spot the word hidden in plain sight, which is a particular feature of the cryptics we do. (We'd missed it too!)
 
@@ -40,5 +43,3 @@ In the end it's my mistake, not theirs. But it's interesting to think that there
 Perhaps there are also ways that I could get better at prompting for answers to my clues (though to be fair, I'd rather put _that_ effort into solving the clues myself.) It's certainly true that the prompt influences the answer and you can get different answers by coming at things in a different way.
 
 The next step for me is to get one of these assistants to write me a cryptic crossword. I am curious about what I will get, but not that hopeful that it will be any good. As I mentioned before, the sheer number of possiblilities for the clues means that a crossword is a dialogue between the setter and the solver. If the setter is just a random text generator, what hope for the solver?
-
-[^1]: It should also be noted that we do our crosswords on an app that gives the answer should we want to give up. This is a nice feature for cryptics because then the puzzle becomes one of marrying the clue to the solution.

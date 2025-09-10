@@ -1,15 +1,14 @@
 ---
-title: Reflections on 2023
-pubDate: 2024-01-02 22:13:40
 category: Life Experiences
-tags:
-- Twenty Four
-- Life Experiences
-- Writing
-- Blogging
-- Travel
-slug: reflections-2023
+date: '2024-01-02'
+tableOfContents: true
+tags: ["Twenty Four", "Life Experiences", "Writing", "Blogging", "Travel"]
+title: Reflections on 2023
 ---
+Here are some reflections on 2023.
+
+<!--more-->
+
 ## Travel
 
 In 2023, it was Germany or go home.

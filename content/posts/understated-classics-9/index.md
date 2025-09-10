@@ -1,15 +1,10 @@
 ---
 category: Understated Classics
-pubDate: '2011-05-06T00:00:00Z'
-tags:
-- Understated Classics
-- Saint Etienne
-- Music
-- Pop
-- Electronic
-- Eleven
-title: 'Understated Classics #9: Tiger Bay by Saint Etienne'
+date: '2011-05-06'
 slug: understated-classics-9
+tableOfContents: true
+tags: ["Understated Classics", "Saint Etienne", "Music", "Pop", "Electronic", "Eleven"]
+title: 'Understated Classics #9: Tiger Bay by Saint Etienne'
 ---
 ## Background
 

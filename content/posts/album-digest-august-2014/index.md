@@ -1,17 +1,8 @@
 ---
 category: Music
-pubDate: '2014-08-31T00:00:00Z'
-tags:
-- Music
-- Album Digest
-- August
-- Karl Hyde
-- Underworld
-- Brian Eno
-- Lone
-- FKA twigs
-- Mogwai
-- Fourteen
+date: '2014-08-31'
+tableOfContents: true
+tags: ["Music", "Album Digest", "August", "Karl Hyde", "Underworld", "Brian Eno", "Lone", "FKA twigs", "Mogwai", "Fourteen"]
 title: Album Digest, August 2014
 ---
 The album digest returns with five albums by four artists.

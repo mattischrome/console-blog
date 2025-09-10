@@ -1,10 +1,8 @@
 ---
 category: Films
-pubDate: '2013-08-12T00:00:00Z'
-tags:
-- Films
-- Animation
-- Thirteen
+date: '2013-08-12'
+
+tags: ["Films", "Animation", "Thirteen"]
 title: 'Despicable Me 2: A Short Review'
 ---
 It's so good that I paid to see it twice! There, that's the review done.

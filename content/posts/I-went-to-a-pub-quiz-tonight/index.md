@@ -1,10 +1,8 @@
 ---
 category: Life Experiences
-pubDate: '2022-09-14T00:00:00Z'
-tags:
-- Quiz
-- Pot Luck
-- Twenty Two
+date: '2022-09-14'
+
+tags: ["Quiz", "Pot Luck", "Twenty Two"]
 title: I went to a pub quiz tonight
 ---
 Ingrid and I joined our usual quiz team tonight for the residents' association pub quiz. As usual we came third. It's a fairly settled group of attendees and we know our level. We're also quite used to the quiz master and his questions, though I do wish he'd acknowledge that pop music continued to be a thing long after the sixties!

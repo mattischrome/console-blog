@@ -1,11 +1,8 @@
 ---
 category: Life Experience
-pubDate: '2023-04-09T00:00:00Z'
-tags:
-- Rules
-- Thoughts
-- Life Experiences
-- Twenty Three
+date: '2023-04-09'
+
+tags: ["Rules", "Thoughts", "Life Experiences", "Twenty Three"]
 title: A list for '23
 ---
 A set of rules for living from now on (in no particular order)

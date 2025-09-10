@@ -1,11 +1,8 @@
 ---
 category: Books
-pubDate: '2016-07-30T00:00:00Z'
-tags:
-- Books
-- Richard Beard
-- Fiction
-- Sixteen
+date: '2016-07-30'
+
+tags: ["Books", "Richard Beard", "Fiction", "Sixteen"]
 title: Richard Beard, Acts of the Assassins
 ---
 [Acts of the Assassins](https://www.waterstones.com/book/acts-of-the-assassins/richard-beard/9780099592938) is an interesting novel by [Richard Beard](http://www.richardbeard.info) that retells the story of [the apostles](https://en.wikipedia.org/wiki/Apostle_(Christian)) and their deaths. It uses a modern crime genre style and a contemporary setting. The author himself refers to it as "Gospel Noir".

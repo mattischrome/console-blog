@@ -1,0 +1,19 @@
+
+<div id="footer">
+    <!-- Left -->
+    <a id="to-top" href="#">top</a>
+    <!-- Right -->
+    {{ if .Site.Params.rss }}
+    <a href="{{ "atom.xml" | relURL }}" style="font-variant:small-caps">rss</a>
+    &nbsp;|&nbsp;
+    {{ end }}
+    {{ if .Site.Params.source_url }}
+    <a href="{{ .Site.Params.source_url }}">Website source</a>
+    &nbsp;|&nbsp;
+    {{ end }}
+    {{ if .Site.Params.legal_url }}
+    <a href="{{ .Site.Params.legal_url | relURL }}">Legal notice and privacy policy</a>
+    {{ else }}
+    <a href="{{ "/about" | relURL }}">About</a>
+    {{ end }}
+  </div>

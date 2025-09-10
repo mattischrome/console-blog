@@ -1,14 +1,8 @@
 ---
 category: Understated Classics
-pubDate: '2022-01-01T00:00:00Z'
-tags:
-- Understated Classics
-- Music
-- Rock
-- Electronic
-- Dance
-- Pop
-- Twenty Two
+date: '2022-01-01'
+
+tags: ["Understated Classics", "Music", "Rock", "Electronic", "Dance", "Pop", "Twenty Two"]
 title: Understated Classics Or Not?
 ---
 At the new year, thoughts and spare time for writing point me toward writing some new posts for my understated classics series. Expect some new ones soon.

@@ -1,11 +1,14 @@
 ---
-title: "Slots and Pipes"
-category: "Programming"
-tags: [R, Twenty Five, Programming, Functional Programming, Tidyverse]
-date: "2025-02-02"
-description: "Recent explorations in R have reminded me about two ways of thinking about how you refer to objects in the language. Slots are probably what you learn about first, and then pipes come along and change everything. But it's also good to not forget about slots once you know about pipes!"
+category: Programming
+date: '2025-02-02'
+tags:
+- R
+- Twenty Five
+- Programming
+- Functional Programming
+- Tidyverse
+title: Slots and Pipes
 ---
-
 Recent explorations in R have reminded me about two ways of thinking about how you refer to objects or (parts of objects) in the language.
 
 Slots are probably what you learn about first, they use the `$` syntax. In R, the `$` operator is used to access specific elements or columns within a data structure, such as a list, data frame, or environment. You can think of it as an ersatz shorthand for the `tidyverse::select()` function, except that the latter is more powerful because you can do funky things like selecting multiple columns programmatically. By programmatically I mean "in some way that is not predetermined until you run your code", e.g. because you are selecting a subset of columns of your data frame that didn't exist until (long) before that step. Anyway, back to `$`, it's a way of selecting a particular column of a data frame or any smaller part of an object in R. In fact, one of my main use cases for `$` used to be for recalculating columns in a data frame when I wasn't confident about using `mutate()`: changing a column to a factor with `mutate()` gave me the heebie-jeebies for a long time. 

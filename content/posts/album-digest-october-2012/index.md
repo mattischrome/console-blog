@@ -1,15 +1,8 @@
 ---
 category: Music
-pubDate: '2012-10-31T00:00:00Z'
-tags:
-- Music
-- Album Digest
-- October
-- Ricardo Villalobos
-- Laurie Spiegel
-- Daphni
-- Mala
-- Twelve
+date: '2012-10-31'
+
+tags: ["Music", "Album Digest", "October", "Ricardo Villalobos", "Laurie Spiegel", "Daphni", "Mala", "Twelve"]
 title: Album Digest, October 2012
 ---
 It has been a strange month and I found that I didn’t listen to a lot of new music. I have been a bit down and when that’s the case I tend to take refuge in music that I know well, stuff that cheers me up. I have listened to last month’s fave a lot, Nelly Furtado’s “The Spirit Indestructible”. I said a lot of nice things about it but it probably didn’t come over in my writing just how much I really liked it.

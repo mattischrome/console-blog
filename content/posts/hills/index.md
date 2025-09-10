@@ -1,10 +1,8 @@
 ---
 category: Ideas
-pubDate: '2017-07-15T00:00:00Z'
-tags:
-- Ideas
-- Blogging
-- Seventeen
+date: '2017-07-15'
+
+tags: ["Ideas", "Blogging", "Seventeen"]
 title: Hills
 ---
 I'm a big fan of books. The way they transport you away to other places and so on. As repositories of knowledge and adventure they can't be beat. I can think of no better way out of an existential fix than reading.

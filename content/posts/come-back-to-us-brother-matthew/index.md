@@ -1,11 +1,8 @@
 ---
 category: Writing
-pubDate: '2023-01-20T00:00:00Z'
-tags:
-- Life Experiences
-- Covid
-- New Year
-- Twenty Three
+date: '2023-01-20'
+
+tags: ["Life Experiences", "Covid", "New Year", "Twenty Three"]
 title: Come back to us Brother Matthew
 ---
 As with most years, I had hoped to start off 2023 with a flurry of new blog posts. Instead I caught Covid, which knocked me out for most of 'betweenmas' and put paid to my hopes for a productive start to the year. At the time of writing this post, I only just feel like I have begun to get back to 'normal', or at least as normal as things have been since 2020.

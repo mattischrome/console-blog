@@ -1,14 +1,18 @@
 ---
 category: Civ
-pubDate: '2019-05-06T19:14:48Z'
-tags:
-- Fun
-- Civ
-- Nineteen
-- Leaders
-title: 'Civ Leaders #1: Hojo Tokimune of Japan'
+date: '2019-05-06'
 slug: civ-leaders-1
+tableOfContents: true
+tags: ["Fun", "Civ", "Nineteen", "Leaders"]
+title: 'Civ Leaders #1: Hojo Tokimune of Japan'
 ---
+
+Let's write a guide for all the leaders in Civ 6! It's a nice writing project and I seem to have plenty of time on my hands. For playing Civ VI that is, writing a post for every leader might be another matter...
+
+Anyway, let's start with one of my favourites: Hojo Tokimune of Japan.
+
+<!--more-->
+
 ## Civ ability
 *Meiji Restoration* Districts receive a +1 adjacency bonus for each adjacent district, instead of +0.5.
 

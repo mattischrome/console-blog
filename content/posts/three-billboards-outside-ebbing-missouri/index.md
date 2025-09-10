@@ -1,10 +1,8 @@
 ---
 category: Films
-pubDate: '2018-01-25T00:00:00Z'
-tags:
-- Films
-- Eighteen
-- Oscars
+date: '2018-01-25'
+
+tags: ["Films", "Eighteen", "Oscars"]
 title: Three Billboards Outside Ebbing, Missouri
 ---
 Ingrid and I renewed our Cineworld passes as it is the season to go to the movies and check out the Oscar contenders. You nod along sagely while dreaming up superlatives to show how much you agree with the taste-makers. Or you can call such-and-such movie a pretentious load of crap.

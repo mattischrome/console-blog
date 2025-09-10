@@ -1,13 +1,9 @@
 ---
-title: Bob Mortimer, The Satsuma Complex
-pubDate: 2024-08-06 17:55:14
-tags:
-- Books
-- Twenty Four
-- Bob Mortimer
-- Detective Story
-- Comedy
 category: Books
+date: 2024-08-06
+
+tags: ["Books", "Twenty Four", "Bob Mortimer", "Detective Story", "Comedy"]
+title: Bob Mortimer, The Satsuma Complex
 ---
 A hardback book called "The Satsuma Complex" is all that remains of a mysterious young lady that young lawyer Gary is chatting up in the pub one night. It's a book that everyone reckons is "a bit sh*t". But Gary's moping about after the Satsuma lady doing a runner while he was in the loo will have to be put on hold when his friend turns up dead.
 

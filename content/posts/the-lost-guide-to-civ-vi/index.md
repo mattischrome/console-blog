@@ -1,12 +1,12 @@
 ---
-title: "The Lost Guide to CIV VI"
-category: "Games"
-tags: [Twenty Five, Civ VI, Civ VII, Computer games, Software]
-date: "2025-01-18"
-description: "How a lost post about Gorgo derailed my attempt to write a guide to Civilization VI"
+category: Games
+date: '2025-01-18'
+tags: [Twenty Five, Civ VI ,Civ VII, Computer games, Software]
+title: The Lost Guide to CIV VI
 ---
-
 I've written some guides about how to play as various leaders in Sid Meier's Civilization VI, covering [Hojo](https://mattischrome.com/posts/civ-leaders-1/), [Alexander](https://mattischrome.com/posts/civ-leaders-2/), [Amanitore](https://mattischrome.com/posts/civ-leaders-3/), and [Qin](https://mattischrome.com/posts/civ-leaders-4/) in his Mandate of Heaven persona. I'm pretty sure I also wrote a guide to Gorgo at some point but all I can find are game screenshots I took one of the times that I played as her.
+
+<!--more-->
 
 ![A screenshot of a CIV VI game where I played as Gorgo](./images/gorgo_1.jpg)
 

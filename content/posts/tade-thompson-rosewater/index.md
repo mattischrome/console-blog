@@ -1,12 +1,7 @@
 ---
 category: Books
-pubDate: '2022-03-21T00:00:00Z'
-tags:
-- Books
-- Science Fiction
-- Trilogy
-- Series
-- Twenty Two
+date: '2022-03-21'
+tags: ["Books", "Science Fiction", "Trilogy", "Series", "Twenty Two"]
 title: Tade Thompson, Rosewater
 ---
 Rosewater is an exciting science fiction novel set several decades after first contact with an alien called Wormwood, that has established itself as a large biodome in Nigeria. The novel follows Kaaro, a thief whose extra special abilities are forged from an unlikely connection with the alien. The whole thing is part sci-fi adventure and part spy novel.

@@ -1,12 +1,8 @@
 ---
 category: Music
-pubDate: '2023-06-03T00:00:00Z'
-tags:
-- Music
-- Album Revisit
-- Randomness
-- Life Experiences
-- Twenty Three
+date: '2023-06-03'
+
+tags: ["Music", "Album Revisit", "Randomness", "Life Experiences", "Twenty Three"]
 title: How random should things be?
 ---
 I've managed to extract my music library, including all the albums I've added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for [Goldfrapp's Black Cherry.](/goldfrapp-black-cherry)

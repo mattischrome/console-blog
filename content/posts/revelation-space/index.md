@@ -1,11 +1,8 @@
 ---
 category: Books
-pubDate: '2017-10-06T00:00:00Z'
-tags:
-- Books
-- Science Fiction
-- Alistair Reynolds
-- Seventeen
+date: '2017-10-06'
+
+tags: ["Books", "Science Fiction", "Alistair Reynolds", "Seventeen"]
 title: Alistair Reynolds, Revelation Space
 ---
 [Alistair Reynolds'](http://approachingpavonis.blogspot.co.uk) 2000 novel "Revelation Space" has long been in orbit of my science fiction "to read" list, but it wasn't until one sleepless night (post ["Command and Control"](command-and-control)) that I came across it in Ingrid's audiobooks. I was instantly drawn in as I listened to the opening scene about an archaeological dig facing evacuation ahead of an imminent 'razor storm'. 

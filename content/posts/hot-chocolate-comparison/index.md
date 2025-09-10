@@ -1,12 +1,8 @@
 ---
 category: Food
-pubDate: '2023-06-07T00:00:00Z'
-tags:
-- Food
-- Hot Chocolate
-- Recipes
-- Chocolate
-- Twenty Three
+date: '2023-06-07'
+
+tags: ["Food", "Hot Chocolate", "Recipes", "Chocolate", "Twenty Three"]
 title: Hot Chocolate Comparison
 ---
 I'm a massive fan of hot chocolate. Recently a friend recommended M&S hot chocolate flakes. Thanks to a promotion it was about half the price of the Montezuma's hot chocolate discs that we usually buy. The Montezuma's ones are lush (that's official hot chocolate tasting terminology) but in this economy anything that saves a bit of money has got to be good right?

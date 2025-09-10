@@ -1,10 +1,7 @@
 ---
-pubDate: '2021-11-24T00:00:00Z'
-tags:
-- Music
-- Spotify
-- Apple
-- Twenty One
+date: '2021-11-24'
+
+tags: ["Music", "Spotify", "Apple", "Twenty One"]
 title: A pox on both their houses
 ---
 How hard is it to just listen to music these days?

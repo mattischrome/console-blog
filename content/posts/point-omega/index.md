@@ -1,11 +1,8 @@
 ---
 category: Books
-pubDate: '2013-07-23T00:00:00Z'
-tags:
-- Don Delillo
-- Books
-- Novel
-- Thirteen
+date: '2013-07-23'
+
+tags: ["Don Delillo", "Books", "Novel", "Thirteen"]
 title: Don Delillo, Point Omega
 ---
 > There were no mornings or afternoons. It was one seamless day, every day, until the sun began to arc and fade, mountains emerging from their silhouettes. This is when we sat and watched in silence.

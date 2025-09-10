@@ -1,16 +1,8 @@
 ---
 category: Music
-pubDate: '2011-04-30T00:00:00Z'
-tags:
-- Music
-- Album Digest
-- April
-- Jamie Woon
-- Young Knives
-- Katy B
-- Elbow
-- Fabric
-- Eleven
+date: '2011-04-30'
+tableOfContents: true
+tags: ["Music", "Album Digest", "April", "Jamie Woon", "Young Knives", "Katy B", "Elbow", "Fabric", "Eleven"]
 title: Album Digest, April 2011
 ---
 ## Album of the month: _Mirrorwriting_ by Jamie Woon

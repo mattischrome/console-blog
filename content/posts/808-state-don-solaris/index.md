@@ -1,11 +1,15 @@
 ---
-title: "808 State, Don Solaris"
-category: "Albums"
-tags: [Album, Music, Electronica, Dance, Understated Classics, Album Revisit]
-date: "2025-04-08"
-description: "A recent re-listen to Don Solaris by 808 State has me wondering whether I chose the correct album for my understated classics series."
+category: Albums
+date: '2025-04-08'
+tags:
+- Album
+- Music
+- Electronica
+- Dance
+- Understated Classics
+- Album Revisit
+title: 808 State, Don Solaris
 ---
-
 I sometimes wonder if I picked the correct 808 State album for my understated classics series. That's because today I was listening to their 1996 album _Don Solaris_ and it's pretty darn good. For understated classics I chose their earlier effort _Gorgeous_, partly out of the belief that probably no one else ever would, but also because _10X10_ and _Plan 9_ are such total bangers.
 
 <!--more-->

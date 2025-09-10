@@ -1,12 +1,8 @@
 ---
 category: Books
-pubDate: '2012-04-09T00:00:00Z'
-tags:
-- Books
-- Sam Selvon
-- Fiction
-- Twelve
-- Nineteen
+date: '2012-04-09'
+tableOfContents: true
+tags: ["Books", "Sam Selvon", "Fiction", "Twelve", "Nineteen"]
 title: Sam Selvon, The Lonely Londoners
 ---
 _The Lonely Londoners_ by Sam Selvon was written in 1956 and tells of the experiences of West Indian men moving to London for work. It has been described as the definitive novel about the experiences of the [Windrush settlers](http://www.nationalarchives.gov.uk/museum/item.asp?item_id=50). The narrative centres on a man named Moses who was one of the first to come to London and finds himself the first port of call for many subsequent immigrants:

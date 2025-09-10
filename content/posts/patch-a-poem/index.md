@@ -1,11 +1,15 @@
 ---
-title: "Patch (A poem)"
-category: "Writing"
-tags: [Twenty Five, Poem, Writing, Recipes, Garden]
-date: "2025-02-05"
-description: "This is a short poem I wrote for Ingrid about our vegetable patch."
+category: Writing
+date: '2025-02-05'
+tableOfContents: true
+tags:
+- Twenty Five
+- Poem
+- Writing
+- Recipes
+- Garden
+title: Patch (A poem)
 ---
-
 This is a short poem I wrote for Ingrid about our little herb garden. I am reproducing it here in celebration of work that is shortly going to start on our new garden!
 
 <!--more-->

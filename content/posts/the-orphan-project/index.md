@@ -1,11 +1,14 @@
 ---
-title: "The Orphan Project"
-category: "Blogging"
-tags: [Blogging, Twenty Four, Orphans, Series, Meta]
-date: "2024-10-26"
-description: "After revamping this blog and making a nice tags page, I realised that there are several orphan tags that could do with some company. This post describes the start of this project."
+category: Blogging
+date: '2024-10-26'
+tags:
+- Blogging
+- Twenty Four
+- Orphans
+- Series
+- Meta
+title: The Orphan Project
 ---
-
 A nice feature I added to this blog in its recent update was a [tags page](https://mattischrome.com/tags/). With the help of this [very useful discourse thread](https://discourse.gohugo.io/t/how-to-get-a-tags-page/24213/4) and some additional CSS tweaks, the resulting page is something that I am very happy with. It lists all of the tags that apply to any post, along with the number of posts with that tag, in alphabetical order. It's mostly intended as a guide for you the reader, to help you see whether your preoccupations match my own.
 
 Consider the numbers now. What do you think my most popular tags are? The distribution of numbers like this tend to follow [a power law](https://en.wikipedia.org/wiki/Power_law). There are several tags that have large numbers of posts (for example, I like to tag each post with the year it was written, so there are quite a few relating to numbers) and large numbers of tags that are attached to only one or two posts. It is a known result that power law networks form from preferential attachment processes, and [many document taxonomies have been shown to evolve in this way](https://academic.oup.com/edited-volume/34294/chapter-abstract/290741696?redirectedFrom=fulltext). This blog is no different. Existing tags are more likely to be added to subsequent posts because they are likely to be about similar topics. It's also true that it's easier to draw from a pool of existing tags than it is to invent new ones.

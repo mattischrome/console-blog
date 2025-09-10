@@ -1,11 +1,8 @@
 ---
 category: Life Experiences
-pubDate: '2017-10-01T00:00:00Z'
-tags:
-- Life Experiences
-- Wedding
-- Photos
-- Seventeen
+date: '2017-10-01'
+
+tags: ["Life Experiences", "Wedding", "Photos", "Seventeen"]
 title: The same, but different
 ---
 Ingrid and I got married a month ago. It was a lovely day. We had a simple ceremony with two witnesses, our friends Sue and Andrew. We kept it quiet and small, as we just wanted to be married without too much fuss. A month on, we're happy to report that we are glad we did it.

@@ -1,11 +1,8 @@
 ---
 category: Films
-pubDate: '2015-10-18T00:00:00Z'
-tags:
-- Films
-- Science Fiction
-- Andy Weir
-- Fifteen
+date: '2015-10-18'
+
+tags: ["Films", "Science Fiction", "Andy Weir", "Fifteen"]
 title: 'The Martian: A Short Review'
 ---
 [In my review of the book](/the-martian-by-andy-weir/) I mentioned that a film adaptation of The Martian was on the way. I'm not sure why but it got released earlier than any of the dates that I'd seen and so on Saturday I found myself watching The Martian on the big screen. Could the film version deliver the same level of entertainment as the novel? Could Mark Watney (Matt Damon) get off Mars alive?

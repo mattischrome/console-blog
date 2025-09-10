@@ -1,12 +1,8 @@
 ---
 category: Travel
-pubDate: '2014-02-07T00:00:00Z'
-tags:
-- South America
-- Peru
-- Nazca Lines
-- Thirteen
-- Fourteen
+date: '2014-02-07'
+
+tags: ["South America", "Peru", "Nazca Lines", "Thirteen", "Fourteen"]
 title: South America, Part 7
 ---
 Next up was a piecemeal section of the trip that took in a varied set of sights and helped us get to know the new passengers who joined in Lima. On the first day we took a boat trip out to the Ballestas Islands, a nature reserve that is informally known as “the poor man’s galapagos”. Living there are penguins, sea birds, sea lions and seals. The speed boat out was a little wet and wild (and in fact the return trip was even wetter and wilder) so we all got soaked (twice) but the microclimate around the islands themselves was calm and warm, and we all got good value out of our cameras (if they still worked that is). We even saw a pelican get taken down by a sea-lion which was an interesting if not altogether pleasant display of nature red in tooth and claw. Also, who knew that guano was so valuable?!?

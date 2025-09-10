@@ -1,11 +1,15 @@
 ---
-title: "2024 Albums of the Year #9: Cassandra Jenkins, My Light, My Destroyer"
-category: "Album Digest"
-tags: [Twenty Four, Cassandra Jenkins, Female vocalist, Indie, Rock]
-date: "2025-01-02"
-description: "Number nine in my favourite albums is this gorgeous sad-sack album by Cassandra Jenkins"
+category: Album Digest
+date: '2025-01-02'
+tableOfContents: true
+tags:
+- Twenty Four
+- Cassandra Jenkins
+- Female vocalist
+- Indie
+- Rock
+title: '2024 Albums of the Year #9: Cassandra Jenkins, My Light, My Destroyer'
 ---
-
 The first time I listened to this album, I was still off work sick with Covid, but well enough to go out for a walk on what was too hot a day to stay inside the house. I remember it well, recovering from illness does tend to make these things more vivid, but more because I thought it was brilliant, but all out of order. I was, of course, completely wrong.
 
 "My Light, My Destroyer" follows on from Cassandra's excellent 2021 album "An Overview on Phenomenal Nature". AOOPN, as we shall call it for brevity, was one of those albums that you listen to and just think to yourself "Jesus fuck, why has no one thought to make music like this before?!" and also a little bit of begrudging respect for the critics who put it into your orbit in the first place. 

@@ -1,11 +1,8 @@
 ---
 category: Life Experiences
-pubDate: '2021-05-17T00:00:00Z'
-tags:
-- Covid
-- Vaccination
-- Life Experiences
-- Twenty One
+date: '2021-05-17'
+
+tags: ["Covid", "Vaccination", "Life Experiences", "Twenty One"]
 title: Jab 1
 ---
 I had my first Covid-19 vaccination on Friday. Leading up to it, I was borderline having a panic attack. From about lunchtime I was just all over the shop (the jab was at 7pm). I'm glad that the vaccination centres run with such exactitude, but also with a sense of cheeriness. By the time I'd had the jab, I was feeling much better just from the sheer relief of it. 

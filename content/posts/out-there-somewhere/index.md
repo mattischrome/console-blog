@@ -1,12 +1,8 @@
 ---
 category: Science
-pubDate: '2011-02-03T00:00:00Z'
-tags:
-- Science
-- Exoplanets
-- Eleven
-- Speculative
-- Telescope
+date: '2011-02-03'
+
+tags: ["Science", "Exoplanets", "Eleven", "Speculative", "Telescope"]
 title: Out There Somewhere
 ---
 Hurrah for more exoplanets [making the news](http://www.guardian.co.uk/science/2011/feb/02/new-planets-solar-system) this week. This time it is a star with a whole bunch of small planets very close to the star, usually they tend to be single gas giants larger even than [Jupiter](http://en.wikipedia.org/wiki/Jupiter) as this [list of stars with exoplanets](http://en.wikipedia.org/wiki/List_of_exoplanetary_host_stars) from Wikipedia shows. 

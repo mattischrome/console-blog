@@ -1,14 +1,8 @@
 ---
 category: Music
-pubDate: '2017-01-31T00:00:00Z'
-tags:
-- Music
-- Album Digest
-- January
-- Mike Oldfield
-- Bonobo
-- The xx
-- Seventeen
+date: '2017-01-31'
+tableOfContents: true
+tags: ["Music", "Album Digest", "January", "Mike Oldfield", "Bonobo", "The xx", "Seventeen"]
 title: Album Digest, January 2017
 ---
 ## Mike Oldfield *Return to Ommadawn*

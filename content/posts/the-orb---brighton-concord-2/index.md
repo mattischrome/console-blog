@@ -1,13 +1,8 @@
 ---
 category: Music
-pubDate: '2022-10-29T00:00:00Z'
-tags:
-- The Orb
-- Music
-- Live Music
-- Ambient
-- Electronic
-- Twenty Two
+date: '2022-10-29'
+
+tags: ["The Orb", "Music", "Live Music", "Ambient", "Electronic", "Twenty Two"]
 title: The Orb, Live at Brighton Concord 2
 ---
 Went with my friend Nick to see The Orb at Concord 2 last night. The last time I'd seen the Orb was back in 2004, at the start of their relatively dry spell. That night, they'd been a bit lacklustre despite playing (some of) the hits and a relatively decent album in "Bicycles and Tricycles". I left feeling that I'd seen the past rather than the future, something that I wouldn't glimpse again in their records until 2015.

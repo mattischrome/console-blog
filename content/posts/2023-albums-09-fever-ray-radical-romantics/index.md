@@ -1,19 +1,15 @@
 ---
 category: Album Digest
-pubDate: '2023-12-23T18:35:06Z'
-tags:
-- Album Digest
-- Music
-- Twenty Three
-- Albums
-- Fever Ray
-- Electronic
-title: '2023 Albums of the Year #9: Fever Ray, Radical Romantics'
+date: '2023-12-23'
 slug: 2023-albums-09-fever-ray-radical-romantics
+tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Fever Ray", "Electronic"]
+title: '2023 Albums of the Year #9: Fever Ray, Radical Romantics'
 ---
-![Cover of Radical Romantics by Fever Ray](../../assets/images/albums-2023/fever-ray-radical-romantics.jpeg)
-
 Radical Romantics, the third album by Fever Ray was released in April. I bought a copy on red vinyl which is a beautiful sight to behold. I listened to a lot when it was released but eased up a bit until listening to it a couple more times while writing this list. It's a great collection of songs, probably better than their second album "Plunge". The cover art is just as scary though. 
+
+<!--more-->
+
+![Cover of Radical Romantics by Fever Ray](../../assets/images/albums-2023/fever-ray-radical-romantics.jpeg)
 
 The first track "What They Call Us" is a call to arms regarding identity and has a lyric that tapped into a lot of things I've been thinking about identity and the ongoing culture war. I love how the art work for this album really challenges the standard notions of aesthetic beauty: it's full of demonic illustrations and gothic fonts. There's a lot of orange and red. It really suits the way Fever Ray also plays with their voice, pitching it down for the most part to play against pre-determined notions of gender, but occasionally also pitching up to create humour and childlike innocence.
 

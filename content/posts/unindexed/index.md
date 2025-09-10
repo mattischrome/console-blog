@@ -1,15 +1,10 @@
 ---
-pubDate: 2024-01-11 17:24:00
 category: Writing
-tags:
-- Blogging
-- Writing
-- AI
-- Twenty Four
-- Life Experiences
-- Getting Better
-title: Unindexed?
+date: 2024-01-11
 slug: unindexed
+
+tags: ["Blogging", "Writing", "AI", "Twenty Four", "Life Experiences", "Getting Better"]
+title: Unindexed?
 ---
 There was [an excellent article on The Verge yesterday about how Google is transforming the kinds of sites and blogs that are on the internet](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization). I also read [this slightly more personal take by Jason Velasquez](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/), which is more about how social networks have gobbled up all the time and attention of people who might otherwise be making interesting web sites. This has made me think deeply about what this blog is *for*, and why I might continue to blog in Twenty Twenty Four. 
 

@@ -1,12 +1,8 @@
 ---
 category: Mathematics
-pubDate: '2011-06-22T00:00:00Z'
-tags:
-- Fun
-- Maths
-- Eleven
-- Primes
-- Forty One
+date: '2011-06-22'
+
+tags: ["Fun", "Maths", "Eleven", "Primes", "Forty One"]
 title: Favourite Numbers
 ---
 What’s your favourite number?

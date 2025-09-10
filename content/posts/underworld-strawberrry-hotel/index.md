@@ -1,11 +1,14 @@
 ---
-title: "Underworld, Strawberrry Hotel"
-category: "Album Digest"
-tags: [Twenty Five, Album, Dance, Electronic, Underworld]
-date: "2025-01-23"
-description: "An album that arrived a bit too late to be considered in the best of the year list, Strawberry Hotel by Underworld is a solid effort."
+category: Album Digest
+date: '2025-01-23'
+tags:
+- Twenty Five
+- Album
+- Dance
+- Electronic
+- Underworld
+title: Underworld, Strawberrry Hotel
 ---
-
 An album that arrived a bit too late to be considered in the best of the year list, _Strawberry Hotel_ by Underworld is a solid effort. Their 11th album, it remarks their return to the format after five years after the _Drift_ series in 2019.
 
 _Drift_ had been an interesting experiment where Underworld had tried to put out a new track each week and grouping several weeks worth into EPs before putting out a massive 6+ hour box set. The striking thing about the project was that it was so good. They released a sampler edition of the album which cherry picked the best songs, but almost every track released as part of _Drift_ could be swapped into that sampler.

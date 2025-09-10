@@ -1,11 +1,8 @@
 ---
 category: Football
-pubDate: '2016-06-14T00:00:00Z'
-tags:
-- Photos
-- Football
-- Fun
-- Sixteen
+date: '2016-06-14'
+
+tags: ["Photos", "Football", "Fun", "Sixteen"]
 title: Swaptastic Part 1
 ---
 ![Envelopes containing swaps that have arrived in the post in recent days.](../../assets/images/other/StickersInThePost.jpg)

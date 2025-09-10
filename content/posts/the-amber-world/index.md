@@ -1,11 +1,8 @@
 ---
 category: Life Experiences
-pubDate: '2011-11-22T00:00:00Z'
-tags:
-- Ideas
-- Memories
-- Insomnia
-- Eleven
+date: '2011-11-22'
+
+tags: ["Ideas", "Memories", "Insomnia", "Eleven"]
 title: The Amber World
 ---
 My earliest memory is waking up in Queen Alexandra hospital in Cosham after an operation on my ears. I must have been about four years old and it was the middle of the night. I was in a room on my own and the door was locked. It had been daylight only seconds before so I got out of the bed and walked to the window to look incredulously out at the amber world that lay beyond.

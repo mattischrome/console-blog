@@ -1,19 +1,15 @@
 ---
 category: Album Digest
-pubDate: '2023-12-28T18:35:06Z'
-tags:
-- Album Digest
-- Music
-- Twenty Three
-- Albums
-- The National
-- Rock
-- Indie
+date: '2023-12-28'
+slug: 2023-albums-04-the-national-frankenstein-laugh-track
+
+tags: ["Album Digest", "Music", "Twenty Three", "Albums", "The National", "Rock", "Indie"]
 title: '2023 Albums of the Year #4: The National, "First Two Pages of Frankenstein"
   and "Laugh Track"'
-slug: 2023-albums-04-the-national-frankenstein-laugh-track
 ---
 It's probably no surprise that as we reach the top four (or five if you like) we also get to the two albums The National released in 2023. The first, “First Two Pages of Frankenstein”, was trailed with a big reveal early on in the year, while the second, “Laugh Track”, was dropped all of a sudden in October. Once I got to know both albums, I swung between liking each one more for a while, hence putting them both at the same point in the list and not considering each separately. 
+
+<!--more-->
 
 ![Cover of First Two Pages of Frankenstein by The National](../../assets/images/albums-2023/the-national-first-two-pages.jpeg)
 

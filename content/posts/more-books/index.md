@@ -1,10 +1,8 @@
 ---
 category: Books
-pubDate: '2011-03-18T00:00:00Z'
-tags:
-- Books
-- Reading Projects
-- Eleven
+date: '2011-03-18'
+tableOfContents: true
+tags: ["Books", "Reading Projects", "Eleven"]
 title: More Books
 ---
 ## Never mind the Ballards

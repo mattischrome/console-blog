@@ -1,12 +1,8 @@
 ---
 category: Programming
-pubDate: '2010-12-28T00:00:00Z'
-tags:
-- Programming
-- Projects
-- Games
-- Ten
-- Fun
+date: '2010-12-28'
+tableOfContents: true
+tags: ["Programming", "Projects", "Games", "Ten", "Fun"]
 title: Programming an UNO game
 ---
 #### A new year, a new hobby

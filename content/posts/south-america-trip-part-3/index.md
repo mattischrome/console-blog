@@ -1,11 +1,8 @@
 ---
 category: Travel
-pubDate: '2013-12-21T00:00:00Z'
-tags:
-- South America
-- Ecuador
-- Camping
-- Thirteen
+date: '2013-12-21'
+
+tags: ["South America", "Ecuador", "Camping", "Thirteen"]
 title: South America, Part 3
 ---
 We left Misahualli for Baños via an hour in nearby Tena to get something for the truck fixed. After that the drive to Banos was pretty short - or at least it seemed that way as I alternated between dozing off, snapping the scenery and... well... dozing off some more. We arrived at a campsite about twenty minutes taxi ride from Banos and this was it, the thing I'd feared most about this trip: the camping. Fortunately, as an odd boy, I managed to secure my own tent - the gadget palace that you can see in my selfie! Getting the tent up was straightforward and all my assorted camping gear seemed to live up to requirements! It chucked it down with rain in the night, so it was good that the fly sheet did it's job too. It was great fun to lie there listening to the rain, nice and warm and dry. More importantly, I also managed to get some sleep.

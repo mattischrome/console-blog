@@ -1,10 +1,8 @@
 ---
 category: Ideas
-pubDate: '2015-04-11T00:00:00Z'
-tags:
-- Ideas
-- The Simpsons
-- Fifteen
+date: '2015-04-11'
+tableOfContents: true
+tags: ["Ideas", "The Simpsons", "Fifteen"]
 title: Consider the Donut
 ---
 ## Or, From There to Here With the Simpsons

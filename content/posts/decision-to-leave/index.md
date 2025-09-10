@@ -1,11 +1,8 @@
 ---
 category: Movies
-pubDate: '2023-05-31T00:00:00Z'
-tags:
-- Movies
-- South Korea
-- Detective Story
-- Twenty Three
+date: '2023-05-31'
+
+tags: ["Movies", "South Korea", "Detective Story", "Twenty Three"]
 title: Decision to Leave
 ---
 I gave up writing reviews of movies because:

@@ -1,14 +1,8 @@
 ---
 category: Travel
-pubDate: '2016-07-19T00:00:00Z'
-tags:
-- South America
-- Bolivia
-- Argentina
-- Chile
-- Photos
-- Sixteen
-- Fourteen
+date: '2016-07-19'
+tableOfContents: true
+tags: ["South America", "Bolivia", "Argentina", "Chile", "Photos", "Sixteen", "Fourteen"]
 title: South America, Part 12
 ---
 ## Uyuni to Tupiza

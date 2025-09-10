@@ -1,11 +1,15 @@
 ---
-title: "2024 Albums of the Year #5: Il Quadro di Troisi, La Commedia"
-category: "Album Digest"
-tags: [Twenty Four, Album, Italy, Il Quadro di Troisi, Electronic]
-date: "2025-01-06"
-description: "I did not have an album sung entirely in Italian as one of my predictions for the best albums of the year but even if I had, I doubt I would have imagined it to be as good as La Commedia."
+category: Album Digest
+date: '2025-01-06'
+tableOfContents: true
+tags:
+- Twenty Four
+- Album
+- Italy
+- Il Quadro di Troisi
+- Electronic
+title: '2024 Albums of the Year #5: Il Quadro di Troisi, La Commedia'
 ---
-
 It's interesting that an album sung entirely in Italian ended up being one of my favourites of the year, but perhaps not surprising given well written and arranged these songs are. They're just the right side of electro-pop but also with an air of sophistication.
 
 I can't speak Italian but I do speak some romance languages, so I can sort of guess what the titles might mean. "La Notte" is "The Night", "Il Bucchi Neri" is "The Black Holes" (I'd thought it was the black mouths but I guess I was close!), and so on. As the for the lyrics, they're catching enough for me to sing a phonetic version of them to myself on many occasions, though I've no idea what meaning I've been mangling!

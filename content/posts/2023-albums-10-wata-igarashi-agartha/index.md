@@ -1,19 +1,15 @@
 ---
 category: Album Digest
-pubDate: '2023-12-22T18:35:06Z'
-tags:
-- Album Digest
-- Music
-- Twenty Three
-- Albums
-- Wata Igarashi
-- Electronic
-title: '2023 Albums of the Year #10: Wata Igarashi, Agartha'
+date: '2023-12-22'
 slug: 2023-albums-10-wata-igarashi-agartha
+tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Wata Igarashi", "Electronic"]
+title: '2023 Albums of the Year #10: Wata Igarashi, Agartha'
 ---
-![Cover of Agartha by Wata Igarashi](../../assets/images/albums-2023/wata-igarashi-agartha.jpeg)
-
 Agartha is the debut album by Japanese electronic artist Wata Igarashi. I don't really know much about him, but I do know that I enjoy releases on the German record label Kompakt and I have really enjoyed Japanese techno in recent years. Over lockdown I discovered Haruomi Hosono's "Polyharmony" album and re-discovered the work of Shinichi Atobe, particularly their album "Love of Plastic". Both of those albums could be future understated classics and while both are by Japanese artists working in electronic music, there the comparison ends.
+
+<!--more-->
+
+![Cover of Agartha by Wata Igarashi](../../assets/images/albums-2023/wata-igarashi-agartha.jpeg)
 
 The fact that Agartha is released on renowned German techno label Kompakt will give you plenty of clues to its sound, though as the year wore on I became impressed with just how German-sounding the album is. There's a Neu!-like quality to early track "Subterranean Life" and other tracks put me in mind of the great album "Tago Mago" by CAN. The influences are not just German though, there are hints of Philip Glass towards the end of "Ceremony of the Dead" with its minimalist choral arrangements.
 

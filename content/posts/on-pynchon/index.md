@@ -1,11 +1,8 @@
 ---
 category: Books
-pubDate: '2013-02-26T00:00:00Z'
-tags:
-- Books
-- Thomas Pynchon
-- Thirteen
-- Fiction
+date: '2013-02-26'
+tableOfContents: true
+tags: ["Books", "Thomas Pynchon", "Thirteen", "Fiction"]
 title: On Pynchon
 ---
 The existence, or impending existence, of a new novel by [Thomas Pynchon](http://en.wikipedia.org/wiki/Thomas_Pynchon) was [announced today](http://dealbook.nytimes.com/2013/02/25/pynchon-takes-on-silicon-alley/). I have all his previous books (seven written over a period of about fifty years, a pace that I definitely approve of), though he’s a hard author to get close to: I’ve only finished three and started four up till now. The unfinished one is, of course, Gravity’s Rainbow (GR) and somewhat perversely, I have two copies of the thing. Of the three unstarted, both Mason & Dixon (MD) and Against The Day (ATD) seem too dense and intimidating, while Vineland just begs me to read The Crying Of Lot 49 (L49) or Inherent Vice (IV) one more time.

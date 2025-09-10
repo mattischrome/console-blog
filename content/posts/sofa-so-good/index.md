@@ -1,13 +1,10 @@
 ---
-title: Sofa So Good
-pubDate: 2024-01-14
-slug: sofa-so-good
 category: Random
-tags:
-- Twenty Four
-- Sofa
-- Projects
-- Puns
+date: 2024-01-14
+slug: sofa-so-good
+
+tags: ["Twenty Four", "Sofa", "Projects", "Puns"]
+title: Sofa So Good
 ---
 Once upon a time, a cat named Nerys ripped into the bottom of our sofa to make herself a cozy burrow. This was all well and good, except for the times when she would do it when we were using the sofa too. On these occasions (and presumably on most others) she would proceed to sharpen her claws on what remained of the fabric. (A less charitable reason for this behaviour would be that she was simply widening the whole for her future self after eating more and more kibbles!)
 

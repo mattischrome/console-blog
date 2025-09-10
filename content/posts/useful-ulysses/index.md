@@ -1,11 +1,8 @@
 ---
 category: Writing
-pubDate: '2014-08-21T00:00:00Z'
-tags:
-- Writing
-- Software
-- Blogging
-- Fourteen
+date: '2014-08-21'
+tableOfContents: true
+tags: ["Writing", "Software", "Blogging", "Fourteen"]
 title: Useful Ulysses
 ---
 ## What it is

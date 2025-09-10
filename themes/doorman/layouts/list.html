@@ -1,0 +1,36 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ if .Pages }}
+<section>
+  {{ range .Pages }}
+  <article style="margin-bottom: 2rem;">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p class="header">
+      {{ if .Date }}
+      Posted on {{ .Date.Format "2006-01-02" }}
+      {{ end }}
+      {{ if .Params.readingTime }}
+      &thinsp;·&thinsp; <span title="{{ .WordCount }} words">{{ .Params.readingTime }}</span> &thinsp;·&nbsp;
+      {{ else if .ReadingTime }}
+      &thinsp;·&thinsp; <span title="{{ .WordCount }} words">{{ .ReadingTime }} min read</span> &thinsp;·&nbsp;
+      {{ end }}
+      {{ range $index, $tag := .Params.tags }}
+      {{ if gt $index 0 }}&thinsp;·&thinsp;{{ end }}
+      <a title="All pages tagged '{{ $tag }}'." href="{{ printf "/tags/%s" (urlize $tag) | relURL }}" rel="tag">{{ $tag }}</a>
+      {{ end }}
+    </p>
+    {{ if .Summary }}
+    <div>{{ .Summary }}</div>
+    {{ if .Truncated }}
+    <p><a href="{{ .RelPermalink }}">Read more...</a></p>
+    {{ end }}
+    {{ end }}
+  </article>
+  {{ end }}
+</section>
+{{ end }}
+
+{{ end }}

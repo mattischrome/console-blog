@@ -1,11 +1,14 @@
 ---
-title: "Ian MacDonald, Revolution in the Head"
-category: "Music"
-tags: [Twenty Five, The Beatles, Music, Pop, Ian MacDonald]
-date: "2025-01-24"
-description: "This is a brilliant book about The Beatles' songs and how they were recorded"
+category: Music
+date: '2025-01-24'
+tags:
+- Twenty Five
+- The Beatles
+- Music
+- Pop
+- Ian MacDonald
+title: Ian MacDonald, Revolution in the Head
 ---
-
 Ian MacDonald's "Revolution in the Head" is a book that I've read parts of dozens of times and even all the way through once or twice. I picked it up again today and thought I would write about it. It's a detailed analysis of every Beatles song ever released, along with the details and events of their recording. I own a copy of the second edition which was updated to include the anthology material. Today you can still get hold of [a 3rd edition on the Waterstones website](https://www.waterstones.com/book/revolution-in-the-head/ian-macdonald/9780099526797) (not sure that I like the new cover though).
 
 I like to pick it up very now and again, like today, and flick to a random page. I'll admit my interest (like most people I presume) lies mostly between 1967 and 1968 where you genuinely wonder how did they do that? The book tends to fall open there now. It's quite sanguine about the tensions within the band and is keen to describe some of the motivations for the writing of the songs through that lens. Paul McCartney disputes this, though his autobiography also has some contested facts about the authorship and circumstances of how some songs came to be. You sense the author's frustrations about their drug use stem from a lack of empathy with or understanding of the creative pressures the Beatles ended up struggling under.

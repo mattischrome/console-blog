@@ -1,14 +1,8 @@
 ---
 category: Music
-pubDate: '2015-03-01T00:00:00Z'
-tags:
-- Music
-- Album Digest
-- February
-- Aphex Twin
-- The Orb
-- "Susanne Sundf\xF8r"
-- Fifteen
+date: '2015-03-01'
+tableOfContents: true
+tags: ["Music", "Album Digest", "February", "Aphex Twin", "The Orb", "Susanne Sundfør", "Fifteen"]
 title: Album Digest, February 2015
 ---
 ## Aphex Twin "Computer Controlled Acoustic Instruments Pt2 EP"

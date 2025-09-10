@@ -1,14 +1,10 @@
 ---
 category: Understated Classics
-pubDate: '2011-07-22T00:00:00Z'
-tags:
-- Understated Classics
-- Underworld
-- Music
-- Eleven
-- Electronic
-title: 'Understated Classics #11: Second Toughest In The Infants by Underworld'
+date: '2011-07-22'
 slug: understated-classics-11
+tableOfContents: true
+tags: ["Understated Classics", "Underworld", "Music", "Eleven", "Electronic"]
+title: 'Understated Classics #11: Second Toughest In The Infants by Underworld'
 ---
 ## Your rails, your fins, your thin paper wings
 

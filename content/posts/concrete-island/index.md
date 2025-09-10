@@ -1,12 +1,8 @@
 ---
 category: Books
-pubDate: '2011-06-21T00:00:00Z'
-tags:
-- J. G. Ballard
-- Books
-- Reading Projects
-- Science Fiction
-- Eleven
+date: '2011-06-21'
+tableOfContents: true
+tags: ["J. G. Ballard", "Books", "Reading Projects", "Science Fiction", "Eleven"]
 title: J. G. Ballard, Concrete Island
 ---
 ## No man is an island (not any more)

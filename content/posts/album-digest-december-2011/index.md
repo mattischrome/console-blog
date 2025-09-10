@@ -1,14 +1,8 @@
 ---
 category: Music
-pubDate: '2011-12-29T00:00:00Z'
-tags:
-- Music
-- Album Digest
-- December
-- Radio Slave
-- Pinch and Shackleton
-- Emika
-- Eleven
+date: '2011-12-29'
+tableOfContents: true
+tags: ["Music", "Album Digest", "December", "Radio Slave", "Pinch and Shackleton", "Emika", "Eleven"]
 title: Album Digest, December 2011
 ---
 Some rather brief pen pictures of this month’s albums. I’ve been a bit busy!

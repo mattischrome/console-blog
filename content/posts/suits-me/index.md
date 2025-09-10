@@ -1,10 +1,8 @@
 ---
 category: Life Experiences
-pubDate: '2017-11-03T00:00:00Z'
-tags:
-- News
-- Fun
-- Seventeen
+date: '2017-11-03'
+
+tags: ["News", "Fun", "Seventeen"]
 title: Suits Me
 ---
 In recent weeks I have worn a suit to work. I bought a new furry woolly suit a few weeks ago and have alternated between it and my old one. I also bought new shoes that gave me blisters and made me cry. Enough time has passed that by now it feels natural rather than silly and those shoes don't eat my feet as much as they used to. 

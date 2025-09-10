@@ -1,12 +1,8 @@
 ---
 category: Art
-pubDate: '2016-10-08T00:00:00Z'
-tags:
-- Tate Modern
-- Art
-- Mira Schendel
-- Photos
-- Sixteen
+date: '2016-10-08'
+
+tags: ["Tate Modern", "Art", "Mira Schendel", "Photos", "Sixteen"]
 title: Mira Schendel at Tate Modern
 ---
 [Mira Schendel](https://www.theguardian.com/artanddesign/2013/sep/29/mira-schendel-tate-modern-review) was a Brazilian artist who was active throughout the middle to late twentieth century. She is considered to be one of South America's best artists. Known mostly for her abstract paintings, she also experimented with sculptures and installations. Many of her works use text and semiotics to explore and define possible meanings for more abstract works.

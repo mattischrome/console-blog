@@ -1,12 +1,8 @@
 ---
 category: Films
-pubDate: '2011-04-06T00:00:00Z'
-tags:
-- Films
-- Lists
-- French
-- Chili Con Carne
-- Eleven
+date: '2011-04-06'
+tableOfContents: true
+tags: ["Films", "Lists", "French", "Chili Con Carne", "Eleven"]
 title: Why I Love Betty Blue
 ---
 I saw [Betty Blue](http://www.imdb.com/title/tt0090563/) (original French title _37,2 Le Matin_) for the first time in 1996 shortly after having read the book and it remains one of my favourite films to this day. Although there are [many obvious reasons why](http://www.google.co.uk/images?hl=en&source=hp&biw=1427&bih=1022&q=b%C3%A9atrice+dalle+betty+blue&gbv=2&aq=f&aqi=&oq=&uss=1) a sixteen year old boy might like it, I think it does stand up to scrutiny beyond the sex and nudity. This post is a brief explanation of some of the obvious and not-so-obvious reasons why this is a film to be loved and cherished. (It was quite interesting to write this defence of a sexy film!)

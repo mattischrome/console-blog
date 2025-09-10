@@ -1,15 +1,8 @@
 ---
 category: Music
-pubDate: '2017-10-31T00:00:00Z'
-tags:
-- Album Digest
-- October
-- Music
-- Mary Epworth
-- Kaitlyn Aurelia Smith
-- Four Tet
-- Rival Consoles
-- Seventeen
+date: '2017-10-31'
+tableOfContents: true
+tags: ["Album Digest", "October", "Music", "Mary Epworth", "Kaitlyn Aurelia Smith", "Four Tet", "Rival Consoles", "Seventeen"]
 title: Album Digest, October 2017
 ---
 ## Mary Epworth "Elytral"

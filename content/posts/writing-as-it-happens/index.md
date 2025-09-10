@@ -1,11 +1,8 @@
 ---
 category: Writing
-pubDate: '2015-02-20T00:00:00Z'
-tags:
-- Writing
-- Blogging
-- Self Improvement
-- Fifteen
+date: '2015-02-20'
+
+tags: ["Writing", "Blogging", "Self Improvement", "Fifteen"]
 title: On Writing As It Happens
 ---
 I’m pretty close to a round number. To date I have written 298,500 words for this blog, not counting posts that I have discarded or deleted. This will be the 505th post currently on the blog, which makes for an average of just under 600 words per post. Some posts are just a picture or a video or a gallery though, so that distorts the average a bit.

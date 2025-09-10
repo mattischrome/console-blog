@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang | default "en" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Description | default .Site.Params.description }}">
+    
+    <!-- Neo-grotesque font stack -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    {{ hugo.Generator }}
+</head>
+<body class="{{ .Params.layout | default "standard" }}">
+    <nav class="site-nav">
+        <div class="nav-container">
+            <a href="{{ .Site.BaseURL }}" class="site-title">{{ .Site.Title }}</a>
+            <div class="nav-links">
+                {{ range .Site.Menus.main }}
+                <a href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+            </div>
+        </div>
+    </nav>
+    
+    <main class="main-content">
+        {{ block "main" . }}{{ end }}
+    </main>
+    
+    <footer class="site-footer">
+        <div class="footer-container">
+            <p>&copy; {{ now.Year }} {{ .Site.Title }}. {{ .Site.Params.footer_text | default "All rights reserved." }}</p>
+        </div>
+    </footer>
+</body>
+</html>

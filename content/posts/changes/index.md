@@ -1,11 +1,8 @@
 ---
 category: Life Experiences
-pubDate: '2017-04-11T00:00:00Z'
-tags:
-- Writing
-- Blogging
-- Software
-- Seventeen
+date: '2017-04-11'
+tableOfContents: true
+tags: ["Writing", "Blogging", "Software", "Seventeen"]
 title: Changes
 ---
 ## Moving the blog to Jekyll (again, sort of)

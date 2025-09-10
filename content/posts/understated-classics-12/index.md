@@ -1,14 +1,10 @@
 ---
 category: Understated Classics
-pubDate: '2011-08-16T00:00:00Z'
-tags:
-- Understated Classics
-- Roxette
-- Music
-- Pop
-- Eleven
-title: 'Understated Classics #12: Look Sharp! by Roxette'
+date: '2011-08-16'
 slug: understated-classics-12
+tableOfContents: true
+tags: ["Understated Classics", "Roxette", "Music", "Pop", "Eleven"]
+title: 'Understated Classics #12: Look Sharp! by Roxette'
 ---
 ## Happy Birthday!
 

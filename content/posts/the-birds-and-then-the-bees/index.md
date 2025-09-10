@@ -1,11 +1,14 @@
 ---
-title: "The Birds and then the Bees"
-category: "Garden"
-tags: [Twenty Five, Garden, Bees, Birds, Nature]
-date: "2025-06-01"
-description: "On the successive uses of the bird box in our garden"
+category: Garden
+date: '2025-06-01'
+tags:
+- Twenty Five
+- Garden
+- Bees
+- Birds
+- Nature
+title: The Birds and then the Bees
 ---
-
 "I've never had one fail" says my Dad brandishing his drill on Boxing Day 2022, before heading out into the garden and putting up our Christmas gift, a handsome wooden bird box. "If I put it up, they'll come along eventually."
 
 <!--more-->

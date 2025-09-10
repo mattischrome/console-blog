@@ -1,11 +1,8 @@
 ---
 category: Travel
-pubDate: '2018-02-21T00:00:00Z'
-tags:
-- Australia
-- Travel
-- Photos
-- Eighteen
+date: '2018-02-21'
+
+tags: ["Australia", "Travel", "Photos", "Eighteen"]
 title: More Melbourne
 ---
 On our second full day in Australia we went shopping in central Melbourne, before Ingrid's mum Maria picked us up ahead of our trip along the Great Ocean Road.

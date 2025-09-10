@@ -1,15 +1,8 @@
 ---
 category: Music
-pubDate: '2017-12-27T00:00:00Z'
-tags:
-- Album Digest
-- December
-- Music
-- Bjork
-- Phoebe Bridgers
-- Watter
-- Neil Finn
-- Seventeen
+date: '2017-12-27'
+tableOfContents: true
+tags: ["Album Digest", "December", "Music", "Bjork", "Phoebe Bridgers", "Watter", "Neil Finn", "Seventeen"]
 title: Album Digest, December 2017
 ---
 ## Bjork *Utopia*

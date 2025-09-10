@@ -1,15 +1,14 @@
 ---
 category: Civ
-pubDate: '2020-05-27T00:00:00Z'
-tags:
-- Fun
-- Civ
-- Twenty
-- Leaders
-title: 'Civ Leaders #3: Amanitore of Nubia'
+date: '2020-05-27'
 slug: civ-leaders-3
+tableOfContents: true
+tags: ["Fun", "Civ", "Twenty", "Leaders"]
+title: 'Civ Leaders #3: Amanitore of Nubia'
 ---
 Amanitore of Nubia is available in a base game DLC. She also has her own scenario “The Gifts of the Nile”, which like most scenarios has unique tech and civic trees. You need to assert your dominance over the Nile by building seven temples. The scenario combines faith and military tactics in a satisfying way and you can also play it as Cleopatra for a different perspective.
+
+<!--more-->
 
 ## Civ ability
 *Ta-Seti* +50% Production toward Ranged units. Note that this bonus does not apply fully with respect to archers because the Nubian unique archer (see below) costs more to produce. You can get around this by building Slingers and promoting them. All Ranged units gain +50% combat experience. Mines over strategic resources provide +1 Production. Mines over bonus and luxury resources provide +2 Gold.

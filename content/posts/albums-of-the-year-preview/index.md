@@ -1,13 +1,8 @@
 ---
 category: Album Digest
-pubDate: '2023-12-21T18:35:06Z'
-tags:
-- Album Digest
-- Music
-- Twenty Three
-- Albums
-- Blogging
-- Meta
+date: '2023-12-21'
+
+tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Blogging", "Meta"]
 title: 2023 Albums of the Year Preview
 ---
 Another year (nearly) over and so starting from tomorrow, I'm going to count down my top 10 albums of 2023. The rules are:

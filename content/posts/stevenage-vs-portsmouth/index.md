@@ -1,11 +1,8 @@
 ---
 category: Football
-pubDate: '2012-10-23T00:00:00Z'
-tags:
-- Football
-- Portsmouth
-- Twelve
-- London
+date: '2012-10-23'
+tableOfContents: true
+tags: ["Football", "Portsmouth", "Twelve", "London"]
 title: Stevenage vs Portsmouth
 ---
 Tonight, despite feeling a bit under the weather, I went to Stevenage to watch Portsmouth play a League One game at the Lamex Stadium. In addition, I met a “person off the internet” for the second time in a week – this time Tom, a friend of a friend from Facebook: our shared passions being Portsmouth FC and really cool music. We met at King’s Cross and caught a packed train to Stevenage, a non-descript dormitory town that was even more non-descript than I remember St Albans being. I’m glad I went, even though Pompey lost. It’s funny how sitting in a shed in the cold watching your team lose counts as entertainment!

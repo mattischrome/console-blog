@@ -1,0 +1,36 @@
+{{ define "main" }}
+<article class="post {{ .Params.layout | default "standard" }}">
+    <header class="post-header">
+        <h1 class="post-title">{{ .Title }}</h1>
+        <div class="post-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            {{ if .Params.author }}
+            <span class="post-author">by {{ .Params.author }}</span>
+            {{ end }}
+            {{ if .Params.tags }}
+            <div class="post-tags">
+                {{ range .Params.tags }}
+                <span class="tag">{{ . }}</span>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </header>
+    
+    <div class="post-content">
+        {{ .Content }}
+    </div>
+    
+    {{ if .Params.series }}
+    <div class="series-nav">
+        <h3>Part of series: {{ .Params.series }}</h3>
+        {{ $series := .Params.series }}
+        {{ range where .Site.RegularPages "Params.series" $series }}
+        {{ if ne .RelPermalink $.RelPermalink }}
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ end }}
+        {{ end }}
+    </div>
+    {{ end }}
+</article>
+{{ end }}

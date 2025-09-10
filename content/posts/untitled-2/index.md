@@ -1,10 +1,8 @@
 ---
 category: Ideas
-pubDate: '2015-07-20T00:00:00Z'
-tags:
-- Ideas
-- Writing
-- Fifteen
+date: '2015-07-20'
+
+tags: ["Ideas", "Writing", "Fifteen"]
 title: Untitled 2
 ---
 A few months ago [I wrote about an idea for a novel that I'd abandoned](/jackson-x/). I mentioned in that post that I'd abandoned it because there was another idea that I wanted to pursue. The working title for it is "Untitled 2". (It isn't really, I have an actual working title that would give things away or would at least make me feel like the idea was out in the world.)

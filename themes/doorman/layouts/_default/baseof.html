@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+  {{ if .Param "math" }}
+    {{ partialCached "math.html" . }}
+  {{ end }}
+</head>
+<body>
+  <div class="navbar-space">
+    {{ partial "navigation.html" . }}
+    
+    <!-- Table of contents for larger screens -->
+    {{ if and (eq .Kind "page") (.Params.tableOfContents) }}
+    <div id="contents-big">
+      <p class="mini-header">Contents <a id="up-arrow" href="#">↑</a></p>
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
+  </div>
+  
+  <div class="text-space">
+    <div id="content">
+      {{ block "main" . }}{{ end }}
+    </div>
+    {{ partial "footer.html" . }}
+  </div>
+</body>
+</html>

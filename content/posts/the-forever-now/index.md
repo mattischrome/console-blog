@@ -1,12 +1,8 @@
 ---
 category: Life Experiences
-pubDate: '2021-01-04T00:00:00Z'
-tags:
-- Life Experiences
-- Facebook
-- Internet
-- DIY
-- Twenty One
+date: '2021-01-04'
+
+tags: ["Life Experiences", "Facebook", "Internet", "DIY", "Twenty One"]
 title: The Forever Now
 ---
 Writing this post came about from  frustration with blogging. Specifically the tools I am using. Often it feels like a new language or paradigm comes along that shifts one or two of the pain points of blogging. The biggest are:

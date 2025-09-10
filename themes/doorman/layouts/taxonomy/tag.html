@@ -1,0 +1,26 @@
+{{ define "main" }}
+<h1>{{ .Page.Title }}</h1>
+<br/>
+{{ .Content }}
+
+<div class="posts-list">
+    {{ range .Data.Pages }}
+    <div class="post">
+        <h3><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h3>
+        <p class="header">Posted on {{ .PublishDate.Format "2006-01-02" }}
+            {{ if .Params.readingTime }}
+                &thinsp;·&thinsp; <span title="{{ .WordCount }} words">{{ .Params.readingTime }}</span> &thinsp;·&nbsp;
+            {{ else if .ReadingTime }}
+                &thinsp;·&thinsp; <span title="{{ .WordCount }} words">{{ .ReadingTime }} min read</span> &thinsp;·&nbsp;
+            {{ end }}
+            {{ range $index, $tag := .Params.tags }}
+                {{ if gt $index 0 }}&thinsp;·&thinsp;{{ end }}
+                <a title="All pages tagged '{{ $tag }}'." href="{{ printf "/tags/%s" (urlize $tag) | relURL }}" rel="tag">{{ $tag }}</a>
+            {{ end }}
+        </p>
+    </div>
+
+    {{ end }}
+
+
+{{ end }}

@@ -1,11 +1,14 @@
 ---
-title: "Post Statistics, Part 2"
-category: "R"
-tags: [Twenty Five, Stats, R, Blogging, Charts]
-date: "2025-02-16"
-description: "Here are some more stats about the blog"
+category: R
+date: '2025-02-16'
+tags:
+- Twenty Five
+- Stats
+- R
+- Blogging
+- Charts
+title: Post Statistics, Part 2
 ---
-
 Here are some more stats about the blog after I ran out of time yesterday due to
 data cleaning! This time I've taken the date of each post and extracted the
 month and year. Then I added the number of posts in each month and the number of

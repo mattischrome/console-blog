@@ -1,12 +1,8 @@
 ---
 category: Travel
-pubDate: '2015-09-14T00:00:00Z'
-tags:
-- South America
-- Bolivia
-- Photos
-- Fifteen
-- Fourteen
+date: '2015-09-14'
+tableOfContents: true
+tags: ["South America", "Bolivia", "Photos", "Fifteen", "Fourteen"]
 title: South America, Part 11
 ---
 ## La Paz to Potosi

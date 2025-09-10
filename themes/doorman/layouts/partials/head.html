@@ -1,0 +1,28 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{{ if .Site.Params.noai }}
+<meta name="robots" content="noai, noimageai">
+{{ end }}
+
+<title>
+  {{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}
+</title>
+
+<!-- Default appearance -->
+<link rel="stylesheet" type="text/css" href="{{ "css/navbar.css" | relURL }}">
+<link rel="stylesheet" type="text/css" href="{{ "css/colours.css" | relURL }}">
+<link rel="stylesheet" type="text/css" href="{{ "css/fonts.css" | relURL }}">
+<link rel="stylesheet" type="text/css" href="{{ "css/default.css" | relURL }}">
+<!-- Syntax highlighting -->
+<link rel="stylesheet" type="text/css" href="{{ "css/pygments.css" | relURL }}">
+{{ if .Site.Params.katex }}
+<link rel="stylesheet" type="text/css" href="{{ "css/katex.css" | relURL }}">
+{{ end }}
+<!-- Margin and sidenotes -->
+<link rel="stylesheet" type="text/css" href="{{ "css/sidenotes.css" | relURL }}">
+
+<!-- RSS/Atom feed -->
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}" title="{{ $.Site.Title }}">
+{{ end -}}

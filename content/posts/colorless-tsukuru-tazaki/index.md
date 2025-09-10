@@ -1,11 +1,8 @@
 ---
 category: Books
-pubDate: '2014-08-24T00:00:00Z'
-tags:
-- Haruki Murakami
-- Books
-- Novel
-- Fourteen
+date: '2014-08-24'
+
+tags: ["Haruki Murakami", "Books", "Novel", "Fourteen"]
 title: Haruki Murakami, Colorless Tsukuru Tazaki And His Years Of Pilgrimage
 ---
 Colorless Tsukuru Tazaki And His Years Of Pilgrimage is the latest novel by Haruki Murakami. [It comes with free stickers](http://www.theguardian.com/books/2014/jun/19/haruki-murakami-marketing-publishers-stickers). Perhaps that tells you everything you need to know about this book, which is slimmer than Murakami's recent efforts. The plot begins with an intriguing premise. Tsukuru is part of a group of close friends and is one day expelled from the group for no reason. Unfortunately, the development of the plot is uncontrolled and by the end  of novel too many holes have developed for it all to hold together.

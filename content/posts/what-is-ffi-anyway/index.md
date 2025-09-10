@@ -1,12 +1,8 @@
 ---
 category: Programming
-pubDate: '2022-02-03T00:00:00Z'
-tags:
-- Ruby
-- FFI
-- Programming
-- Learning new things
-- Twenty Two
+date: '2022-02-03'
+
+tags: ["Ruby", "FFI", "Programming", "Learning new things", "Twenty Two"]
 title: What is FFI anyway?
 ---
 At the moment I can’t compile this blog locally because my `ruby-ffi` install is somehow wrong and is preventing Jekyll from running on my recently upgraded Mac system. Fortunately the site still compiles on Netlify, or else you wouldn’t be reading this!

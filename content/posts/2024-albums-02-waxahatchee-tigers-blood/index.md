@@ -1,11 +1,16 @@
 ---
-title: "2024 Albums of the Year #2: Waxahatchee, Tigers Blood"
-category: "Album Digest"
-tags: [Twenty Four, Country, Indie, Rock, Album, Waxahatchee]
-date: "2025-01-09"
-description: "A glorious bundle of songs that writhe with brains and heart, with love and friendship, and many other complements and opposites."
+category: Album Digest
+date: '2025-01-09'
+tableOfContents: true
+tags:
+- Twenty Four
+- Country
+- Indie
+- Rock
+- Album
+- Waxahatchee
+title: '2024 Albums of the Year #2: Waxahatchee, Tigers Blood'
 ---
-
 "Tiger's Blood" is a glorious bundle of songs that writhe with brains and heart, with love and friendship, and many other complements and opposites. The music is mostly alternative AOR with a distinct country twang. The lyrics were pretty impenetrable to me, at least until I looked them up online (and they're also on the back of the poster that came with the LP), but they're mostly songs of hope and happiness. It was satisfying to listen to an album this care-free, even if there is a hint of darker times in the background. 
 
 Lots of the songs on "Tiger's Blood" are about moving on from the past. "3 Sisters" begins the album by questioning a relationship ("all my life / I've been running from what you want"). The title suggests it could be about sibling relationships, but it's written so you can read what you want into it. But there's also the same sense of turnabout on both "Evil Spawn" ("What you're holding so close calls you by name / What you thought was enough now seems insane") and "Ice Cold" ("If I'm losing touch with / Everything I once hеld / I wouldn't think much of it").

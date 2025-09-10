@@ -1,11 +1,13 @@
 ---
-title: "Some Initial Thoughts About Civilization VII"
-category: "Software"
-tags: [Twenty Five, Civ VII, Games, Software]
-date: "2025-02-11"
-description: 'Sid Meier''s Civilization VII is out today to much fanfare. After spending what top scientists are calling "far too long" playing Civ VI and a couple of run throughs during the early access period, here are some thoughts on the new instalment.'
+category: Software
+date: '2025-02-11'
+tableOfContents: true
+tags: ["Twenty Five", "Civ VII", "Games", "Software"]
+title: Some Initial Thoughts About Civilization VII
 ---
 Sid Meier's Civilization VII is out today to much fanfare. After spending what top scientists are calling "far too long" playing Civ VI and a couple of run-throughs of the new game during the early access period, here are some thoughts on the new instalment.
+
+<!--more-->
 
 ### It's not really finished yet
 

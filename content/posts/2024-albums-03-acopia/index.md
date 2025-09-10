@@ -1,11 +1,15 @@
 ---
-title: "2024 Albums of the Year #3: Acopia, Acopia"
-category: "Album Digest"
-tags: [Twenty Four, Album, Electronic, Pop, Australia]
-date: "2025-01-08"
-description: "A woozy collection of meticulously-plotted trip-hop-indebted songs ideal for the world as it is rather than the would we might want it to be."
+category: Album Digest
+date: '2025-01-08'
+tableOfContents: true
+tags:
+- Twenty Four
+- Album
+- Electronic
+- Pop
+- Australia
+title: '2024 Albums of the Year #3: Acopia, Acopia'
 ---
-
 Acopia are a band from Melbourne Australia with that time honoured line up of one girl and two guys. This eponymous album is their second and it's full of slinky electronic ballads that echo classic 90s trip hop. It's got that same downtempo downbeat vibe, the sorts of songs that revel in sadness but also the joy of a killer bass line.
 
 This album was actually released in November 2023 but I first heard it in January 2024 after reading a glowing review of it. I can remember the first time listening to it, I took the train to see my parents in to hand over a present I'd bought for my nephew. (Fittingly, it's his birthday today.)

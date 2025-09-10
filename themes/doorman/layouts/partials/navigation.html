@@ -1,0 +1,18 @@
+<div id="navigation" class="no-print">
+    <div class="menu menu-open">
+      <a href="{{ "/" | relURL }}" class="menu-heading menu-title">
+        Blog<br>
+        <span class="menu-subtitle">{{ .Site.Title }}</span>
+      </a>
+      <ul>
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+        {{ end }}
+        {{ if not .Site.Menus.main }}
+        <!-- Default menu items if no menu is configured -->
+        <li><a href="{{ "/posts" | relURL }}">Posts</a></li>
+        <li><a href="{{ "/about" | relURL }}">About</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>

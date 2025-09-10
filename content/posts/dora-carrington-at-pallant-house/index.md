@@ -1,11 +1,14 @@
 ---
-title: "Dora Carrington"
-category: "Art"
-tags: [Art, Twenty Five, Bloomsbury Group, Pallant House, Dora Carrington]
-date: "2025-01-29"
-description: "Dora Carrington was an artist loosely affiliated with the Bloomsbury Group and noted for her unconventional lifestyle. Despite a short career, her work had a great impact and a retrospective at the Pallant House Gallery in Chichester brings together some of her major works."
+category: Art
+date: '2025-01-29'
+tags:
+- Art
+- Twenty Five
+- Bloomsbury Group
+- Pallant House
+- Dora Carrington
+title: Dora Carrington
 ---
-
 Dora Carrington was an artist loosely affiliated with the Bloomsbury Group and noted for her unconventional lifestyle. Despite a short career, her work had a great impact and [a retrospective at the Pallant House Gallery in Chichester](https://pallant.org.uk/whats-on/dora-carrington/) brings together some of her major works.
 
 I was a bit confused at the start of the show, as I had got my Carrington's wrong! I'd been thinking this was a show about [Leonora Carrington](https://en.wikipedia.org/wiki/Leonora_Carrington) who was active later, initially in circles with Max Ernst, and later on in her own right in Mexico City. I will have to wait for a retrospective of her work another time.

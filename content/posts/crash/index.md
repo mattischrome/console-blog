@@ -1,12 +1,8 @@
 ---
 category: Books
-pubDate: '2011-02-01T00:00:00Z'
-tags:
-- Books
-- Reading Projects
-- J. G. Ballard
-- Eleven
-- Fiction
+date: '2011-02-01'
+tableOfContents: true
+tags: ["Books", "Reading Projects", "J. G. Ballard", "Eleven", "Fiction"]
 title: J. G. Ballard, Crash
 ---
 ### Form and function, deformation and dysfunction

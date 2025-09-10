@@ -1,12 +1,8 @@
 ---
 category: Politics and Beliefs
-pubDate: '2011-01-24T00:00:00Z'
-tags:
-- Politics
-- Tolerance
-- News
-- Eleven
-- Internet
+date: '2011-01-24'
+
+tags: ["Politics", "Tolerance", "News", "Eleven", "Internet"]
 title: In Defence Of Tolerance
 ---
 I’ve found twitter to be a bit boring lately but today a perfect storm brew up and once again the Daily Mail and one of its odious columnists was at its centre. Melanie Phillips’ opinion piece was a perfectly constructed piece of trolling that implied that since the repeal of section 28, schools have been flooded with an influx of gay propaganda in subjects like maths, history and geography. Well I’m all for it, Alan Turing _was_ a genius brutally mistreated by his country despite turning the second world war in favour of the allies - that story is maths and history is combined. Meanwhile, if you can spice up geography a bit go for it. I am not sure what you would do, discuss routes for pride marches? After all, the subject is hideously out of date now that we all have google maps on our phones.

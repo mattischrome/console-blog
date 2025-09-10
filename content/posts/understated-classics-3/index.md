@@ -1,15 +1,16 @@
 ---
 category: Understated Classics
-pubDate: '2010-08-17T00:00:00Z'
-tags:
-- Understated Classics
-- Red Box
-- Music
-- Pop
-- Ten
-title: 'Understated Classics #3: The Circle & The Square by Red Box'
+date: '2010-08-17'
 slug: understated-classics-3
+tableOfContents: true
+tags: ["Understated Classics", "Red Box", "Music", "Pop", "Ten"]
+title: 'Understated Classics #3: The Circle & The Square by Red Box'
 ---
+
+The next entry in the understated classics series is "The Circle & The Square" by Red Box.
+
+<!--more-->
+
 ## When is understated not understated?
 
 The trouble with writing a series of articles all themed somehow is that eventually you might find something that sits naturally in the sequence but at the same time goes against the grain a little. Et voila, I give you “The Circle & The Square” by [Red Box](http://www.redboxmusic.net/htm/home.htm). An album that hardly anyone has heard containing two top 10 UK singles that probably everyone has heard. Don’t get me wrong, it is a complete and utter classic - but it is definitely not understated: it is pompous, pretentious, ornate, artistic, all-encompassing, weird and awesome. I could continue but some innate inner law prevents me from using any more adjectives than that in one sentence. It is a chimeral entity standing way apart from its time, timeless and beautiful. The fact that it sold sod-all copies means that holding [a CD remaster](http://www.cherryred.co.uk/cherrypop-exd.asp?id=873) makes you feel as if you were clutching a cuddly dodo and thinking “if only, if only…”. So this barking, bonkers, beautiful album gets its “[understated classic](/tags#understated-classics/)” status because it just isn’t stated often enough just what an amazing record it is.

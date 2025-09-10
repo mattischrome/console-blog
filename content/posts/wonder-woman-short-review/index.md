@@ -1,10 +1,8 @@
 ---
 category: Films
-pubDate: '2017-07-01T00:00:00Z'
-tags:
-- Films
-- Seventeen
-- Science Fiction
+date: '2017-07-01'
+
+tags: ["Films", "Seventeen", "Science Fiction"]
 title: 'Wonder Woman: A Short Review'
 ---
 I enjoyed Wonder Woman, which came as a surprise to me given my growing distaste for superhero movies. [I can remember seeing the Superman reboot Man of Steel](man-of-steel-a-short-review) with its phallic rockets and its boring boring fight sequences. But almost everything about Wonder Woman exceeded my expectations. It's a well-made superhero movie and better still, it gets to the heart of why these kinds of movies matter. 

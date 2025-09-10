@@ -1,9 +1,12 @@
 baseURL = 'https://mattischrome.com/'
 languageCode = 'en-gb'
 title = 'mattischrome'
-theme = 'hugo-theme-console'
+theme = 'doorman'
 [params]
+  tableOfContents = false
   math = false
+  recent_posts = true
+  recent_posts_count = 6
   [params.posts]
     paginate = 12
 
@@ -11,6 +14,8 @@ theme = 'hugo-theme-console'
     paginate = 12
 [markup]
   [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
     [markup.goldmark.extensions]
       [markup.goldmark.extensions.passthrough]
         enable = true

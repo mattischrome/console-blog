@@ -1,14 +1,14 @@
 ---
-title: "Parquet Courts Sympathy For Life"
-category: "Music"
-tags: [Album Revisit, Parquet Courts, Music, Rock, Indie, Twenty Five]
-date: "2025-01-15"
-description: "The next album revisit is the 2022 offering by Parquet Courts called Sympathy For Life"
+category: Music
+date: '2025-01-15'
+tags: ["Album Revisit","Parquet Courts","Music","Rock","Indie","Twenty Five"]
+title: Parquet Courts Sympathy For Life
 ---
+Getting back to my occasional album revisits, I'd like to consider the 2021 Parquet Courts album "Sympathy For Life". This is partly because I own it on vinyl and put it on the other day while I was doing some rather humdrum data downloading at work. It's that kind of album, quite loose and jam-based.
+
+<!--more-->
 
 ![Cover art of Sympathy for Life by Parquet Courts](./images/parquet-courts-sympathy-for-life.jpg)
-
-Getting back to my occasional album revisits, I'd like to consider the 2021 Parquet Courts album "Sympathy For Life". This is partly because I own it on vinyl and put it on the other day while I was doing some rather humdrum data downloading at work. It's that kind of album, quite loose and jam-based.
 
 Recorded just before lockdown, first in New York then at the Real World studios in Box, the album seems eerily prescient of what was to come later in the Covid pandemic. These are songs about constantly being watched by AI and the sort of coddling of the modern mind that results from this. It's not quite as good as the previous album "Wide Awake" but is probably better than "Human Performance". It's so relaxed and different to the previous album that you might have expected it to appear under their Parkay Quarts alias.
 

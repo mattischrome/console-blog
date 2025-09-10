@@ -1,24 +1,18 @@
 ---
 category: Album Digest
-pubDate: '2023-12-30T18:35:06Z'
-tags:
-- Album Digest
-- Music
-- Twenty Three
-- Albums
-- James Holden
-- Electronic
-title: '2023 Albums of the Year #2: James Holden, Imagine This is a High Dimensional
-  Space of All Possibilities'
-slug: 2023-albums-02-james-holden-imagine
+date: '2023-12-30'
+tags: ["Album Digest", "Music", "Twenty Three", "Albums", "James Holden", "Electronic"]
+title: '2023 Albums of the Year #2: James Holden, Imagine This is a High Dimensional Space of All Possibilities'
 ---
-![Cover of Imagine This is a High Dimensional Space of All Possibilities by James Holden](../../assets/images/albums-2023/james-holden-imagine.jpeg)
-
 "Cool artwork! No, we don't have it but it's coming in next week."
 
 "Cool artwork! We haven't had a copy in but I can order it for you."
 
 Me picking it up a week later: "Cool artwork!"
+
+<!--more-->
+
+![Cover of Imagine This is a High Dimensional Space of All Possibilities by James Holden](../../assets/images/albums-2023/james-holden-imagine.jpeg)
 
 "Imagine This is a High Dimensional Space of All Possibilities" is definitely album title of the year, made all the more topical with the intrusion of Chat-GPT and the like into the cultural conversation. Large Language Models (LLMs) like Chat-GPT work by absorbing large amounts of textual data (i.e. this blog, helping to make all those instant album reviews you can write now just a tiny bit more shit) and breaking them down into tokens, with each token having a meaning and a grammatical role and so on. These meanings and roles form higher dimensional spaces in which the tokens are vectors, where the rules of the LLMs help determine which tokens live near to one another and which pairs are likely to sit together in 'meaningful' sentences etc etc. 
 

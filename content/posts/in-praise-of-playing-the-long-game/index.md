@@ -1,13 +1,18 @@
 ---
-title: "In Praise of Playing the Long Game"
-category: "Ideas"
-tags: [Twenty Five, Twenty Four, Twenty Eighty, Calendar, Ideas, Bargains]
-date: "2025-02-10"
-description: "I bought a Barbara Hepworth calendar that I thought was a steal until I realised it was a 2024 calendar."
+category: Ideas
+date: '2025-02-10'
 params:
   math: true
+tableOfContents: true
+tags:
+- Twenty Five
+- Twenty Four
+- Twenty Eighty
+- Calendar
+- Ideas
+- Bargains
+title: In Praise of Playing the Long Game
 ---
-
 I bought a Barbara Hepworth calendar in the sale at the Tate Modern shop that I thought was a steal until I realised it was a 2024 calendar, not a 2025 one! However, the joke's on them because I only have to wait until 2029 for the next year that starts with a Monday.
 
 Unfortunately, unlike 2024, 2029 is _not_ a leap year. This means all the days of the week would be wrong from March 1st onwards. It gets worse! The next two years that start on a Monday are 2035 and 2046, both of which quite obviously fail to be leap years.

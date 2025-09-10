@@ -1,13 +1,15 @@
 ---
 category: Food
-pubDate: '2019-04-22T11:39:20Z'
-tags:
-- Books
-- Recipe
-- Food
-- Nineteen
+date: '2019-04-22'
+tableOfContents: true
+tags: ["Books", "Recipe", "Food", "Nineteen"]
 title: Four Recipe Book Recommendations
 ---
+
+Here are some recipe book recommendations. A good set of recipes can provide you with many a project for a rainy day.
+
+<!--more-->
+
 ## The A-Z of Cooking by Felicity Cloake
 This book is for more luxurious and experimental recipes. There are 26 chapters, one for an ingredient beginning with each letter of the alphabet, but you probably guessed that already. Ingrid and I have been (very) slowly working our way through the chapters, making a couple of recipes from each one - we’re currently up to G for Garlic.
 

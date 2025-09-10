@@ -1,12 +1,8 @@
 ---
 category: Books
-pubDate: '2021-01-01T00:00:00Z'
-tags:
-- Richard Powers
-- Books
-- Fiction
-- Twenty
-- Twenty One
+date: '2021-01-01'
+
+tags: ["Richard Powers", "Books", "Fiction", "Twenty", "Twenty One"]
 title: Richard Powers, Orfeo
 ---
 > "The mind may give up its desire to improve on creation and function as a faithful receiver of experience." John Cage

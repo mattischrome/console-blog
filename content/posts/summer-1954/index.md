@@ -1,12 +1,18 @@
 ---
-title: "Summer 1954"
-category: "Theatre"
-tags: [Twenty Five, Theatre, Terrence Rattigan, Drama, Play]
-date: "2025-01-25"
-description: "Summer 1954 is a pair of one-act plays by Sir Terrence Rattigan that we went to see at Chichester Festival theatre recently."
+category: Theatre
+date: '2025-01-25'
+tableOfContents: true
+tags:
+- Twenty Five
+- Theatre
+- Terrence Rattigan
+- Drama
+- Play
+title: Summer 1954
 ---
-
 Summer 1954 is a pair of one-act plays by Sir Terrence Rattigan that are currently being performed together at the Chichester Festival Theatre. I really enjoyed both plays.
+
+<!--more-->
 
 ### Table Number Seven
 

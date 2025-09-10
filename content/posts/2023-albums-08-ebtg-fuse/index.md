@@ -1,19 +1,15 @@
 ---
 category: Album Digest
-pubDate: '2023-12-24T18:35:06Z'
-tags:
-- Album Digest
-- Music
-- Twenty Three
-- Albums
-- EBTG
-- Electronic
-title: '2023 Albums of the Year #8: Everything But The Girl, Fuse'
+date: '2023-12-24'
 slug: 2023-albums-08-ebtg-fuse
+tags: ["Album Digest", "Music", "Twenty Three", "Albums", "EBTG", "Electronic"]
+title: '2023 Albums of the Year #8: Everything But The Girl, Fuse'
 ---
-![Cover of Fuse by Everything But The Girl](../../assets/images/albums-2023/ebtg-fuse.jpeg)
-
 As you get older nostalgia becomes an ever important part of listening to music. It often feels like the business relies on convincing an aging population of fans to part with their money on new versions of old material. It's nostalgia, the feeling of recapturing something you loved in your youth, that often makes this acceptable. Of course it's also nice to get **new** music from your favourite bands, especially when it's as good as "Fuse". 
+
+<!--more-->
+
+![Cover of Fuse by Everything But The Girl](../../assets/images/albums-2023/ebtg-fuse.jpeg)
 
 The album's announcement came early in 2023 but with a surprisingly short lead time all things considered. I guess it being a rather straightforward album of songs meant that it could be pushed out with a minimum of fuss. But of course the bigger surprise about Fuse as an album is that it is so good. It's not the sound of a band turning in warmed-up demos or ploughing nostalgia, instead it's a solid collection of new songs that expands their existing material. There are echoes of past songs but with the added perspective of additional life lived. 
 

@@ -1,9 +1,13 @@
 ---
-title: "In Praise of Pilates"
-category: "Life Experience"
-tags: [Life Experience, Pilates, Twenty Five, Consistency, Fitness]
-date: "2025-01-13"
-description: "It's relaxing, it's good for you, and most of the time I really like it."
+category: Life Experience
+date: '2025-01-13'
+tags:
+- Life Experience
+- Pilates
+- Twenty Five
+- Consistency
+- Fitness
+title: In Praise of Pilates
 ---
 In searching for something to write about today, I wondered whether I had ever written about Pilates on this blog before. I modified [the search of my posts from yesterday's post](/posts/fun-with-chatgpt/) to look for the word Pilates[^1] and it only came up once in [a post about revisiting my ambitions ten years on](/posts/ambitions-revisited/).
 

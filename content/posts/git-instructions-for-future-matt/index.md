@@ -1,14 +1,10 @@
 ---
-title: Some Git Instructions for Future Matt
-pubDate: 2024-01-07 21:36:00
-slug: git-instructions-for-future-matt
 category: Coding
-tags:
-- Coding
-- Twenty Four
-- Blogging
-- Hugo
-- git
+date: 2024-01-07
+slug: git-instructions-for-future-matt
+
+tags: ["Coding", "Twenty Four", "Blogging", "Hugo", "git"]
+title: Some Git Instructions for Future Matt
 ---
 Dear Future Matt,
 

@@ -1,12 +1,7 @@
 ---
-pubDate: '2020-05-31T00:00:00Z'
-tags:
-- Covid
-- Writing
-- Travel
-- Twenty
-- Ideas
-- Life Experiences
+date: '2020-05-31'
+
+tags: ["Covid", "Writing", "Travel", "Twenty", "Ideas", "Life Experiences"]
 title: Travel Writing After All This
 ---
 While sprucing up this blog a bit during lockdown, I fell into reading my old posts about [South America](/tag/south%20america/). I enjoyed it, mostly for the memories, but also because the current lockdown is warping my sense of time and space. Hours feel like weeks, but then I blink and a month's gone by. I find myself traipsing similar orbits each day around the house, and then perhaps over to the supermarket or the park. There's a palpable escapism to be had in reminiscing about South America and other places.

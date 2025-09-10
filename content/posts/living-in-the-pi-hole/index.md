@@ -1,12 +1,8 @@
 ---
 category: Technology
-pubDate: '2020-05-29T00:00:00Z'
-tags:
-- Software
-- Ads
-- Economics
-- Twenty
-- Internet
+date: '2020-05-29'
+tableOfContents: true
+tags: ["Software", "Ads", "Economics", "Twenty", "Internet"]
 title: Living in the Pi Hole
 ---
 Ingrid bought me a [raspberry pi](https://www.raspberrypi.org) for my birthday. I've set it up to run the [Pi-hole](https://docs.pi-hole.net) software. Pi-hole is a nifty bit of kit that intercepts your web requests and purges any that ask for material on known ad servers. Essentially it's like having an ad blocker on your network rather than just your computer.

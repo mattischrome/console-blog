@@ -1,11 +1,8 @@
 ---
 category: Gadgets
-pubDate: '2016-06-09T00:00:00Z'
-tags:
-- Gadgets
-- Sixteen
-- Keyboard
-- Writing
+date: '2016-06-09'
+
+tags: ["Gadgets", "Sixteen", "Keyboard", "Writing"]
 title: Logitech K380 Review
 ---
 Time for a little gear review. This is the [Logitech K380 keyboard](http://www.logitech.com/en-us/product/multi-device-keyboard-k380). It pairs with devices wirelessly over Bluetooth. I bought it to use with my Apple TV, iPad and iPhone. It runs on 2 AAA batteries, but the supplied batteries are not rechargeable. The keyboard is light and portable but you definitely know you have it in your bag.

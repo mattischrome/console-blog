@@ -1,11 +1,8 @@
 ---
 category: Food
-pubDate: '2015-02-16T00:00:00Z'
-tags:
-- Ideas
-- Food
-- Fifteen
-- Cheese
+date: '2015-02-16'
+
+tags: ["Ideas", "Food", "Fifteen", "Cheese"]
 title: On The Humble Cheese Grater
 ---
 You can't beat a good cheese grater. Cheese just tastes better in a sandwich once it has been grated. It's been proven by ACTUAL SCIENCE that this is the case: something about the increased surface area making it taste more zingy (NB. QI is not actually a peer-reviewed scientific journal). Of course the cheese we are grating here is a nice mature cheddar, you can't grate Camembert or Stilton (well _technically_ you can, but why would you?). There are even cheeses that can be grated but don't deserve it, take Red Leicester for example: the ear wax of the cheese world.

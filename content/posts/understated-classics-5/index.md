@@ -1,14 +1,10 @@
 ---
 category: Understated Classics
-pubDate: '2010-11-08T00:00:00Z'
-tags:
-- Understated Classics
-- Bloc Party
-- Music
-- Rock
-- Ten
-title: 'Understated Classics #5: A Weekend In The City by Bloc Party'
+date: '2010-11-08'
 slug: understated-classics-5
+tableOfContents: true
+tags: ["Understated Classics", "Bloc Party", "Music", "Rock", "Ten"]
+title: 'Understated Classics #5: A Weekend In The City by Bloc Party'
 ---
 ## A Weekend In The City: Background
 

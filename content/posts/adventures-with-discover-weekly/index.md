@@ -1,11 +1,8 @@
 ---
 category: Music
-pubDate: '2016-08-30T00:00:00Z'
-tags:
-- Music
-- Software
-- Sixteen
-- Spotify
+date: '2016-08-30'
+
+tags: ["Music", "Software", "Sixteen", "Spotify"]
 title: Adventures with Discover Weekly
 ---
 Because I couldn't find any albums coming out this month that I wanted to review for the album digest, I decided to let Spotify pick the albums to listen to. I listened to my algorithmically chosen [Discover Weekly](https://techcrunch.com/2015/07/20/why-browse-when-you-can-play/) playlist one week and selected albums based on the songs that I liked the most. The album also had to be released in 2016. The selections are ones that got away.

@@ -1,0 +1,21 @@
+<div aria-label="Browse" class="post-single__browse browse-nav">
+    {{with .Next}}
+    <div class="browse-nav__next">
+      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--next">
+        &#10142;
+      </div>
+      <a href="{{.Permalink}}" class="browse-nav__link browse-nav__link--next" aria-label="Next article: {{.Params.Title}}">{{.Params.Title}}</a>
+    </div>
+    {{end}}
+  
+    {{with .Prev}}
+    <div class="browse-nav__prev">
+      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--prev">
+        &#10142;
+      </div>
+      <a href="{{.Permalink}}" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: {{.Params.Title}}">{{.Params.Title}}</a>
+    </div>
+    {{end}}
+  
+    <a href="{{.Site.BaseURL}}" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
+</div>

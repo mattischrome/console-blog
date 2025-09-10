@@ -1,11 +1,8 @@
 ---
 category: Travel
-pubDate: '2013-12-19T00:00:00Z'
-tags:
-- South America
-- Peru
-- Self Improvement
-- Thirteen
+date: '2013-12-19'
+
+tags: ["South America", "Peru", "Self Improvement", "Thirteen"]
 title: Grumble Grumble
 ---
 I'm a bit behind in my posts about the trip and this post interrupts the sequence of events somewhat, just because I've not felt that well and that has dominated my thoughts about what to write. Basically for a week or two I've had varying degrees of bellyache and it's not been fun. Instead of feeling the gratitude and excitement I've felt since being here, I've spent a lot of time wanting to curl up in the corner and just be... well... somewhere else.

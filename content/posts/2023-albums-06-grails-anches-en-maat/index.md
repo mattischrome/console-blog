@@ -1,19 +1,15 @@
 ---
 category: Album Digest
-pubDate: '2023-12-26T18:35:06Z'
-tags:
-- Album Digest
-- Music
-- Twenty Three
-- Albums
-- Grails
-- Rock
-title: '2023 Albums of the Year #6: Grails, Anches en Maat'
+date: '2023-12-26'
 slug: 2023-albums-06-grails-anches-en-maat
+tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Grails", "Rock"]
+title: '2023 Albums of the Year #6: Grails, Anches en Maat'
 ---
-![Cover of Anches en Maat by Grails](../../assets/images/albums-2023/grails-anches-en-maat.jpeg)
-
 Grails are one of those bands who always get played a lot at my house. There's something about their slow incremental instrumental pieces that my brain just loves to get lost in. Anches en Maat, their first album in six years or so, and the first with the entire band in the studio together since 2008, is their most Grails-y album in a long time. 
+
+<!--more-->
+
+![Cover of Anches en Maat by Grails](../../assets/images/albums-2023/grails-anches-en-maat.jpeg)
 
 On their last album Chalice Hymnal there were a lot of references to various band members' side projects like Watter and Lilacs & Champagne, along with continuations of pieces from earlier albums like Deep Politics. Anches en Maat seems to clear all that away while retaining their signature sound, a bit like a reboot rather than a reinvention. 
 

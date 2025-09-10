@@ -1,15 +1,8 @@
 ---
 category: Music
-pubDate: '2012-11-29T00:00:00Z'
-tags:
-- Music
-- Album Digest
-- November
-- Bat For Lashes
-- Ital
-- Bjork
-- Brian Eno
-- Twelve
+date: '2012-11-29'
+tableOfContents: true
+tags: ["Music", "Album Digest", "November", "Bat For Lashes", "Ital", "Bjork", "Brian Eno", "Twelve"]
 title: Album Digest, November 2012
 ---
 Pretty much a sliding scale between songs and electronic wibble on this month’s albums and a particularly damp, chilly feeling to proceedings too.

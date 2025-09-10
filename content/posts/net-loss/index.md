@@ -1,12 +1,8 @@
 ---
 category: Ideas
-pubDate: '2012-04-03T00:00:00Z'
-tags:
-- Ideas
-- Blogging
-- Internet
-- Economics
-- Twelve
+date: '2012-04-03'
+
+tags: ["Ideas", "Blogging", "Internet", "Economics", "Twelve"]
 title: Net Loss
 ---
 I pay to have this blog up and running. That is, I pay for the space where it is stored and I pay for the name. I have to look after all the files and plug-ins, I have to perform all the updates and optimise the database tables. All this is great fun but wouldn’t it be cheaper to slap the mattischro.me address onto a hosted WordPress.com account?

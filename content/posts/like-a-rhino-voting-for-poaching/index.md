@@ -1,10 +1,8 @@
 ---
 category: Politics and Beliefs
-pubDate: '2015-05-09T00:00:00Z'
-tags:
-- News
-- Politics
-- Fifteen
+date: '2015-05-09'
+
+tags: ["News", "Politics", "Fifteen"]
 title: Like a Rhino Voting for Poaching
 ---
 There's a reason I cannot and will not vote Conservative, and like most people's apparent motive for voting tory it is also a selfish one. As someone employed in the public sector, working to ensure the greater good, I'm a member of an increasingly endangered species.

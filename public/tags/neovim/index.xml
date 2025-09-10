@@ -6,8 +6,15 @@
     <description>Recent content in Neovim on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Development Environment</title>
+      <link>http://localhost:1313/posts/personal-development-environment/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/personal-development-environment/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been trying to settle on a text editor, IDE, and terminal for a long time now. Partly I&amp;rsquo;m limited by what I can use at work because I owe to myself and my colleagues to be able to reproduce all my skills in a work setting. However, part of me has also wandered off a bit after reading about the idea of a &amp;ldquo;personal Development Environment&amp;rdquo; (or PDE I guess, though in a former life that &lt;a href=&#34;https://en.wikipedia.org/wiki/Partial_differential_equation&#34;&gt;meant something very different&lt;/a&gt;), which is essentially an application where you can do anything and have it configured exactly how you like. Here&amp;rsquo;s an update on my progress on that front:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Push the right key</title>
       <link>http://localhost:1313/posts/push-the-right-key/</link>

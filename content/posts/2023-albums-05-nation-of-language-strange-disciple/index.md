@@ -1,20 +1,16 @@
 ---
 category: Album Digest
-pubDate: '2023-12-27T18:35:06Z'
-tags:
-- Album Digest
-- Music
-- Twenty Three
-- Albums
-- Nation of Language
-- Electronic
-- Indie
-title: '2023 Albums of the Year #5: Nation of Language, Strange Disciple'
+date: '2023-12-27'
 slug: 2023-albums-05-nation-of-language-strange-disciple
----
-![Cover of Strange Disciple by Nation of Language](../../assets/images/albums-2023/nation-of-language-strange-disciple.jpeg)
 
+tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Nation of Language", "Electronic", "Indie"]
+title: '2023 Albums of the Year #5: Nation of Language, Strange Disciple'
+---
 It would be remiss of me to claim that this is a placeholder for any number of (quite different sounding) song based albums that came out this year (Yves Tumor, Wilco to mention two) but it feels that way. This album came high up my list of listens because it's a very good breakfast album, one to listen to while getting the Day started - though there are also some bangers on here too. 
+
+<!--more-->
+
+![Cover of Strange Disciple by Nation of Language](../../assets/images/albums-2023/nation-of-language-strange-disciple.jpeg)
 
 Nation of language are a three piece band from New York. I think one of them is famous for being in a band I've not heard of (or is that their producer, I must do some fact checking) and two of them are married, even going so far as to have had a gofundme or whatever for the band as a present at a wedding. (That doesn't give off future "we are a duo now" vibes at all!)
 

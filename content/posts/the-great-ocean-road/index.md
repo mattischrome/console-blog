@@ -1,11 +1,8 @@
 ---
 category: Travel
-pubDate: '2018-02-23T00:00:00Z'
-tags:
-- Australia
-- Travel
-- Photos
-- Eighteen
+date: '2018-02-23'
+
+tags: ["Australia", "Travel", "Photos", "Eighteen"]
 title: The Great Ocean Road
 ---
 As a [wedding present](articles/the-same-yet-different), Ingrid's Mum Maria kindly took us for a trip along [The Great Ocean Road](https://en.wikipedia.org/wiki/Great_Ocean_Road), the longest war memorial in the world.

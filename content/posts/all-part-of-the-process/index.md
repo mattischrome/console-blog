@@ -1,9 +1,14 @@
 ---
-title: "All Part of the Process"
-category: "Ideas"
-tags: [Twenty Five, Writing, Ideas, Blogging, Perfectionism, Depression]
-date: "2025-02-08"
-description: "Having complained yesterday about the quality of posts created by blogging every day, here's a post that tries to concentrate on the upside."
+category: Ideas
+date: '2025-02-08'
+tags:
+- Twenty Five
+- Writing
+- Ideas
+- Blogging
+- Perfectionism
+- Depression
+title: All Part of the Process
 ---
 Writing a blog post every day is not essential. It's not part of some new year's resolution, despite the fact that the start of this unbroken streak of posts was January 1st. If anything my new year's resolution has been to try and step gently away from my perfection. And the adoption of that resolution began in the middle of 2024 rather than new year's day.
 

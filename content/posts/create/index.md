@@ -1,10 +1,8 @@
 ---
 category: Writing
-pubDate: '2017-06-16T00:00:00Z'
-tags:
-- Writing
-- Ideas
-- Seventeen
+date: '2017-06-16'
+
+tags: ["Writing", "Ideas", "Seventeen"]
 title: Create
 ---
 It can be a struggle to keep writing. I've found this happened a lot since I moved the blog. First, there was  the business of moving things over. That meant a lot of thought about old posts and which ones I should keep. A lot of the time I thought "how on earth did I have time to write this?!"

@@ -1,15 +1,14 @@
 ---
 category: Civ
-pubDate: '2019-05-12T16:41:01Z'
-tags:
-- Fun
-- Civ
-- Nineteen
-- Leaders
-title: 'Civ Leaders #2: Alexander of Macedon'
+date: '2019-05-12'
 slug: civ-leaders-2
+tableOfContents: true
+tags: ["Fun", "Civ", "Nineteen", "Leaders"]
+title: 'Civ Leaders #2: Alexander of Macedon'
 ---
 Alexander of Macedon is available in a base game DLC pack alongside Darius of Persia. He also has his own scenario “The Conquests of Alexander”, which is both fun to play and instructive in how to use the formidable benefits of his bonuses and unique units.
+
+<!--more-->
 
 ## Civ ability
 *Hellenistic Fusion* When capturing a city, receive civic boosts for each holy site and theatre square, and tech boosts for each campus and encampment. This means you can grab up to four boosts when capturing cities.

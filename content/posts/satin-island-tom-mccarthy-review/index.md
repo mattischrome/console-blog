@@ -1,12 +1,8 @@
 ---
 category: Books
-pubDate: '2015-11-20T00:00:00Z'
-tags:
-- Books
-- Booker Prize
-- Tom McCarthy
-- Novel
-- Fifteen
+date: '2015-11-20'
+
+tags: ["Books", "Booker Prize", "Tom McCarthy", "Novel", "Fifteen"]
 title: 'Satin Island by Tom McCarthy: Review'
 ---
 As much as I wanted it to, Satin Island by Tom McCarthy did not win the Booker Prize. Having read it all I realise it was a long shot. However it is an interesting book that deserved consideration, even if it does have some flaws.

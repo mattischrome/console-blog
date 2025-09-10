@@ -1,11 +1,8 @@
 ---
 category: Writing
-pubDate: '2020-07-07T00:00:00Z'
-tags:
-- Tarot
-- Fiction
-- Short Story
-- Twenty
+date: '2020-07-07'
+
+tags: ["Tarot", "Fiction", "Short Story", "Twenty"]
 title: Strategy one
 ---
 I decided to create my own deck of creativity cards. I was sick of all the adverts for similar products on Instagram. You know the kind. They're covered in pictures, patterns, and buzzwords. You shuffle the cards and draw them one at a time. As you place each card on the table, the brain’s natural desire to tell stories, create patterns and produce meaning takes over. 

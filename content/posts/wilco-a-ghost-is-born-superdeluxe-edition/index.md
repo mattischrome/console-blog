@@ -1,9 +1,13 @@
 ---
-title: "Wilco, A Ghost Is Born (Superdeluxe edition)"
-category: "Music"
-tags: [Twenty Five, Wilco, Albums, Rock, Understated Classics]
-date: "2025-02-19"
-description: "This is the big box for a ghost is born by wilco"
+category: Music
+date: '2025-02-19'
+tags:
+- Twenty Five
+- Wilco
+- Albums
+- Rock
+- Understated Classics
+title: Wilco, A Ghost Is Born (Superdeluxe edition)
 ---
 In 2022, I invested in the big superdeluxe box for Wilco's most successful album "Yankee Hotel Foxtrot". Across 11 pieces of 'silver' vinyl and one CD, the box set showed the tortuous process that Wilco went through to create that album. It's a magnificent collection of music, though if you don't like hearing multiple versions of the same song and are not fond of unfinished material, it's not going to be as pleasant an afternoon as it is for me. 
 

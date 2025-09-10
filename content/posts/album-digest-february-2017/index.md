@@ -1,14 +1,8 @@
 ---
 category: Music
-pubDate: '2017-02-28T00:00:00Z'
-tags:
-- Album Digest
-- February
-- Music
-- Grails
-- Elbow
-- Dreadzone
-- Seventeen
+date: '2017-02-28'
+tableOfContents: true
+tags: ["Album Digest", "February", "Music", "Grails", "Elbow", "Dreadzone", "Seventeen"]
 title: Album Digest, February 2017
 ---
 ## Grails *Chalice Hymnal*

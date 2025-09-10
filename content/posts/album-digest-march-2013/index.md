@@ -1,12 +1,8 @@
 ---
 category: Music
-pubDate: '2013-03-31T00:00:00Z'
-tags:
-- Album Digest
-- March
-- Music
-- David Bowie
-- Thirteen
+date: '2013-03-31'
+
+tags: ["Album Digest", "March", "Music", "David Bowie", "Thirteen"]
 title: Album Digest, March 2013
 ---
 Just the David Bowie album this month as it’s pretty much the only new music that I’ve listened to.

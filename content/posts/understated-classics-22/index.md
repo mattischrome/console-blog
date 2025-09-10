@@ -1,14 +1,10 @@
 ---
 category: Understated Classics
-pubDate: '2013-03-13T00:00:00Z'
-tags:
-- Understated Classics
-- Music
-- Clinic
-- Thirteen
-- Rock
-title: 'Understated Classics #22: Walking With Thee by Clinic'
+date: '2013-03-13'
 slug: understated-classics-22
+
+tags: ["Understated Classics", "Music", "Clinic", "Thirteen", "Rock"]
+title: 'Understated Classics #22: Walking With Thee by Clinic'
 ---
 “Walking With Thee” is the second album by Liverpool band [Clinic](http://en.wikipedia.org/wiki/Clinic_(band)). It was released in 2002, which seems like an age ago now. Even longer ago they released the single “The Return of Evil Bill”, which was got me interested in them in the first place.
 

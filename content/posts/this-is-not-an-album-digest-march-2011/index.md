@@ -1,18 +1,8 @@
 ---
 category: Music
-pubDate: '2011-03-31T00:00:00Z'
-tags:
-- Music
-- Album Digest
-- March
-- Eleven
-- Ramadanman
-- Nicolas Jaar
-- Julianna Barwick
-- Yeasayer
-- Saint Etienne
-- LCD Soundsystem
-- Salva
+date: '2011-03-31'
+tableOfContents: true
+tags: ["Music", "Album Digest", "March", "Eleven", "Ramadanman", "Nicolas Jaar", "Julianna Barwick", "Yeasayer", "Saint Etienne", "LCD Soundsystem", "Salva"]
 title: Album Digest, March 2011
 ---
 ## This is not an Album Digest March 2011

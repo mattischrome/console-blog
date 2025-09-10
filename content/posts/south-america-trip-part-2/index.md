@@ -1,11 +1,8 @@
 ---
 category: Travel
-pubDate: '2013-12-02T00:00:00Z'
-tags:
-- South America
-- Ecuador
-- Amazon
-- Thirteen
+date: '2013-12-02'
+tableOfContents: true
+tags: ["South America", "Ecuador", "Amazon", "Thirteen"]
 title: South America, Part 2
 ---
 ### Otavalo

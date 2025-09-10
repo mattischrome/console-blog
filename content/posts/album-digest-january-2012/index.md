@@ -1,18 +1,8 @@
 ---
 category: Music
-pubDate: '2012-01-31T00:00:00Z'
-tags:
-- Album Digest
-- January
-- Music
-- FOE
-- Leila
-- Diagrams
-- Pyramids
-- Horseback
-- Fabric
-- Pinch
-- Twelve
+date: '2012-01-31'
+tableOfContents: true
+tags: ["Album Digest", "January", "Music", "FOE", "Leila", "Diagrams", "Pyramids", "Horseback", "Fabric", "Pinch", "Twelve"]
 title: Album Digest, January 2012
 ---
 Five albums to see in the new year:

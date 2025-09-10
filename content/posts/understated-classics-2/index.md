@@ -1,14 +1,10 @@
 ---
 category: Understated Classics
-pubDate: '2010-08-12T00:00:00Z'
-tags:
-- Understated Classics
-- The Aloof
-- Music
-- Electronic
-- Ten
-title: 'Understated Classics #2: Sinking by The Aloof'
+date: '2010-08-12'
 slug: understated-classics-2
+tableOfContents: true
+tags: ["Understated Classics", "The Aloof", "Music", "Electronic", "Ten"]
+title: 'Understated Classics #2: Sinking by The Aloof'
 ---
 ## I discovered The Aloof while listening to the Top 40
 

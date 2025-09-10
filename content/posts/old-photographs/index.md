@@ -1,11 +1,8 @@
 ---
 category: Life Experiences
-pubDate: '2020-10-08T00:00:00Z'
-tags:
-- Photography
-- Life Experiences
-- Family
-- Twenty
+date: '2020-10-08'
+
+tags: ["Photography", "Life Experiences", "Family", "Twenty"]
 title: Old photographs
 ---
 Recently I've had cause to dig out some old photos. If I'm honest it's made me sad. Sadder than I was expecting. There's a quote from Nan Goldin that once felt like a warning but now just sounds like a sad statement of ongoing affairs:

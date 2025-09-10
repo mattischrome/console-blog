@@ -1,15 +1,16 @@
 ---
-title: "50 AI Ideas"
-category: "Software"
-tags: [Twenty Five, AI, Software, Books, List]
-date: "2025-03-06"
-description: "This is a listicle mostly cribbed from Keith Mansfield's book 50 AI Ideas You Really Need To Know"
+category: Software
+date: '2025-03-06'
 draft: true
+tableOfContents: true
+tags: ['Twenty Five', 'AI', 'Software', 'Books', 'List']
+title: 50 AI Ideas
 ---
-
 I have this terrible habit of picking up cool books from the library and then not reading them. One of these has been "50 AI Ideas You Really Need To Know" by Keith Mansfield. This is post is an attempt to force myself to read the book by listing all the 50 ideas and make some comment on them.
 
 The book is pretty good, although it mentions Elon Musk way too many times. My version will mention that person a total of zero times. I've also redacted every mention of him in the copy I got from the library. This is technically vandalism, but also an act of mercy for following readings.
+
+<!--more-->
 
 ## Idea 1: Alan Turing was very clever
 
