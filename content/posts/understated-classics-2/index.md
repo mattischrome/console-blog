@@ -6,6 +6,8 @@ tableOfContents: true
 tags: ["Understated Classics", "The Aloof", "Music", "Electronic", "Ten"]
 title: 'Understated Classics #2: Sinking by The Aloof'
 ---
+<!--more-->
+
 ## I discovered The Aloof while listening to the Top 40
 
 When I was younger, I used to listen to the Top 40 every Sunday. To begin with, this was partly an endurance thing and partly an obsession with one day seeing Roxette top the charts - alas, they never did, though for one thrilling spring “Joyride” did flirt with the upper reaches of the chart.

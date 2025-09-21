@@ -1,15 +1,12 @@
 ---
 category: Writing
 date: '2025-01-20'
-tags:
-- Diary
-- Writing
-- Notebooks
-- Twenty Five
+tags: ["Diary", "Writing", "Notebooks", "Twenty Five"]
 title: In Praise of Putting Pen to Paper
 ---
 Around this time last year, I wrote in praise of writing a diary. I also rather misanthropically referred to it as a ["negativity casket"](https://mattischrome.com/posts/the-negativity-casket/) because I found that I was pouring a lot of negative feelings into the notebook. It's not really a diary as such because I don't write everyday and I also make other non-diaristic notes, but it does appear to have been something of a process that has helped me to work through my negative feelings.
 
+<!--more-->
 A lot of people recommend gratitude journaling, where you use the daily reflective practice of writing a diary entry to think about positive things that have happened in a day or what it is that you are grateful for. I can see the value in that because it sets the bias of your brain towards to the positive and towards between being grateful. But what I would say is that not everybody's life is perfect all the time. Negative emotions are not always useful, but they are valid. The trick is to try and frame negative emotions with the question "well, what do I need then to feel better?"
 
 If you attempt to articulate your frustration, it can be therapeutic merely to rant and rave. A notebook is a safe place for that. No one but you is going to read it unless you decide otherwise. But you can also work on stuff, explore it from different angles. Work out solutions. Work out what needs to be apologised for and what you need to brazen out. 

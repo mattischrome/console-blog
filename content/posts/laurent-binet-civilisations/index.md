@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2022-02-08'
-
 tags: ["Books", "Fiction", "History", "Twenty Two"]
 title: Laurent Binet, Civilisations
 ---
 'Civilisations' is a counterfactual historical novel that attempts to extrapolate the future course of history after changing one pivotal moment of the timeline. I usually find novels like this are great fun, another entertaining example is 'Making History' by Stephen Fry. The novel, originally written in French, won some big awards in France last year. I read the translation by Sam Taylor. 
 
+<!--more-->
 In 'Civilisations', Binet makes the pivotal point of his tale, the migration of Erik the Red to America in the late 900s. The idea of the novel is that as the vikings move down the coast of north and Central America, they bring exposure to (and therefore some eventual immunity from) smallpox and the ability to work with iron. This equips and prepares the indigenous people ahead of Christopher Columbus' arrival in 1492.
 
 As a result, in the remainder of the novel, the events that lead to the colonisation of South and Central America by the Europeans are essentially reversed. A civil war among the Incas creates a highly motivated expeditionary force that appropriates Columbus's boats and sets sail for Lisbon. They arrive just as a great earthquake has shattered the Portuguese capital. Here, Binet has allowed himself some liberty with the timeline—the[ earthquake in question happened in 1755_][1]. This seems reasonable, earthquakes are random events after all. 

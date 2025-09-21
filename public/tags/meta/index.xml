@@ -27,14 +27,14 @@
       <link>http://localhost:1313/posts/fun-with-chatgpt/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/fun-with-chatgpt/</guid>
-      <description>&lt;p&gt;I asked:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;For my blog I have a folder called posts. In that folder are more folders that are named for the slug of each post, as per the conventions of the Hugo static site generator. Those folders each contain a markdown file named index.md, each of which has a YAML header. Draft posts have a YAML key called draft which has the value true. Please can you write me a shell script that I can run from the directory above posts that tells me which folders in the posts folder contain draft posts?&lt;/p&gt;</description>
+      <description>&lt;p&gt;I asked:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Don&#39;t Break The Chain</title>
       <link>http://localhost:1313/posts/dont-break-the-chain/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/dont-break-the-chain/</guid>
-      <description>&lt;p&gt;2025 might be a tough year, but I am going to try and blog every day. It means that now and then I might be writing a post like this one, where I am writing for the sake of continuing the streak. If I find myself doing that too often then I will take the hint and stop trying!&lt;/p&gt;&#xA;&lt;p&gt;This weekend was the 3rd round of the FA Cup, which is when the premier league and championship teams enter the competition. This is the first time for quite a few years where Portsmouth have entered at this stage. Naturally, they&amp;rsquo;re already out! Mind you, in recent years when they&amp;rsquo;ve entered at the first round they haven&amp;rsquo;t made it past those rounds either. That was bad news for one pub in Portsmouth which always made a big show of not taking down their Christmas decorations until Pompey were out of the FA Cup!&lt;/p&gt;</description>
+      <description>&lt;p&gt;2025 might be a tough year, but I am going to try and blog every day. It means that now and then I might be writing a post like this one, where I am writing for the sake of continuing the streak. If I find myself doing that too often then I will take the hint and stop trying!&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Orphan Project</title>
@@ -55,7 +55,7 @@
       <link>http://localhost:1313/posts/albums-of-the-year-preview/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/albums-of-the-year-preview/</guid>
-      <description>&lt;p&gt;Another year (nearly) over and so starting from tomorrow, I&amp;rsquo;m going to count down my top 10 albums of 2023. The rules are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;They have to have to have been released in 2023.&lt;/li&gt;&#xA;&lt;li&gt;They need to be albums. I&amp;rsquo;m defining this as either more than 7 tracks or songs, or more than forty minutes in length.&lt;/li&gt;&#xA;&lt;li&gt;To make the top ten, they need to have been played the most times. I admit that I don&amp;rsquo;t have a precise measure of this, as I do still buy vinyl and about four of these albums will have had play counts missed by not being captured through a streaming service.&lt;/li&gt;&#xA;&lt;li&gt;Compilations are not included, whether they feature multiple artists or a retrospective of a single artist.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;And that&amp;rsquo;s pretty much it. Have I done any prep work? Well no, not really. I made a preliminary list at the start of October and not only was the number one album not out at the time (!) but I also had mistakenly included two albums from 2022. So yeah, this is not a pro operation. 😂&lt;/p&gt;</description>
+      <description>&lt;p&gt;Another year (nearly) over and so starting from tomorrow, I&amp;rsquo;m going to count down my top 10 albums of 2023. The rules are:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

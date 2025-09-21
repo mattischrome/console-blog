@@ -1,12 +1,12 @@
 ---
 category: Life Experiences
 date: '2020-06-11'
-
 tags: ["Cats", "Behaviour", "Statistics", "Twenty"]
 title: Am I caring for a naughty cat?
 ---
 "He keeps biting me on the leg" says Ingrid one day as I mill around her desk during the new water cooler moment that is a comfort break on a Microsoft Teams call. I pat Martok, one of our cats, and he rubs up against me, pretending that he might nibble at me too. 
 
+<!--more-->
 I experience this regularly. It used to be at half five, then at five, and these days at half past four. He strides into my office, circles around the chair and nips me on the calf. I don't know why it's getting earlier each day. It's probably a brazen campaign for dinner, but I have been steadfast in feeding them no earlier than the S of six. 
 
 "It's a love bite", I say, distractedly rumpling Martok's fur in a way that is probably over-familiar for most cats but he seems to respond to. He purrs. 

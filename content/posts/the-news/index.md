@@ -1,12 +1,12 @@
 ---
 category: Ideas
 date: '2011-07-25'
-
 tags: ["News", "Ideas", "Eleven"]
 title: The News
 ---
 > “I read the news today, oh boy”  (The Beatles, _A Day In The Life_.)
 
+<!--more-->
 Sometimes watching the news feels like a series of repeated blows to the face: arbitrary, cruel and unrelenting. It gets draining and upsetting, and leaves you fearful of what might come next.
 
 You won’t need me to tell you about the tragedies that have occurred all over the world in the last few days: drought in East Africa, the gunman running amok in Norway, the death of Amy Winehouse and the horrific train crash in China.

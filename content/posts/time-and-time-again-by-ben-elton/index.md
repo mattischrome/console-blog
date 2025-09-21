@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2015-09-29'
-
 tags: ["Ben Elton", "Books", "Novels", "Fifteen"]
 title: Ben Elton, Time and Time Again
 ---
 Time and Time Again is a ridiculously stupid novel by Ben Elton. A shadowy sect (established by Isaac Newton no less!) recruits a soldier to go back in time and prevent Franz Ferdinand's assassination in Sarajevo in August 1914. I wonder if it all goes to plan and everyone lives happily ever after with no weird timey-wimey after-effects?
 
+<!--more-->
 Needless to say **this novel makes me wish that time travel were a real thing so that I could travel back in time and slap myself in the face while in the queue to buy this tripe.** I usually try to see the best in the books, albums and movies that I write about, but the most fun you can have with this novel is to rip it to shreds.
 
 The main character Hugh "Guts" Stanton is a self-pitying sad-sack that Elton expects us to believe graduated from Cambridge. He is thoroughly unlikable: I spent most of the novel hoping that he'd meet some grizzly end rather than succeed in his goal. Apparently all it takes is a poorly written caricature of a sad-sack soldier for me to start siding with the [Black Hand](http://www.britannica.com/topic/Black-Hand-secret-Serbian-society). I wanted world war one to start anyway, just to spite this guy.

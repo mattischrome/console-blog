@@ -1,7 +1,6 @@
 ---
 category: Poems
 date: '2012-04-10'
-
 tag:
 - Poem
 - Ted Hughes
@@ -15,6 +14,7 @@ And the [song-thrush](http://www.rspb.org.uk/wildlife/birdguide/name/s/songthrus
 And [aconite](http://www.bbc.co.uk/gardening/plants/plant_finder/plant_pages/286.shtml) and [primrose](http://www.countrysideinfo.co.uk/primrose.htm) are unsticking the wrappers  
 Of the package that has come today for you  
   
+<!--more-->
 Lambs bounce out and stand astonished  
 [Puss willow](http://en.wikipedia.org/wiki/Pussy_willow) pushes among bare branches  
 Sooty [hawthorns](http://www.british-trees.com/treeguide/hawthorns/nbnsys0000003430) shiver into emerald  

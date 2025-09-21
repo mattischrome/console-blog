@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["Books", "Reading Projects", "Eleven"]
 title: More Books
 ---
+<!--more-->
+
 ## Never mind the Ballards
 
 I have been writing about books by [J.G. Ballard](j-g-ballard) pretty much to the exclusion of all others. Gradually the posts have tricked out about four novels and ground to a halt. I’ve got a fair way through two other books but I am getting very tired of reading his novels all the time, much as I love them. The mistake I made was that I hadn’t read enough of them in the first place. The project for the site was get the books, read them and then write something. In terms of writing regular posts, this was a bad idea!

@@ -13,14 +13,14 @@
       <link>http://localhost:1313/posts/into-february/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/into-february/</guid>
-      <description>&lt;p&gt;Having made it to one post per day in January, we now move into February: that graveyard of good habits for the new year. What is it about flipping over the calendar to a new month that does away with our resolve to continue with our resolutions? My office calendar has a lovely picture of a German steam train in the snow, in case you were wondering.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m going to reward myself at some point by allowing myself to fiddle with the blog&amp;rsquo;s theme a little more. Over the years, I&amp;rsquo;ve probably fiddled more with how the blog looks, rather than focussing on what to write. I&amp;rsquo;ve also turned on Hugo&amp;rsquo;s related posts module. The results are pretty high quality and it doesn&amp;rsquo;t seem to affect the build time of the site. A custom version is still a pet project for the future though.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Having made it to one post per day in January, we now move into February: that graveyard of good habits for the new year. What is it about flipping over the calendar to a new month that does away with our resolve to continue with our resolutions? My office calendar has a lovely picture of a German steam train in the snow, in case you were wondering.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some Git Instructions for Future Matt</title>
       <link>http://localhost:1313/posts/git-instructions-for-future-matt/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/git-instructions-for-future-matt/</guid>
-      <description>&lt;p&gt;Dear Future Matt,&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Always look up instructions for what you want to do in the Git documentation. It&amp;rsquo;s dry but it&amp;rsquo;s good. In a pinch, look at Stack Overflow. Don&amp;rsquo;t ask Chat-GPT for advice on Git problems!&lt;/li&gt;&#xA;&lt;li&gt;To reverse mistakes, consult the &lt;a href=&#34;https://ohshitgit.com&#34;&gt;Oh Shit Git&lt;/a&gt; website.&lt;/li&gt;&#xA;&lt;li&gt;To make things easier, delete the remote to your Github repository and then add it (the remote) back again. This is so much easier than the alternative.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Best wishes,&#xA;Past Matt (with his annual flash of January git confidence).&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dear Future Matt,&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

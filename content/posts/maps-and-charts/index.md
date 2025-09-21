@@ -1,12 +1,12 @@
 ---
 category: Ideas
 date: '2011-07-02'
-
 tags: ["Ideas", "Maps", "Eleven"]
 title: Maps And Charts
 ---
 When I was growing up a framed print of a map hung on the wall in the hallway. It was one of my favourite things, littered with strange latin names and with Vs where Us should have been. The outlines of the continents and countries were all familiar and yet slightly distorted, becoming more recognisable around the shores of western Europe.
 
+<!--more-->
 I don’t know the provenance of that map print but at some point it got taken to the charity shop and replaced by Van Gogh’s sunflowers. I guess that means that I shall never be able to work out exactly what map it was and when it was from. 
 
 Anyway my point is that old maps are a great reminder of human imagination and collective consciousness. They may seem quaint now that we have Google maps and satellite photographs seared into our brains or available in app form for our phones. Even so, maps have certainly lied to us as recently as when we were children - all those maps in dusty atlases that taught us how Spain was as big as Africa (or rather, that Africa was as small as Spain).

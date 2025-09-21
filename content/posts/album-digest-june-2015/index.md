@@ -7,6 +7,7 @@ title: Album Digest, June 2015
 ---
 To reboot this series, Album Digest June 2015 features five fantastic albums from Hot Chip, Jamie xx, Blanck Mass, Holly Herndon, and The Orb. I could pick loads more as I've listened to a lot of albums since [February](/album-digest-february-2015/) but I decided to focus on the more electronic material. This means that I have no excuses for not continuing next month with a rockier theme.
 
+<!--more-->
 ## Hot Chip "Why Make Sense?"
 
 Hot Chip seem to be settling in to a pattern with their album releases, alternating between messy experimental affairs and then a state of the art correction. Witness how "The Warning" smartened up the all-over-the-place "Coming On Strong" and how "One Life Stand" moulded and matured the lovestruck meandering of "Made In The Dark" into a lithe ten song set. "Why Make Sense?" takes the earnest song-based approach of "In Our Heads" and casts it into a funky fun-filled fifty minutes. It's as concise as they've been since "One Life Stand".

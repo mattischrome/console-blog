@@ -1,12 +1,12 @@
 ---
 category: Politics and Beliefs
 date: '2015-05-25'
-
 tags: ["Ideas", "Politics", "News", "Economics", "Fifteen"]
 title: Jim's Conservatory
 ---
 Let's assume that Jim has just had a [sudden unexpected expenditure](https://en.wikipedia.org/wiki/2008_United_Kingdom_bank_rescue_package): a neighbour released a bull into his back garden and [it destroyed his conservatory](http://www.theguardian.com/business/2007/nov/01/creditcrunch.subprimecrisis). Let's assume that the conservatory is essential to Jim's wellbeing, so it has to be fixed immediately. As a result Jim's debts, which [were previously small and well-managed](http://www.theguardian.com/business/2015/may/03/senior-tory-financial-crash-was-purely-a-banking-crisis-not-labour-overspend), have now increased somewhat.
 
+<!--more-->
 Obviously Jim can't keep that debt hanging over him forever. What does he do?
 
 Fortunately for Jim, the circumstances of his borrowing aren't so different before and after the event. [Interest rates are low and are predicted to stay low](http://www.telegraph.co.uk/finance/personalfinance/interest-rates/9922941/Interest-rates-predictions-Four-more-years-of-0.5.html), and the [terms of his credit haven't changed a great deal despite his increased borrowing](http://www.bbc.co.uk/news/business-21554311).

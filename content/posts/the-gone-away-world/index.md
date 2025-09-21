@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2012-08-15'
-
 tags: ["Books", "Nick Harkaway", "Science Fiction", "Twelve"]
 title: Nick Harkaway, The Gone-Away World
 ---
 “The Gone-Away World” is a novel by Nick Harkaway. It’s about a world slightly askew to our own in which the powers-that-be have deigned to unleash a weapon that simply wipes the enemy out of existence. Unfortunately the enemies also have the same weapon and there are terrible consequences to the extent that the very fabric of reality is threatened. If you don’t already know what reification means, you will by the end.
 
+<!--more-->
 Without giving away too many plot points, I think the central themes are about how absolute power corrupts absolutely and the weird relationships that we have with our self-image and how we perceive those around us. Throughout you get the pervading sense that “the road to hell is paved with good intentions”. No opportunity to swipe at figures of authority or bureaucracy is missed. As an example here is an excerpt from the near the beginning:
 
 > “Dick Washburn, known forevermore as Dickwash, is a type D pencilneck: a sassy wannabe paymaster with vestigial humanity. This makes him vastly less evil than a type B pencilneck (heartless bureaucratic machine, pro-class tennis) and somewhat less evil than a type C pencilneck (chortling lackey of the dehumanising system, ambient golf), but unquestionably more evil than pencilneck types M through E (real human screaming to escape a soul-devouring professional persona, varying degrees of desperation). No one I know has ever met the type A pencilneck, in much the same way that no one ever reports their own fatal accident; a type A pencilneck would be a person so entirely consumed in which he or she is employed that they had ceased to exist as a separate entity. They would be odourless, faceless and undetectable, without ambition or restraint, and would take decisions unfettered by human concerns, make choices for the company, of the company. A type A pencilneck would be the kind of person to sign off on torture and push the nuclear button for no more pressing reason than that it was his job - or hers - and it seemed the next logical step.”

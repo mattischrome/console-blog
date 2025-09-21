@@ -20,14 +20,14 @@
       <link>http://localhost:1313/posts/swaptastic-part-2/</link>
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/swaptastic-part-2/</guid>
-      <description>&lt;p&gt;As a follow-up to my post about the &lt;a href=&#34;http://localhost:1313/euro-2016-panini-stickers/&#34;&gt;Euro 2016 Panini Stickers&lt;/a&gt;, I&amp;rsquo;ve now completed the collection with &lt;a href=&#34;http://localhost:1313/swaptastic-part-1/&#34;&gt;the help of an online swapping site&lt;/a&gt; and by buying the last 39 stickers directly from Panini. I also managed to write a new simulator, this time with additional collectors involved.&lt;/p&gt;&#xA;&lt;p&gt;I assume that each of N collectors will buy a packet of stickers and add any new stickers to their album. Then they attempt to swap any leftovers with the rest of their friends. The intersect function in R makes this pretty easy to code up. Every collector who finishes the album stops buying stickers.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As a follow-up to my post about the &lt;a href=&#34;http://localhost:1313/euro-2016-panini-stickers/&#34;&gt;Euro 2016 Panini Stickers&lt;/a&gt;, I&amp;rsquo;ve now completed the collection with &lt;a href=&#34;http://localhost:1313/swaptastic-part-1/&#34;&gt;the help of an online swapping site&lt;/a&gt; and by buying the last 39 stickers directly from Panini. I also managed to write a new simulator, this time with additional collectors involved.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swaptastic Part 1</title>
       <link>http://localhost:1313/posts/swaptastic-part-1/</link>
       <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/swaptastic-part-1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../assets/images/other/StickersInThePost.jpg&#34; alt=&#34;Envelopes containing swaps that have arrived in the post in recent days.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Envelopes containing swaps that have arrived in the post in recent days. It is nice to get letters from all over the country, even if they do just contain a selection of &lt;a href=&#34;http://localhost:1313/euro-2016-panini-stickers/&#34;&gt;panini stickers&lt;/a&gt;. As I mentioned in a previous post, I have used &lt;a href=&#34;http://www.stickerswapping.com&#34;&gt;the sticker swapping website&lt;/a&gt; to share my swaps with people all over the UK. I have sent swaps off to London, Bristol, Cornwall, Lancashire, Wales, and Gloucester. You&amp;rsquo;ll also be happy to know that I got my hands on an Aleksei Berezutski. Only 52 left to go!&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../assets/images/other/StickersInThePost.jpg&#34; alt=&#34;Envelopes containing swaps that have arrived in the post in recent days.&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Euro 2016 Panini Stickers</title>

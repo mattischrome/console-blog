@@ -1,12 +1,12 @@
 ---
 category: Ideas
 date: '2013-08-13'
-
 tags: ["Ideas", "LaTeX", "Maths", "Thirteen"]
 title: Posters
 ---
 In 2005, towards the end of the second year of my PhD I presented a poster at a conference in Dresden, Germany. My eccentric colleagues and I stayed on a huge canal boat moored on the Elbe for no discernible reason other than it seemed like a laugh at the time. In reality I was the second worst snorer of the three of us and it also turned out that our room was right underneath the gang-plank and every morning at six the person who made breakfast would stomp across it.
 
+<!--more-->
 The conference was a big deal for because I, the tender footed conference virgin, was presenting a poster. That thing was difficult to make. I made it in LaTeX, an amazing mathematical typesetting language that I have neglected in the past few years. I wish I still had a copy of the PDF so I could show you the result of all that toil. I'm also glad I don't have a copy to show you as it was full of mistakes and if you think I write terribly now, you should see how I wrote then.
 
 A year later I presented a poster at another conference. I was determined that the second time would be easier, so I "cheated" and used Adobe Illustrator. It handled the bulk of the heavy lifting for the layout. I used a little program I found online to take equations typeset in LaTeX and produce transparent png files. It still took ages to make, because I am a perfectionist. I really wish that I could show you that one, mistakes and all.

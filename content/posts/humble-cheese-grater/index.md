@@ -1,12 +1,12 @@
 ---
 category: Food
 date: '2015-02-16'
-
 tags: ["Ideas", "Food", "Fifteen", "Cheese"]
 title: On The Humble Cheese Grater
 ---
 You can't beat a good cheese grater. Cheese just tastes better in a sandwich once it has been grated. It's been proven by ACTUAL SCIENCE that this is the case: something about the increased surface area making it taste more zingy (NB. QI is not actually a peer-reviewed scientific journal). Of course the cheese we are grating here is a nice mature cheddar, you can't grate Camembert or Stilton (well _technically_ you can, but why would you?). There are even cheeses that can be grated but don't deserve it, take Red Leicester for example: the ear wax of the cheese world.
 
+<!--more-->
 But I digress. This post is a tribute to the humble cheese grater itself. Graters I have known and such like. My parents' cheese grater has lasted them all my life, a well-designed sturdy thing. [A truncated rectangular based pyramid with tapered sides](http://www.westmerciasupplies.co.uk/cheese-grater) and different surfaces for grating different substances: cheese, carrots, cheese, dried bread for bread crumbs, cheese, and yet more types of cheese.
 
 I like that design. Grab the handle on top of the cheese grater with your left hand and grate a big block of cheddar into fluffy yellow ribbons with your right. It's "grate" stress relief! Cheese on toast is the best comfort food ever (with Worcestershire sauce of course!) and so the stress relief grating might be part of the anticipation of that. Other rhythmic one-handed stress relief options are available.

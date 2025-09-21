@@ -1,12 +1,12 @@
 ---
 category: Music
 date: '2016-08-21'
-
 tags: ["Music", "Classical", "Sixteen", "London"]
 title: BBC Prom 47 at the Royal Albert Hall
 ---
 We went to see [Prom 47](http://www.ulsterorchestra.org.uk/events/2016-08-21/), an afternoon prom at the Royal Albert Hall in London. The bill included a brand new work by [Piers Hellawell](http://piershellawell.com), along with a Cello concerto by [Haydn](http://classicalmusic.about.com/od/classicalcomposers/p/haydnprofile.htm) and a symphony by [Tchaikovsky](https://www.britannica.com/biography/Pyotr-Ilyich-Tchaikovsky). These were all performed by the [Ulster Orchestra](http://www.ulsterorchestra.org.uk). The conductor was Rafael Payare. The tickets were an affordable £17 each which isn't bad at all given that we were sat in the second row of the circle. We had a great view.
 
+<!--more-->
 I must admit that I did not understand Ingrid's obsession with seeing a prom. I moaned that it would be expensive and that we'd end up having to travel either to or from London at some awkward time of day. However this prom was at a convenient time and the cheap seats had not sold out. How could I say no?
 
 The running order also fit my expectations. I think it's just as important to celebrate new "classical" music as it is to preserve older pieces. A lot of people consider new works for the orchestra to be challenging, but this one - ["Wild Flow" by Piers Hellawell](http://www.qub.ac.uk/sites/StaffGateway/News/QueensProfessorofCompositionatthe2016BBCProms.html) - wasn't in the least. OK so there are a few Ligetti-esque screechy bits near the beginning and it was chock full of showy percussion but in general it's fairly easy to listen to. At points it sounded a bit like Gershwin and at others it felt like it wanted to morph into a John Williams score. In short, it's very listenable. I've listened to it again a few times on the iPlayer and I've loved it each time.

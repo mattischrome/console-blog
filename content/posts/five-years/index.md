@@ -1,12 +1,12 @@
 ---
 category: Travel
 date: '2018-11-21'
-
 tags: ["Time Passing", "Ideas", "South America", "Eighteen", "Thirteen", "Ecuador"]
 title: Five years after
 ---
 Five years ago I set out at 3am for Heathrow airport to catch the early morning flight to Madrid. There I connected with a flight to Quito in Ecuador. The previous days and weeks had been fraught with worry about whether I was doing the right thing. Did I get the right vaccinations? Would I have enough money? Would I cope with all that travel? Was I coming back? What was I going to do with all my stuff?
 
+<!--more-->
 Looking back, I am not sure I had answered all those questions. I know I had a lot of vaccinations. I crammed as much as possible into a bag I had no locks for. I dumped most of my possessions into black sacks and slung them in the attic, despite not knowing when I would be back.
 
 I lay awake that night. When my taxi arrived, I staggered down to the door with my bags. So much, and yet, in the most exciting way, so little for six months of travel. For the first time in a long time, I didn't know what would happen next. And suddenly, I *was* ready.

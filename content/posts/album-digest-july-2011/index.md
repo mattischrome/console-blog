@@ -1,12 +1,12 @@
 ---
 category: Music
 date: '2011-07-31'
-
 tags: ["Album Digest", "July", "Music", "SBTRKT", "Zomby", "Brian Eno", "Bon Iver", "Washed Out", "Eleven"]
 title: Album Digest, July 2011
 ---
 Quite a mixed bag this month.
 
+<!--more-->
 1. SBTRKT _SBTRKT_
 2. Zomby _Dedication_
 3. Brian Eno _Drums Between The Bells_

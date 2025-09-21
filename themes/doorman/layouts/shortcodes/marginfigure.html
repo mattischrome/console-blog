@@ -1,0 +1,6 @@
+<span class="marginfigure">
+    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" | default "" }}" />
+    {{ with .Get "caption" }}
+    <span class="caption">{{ . | markdownify }}</span>
+    {{ end }}
+</span>

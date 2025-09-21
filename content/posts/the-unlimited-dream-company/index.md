@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2016-07-14'
-
 tags: ["Books", "J. G. Ballard", "Fiction", "Reading Projects", "Sixteen"]
 title: J. G. Ballard, The Unlimited Dream Company
 ---
 [I last wrote about a JG Ballard novel nearly three years ago](/high-rise/). That one - "High-Rise" - [has since been made into a film](https://www.theguardian.com/film/2016/mar/20/high-rise-review-ben-wheatley-jg-ballard-tom-hiddleston). The subject of this post is "The Unlimited Dream Company", my favourite among his novels: a silly romp through suburban sexual repression that glitters with sinister wit. Even after many read-throughs I still can't work out whether it is a crazy masterpiece or something light that we're meant to throw away after reading.
 
+<!--more-->
 The novel opens with the narrator Blake telling us that he is walking alone through an abandoned [Shepperton](https://en.wikipedia.org/wiki/Shepperton). All the inhabitants have fled, replaced by large flocks of exotic birds. Blake claims that this same thing will happen all over the world, that the human colonies will be replaced by giant aviaries. The story then flashes back to one week before as Blake steals a Cessna and crashes it into the Thames near Shepperton. 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/551354163&color=%23151b08&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>

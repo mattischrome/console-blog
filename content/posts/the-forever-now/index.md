@@ -1,12 +1,12 @@
 ---
 category: Life Experiences
 date: '2021-01-04'
-
 tags: ["Life Experiences", "Facebook", "Internet", "DIY", "Twenty One"]
 title: The Forever Now
 ---
 Writing this post came about from  frustration with blogging. Specifically the tools I am using. Often it feels like a new language or paradigm comes along that shifts one or two of the pain points of blogging. The biggest are:
 
+<!--more-->
 1. How long it takes to get a post on the internet once you’ve written it
 2. The reliability of the resulting website
 3. How good the resulting website looks

@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2016-10-13'
 slug: understated-classics-34
-
 tags: ["Understated Classics", "Aztec Camera", "Music", "Sixteen", "Pop", "Rock"]
 title: 'Understated Classics #34: Stray by Aztec Camera'
 ---
 The next instalment in my understated classics series is &quot;Stray&quot; by [Aztec Camera](http://killermontstreet.net). Released in 1990, it features two hit singles and the cover is my favourite colour: green.
 
+<!--more-->
 My angle for writing about “Stray” was that it was an album that I &quot;caught&quot; from my parents. I soon realised that I wrote about some of those already, for example “The Circle and the Square&quot; by Red Box. Besides, I’m not sure that my parents liked this album that much.
 
 I remember my dad having a C90 in the car with this album on one side and [Billy Joel&#39;s album &quot;Storm Front&quot;](http://www.billyjoel.com/news/revisiting-billy-joels-storm-front-album-25-years-later/) on the other. &quot;Storm Front&quot; is a good album but not a great one. It starts with &quot;We Didn&#39;t Start The Fire&quot; but goes downhill from there. But that cassette might as well have had only one side because we rarely heard any of &quot;Stray&quot;. My dad’s always been one for sticking to what he likes and he didn’t seem to have any time for “Stray”. 

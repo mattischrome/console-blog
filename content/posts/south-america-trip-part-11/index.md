@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["South America", "Bolivia", "Photos", "Fifteen", "Fourteen"]
 title: South America, Part 11
 ---
+<!--more-->
+
 ## La Paz to Potosi
 
 ![](../../assets/images/south_america/part_11/01.jpg)

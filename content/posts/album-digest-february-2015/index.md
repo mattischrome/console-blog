@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["Music", "Album Digest", "February", "Aphex Twin", "The Orb", "Susanne Sundfør", "Fifteen"]
 title: Album Digest, February 2015
 ---
+<!--more-->
+
 ## Aphex Twin "Computer Controlled Acoustic Instruments Pt2 EP"
 
  Aphex Twin follows SYRO (reviewed in [Album Digest September 2014 here](/album-digest-september-2014/)) with this 27 minute EP of music that, if we take the title literally, features computers playing acoustic musical instruments. It's a very different sound to SYRO and sounds acoustic for the most part. It's an important experiment about the role of the musician, one that is already blurred in the creation of electronic music.

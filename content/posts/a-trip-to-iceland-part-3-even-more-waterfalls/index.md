@@ -1,12 +1,12 @@
 ---
 category: Travel
 date: '2017-12-17'
-
 tags: ["Trips", "Europe", "Iceland", "Photos", "Seventeen"]
 title: 'A trip to Iceland. Part 3: Flu∂ir to Vík.'
 ---
-[We left Gulfoss](iceland-part-two) and drove through the countryside to Flu&eth;ir where our next hotel stay would be. The hotel had cute little cabins arranged around a central square and the room itself was comfy and warm. Our dinner was nice enough, although we had a bit of a Fawlty Towers moment with Ingrid’s chicken salad. First it went back because they didn’t leave the BBQ sauce off. Then it came back *with* tomatoes. And then back again with more BBQ sauce. Fourth time lucky.
+[We left Gulfoss](/posts/iceland-part-two) and drove through the countryside to Flu&eth;ir where our next hotel stay would be. The hotel had cute little cabins arranged around a central square and the room itself was comfy and warm. Our dinner was nice enough, although we had a bit of a Fawlty Towers moment with Ingrid’s chicken salad. First it went back because they didn’t leave the BBQ sauce off. Then it came back *with* tomatoes. And then back again with more BBQ sauce. Fourth time lucky.
 
+<!--more-->
 ![](../../assets/images/iceland/iceland_17.jpg)
 
 Flu&eth;ir is a small village nestled between some rare hills in the middle of nowhere. The [Secret Lagoon](http://secretlagoon.is) is nearby but we passed on the opportunity as we were both tired from the day before. We rested until checkout time and then set off for more adventures. First we visited the oldest church in Iceland at Skalholt. This was the site of the first Icelandic capital until Reykjavík became a better place to build the main settlement. It's strange to think of a bustling settlement now that nothing is there.

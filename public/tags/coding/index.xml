@@ -13,14 +13,14 @@
       <link>http://localhost:1313/posts/a-realisation/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a-realisation/</guid>
-      <description>&lt;p&gt;One of the best pieces of advice I have ever been given about how to tackle programming problems is to treat your code as comments that describe your program to the computer, whilst the comments that are there for humans to read should tell them how the program is supposed to work.&lt;/p&gt;&#xA;&lt;p&gt;In recent days I have come to a realisation that you also need to try and see things as the computer sees them, rather than expecting it to see what you can see. I was working with some data that were formatted in a pretty way for humans and I was completely flummoxed because I couldn&amp;rsquo;t get &lt;em&gt;any&lt;/em&gt; of it into R. The more I stared at the files, the more I began to see all these weird anomalies like completely blank columns that had been shrunk to near zero widths and inconsistencies between files with how the main components of the data were stored. It&amp;rsquo;s been a strange experience!&lt;/p&gt;</description>
+      <description>&lt;p&gt;One of the best pieces of advice I have ever been given about how to tackle programming problems is to treat your code as comments that describe your program to the computer, whilst the comments that are there for humans to read should tell them how the program is supposed to work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some Git Instructions for Future Matt</title>
       <link>http://localhost:1313/posts/git-instructions-for-future-matt/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/git-instructions-for-future-matt/</guid>
-      <description>&lt;p&gt;Dear Future Matt,&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Always look up instructions for what you want to do in the Git documentation. It&amp;rsquo;s dry but it&amp;rsquo;s good. In a pinch, look at Stack Overflow. Don&amp;rsquo;t ask Chat-GPT for advice on Git problems!&lt;/li&gt;&#xA;&lt;li&gt;To reverse mistakes, consult the &lt;a href=&#34;https://ohshitgit.com&#34;&gt;Oh Shit Git&lt;/a&gt; website.&lt;/li&gt;&#xA;&lt;li&gt;To make things easier, delete the remote to your Github repository and then add it (the remote) back again. This is so much easier than the alternative.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Best wishes,&#xA;Past Matt (with his annual flash of January git confidence).&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dear Future Matt,&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

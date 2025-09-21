@@ -1,12 +1,12 @@
 ---
 category: Travel
 date: '2017-10-04'
-
-tags: ["Trips", "Europe", "Iceland", "Photos", "Seventeen"]
+tags: ["Trips","Europe","Iceland","Photos","Seventeen"]
 title: 'A trip to Iceland. Part 1: Reykjavík.'
 ---
 We arrived in Reykjavík a few days [after a monumental snowstorm](https://weather.com/news/news/reykjavik-iceland-record-snowfall-february). As such the city was still under at least six inches of snow. We collected the hire car from the airport and drove out of Keflavik. The scenery normally looks like a moonscape, but for us it was a frosty white wonderland.
 
+<!--more-->
 ![](../../assets/images/iceland/iceland_01.jpg)
 
 After about an hour's drive, we arrived at the Hotel Nattura. From the outside it looks like a huge secondary school but as soon as you step inside it's warm and comfortable. This is quite good when you've just parked next to a snow bank that's two and half metres tall and then bambi'd it in over the icy paths with your luggage. 
@@ -15,7 +15,7 @@ Because we got to the hotel as the light was fading, we decided to stay the nigh
 
 ![](../../assets/images/iceland/iceland_02.jpg)
 
-The next day we did our best to eat as much as we could at breakfast[^1]. Lots of Skyr, lots of bacon, lots of fruit, lots of pastries. We snagged a free bus pass and rode into town. It was full of tourists and not many other people. We trudged through crunchy snow from the bus station down to the opera house, taking selfies and group photos for other tourists along the way.
+The next day we did our best to eat as much as we could at breakfast.{{% sidenote "sn-1" %}}After I'd opened my birthday presents!{{% /sidenote %}} Lots of Skyr, lots of bacon, lots of fruit, lots of pastries. We snagged a free bus pass and rode into town. It was full of tourists and not many other people. We trudged through crunchy snow from the bus station down to the opera house, taking selfies and group photos for other tourists along the way.
 
 ![](../../assets/images/iceland/iceland_03.jpg)
 
@@ -38,5 +38,3 @@ After lunch we went to the modern art museum, because frankly it wouldn't be a b
 Following the art museum we wandered down to the dock area again, taking our time slowly through the snowbound streets. We found our way to the Aurora Borealis experience and had a wander around in there. Armed with knowledge we went back to our hotel for another expensive dinner, which was interrupted with a call out to the balcony to look at the northern lights. It was a mere wisp of light that quickly faded. Later on we got a call to our hotel room and went down again to see them. This time a giant arc of green-blue light writhed across the sky looking for all the world like a dragon or the great Midgard serpent [Jörmungandr](https://en.wikipedia.org/wiki/Jörmungandr). The photos we took hardly did it justice. It was a great way to end my birthday!
 
 ![](../../assets/images/iceland/iceland_09.jpg)
-
-[^1]: After I'd opened my birthday presents!

@@ -1,0 +1,37 @@
+/* margin-figure.css */ 
+/* Figures in the margin a la tufte.css */
+
+.marginfigure {
+    float: right;
+    clear: right;
+    margin-right: -60%;
+    width: 50%;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 1.1rem;
+    line-height: 1.3;
+    vertical-align: baseline;
+    position: relative;
+}
+
+@media (max-width: 768px) {
+    .marginfigure {
+        display: block;
+        float: none;
+        width: 95%;
+        margin: 1.2rem 0 1.2rem 0;
+        vertical-align: baseline;
+        position: relative;
+    }
+}
+
+.marginfigure img {
+    width: 100%;
+}
+
+.marginfigure .caption {
+    margin-top: 0.3rem;
+    margin-bottom: 0;
+    font-size: 1.1rem;
+    line-height: 1.3;
+}

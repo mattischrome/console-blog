@@ -7,6 +7,7 @@ title: Album Digest, February 2013
 ---
 Most Februaries are quite quiet when it comes to albums (though this was not the case [back in 2011](album-digest-february-2011)) and although only the Foals album is a major release, I was quite surprised to find myself with four decent albums to write about. They are:
 
+<!--more-->
 1. Darkstar "News From Nowhere"
 2. Foals "Holy Fire"
 3. Daniel Hope "Spheres"

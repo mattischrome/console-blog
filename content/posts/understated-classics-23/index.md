@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2013-05-23'
 slug: understated-classics-23
-
 tags: ["Music", "808 State", "Understated Classics", "Thirteen", "Electronic"]
 title: 'Understated Classics #23: Gorgeous by 808 State'
 ---
 It was quite hard to choose an 808 State album for the [understated classics series](understated-classics) for two reasons. The first is that I was introduced to 808 State quite late through a friend's sister's cassette copy of The Shamen's En-Tact (the original version recorded from vinyl that had a thirteen minute version of "Evil Is Eden") that also had -- to fill out the C90 -- the full length sweary version of "What Time Is Love?" by The KLF and four tracks: "Cubik", "Pacific", "Olympic" (I think...), and "In Yer Face".
 
+<!--more-->
 That early introduction only served to flag up the name and in the days when you had to wait months between album purchases (on cassette!) I didn't really get any more 808 State until I bought "Lopez" from "Don Solaris" on _cassette single_ mainly because, if I recall correctly, I was mad on The Propellerheads at the time and wanted their remix. I soon came to prefer the languid original though, and eventually, in 1998 I bought the cassette version of their Greatest Hits (at the time) _808:88:98_. Happy days. An album so good that I tracked down a CD version on eBay a while later.
 
 So reason number one is that my overall favourite 808 State album is that undoubtedly fan-polarising compilation, chiefly because it's hooked in to bobbing between home and college (a good hour's walk) believing that I was the only person of my peer group remotely interested in this music.

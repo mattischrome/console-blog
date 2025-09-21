@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2018-10-14'
-
 tags: ["Books", "Reading Projects", "Isaac Asimov", "Science Fiction", "Eighteen"]
 title: Isaac Asimov, Foundation
 ---
 For our [first anniversary](the-same-but-different) we decided to exhange books. What better way to [celebrate a paper anniversary](https://ideas.hallmark.com/articles/anniversary-ideas/anniversary-gifts-by-year/)? Ingrid bought me the entire Foundation saga, most of which were [reissued in fancy new paperback designs by Mike Topping](https://abcoverd.co.uk/archive/designers/topping-mike) in 2016. All save for 1993's [Forward The Foundation](https://www.reddit.com/r/books/comments/7lueju/asimovs_forward_the_foundation_published_in_2016/) that is, but Ingrid got me a copy anyway. Hence, here is a new series of blog posts!
 
+<!--more-->
 The Foundation novels detail a galactic empire in decline. A mathematician named Hari Seldon, using a novel science called psychohistory, realises that this is happening and formulates a plan for humanity, one that will reduce the time between empires. This, he reasons, will minimise human suffering and prevent an extended period of barbarism.
 
 I discovered this sequence of novels when I was 12, drawn to them in the school library by their cool covers. I also enjoyed the entries of the Encyclopaedia Galactica that began several chapters. I think this format influenced other great sci-fi novels, like ["Dune"](dune) and "The Hitch-hiker's Guide to the Galaxy". I read these voraciously and the rest of the stories... less so.

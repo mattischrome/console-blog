@@ -1,12 +1,12 @@
 ---
 category: Writing
 date: '2020-06-01'
-
 tags: ["Blogging", "Writing", "Jekyll", "Software", "Liquid", "Rake", "zsh", "Twenty"]
 title: Sprucing up the Blog
 ---
 This post explains some of the modifications I made to a minimal Jekyll theme to get this blog as I wanted it. This blog (currently) uses the excellent [Sidey theme](https://sidey-jekyll.netlify.app/about) by [Ronalds Vilciņš](https://www.ronaldsvilcins.com). His site looks eerily similar to this one, at least at time of writing.
 
+<!--more-->
 The theme is pretty minimal in terms of features (and appearance) but it scores well on the Google Page Speed test. The features I added have increased the build time, but have not affected the speed of the site in terms of the page speed test.
 
 First off, I added links from each to the next and previous posts so you can read the blog and flit through in chronological order. This was very easy thanks to this article by [Marcin Swieczkowski](https://www.bytedude.com) and the CSS in the theme.

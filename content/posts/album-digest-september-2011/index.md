@@ -7,6 +7,7 @@ title: Album Digest, September 2011
 ---
 Hmmm, a rather grey looking selection of covers this month. The albums I have listened to most are:
 
+<!--more-->
 1. John Beltran _Ambient Selections_
 2. FabricLive 59 mixed by Four Tet
 3. The Rapture _In The Grace Of Your Love_

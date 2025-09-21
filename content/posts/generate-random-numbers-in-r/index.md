@@ -7,6 +7,7 @@ title: How to generate random numbers in R
 ---
 This post deals with how to generate random numbers in R. It is good to know how to generate random numbers with a particular language or software package for at least one of the following three reasons:
 
+<!--more-->
 1. You want to test something that depends on a particular distribution.
 2. You’re running a stochastic process of some kind (Branching process, random walk etc) and you need random numbers for deciding whether an event occurs.
 3. You forgot to pick your lottery numbers this week.

@@ -1,16 +1,12 @@
 ---
 category: Music
 date: '2025-02-19'
-tags:
-- Twenty Five
-- Wilco
-- Albums
-- Rock
-- Understated Classics
+tags: ["Twenty Five", "Wilco", "Albums", "Rock", "Understated Classics"]
 title: Wilco, A Ghost Is Born (Superdeluxe edition)
 ---
 In 2022, I invested in the big superdeluxe box for Wilco's most successful album "Yankee Hotel Foxtrot". Across 11 pieces of 'silver' vinyl and one CD, the box set showed the tortuous process that Wilco went through to create that album. It's a magnificent collection of music, though if you don't like hearing multiple versions of the same song and are not fond of unfinished material, it's not going to be as pleasant an afternoon as it is for me. 
 
+<!--more-->
 That said, getting the Yankee Hotel Foxtrot box was not the best experience, which is probably why I haven't written about it before now. The vinyl version takes a "how few pieces of vinyl can we use?" approach and messes up some of the track ordering. The box itself got held hostage **for a month** by FedEx, which made me swear I would never willingly use them again. No prizes for guessing who delivered this one. Calling the tagging for the digital version's MP3s amateurish would be charitable. Then, when the box finally arrived its lid was damaged. Were it not for the quality of the contents, I would have been seriously miffed.
 
 So you'll understand why I had a moment's pause when the corresponding box was announced for "A Ghost is Born". But it's my favourite Wilco album, and [one of my favourite albums full stop](/posts/understated-classics-27/). As I am not of repeating, this blog's name came from my username on a Wilco message board. The pause was literally one exact second. It was so exact that scientists are now debating whether my pause could replace the previous scientific definition of a second. After all, who has time to count [9,192,631,770 periods of the ground-state hyperfine transitions of caesium-133](https://en.wikipedia.org/wiki/Second) these days? Not me, I've got box sets to order.

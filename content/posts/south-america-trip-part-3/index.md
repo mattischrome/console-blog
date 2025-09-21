@@ -1,12 +1,12 @@
 ---
 category: Travel
 date: '2013-12-21'
-
 tags: ["South America", "Ecuador", "Camping", "Thirteen"]
 title: South America, Part 3
 ---
 We left Misahualli for Baños via an hour in nearby Tena to get something for the truck fixed. After that the drive to Banos was pretty short - or at least it seemed that way as I alternated between dozing off, snapping the scenery and... well... dozing off some more. We arrived at a campsite about twenty minutes taxi ride from Banos and this was it, the thing I'd feared most about this trip: the camping. Fortunately, as an odd boy, I managed to secure my own tent - the gadget palace that you can see in my selfie! Getting the tent up was straightforward and all my assorted camping gear seemed to live up to requirements! It chucked it down with rain in the night, so it was good that the fly sheet did it's job too. It was great fun to lie there listening to the rain, nice and warm and dry. More importantly, I also managed to get some sleep.
 
+<!--more-->
 ![](../../assets/images/south_america/part_3/TentSelfie.jpg)
 
 On the first day, we had lunch at the campsite and then went to a nearby waterfall. Banos is a spa town (much like its English namesake) and has many waterfalls in the surrounding countryside. This one, the something del diablo, was very impressive. We had to canyon our way through some tight-ish caves for about two minutes and were rewarded with a spectacular torrent to be photographed beneath. At that point I hadn't learnt how quickly things dry in South America, so I cracked out the poncho like a wuss!

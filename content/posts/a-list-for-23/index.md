@@ -1,11 +1,13 @@
 ---
 category: Life Experience
 date: '2023-04-09'
-
 tags: ["Rules", "Thoughts", "Life Experiences", "Twenty Three"]
 title: A list for '23
 ---
-A set of rules for living from now on (in no particular order)
+A set of rules for living from now on (in no particular order):
+
+<!--more-->
+
 + Life is too short to look at adverts. Avoid them where possible. Block them if you have to.
 + Embrace risk and chance, as they have contributed the most to where you are now.
 + Intervene into physical things and leave your mark upon them. Draw pictures on the blank pages of books, even if they are dear to you. Fill your notebooks *before* buying yourself new ones. Insert name tags in your clothes. 

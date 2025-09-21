@@ -7,6 +7,7 @@ title: Album Digest, October 2013
 ---
 Four great albums this month for the last album digest in a while.
 
+<!--more-->
 
 ## CHVRCHES "The Bones Of What You Believe"
 

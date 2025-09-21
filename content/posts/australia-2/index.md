@@ -1,12 +1,12 @@
 ---
 category: Travel
 date: '2018-02-20'
-
 tags: ["Australia", "Travel", "Eighteen"]
 title: Taking It Easy In Melbourne
 ---
 On our first full day in Melbourne we took it easy. It was warm and sunny, so different to the weather we'd left behind!
 
+<!--more-->
 Ingrid needed more time than me to sleep off her jet-lag. I sat in the sunshine and read the book I'd ignored on the plane. An easy read, it drew me into its characters. I'll post a review later, perhaps after I have read the sequel.
 
 Later we took a tram ride to meet Ingrid's friend. Tess is a hairdresser so Ingrid and I each got haircuts. I can recommend it as a good way to freshen up for your holiday. The last time I had my hair cut by someone else was for the wedding. It was nice to be neat and tidy ahead of meeting the rel'os. Tess gave me some tips on what to do when I cut my hair with clippers.

@@ -1,12 +1,12 @@
 ---
 category: Travel
 date: '2018-02-21'
-
 tags: ["Australia", "Travel", "Photos", "Eighteen"]
 title: More Melbourne
 ---
 On our second full day in Australia we went shopping in central Melbourne, before Ingrid's mum Maria picked us up ahead of our trip along the Great Ocean Road.
 
+<!--more-->
 We took the metro into the city. I always love watching the fabric of cities knit itself together around train lines and Melbourne is no exception. Along the way, Ingrid had plenty of stories to tell about the various places she had lived.
 
 The Melbourne metro map is interesting. The line from Moonee Ponds loops around a central circuit before heading back out again. All the other lines do this as well, some go clockwise around the loop and others head anti-clockwise. The direction changes at midday or something.

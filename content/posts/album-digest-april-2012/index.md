@@ -7,6 +7,7 @@ title: Album Digest, April 2012
 ---
 A mostly instrumental month with a comeback from Orbital, an excellent remix collection from Battles, an amazing movie documenting a live performance by the Chemical Brothers and Austin Wintory’s soundtrack to the game _Journey_.
 
+<!--more-->
 1. Orbital _Wonky_
 2. Battles _Dross Glop_
 3. The Chemical Brothers _Don’t Think_

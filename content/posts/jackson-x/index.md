@@ -1,12 +1,12 @@
 ---
 category: Short Fiction
 date: '2015-02-15'
-
 tags: ["Writing", "Blogging", "Fifteen", "Short Story", "Ideas"]
 title: On Jackson X
 ---
 I set myself the task of writing about a fictional character for this blog post, so this post is about Jackson X. His surname isn’t really X, it’s just one of the details about him that I haven’t fleshed out yet. This is because Jackson X is the one of the protagonists of the novel I’m (not) writing.
 
+<!--more-->
 The name of the novel is “The Summer of the Giant Space Whale”. I’m quite happy to discuss its plot and structure here. I don’t need to worry about anyone stealing the idea because it is already a rip-off of [Arthur C. Clarke’s “Rendezvous With Rama”](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (or, less charitably, [“Star Trek IV: The Voyage Home”](http://www.imdb.com/title/tt0092007/?ref_=nv_sr_1)).
 
 The idea is that a giant creature pops into the orbit of Jupiter one day. It takes no discernible action but it can be seen from Earth. It gets called the space whale. Different plans for the novel have a number of characters experiencing the summer while the space whale is there with the plot ending with the creature blinking out of existence as abruptly as it appeared.

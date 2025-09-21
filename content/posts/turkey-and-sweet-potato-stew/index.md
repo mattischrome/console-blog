@@ -7,6 +7,7 @@ title: Turkey and Sweet Potato Stew
 ---
 Here's a recipe to use up your turkey leftovers after Christmas.
 
+<!--more-->
 You will need a slow cooker or an oven-proof cooking dish.
 
 ## Ingredients

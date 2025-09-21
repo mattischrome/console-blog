@@ -1,11 +1,7 @@
 ---
 category: Ideas
 date: '2025-04-01'
-tags:
-- Trees
-- Garden
-- Ideas
-- Twenty Five
+tags: ["Trees", "Garden", "Ideas", "Twenty Five"]
 title: Tree Shopping
 ---
 As part of getting the garden done, we've been out and about looking for trees. It's quite exciting seeing in person all the trees we've discussed with our garden designer. Here are some of the species we've been looking at:

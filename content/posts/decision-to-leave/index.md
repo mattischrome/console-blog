@@ -1,12 +1,12 @@
 ---
 category: Movies
 date: '2023-05-31'
-
 tags: ["Movies", "South Korea", "Detective Story", "Twenty Three"]
 title: Decision to Leave
 ---
 I gave up writing reviews of movies because:
 
+<!--more-->
 1. I never felt I got the balance right between describing the plot and why I liked the film.
 2. I don't watch enough movies to be able to draw comparisons that are interesting, just between the small subset of total films that I have watched. 
 3. I don't know enough about film making to properly describe why a movie made me feel a particular way and how to discuss the different possibilities available to the director, the actors, and the other artists involved with creating a movie.

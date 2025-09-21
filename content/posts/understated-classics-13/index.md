@@ -8,6 +8,7 @@ title: 'Understated Classics #13: U.F.Orb by The Orb'
 ---
 **FUN FACT:** It was because of the artwork to this album that I obsessively scrawled onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome on my pencil case at school. I also had a very passable u.f.orb logo drawn on it too.
 
+<!--more-->
 ## In The Blue Room
 
 I had my first “close encounter” with The Orb in 1992 when the single _Blue Room_ was in the charts. Back then, as I [mentioned previously](uc2), I would listen to the radio a lot and this tune - introduced as the longest single ever to enter the UK chart - struck me as really interesting. The radio edit was a burbling wash of synths and female vocals underpinned by a hefty bass performance from [Jah Wobble](http://www.newstatesman.com/music/2008/06/wobble-life-music-dub-leaving). Incidentally, the same week that _Blue Room_ entered the chart, I was actually listening out for _Sentinel_ by Mike Oldfield and this single ([from Tubular Bells II](uc10)) featured two remixes by The Orb. 

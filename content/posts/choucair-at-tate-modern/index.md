@@ -1,12 +1,12 @@
 ---
 category: Art
 date: '2013-05-25'
-
 tags: ["Art", "Tate Modern", "Saloua Raouda Choucair", "Thirteen"]
 title: Choucair At Tate Modern
 ---
 Yesterday I went to see the Saloua Raouda Choucair show at the Tate Modern. As it was quite small, I went to see [the Lichtenstein show](/lichtenstein-at-tate-modern/) again as well.
 
+<!--more-->
 Choucair is an underrated Lebanese artist and many of the paintings and sculptures shown were created in the fifties and sixties. Her sculptures in particular are amazing.
 
 The first room is lined with paintings that were nearly all gouache on paper, about 40cm by 30cm. These paintings were vibrant and abstract. I prefer larger oil paintings and it took me a while to get to grips with the small format and the bright colours, but they are really quite wonderful: the colours swim and dance in front of you. I thought the nudes were particularly interesting, mainly because nudes are executed by almost every artist at some stage (there are some rather spotty ones by Lichtenstein for example) and are usually quite memorable -- so seeing an artist's nudes can give you a point of relation to other artists. Choucair's nudes are pink and ample and altogether the more charming for it.

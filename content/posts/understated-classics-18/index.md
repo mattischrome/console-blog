@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2012-06-05'
 slug: understated-classics-18
-
 tags: ["Understated Classics", "Fabric", "Music", "Twelve", "Electronic"]
 title: 'Understated Classics #18: Fabric 12 mixed by The Amalgamation Of Soundz'
 ---
 Say what? We’re allowing compilations now?
 
+<!--more-->
 Yes. Why not? A good mix is as much an artistic statement as a full-blown single artist album. It takes a lot of skill to get from A to B and keep everything on the boil in between. [This Fabric mix by The Amalgamation Of Soundz](http://www.fabriclondon.com/store/catalog/product/view/id/30/s/fabric-12/categories/8/) is one of my favourites because it is a downtempo (but, crucially, not _too_ downtempo) compilation delivered with flair and using what I consider to be unconventional sources (soundtracks, tribute albums, hip-hop) to do it.
 
 The Fabric mixes tend to be awash with intelligent house music but at the outset this one barely sounds like dance music at all. The mix begins with a track called _Helicopter_ by Cliff Martinez, a soundtrack composer whose work on _Contagion_ has been discussed here before. _Helicopter_ is from taken from the soundtrack to the movie _Traffic_ and gently drifts along on an insistent pulse before melting in to a track called _Hank’s Transition_, which is by Asche & Spencer and is also a piece taken from a movie soundtrack, this time the film _Monster’s Ball_.

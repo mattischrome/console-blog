@@ -1,12 +1,12 @@
 ---
 category: Travel
 date: '2014-01-12'
-
 tags: ["South America", "Peru", "Beach", "Lima", "Thirteen", "Fourteen"]
 title: South America, Part 6
 ---
 From Punta Sal we took a long driving down to Huanchaco, via a stop off at the Lord of Saipan museum. The lord of Saipan is a Moche mummy found dressed in all manner of gold and surrounded by artefacts and other sacrifices (including other humans and decapitated llamas). The tour took a while to get going (our guide was late) but the exhibition was so amazing (the pieces were painstakingly restored in Germany) that it was hugely enjoyable. The diorama at the end featuring moving animatronic waxworks of Moche people was extremely weird though.
 
+<!--more-->
 The continuation of the journey to Hunchaco took until after dark and we had to pitch our tents under flood lights. After that we went out for enormous pizzas at a bar next door to the camp site and my fellow tour mates also took advantage of some rather well priced (and strong!) cocktails. I stuck to Sprite! The camp site at Huanchaco was small but I had a nice pitch and the toilets and showers were clean. I had a cold water shave that night (using my phone´s front facing camera as a mirror) and a nice warm shower the following morning.
 
 There´s not much to see at Huanchaco, it´s a bit of a gringo trap with bars and restaurants for people who don´t really like the look of nearby Trujillo. In the morning we took a trip through Trujillo to the temple of the sun and the temple of the moon. These two Moche structures from around 5-900AD are the most complete remains of a city complex that was discovered after the El Nino rains in 1987. The temple of the sun is currently closed for restoration but the temple of the moon was spectacular, a fantastic Russian Doll structure that the Moche would just bury and build on top of every hundred years. The layers are well preserved and show evidence of ongoing human sacrifice, until the whole civilisation collapsed (probably due to El Nino too) around 900AD.

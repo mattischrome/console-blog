@@ -7,6 +7,7 @@ title: Ambitions Revisited
 ---
 Back in 2012 [I wrote a post](/ambitions) listing my ambitions for the future. Well it's the future now isn't it? Almost. After all, [I’m a whole new person now](https://www.quora.com/How-long-does-it-take-for-most-of-the-atoms-in-your-body-to-be-replaced-by-others). Anyway it's probably time to take stock. Have I achieved any of them? Have any of my ambitions changed? What's replaced the things that I've decided not to worry about? What has come after the things I managed to do?
 
+<!--more-->
 First off, here's my justification for writing the list in the original post:
 
 > Sometimes, when I am feeling a bit down, I like to write down some of my ambitions. As you can see from this list they are mostly pretty humble but they are also a bit cheesy and embarrassing, so I have put them after the fold!

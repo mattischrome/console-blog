@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2015-11-20'
-
 tags: ["Books", "Booker Prize", "Tom McCarthy", "Novel", "Fifteen"]
 title: 'Satin Island by Tom McCarthy: Review'
 ---
 As much as I wanted it to, Satin Island by Tom McCarthy did not win the Booker Prize. Having read it all I realise it was a long shot. However it is an interesting book that deserved consideration, even if it does have some flaws.
 
+<!--more-->
 Normally I promise that there will be no spoilers. Not this time. There are some spoilers here. Because it took me so long to work out what I thought Satin Island was actually about, I want to use this post to explore those ideas. I promise to keep the amount of plot exposed to a minimum. Given that at first glance the novel appears plotless, I shouldn't have too much trouble. **However, please read the novel before you read this review, unless you don't intend to read it.**
 
 If you search for Satin Island on Amazon, the first six books you find are it and its five co-nominees for the Booker. Satin Island even comes sixth on the list! Its rating of two and a half stars out of five is poor compared to the four out of five given to most of the other nominees. (I note that Sunjeev Sahota's The Year of the Runaways has four and a half out of five, making it the most popular Booker nominee on Amazon. Perhaps that's the book I should read next...)

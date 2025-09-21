@@ -1,12 +1,12 @@
 ---
 category: Writing
 date: '2020-07-07'
-
 tags: ["Tarot", "Fiction", "Short Story", "Twenty"]
 title: Strategy one
 ---
 I decided to create my own deck of creativity cards. I was sick of all the adverts for similar products on Instagram. You know the kind. They're covered in pictures, patterns, and buzzwords. You shuffle the cards and draw them one at a time. As you place each card on the table, the brain’s natural desire to tell stories, create patterns and produce meaning takes over. 
 
+<!--more-->
 I made a deck without too much thought for form or consequence. It was an unconscious collection of signs and symbols. The peaks of curves. Greek letters. Compartments, boxes, arrows. I told myself that I could create new things like this. I could break out of old mannerisms and entrenched thinking.
 
 The cards formed ranks and rows across the table top. They congealed into swatches of colours and patterns with a barely a thought from my hand as I placed each above, below, left or right of one another. I could divine no meaning there as yet.

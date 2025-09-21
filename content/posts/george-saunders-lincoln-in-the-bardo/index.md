@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2020-05-28'
-
 tags: ["George Saunders", "Books", "Fiction", "Twenty", "Booker Prize"]
 title: George Saunders, Lincoln In The Bardo
 ---
 I read this book on holiday in Belgium last year. Having forgotten to pack a novel I scoured almost every book in the Waterstones at St. Pancras station before settling on this Booker prize winning novel by George Saunders.
 
+<!--more-->
 _Lincoln in the Bardo_ fictionalises a period in Abraham Lincoln's life immediately after the death of his son Willie. The story alternates between factual accounts of what happened at the time and the observations of ghosts in the graveyard where young Willie is buried. Lincoln visits the grave several times over the course of an evening, something that causes costernation and intrigue among the ghosts.
 
 [The bardo of the title is the Buddhist concept of limbo](https://en.wikipedia.org/wiki/Bardo). Souls that were over-attached to their previous lives are unable to move on to the next. These characters are both grotesque and hilarious. The two principal ghosts are Hans Volman and Roger Bevins III. The former died in a horrible accident before consumating his marriage to the love of his life. Mr Bevins took his own life, unable to cope with the scorn of his homosexuality, but realised during the act of taking his life that he wanted to live.

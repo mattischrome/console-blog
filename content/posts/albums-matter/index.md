@@ -1,15 +1,12 @@
 ---
 category: Music
 date: '2025-01-17'
-tags:
-- Twenty Five
-- Album Digest
-- Apps
-- Music
+tags: ["Twenty Five", "Album Digest", "Apps", "Music"]
 title: Albums Matter
 ---
 Having recently completed my review of 2024's best albums, I've been reflecting on what a strange year it was for me in terms of the music I listened to. According to my Last.fm annual report, I listened to 51% _more_ music in 2024 compared with 2023 (and 2023 was itself a peak listening year). Moreover, I listened to 709 artists, of which 37% were new discoveries. I listened to over 2 albums a day apparently, with [Acopia](https://mattischrome.com/posts/2024-albums-03-acopia/) being the album I listened to most often. Apparently I was the 11th top listener on Last.fm of my number 1 album of the year [Letter to Yu by Bolis Pupul](https://mattischrome.com/posts/2024-albums-01-bolis-pupul-letter-to-yu/).
 
+<!--more-->
 Last.fm says it would describe me as a nostalgic, versatile, explorer, which it pretty much has to as it's competing with absurd micro-genres that Spotify uses in its Unwrapped product to reassure advertisers about its customer segmentation capabilities. Honestly, Spotify is as rubbish as Twitter or whatever the hell they're calling _that_ these days.
 
 I had a listening streak of 134 days! It was probably longer as I don't always log what I play on the record player. The gaps are lot longer than the streaks anyway. But more tellingly, about 80% of the music I listened to last year was released in the 2020s. Some of it by artists from the 90s and 00s as my top 10 shows, but still. I think this was enabled by the [Albums app](https://www.albumstheapp.com), which is an albums focussed music player for iOS. You can build collections of albums and my main focus last year was one consisting of all the albums released _in_ 2024. (Sometimes reissues count, depending on how they're labelled in Apple Music - e.g. Aphex Twin's "Selected Ambient Works Vol. II" 30th anniversary reissue was included in the 2024 collection.)

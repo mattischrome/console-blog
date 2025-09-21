@@ -7,6 +7,7 @@ title: Album Digest, July 2013
 ---
 Another four albums for you this month. Sometimes the problem is not finding albums to listen to but actually finding time to listen to them! Often it is not because I don't have time but because I have already found some great albums this month and I am busy listening to those instead. As a result, a couple of these albums are ones that I have only listened to for a week or so, but they are interesting enough to write about. Here are the four albums I am going to write about this month:
 
+<!--more-->
 1. Pet Shop Boys "Electric"
 2. Fuck Buttons "Slow Focus"
 3. Holden "Inheritors"

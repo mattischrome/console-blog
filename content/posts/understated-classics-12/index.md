@@ -6,6 +6,8 @@ tableOfContents: true
 tags: ["Understated Classics", "Roxette", "Music", "Pop", "Eleven"]
 title: 'Understated Classics #12: Look Sharp! by Roxette'
 ---
+<!--more-->
+
 ## Happy Birthday!
 
 No matter how intellectual one gets about these things, the primary function of music is to have fun. With this in mind it is a good time to turn to Roxette then, as they are almost always the epitome of fun.

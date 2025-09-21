@@ -1,12 +1,12 @@
 ---
 category: Football
 date: '2016-06-29'
-
 tags: ["Football", "Stats", "Modelling", "Programming", "R", "Sixteen"]
 title: Swaptastic Part 2
 ---
 As a follow-up to my post about the [Euro 2016 Panini Stickers](/euro-2016-panini-stickers/), I've now completed the collection with [the help of an online swapping site](/swaptastic-part-1/) and by buying the last 39 stickers directly from Panini. I also managed to write a new simulator, this time with additional collectors involved.
 
+<!--more-->
 I assume that each of N collectors will buy a packet of stickers and add any new stickers to their album. Then they attempt to swap any leftovers with the rest of their friends. The intersect function in R makes this pretty easy to code up. Every collector who finishes the album stops buying stickers.
 
 Here's the R code for a single simulation of the swapping algorithm, with defaults for the Euro 2016 album:

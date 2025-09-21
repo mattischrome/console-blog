@@ -7,6 +7,7 @@ title: Album Digest, May 2014
 ---
 This month was strange. I didn’t listen to much new music and after [last month’s bumper digest](/album-digest-april-2014/) there’s probably a reason for that. Not to mention that Spotify gives you more reasons to look backwards than forwards. Nevertheless, this brief post features new albums by Little Dragon and Coldplay, along with the mini-album collaboration between Röyskopp and Robyn.
 
+<!--more-->
 ## Little Dragon “Nabuma Rubberband”
 
 I discovered Little Dragon, like most people, I imagine, via Gorillaz’ “Plastic Beach” album. When I investigated their “Machine Dreams” album I was surprised that their sound had transplanted to “Plastic Beach” intact. Sometimes you discover a band through a collaboration and their own work turns out to be disappointing, somehow diminished by the other artist(s) no longer being present. “Machine Dreams” is a fine album that breezes by, much like “Empire Ants” and “To Binge” do on “Plastic Beach”.

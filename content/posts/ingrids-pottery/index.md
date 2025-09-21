@@ -1,10 +1,7 @@
 ---
 category: Creativity
 date: '2025-02-06'
-tags:
-- Twenty Five
-- Creativity
-- Pottery
+tags: ["Twenty Five", "Creativity", "Pottery"]
 title: Ingrid's Pottery
 ---
 Here are some photos of Ingrid's pottery, some very pretty pots! (And more complex pieces are on the way!)

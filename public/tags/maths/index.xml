@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/generate-random-numbers-in-r/</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/generate-random-numbers-in-r/</guid>
-      <description>&lt;p&gt;This post deals with how to generate random numbers in R. It is good to know how to generate random numbers with a particular language or software package for at least one of the following three reasons:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;You want to test something that depends on a particular distribution.&lt;/li&gt;&#xA;&lt;li&gt;You’re running a stochastic process of some kind (Branching process, random walk etc) and you need random numbers for deciding whether an event occurs.&lt;/li&gt;&#xA;&lt;li&gt;You forgot to pick your lottery numbers this week.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Let’s step through doing each of these with R. Over time I will write this post out again for C++, Java, Python, and Ruby. This post is just a memory aid that I can use later on and is not meant as anything more rigorous than that. As such it is a living document, I will mutate this post in place as and when I need to. Memory aids are useful for when you haven’t used a particular programming language or software package for a while. Who knows, it might save me a couple of searches with DuckDuckGo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This post deals with how to generate random numbers in R. It is good to know how to generate random numbers with a particular language or software package for at least one of the following three reasons:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Posters</title>
@@ -41,7 +41,7 @@
       <link>http://localhost:1313/posts/favourite-numbers/</link>
       <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/favourite-numbers/</guid>
-      <description>&lt;p&gt;What’s your favourite number?&lt;/p&gt;&#xA;&lt;p&gt;I was ambivalent on this issue until a few months ago until I came across the following quirky result: if you start with the prime number 41 and then add 2 you get 43, which is also prime and then if you add 4 to 43, you get 47: also prime. &lt;a href=&#34;http://www.wolframalpha.com/input/?i=evaluate+x%5E2%E2%88%92x%2B41+for+x+from+0..40&#34;&gt;And this continues to produce prime numbers if you add successive multiples of two to your running total&lt;/a&gt;, UNTIL… you get to the 41st number in this sequence, which is 41 squared.&lt;/p&gt;</description>
+      <description>&lt;p&gt;What’s your favourite number?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

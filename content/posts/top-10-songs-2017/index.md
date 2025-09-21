@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["Music", "Lists", "Seventeen"]
 title: Top 10 Songs 2017
 ---
+<!--more-->
+
 ## 10. Rolling Blackouts CF "Julie's Place"
 Sometimes you just want a simple pop song about going out somewhere. I enjoyed the Rolling Blackouts' EP "The French Press". It contains many catchy tunes [as I noted in my review](album-digest-march-2017). "Julie's Place" is the best, speaking of a need to be somewhere or a promise that you will go there. Given that I often listen to music between places, it's nice to have a song or two like that on my playlist.
 

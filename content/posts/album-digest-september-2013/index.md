@@ -7,6 +7,7 @@ title: Album Digest, September 2013
 ---
 A nice diverse selection of albums this month:
 
+<!--more-->
 1. Arctic Monkeys "AM"
 2. BT "A Song Across Wires"
 3. Goldfrapp "Tales of Us"

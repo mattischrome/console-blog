@@ -1,12 +1,12 @@
 ---
 category: Ideas
 date: '2015-07-19'
-
 tags: ["Ideas", "Self Improvement", "Fifteen", "Philosophy"]
 title: First Light, Last Light
 ---
 I often ponder whether the joys of waking up early are greater than those of staying up late. Empirical evidence seems to bear this out: all those people who get to work before you do, super-eager to get everything done. But then all the people walking under your windows late at night, drunk and laughing, they sound like they're having a whale of a time too.
 
+<!--more-->
 I oscillate between the two extremes, though I tend to sleep better if I stay up late. My natural sleep hours are 1am to 8am, though I am usually human if I can get up just after 7. Whenever I try to stick to getting up early, to do masochistic things like running or being organised, I often find it harder to get to sleep or I wake up at 3 rather than 6. I end up second guessing my alarm clock.
 
 I now structure my life in a routine without routine, where I try to stick to both approaches at once. Because my early bedtime is 10 and my late bedtime is three hours later (gasps from the balcony!), I now plan my evenings to do something different after 10 o'clock. I stop watching TV or playing Civ, and start drafting a post or tinkering with existing ones. (As much as I love writing new posts, I do like to smarten up old posts as well...)

@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2015-01-03'
-
 tags: ["Iain M. Banks", "Books", "Science Fiction", "Fifteen"]
 title: Iain M. Banks, Feersum Endjinn
 ---
 Feersum Endjinn is one of Iain Banks' few non-Culture sci-fi novels. Like the Culture novels, an existential crisis drives the plot: in this case the action takes place on Earth in the far future and the sun has aged to a point where it will grow and swallow the earth. This is referred to as the Encroachment. The characters are divided between the good guys who seek to find a solution for the greater good and bad guys who use the Encroachment to consolidate their power and influence.
 
+<!--more-->
 While the experimental construction makes Feersum Endjinn feel like one of Banks' weaker novels, it also serves as a reminder that few authors write from multiple points of view as well as Banks did. In fact, the entire novel is a game of points of view. Each chapter is split between four factions representing different plot elements and character not only hop in and out of one another's heads, but they also meet different representations of themselves. One strand of the narrative is written as a stream of consciousness: ravver weerd spellin lik this iz yoosed, mayb Banx wus reedin erly drafs ov Tranespottin? As with my experience of reading [Hawksmoor](/hawksmoor/), it's surprising how quickly you adapt to it.
 
 The other standout feature of Feersum Endjinn is the compelling setting of the Serehfa Fastness - an enormous building that houses an entire state. Once the base of a space elevator, it is now home to the humans who stayed behind after the rest left for the stars. It's never explicitly stated but going by the clan structures and feudal society described, you get the impression that society has regressed. Superstructures abound in the Culture novels written after Feersum Endjinn, though orbital habitats feature heavily in [Consider Phlebas](/consider-phlebas-a-picaresque-in-space/). The Fastness is perhaps the oddest and most compelling character in the novel. In fact, even in the Culture novels the only other superstructures that come close are the shell worlds so vividly described in Matter.

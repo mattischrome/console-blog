@@ -1,12 +1,12 @@
 ---
 category: Music
 date: '2015-07-05'
-
 tags: ["Music", "Software", "Spotify", "Apple Music", "Fifteen"]
 title: An Initial Comparison of Apple Music and Spotify
 ---
 My [previous post about Apple Music](/why-apple-music-feels-like-a-fail/) was more a response to how it was presented at the WWDC Keynote rather than to the idea of Apple Music itself. I should have known better than to use that clickbait title. I knew I wasn't writing about the product, more the flatness of its introduction (despite the names on show). 
 
+<!--more-->
 After a few days of living with it I thought I'd write about it and Spotify, so that it's not just my snarky comments about the keynote that are on record here.
 
 I signed up for the three-month trial. (I also made sure to [cancel auto-renewal](http://www.macworld.com/article/2942713/how-to-stop-apple-music-from-automatically-renewing-your-membership.html).) I've not cancelled my Spotify subscription because I feel it's better to evaluate them both side by side. I figure one way to tell whether the new service is better is to note whether I reach for Apple Music over Spotify more often as the trial continues.

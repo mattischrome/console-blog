@@ -1,12 +1,12 @@
 ---
 category: Travel
 date: '2018-02-19'
-
 tags: ["Australia", "Travel", "Eighteen"]
 title: A Day in the Air
 ---
 ![The Plane](../../assets/images/australia_1/australia_1_01.jpg)
 
+<!--more-->
 It seemed to last forever but we made it. We left for Heathrow at 6AM and left London at around midday. I waved goodbye to home for nearly four weeks.
 
 We stopped over in Dubai for an hour or so while the plane refuelled. We walked in circles trying to shake off the fatigue. I'd equalled one of my longest ever flights just getting to Dubai and now I was facing almost twice as much time again.

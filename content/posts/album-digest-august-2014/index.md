@@ -7,6 +7,7 @@ title: Album Digest, August 2014
 ---
 The album digest returns with five albums by four artists.
 
+<!--more-->
 1. Karl Hyde & Brian Eno *Someday World* & *HIGH-LIFE*
 2. Lone *Reality Testing*
 3. FKA twigs *LP1*

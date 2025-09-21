@@ -7,6 +7,7 @@ title: Album Digest, November 2012
 ---
 Pretty much a sliding scale between songs and electronic wibble on this month’s albums and a particularly damp, chilly feeling to proceedings too.
 
+<!--more-->
 1. Bat For Lashes “The Haunted Man”
 2. Ital “Hive Mind” and “Dream On”
 3. Björk “Bastards”

@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2014-08-24'
-
 tags: ["Haruki Murakami", "Books", "Novel", "Fourteen"]
 title: Haruki Murakami, Colorless Tsukuru Tazaki And His Years Of Pilgrimage
 ---
 Colorless Tsukuru Tazaki And His Years Of Pilgrimage is the latest novel by Haruki Murakami. [It comes with free stickers](http://www.theguardian.com/books/2014/jun/19/haruki-murakami-marketing-publishers-stickers). Perhaps that tells you everything you need to know about this book, which is slimmer than Murakami's recent efforts. The plot begins with an intriguing premise. Tsukuru is part of a group of close friends and is one day expelled from the group for no reason. Unfortunately, the development of the plot is uncontrolled and by the end  of novel too many holes have developed for it all to hold together.
 
+<!--more-->
 It is a pleasant read but a familiar one. [You can play Murakami bingo](http://www.incidentalcomics.com/2012/06/haruki-murakami-bingo.html) with Colorless Tsukuru Tazaki. Will there be Jazz or classical music? (Or, potential spoiler, both?) Will the character at the centre of the action make pasta? Or drink [Cutty Sark whisky](https://cutty-sark.com/the-whisky/)? Will they have an infatuation from childhood that will haunt their adult life? Will a strange dream-like world enter into our reality at some point? Will the books that Murakami’s been reading all-too-obviously force their way in to the narrative at some point? Will there be an endearing cat simile?
 
 If you’ve read a lot of Murakami novels, you won’t need to re-read it when you are done, and if you haven’t, well I can suggest at least three better books with similar plots that you will probably enjoy more than Colorless Tsukuru Tazaki.

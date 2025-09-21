@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2018-10-30'
-
 tags: ["Books", "Richard Powers", "Fiction", "Eighteen"]
 title: Richard Powers, The Overstory
 ---
 "The Overstory" by Richard Powers piqued my interest among the novels shortlisted for the Booker Prize. And [once again](satin-island-tom-mccarthy-review) the book that interested me most did not win. One year I will succeed in my prediction!
 
+<!--more-->
 I found "The Overstory" an enjoyable read. Its accessibility surprised me. Often people view Booker nominated novels as stuffy or over-intellectual. This novel however is a genuine page turner, full of emotion and heartbreak, not to mention plenty of science and awe of the natural world. Perhaps in another year it may have won.
 
 The story is about a set of characters all drawn together by trees. Many never meet one another, yet their stories all intersect, fusing together to form a whole. This is a lot like trees in a forest: some trees might never appear close together but the diversity of the forest enables them to influence one another.

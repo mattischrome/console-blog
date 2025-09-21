@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2013-09-14'
 slug: understated-classics-25
-
 tags: ["Understated Classics", "The Cardigans", "Music", "Rock", "Thirteen"]
 title: 'Understated Classics #25: Long Gone Before Daylight by The Cardigans'
 ---
 The single biggest fact of life is that you are always going to be alone, you just might not realise it. Listening to The Cardigans' excellent 2003 "Long Gone Before Daylight" will help you see that all our relationships are essentially screwed -- but at least it sounds great while it does so.
 
+<!--more-->
 "Long Gone Before Daylight" ("Long Gone Before Daylight") plays the role of "The Empire Strikes Back" in a trilogy of great albums that The Cardigans released between 1999 (the arguably better and slightly happier "Gran Turismo") and 2006 (the unarguably inferior and definitely happier "Super Extra Gravity"). "Long Gone Before Daylight" has more of a country sound than "Gran Turismo" or "Super Extra Gravity", which meant that I ignored it for a long time: until the disintegration and failure of several relationships convinced me of its brilliance.
 
 Take the opening track "Communication" which is, of course, about the total impossibility of communicating with someone that you've broken up with. After a break-up the thing that always kills you is the way you revisit your golden memories and try to work out how you could have done things differently. How could you have explained yourself in some better way? It's all there in the devastating lyrics that end the song:

@@ -7,6 +7,7 @@ title: Album Digest, December 2012
 ---
 Three albums (one very Christmassey one!) and an EP this month.
 
+<!--more-->
 1. Tracey Thorn “Tinsel and Lights”
 2. Woob “Have Landed”
 3. Tim Hecker and Daniel Lopatin “Instrumental Tourist”

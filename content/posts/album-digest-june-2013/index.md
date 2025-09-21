@@ -7,6 +7,7 @@ title: Album Digest, June 2013
 ---
 Just two albums this month as I am still enjoying last month's albums so much (and I spent loads of time getting reacquainted with Boards Of Canada at the start of the month). I listened to a few more albums but not often enough to write loads about them so there is an "honourable mention" section at the end of the post that briefly discusses a few more albums.
 
+<!--more-->
 Without further ado, the two albums are:
 1. Boards Of Canada _Tomorrow's Harvest_
 2. Jon Hopkins _Immunity_

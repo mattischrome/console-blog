@@ -1,12 +1,12 @@
 ---
 category: Films
 date: '2015-10-18'
-
 tags: ["Films", "Science Fiction", "Andy Weir", "Fifteen"]
 title: 'The Martian: A Short Review'
 ---
 [In my review of the book](/the-martian-by-andy-weir/) I mentioned that a film adaptation of The Martian was on the way. I'm not sure why but it got released earlier than any of the dates that I'd seen and so on Saturday I found myself watching The Martian on the big screen. Could the film version deliver the same level of entertainment as the novel? Could Mark Watney (Matt Damon) get off Mars alive?
 
+<!--more-->
 The short answers are (spoiler alert!) yes and yes. The Martian is at least as enjoyable as a film as it is a novel. The change in medium has both pros and cons, but overall it's great fun whether you've read the book already or not.
 
 In my blog post about the novel, I wrote about what I perceived to be the filmic qualities of the writing about the Martian surface and the computer generated shots of the landscape are stunning. What's more the film also looks fantastic at the "suit level", there's great attention to detail in the structure of the habitat module [and the space suits](http://news.yahoo.com/inside-martian-movies-sleek-spacesuits-explained-183716716.html). It's almost a shame that this convincing detail almost gets overlooked by the need to propel the film along, I'd love to have luxuriated in the world building of the film. I bet there'll be a stack of extras with the Blu-ray in a few months time.

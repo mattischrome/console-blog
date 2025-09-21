@@ -1,12 +1,12 @@
 ---
 category: Life Experiences
 date: '2013-02-11'
-
 tags: ["Fun", "Games", "Thirteen"]
 title: A Jigsaw
 ---
-The other weekend, beset by insomnia, I decided to follow [my own advice](five-things-to-try-when-you-cant-sleep) and get up to do something instead of wallowing unable to sleep. I pulled my emergency jigsaw out of the cupboard and set to it. I should stress that I mean a jigsaw puzzle and not an actually jigsaw: DIY at 2am is not such a good idea!
+The other weekend, beset by insomnia, I decided to follow [my own advice](/posts/five-things-to-try-when-you-cant-sleep) and get up to do something instead of wallowing unable to sleep. I pulled my emergency jigsaw out of the cupboard and set to it. I should stress that I mean a jigsaw puzzle and not an actually jigsaw: DIY at 2am is not such a good idea!
 
+<!--more-->
 I'd forgotten how interesting jigsaw puzzles actually are. As I sat there contemplating the 1000 pieces and wondered exactly what I'd let myself in for, I found myself thinking about a number of things.
 
 First, the jigsaw puzzle as a problem in itself. The fact that you have to reconstruct the picture on the box, but of course the version in the puzzle is much larger. At the start I would pull out pieces that looked like nothing in the entire photo I was working to. For starters I was picking up all these blue pieces and unlike most puzzles this one had no sky and nothing else that was blue either. Naturally these guys went on their own pile and pieces that were entirely coloured in more obvious greens (the trees in the background) and blacks (the locomotive… Spoiler: the locomotive was also 'blue').

@@ -7,6 +7,7 @@ title: 'Contagion: A Short Review'
 ---
 There was much excitement about [Contagion](http://www.imdb.com/title/tt1598778/) at work. Finally a movie that explains  as part of the plot! A bunch of us went to see it, mainly to see whether [a disaster movie about a global pandemic](http://contagionmovie.warnerbros.com/index.html) could hold up as entertainment and to have a bit of a giggle if it couldn’t.
 
+<!--more-->
 I liked three things in particular about the film. I liked the cinematography, especially the opening sequences with the index cases staggering around. I liked the soundtrack except for when it intruded a bit too much into proceedings. Finally, I liked Marion Cotillard, who seems to be in every interesting movie at the moment.
 
 Oh and the line “Blogging is not writing. It’s just graffiti with punctuation.” was brilliant too.

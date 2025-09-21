@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["Life Experiences", "Self Improvement", "Work", "Thirteen"]
 title: The Reset Button
 ---
+<!--more-->
+
 ## Previously on...
 
 I planned this post as a follow-up to one called [The Truth About Work](/the-truth-about-work/) from a couple of months ago, but a few things happened that changed my thinking. It has implications for my future and in particular, it redefines what this break from work and upcoming trip means to me.

@@ -1,12 +1,12 @@
 ---
 category: Album Digest
 date: '2023-12-21'
-
 tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Blogging", "Meta"]
 title: 2023 Albums of the Year Preview
 ---
 Another year (nearly) over and so starting from tomorrow, I'm going to count down my top 10 albums of 2023. The rules are:
 
+<!--more-->
 1. They have to have to have been released in 2023.
 2. They need to be albums. I'm defining this as either more than 7 tracks or songs, or more than forty minutes in length.
 3. To make the top ten, they need to have been played the most times. I admit that I don't have a precise measure of this, as I do still buy vinyl and about four of these albums will have had play counts missed by not being captured through a streaming service.

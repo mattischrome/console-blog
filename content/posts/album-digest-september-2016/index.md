@@ -7,6 +7,7 @@ title: Album Digest, September 2016
 ---
 This month's album digest features albums by Wilco, M.I.A., Local Natives, and a collaboration between Kaitlyn Aurelia Smith and Suzanne Ciani.
 
+<!--more-->
 ### Wilco *Schmilco*
 
 *Schmilco* is the tenth studio album by Wilco, which regular readers will know are one of my favourite bands. [There's no need to repeat that anecdote about why this blog has the name that it does.](/whatever-happened-to-that-hat/) Meanwhile, this album follows on from last year's *Star Wars* and is probably the third Wilco album to have a jokey meta- kind of title. (The other one is the rather splendid *Wilco (The Album)* from 2009.) I didn't write a review of *Star Wars*; it  was released for free and for some reason it passed me by. *Schmilco* is a fairly similar album and that's not a bad thing.

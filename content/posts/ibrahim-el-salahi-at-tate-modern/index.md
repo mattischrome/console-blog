@@ -1,12 +1,12 @@
 ---
 category: Art
 date: '2013-07-24'
-
 tags: ["Art", "Tate Modern", "Ibrahim El-Salahi", "Thirteen"]
 title: Ibrahim El-Salahi At Tate Modern
 ---
 Ibrahim El-Salahi is a modernist artist from Sudan. I believe this exhibition is a first for an African artist at the Tate Modern. Much like [the Choucair show](choucair-at-tate-modern) (which is still on everyone!), it's an engaging but too short introduction to an interesting artist that you have probably never heard of.
 
+<!--more-->
 The pieces are roughly divided between large blank and white ink drawings that are mounted on multiple panels and oil paintings in earthy colours that depict abstract scenes. There are one or two pieces that buck this trend, such as "Portrait of Mrs. McKelvey" and a couple of other portraits toward the beginning of the exhibition. Frustratingly, pictures of his work are rather hard to come by online and the only two works that I was able to surreptitiously snap while at the show were the mesmeric "Reborn Sounds of Childhood Dreams I" and the mirage-like "They Always Appear". (2020 Update: I have removed some images from posts, these being two of them.)
 
 "Reborn..." is a stunning painting and it alone was worth the visit (if you are a member that is, but don't worry there are plenty of other works that will justify the cost of your ticket if you're paying to get in!). It is a dreamy collection of figures who contain other figures. It has a lot of the detail of his drawn works too, so it bridges the worlds of his paintings and his drawings very well.

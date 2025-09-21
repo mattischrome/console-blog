@@ -2,9 +2,11 @@
 category: Music
 date: '2011-04-30'
 tableOfContents: true
-tags: ["Music", "Album Digest", "April", "Jamie Woon", "Young Knives", "Katy B", "Elbow", "Fabric", "Eleven"]
+tags: ["Music","Album Digest","April","Jamie Woon","Young Knives","Katy B","Elbow","Fabric","Eleven"]
 title: Album Digest, April 2011
 ---
+<!--more-->
+
 ## Album of the month: _Mirrorwriting_ by Jamie Woon
 
 Jamie Woon was brought to my attention late last year by Pitchfork who wrote an article about the video for lead single _Night Air_. I’ve put that video down below because I think that it is very good, a simple well executed and the tune itself is brilliant, probably my favourite individual track of 2010. It’s a downtempo tune full of dark spaces and empty beats, full of nocturnal promise and mystery. Hungry for more, I also bought the _Wayfaring Stranger_ EP and pre-ordered _Mirrorwriting_ as soon as it was possible.
@@ -29,7 +31,7 @@ _Ornaments…_ is a little more mellow than _Of Animals And Men_ and _Superabund
 
 Katy B is a singer who has come through the Brits school (the second of two in this month’s posts, see Jamie Woon above) and had appeared on several underground hits before making her own record with some top dubstep producers. Given that one of the tracks that she appeared on has even made into to my collection, I guess it was inevitable that she would make her own album because things have to be pretty mainstream to reach me!
 
-I am not sure I would have bought this album if I still listened to the radio and had heard the singles. That is not to say that the singles (_Katy On A Mission_ and _Lights Out_) are bad[^1], just that I would probably would have dismissed them as throwaway pop. While there is a lot of that on this album and some of it comes complete with cringeworthy dust-lust variety rhymes, there is also a lot to enjoy. This comes courtesy of the guest producers, though I am obviously so out of touch that I only recognise a few names in the booklet[^2].
+I am not sure I would have bought this album if I still listened to the radio and had heard the singles. That is not to say that the singles (_Katy On A Mission_ and _Lights Out_) are bad.{{% sidenote "sn-1" %}} When I heard _Lights Out_, I realised I had heard it before. I’d seen on a music channel that my housemate had on one afternoon, my typically gruff response was “This is sh*t!”. Either I am becoming a reactionary jerk or I am starting to reject all music that hasn’t been through my own headphones. Or both.{{% /sidenote %}}, just that I would probably would have dismissed them as throwaway pop. While there is a lot of that on this album and some of it comes complete with cringeworthy dust-lust variety rhymes, there is also a lot to enjoy. This comes courtesy of the guest producers, though I am obviously so out of touch that I only recognise a few names in the booklet.{{% sidenote "sn-2" %}}Speaking of the booklet, there is an unintentionally hilarious minute or two at the end of _Hard To Get_ involving the shout-outs and such. This is actually quite sweet but the same words are in the booklet and so I got the sensation of pop album suddenly morphing into an audiobook!{{% /sidenote %}}
 
 I really enjoyed _Why You Always Here_, _Broken Record_ and _Easy Please Me_. The latter sets its scene in a club with some sleaze latching on to our narrator who proceeds to reel off a list of demands for a potential amour, it’s an entertaining and empowering song with a nice elastic beat underpinning. Of all the stuff here, it is probably the most likely to make it to my playlists. In the end though, it is a pop album and it usually isn’t long before I move on to the next thing.
 
@@ -49,12 +51,6 @@ I tend to only mention the fabric mixes in passing each month, which is a shame 
 
 The mix itself is really good, probably the most enjoyable Fabric mix since the one by Surgeon (though I did find the Shackleton one very admirable technically) and definitely one to keep coming back to. Whereas Surgeon delivered (I wrote about it [here](/album-digest-september-2010/)) a hypnotic full-on pound-the-dancefloor mix, this one by Agoria is a different beast altogether.
 
-A quick glance at the track list shows the difference, there are lots of double and triple tracks[^3] and the there is also the credit to tracks that “feature throughout the mix”. The result is a relentless (but at points gentle) mix that layers on bits and pieces, sometimes doubling back on itself and revisiting various vocal loops. It helps that there are a lot of vocal tracks, in these mixes the vocals can sometimes disappear for large sections and more often than not leave you mired in repetitive and boring beats.
+A quick glance at the track list shows the difference, there are lots of double and triple tracks{{% sidenote "sn-3" %}}By this I mean tracks that comprised two or three tracks that are either segued or mashed-up. They often sound great but are the bane of MP3 taggers everywhere!{{% /sidenote %}} and there are also credits for tracks that “feature throughout the mix”. The result is a relentless (but at points gentle) mix that layers on bits and pieces, sometimes doubling back on itself and revisiting various vocal loops. It helps that there are a lot of vocal tracks, in these mixes the vocals can sometimes disappear for large sections and more often than not leave you mired in repetitive and boring beats.
 
 I was very impressed by this mix and I particularly liked the fact that they ended with a classic Ella Fitzgerald track. This was a classy touch and it sent me off to look for some of her songs online. I even found a version of “Ten Cents A Dance”, a song I have grown to love due to it being heavily featured in Bioshock 2.
-
-[^1]:When I heard _Lights On_, I realised I had heard it before. I’d seen on a music channel that my housemate had on one afternoon, my typically gruff response was “This is sh*t!”. Either I am becoming a reactionary jerk or I am starting to reject all music that hasn’t been through my own headphones. Or both.
-
-[^2]:Speaking of the booklet, there is an unintentionally hilarious minute or two at the end of _Hard To Get_ involving the shout-outs and such. This is actually quite sweet but the same words are in the booklet and so I got the sensation of pop album suddenly morphing into an audiobook!
-
-[^3]:By this I mean tracks that comprised two or three tracks that are either segued or mashed-up. They often sound great but are the bane of MP3 taggers everywhere!

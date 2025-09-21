@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2013-07-23'
-
 tags: ["Don Delillo", "Books", "Novel", "Thirteen"]
 title: Don Delillo, Point Omega
 ---
 > There were no mornings or afternoons. It was one seamless day, every day, until the sun began to arc and fade, mountains emerging from their silhouettes. This is when we sat and watched in silence.
 
+<!--more-->
 Today I finished reading "Point Omega" by Don Delillo. I have wanted to read one of his novels for a while and though this is a slip of a novella, I certainly enjoyed it. I accidentally came across it when I looked at the wikpedia page for [Pierre Teilhard de Chardin](http://en.wikipedia.org/wiki/Teilhard_de_Chardin) last week as part of research for another post that I am writing. "Point Omega" seemed short and in keeping with what I wanted to write about, so I used my usual quick-draw finger on amazon and bought the thing.
 
 First, who is Pierre Teilhard de Chardin anyway? Well it won't harm the other post to tell you a bit about him: he was a French Jesuit pastor who wrote and thought about the evolution of ideas. Specifically he developed the concept of the noosphere (building on earlier work by Vernadsky, who to my shame I know nothing about), a space in which knowledge and philosophies exist as tangible objects. The classic example is the one that is sampled on the Orb's track O.O.B.E that opens their album "U.F.Orb": if civilisation were destroyed but people and their knowledge remained, the world could be reconstructed pretty much as it was before, but if all the knowledge were destroyed (say the written and digital records of humanity's great achievements) then perhaps the world as it was could never be reconstructed, at least not until the contents of the noosphere were re-discovered.

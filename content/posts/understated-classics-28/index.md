@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2015-01-18'
 slug: understated-classics-28
-
 tags: ["Understated Classics", "The Wrens", "Music", "Fifteen", "Rock"]
 title: 'Understated Classics #28: The Meadowlands by The Wrens'
 ---
 One of the first lines of "The House That Guilt Built", the soft cricket-laden lament that opens The Meadowlands by The Wrens, is "I'm nowhere near where I thought I'd be". The last line of the whole album is "this is not what you had planned". These bookending lines set the tone for this shimmering, ramshackle masterpiece - a fatigue and careworn pride in failing to meet impossible standards writ large over its first and last eighty or so seconds. "The Meadowlands" is probably the best record you've never heard, and once you have heard it, you will never be the same. Even better, it changes and you change with every single listen. If you're living your life and you really mean it, then this is the record for you.
 
+<!--more-->
 And what makes a masterpiece? Well for a rock album you want great songs that mean something and stand out as works of art. You need something recognisable and yet still fresh and distinctive. You need those songs to be sung with a voice that moves you, that you recognise as your own. And you need at least some of those songs to really rock out. On "The Meadowlands" The Wrens deliver all of this in spades. Take second song "Happy" which moves through about three movements in its five and half minute run time - from stoner groove to a pogoing riff, tracking the course of a relationship from doting courtship to bitter ever-after.
 
 The next track "She Sends Kisses" is even better. It starts by picking through biographical detail over reedy sounding accordion before building in to a weary chorus, before doing the same over again. The striking feature of the song is how much the riffs and the counterpoint in the melodies do as much work for the song as the lyrics do, particularly in the gentle final minute or so.

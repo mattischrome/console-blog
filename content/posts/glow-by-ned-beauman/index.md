@@ -7,6 +7,7 @@ title: Ned Beauman, Glow
 ---
 Glow is about a guy called Raf, a Londoner whose life is going nowhere in particular; a state of affairs not helped by “Non-24 Hour Sleep/Wake Syndrome”. One night while experimenting with a new ecstacy-like drug that’s apparently derived from a social anxiety medication for dogs, Raf meets a beautiful girl and then loses her to the crowd in a blink-and-you-miss-it moment. From there a conspiracy evolves involving the titular dog-medication-derived drug, Burmese dissidents, corporate espionage, pirate radio stations, and urban foxes.
 
+<!--more-->
 Here are the opening lines:
 
 > When he first sees her, Raf is sitting on a washing machine about to swallow an eighth of a gram of what is apparently a mixture of speed, monosodium glutamate, and an experimental social anxiety disorder medicine for dogs.

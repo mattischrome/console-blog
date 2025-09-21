@@ -1,12 +1,12 @@
 ---
 category: Music
 date: '2011-11-20'
-
 tags: ["Music", "Album Digest", "November", "Kate Bush", "Tom Waits", "Peter Gabriel", "Eleven"]
 title: Album Digest, November 2011
 ---
 Just three albums this month as I’ve been listening to a lot of Brian Eno records ready for an upcoming understated classic. First up is _50 Words For Snow_ by **Kate Bush**, the second album that she has released this year. [Back in May](album-digest-may-2011) I wrote about _Director’s Cut_, which presented re-recorded and re-mastered versions of songs from her albums _The Sensual World_ and _The Red Shoes_. This time around it is an album of brand new material, the first since _Aerial_ in 2006.
 
+<!--more-->
 Ariel was divided into two discs and _50 Words For Snow_ is similar to both _A Sea Of Honey_ (discrete songs) and _A Sky Of Honey_ (a thematically linked suite of songs). It’s a smart move to release such a wintry album just as the weather starts to get really cold. Listening to the opening track _Snowflake_ while walking home in the dark and cold mist the other night was a surreal and beautiful experience.
 
 The first three songs languidly sprawl over thirty-four minutes, just like so much snow over the hillsides, streets and houses. The pace perfectly evokes the sense of a landscape held completely still by the elements. It really reminds me of last year when so much of the landscape around me was hit by a blast of snow that seemed to come out of nowhere.

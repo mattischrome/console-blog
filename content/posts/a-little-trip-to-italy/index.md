@@ -1,12 +1,12 @@
 ---
 category: Travel
 date: '2017-09-28'
-
 tags: ["Travel", "Europe", "Italy", "Photos", "Seventeen"]
 title: A little trip to Italy
 ---
 We bought a cheap package holiday in the British Airways Black Friday sale. The weekend spanned Ingrid's birthday, so it was ideal. £99 each for flights and a hotel, and we bagged a hire car quite cheaply too.
 
+<!--more-->
 Because our flight was from Heathrow and the trains from Chichester are both expensive and inconvenient for early flights, we spoiled ourselves with a taxi to the airport. It felt very strange to be whisked through the Sussex and Surrey countryside at six am on a Friday morning!
 
 We picked up our little hire car. There were snow chains in the boot and we hoped we wouldn't have to use them. Ingrid set to understanding the mind boggling experience of driving on the right hand side of the road. I set to understanding the mind boggling experience of navigating on the right hand side of the road. It took us three circuits to get out of the multistory car park. After that though, it was fine.

@@ -1,11 +1,11 @@
 ---
 date: '2021-11-24'
-
 tags: ["Music", "Spotify", "Apple", "Twenty One"]
 title: A pox on both their houses
 ---
 How hard is it to just listen to music these days?
 
+<!--more-->
 Spotify has crammed in all sorts of crap in to the app lately. Lyric videos, those weird interactive art things that are turned on by default, podcasts (so many podcasts), [Netflix tie-ins][1], and audiobooks. It wants to be the app that opens when you plug in your headphones (not that we’ll be doing that for much longer the way things are going). But I just want to listen to music!
 
 Worst of all is just how much the Spotify app pushes all its algorithmic crap in my face. Albums for today, albums for people who listen to Saint Etienne (but not different albums by Saint Etienne because that would be far too easy), a horizontally scrolling list of our supposedly cool playlists that probably shaft artists on royalties.

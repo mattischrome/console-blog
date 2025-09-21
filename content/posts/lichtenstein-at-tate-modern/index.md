@@ -1,12 +1,12 @@
 ---
 category: Art
 date: '2013-05-21'
-
 tags: ["Art", "Roy Lichtenstein", "Tate Modern", "Thirteen"]
 title: Lichtenstein At Tate Modern
 ---
 This was a show that I had put off going to see for quite a while now. Looking online at the pictures featured in the show did not really excite me enough to get out and see it. I'd seen _Whaam!_ before in isolation (it's part of the Tate collection and will no doubt return once the retrospective show is over) and it didn't really grab me, arresting as it is. However, with plenty of free time this week it was an ideal time to go see it and I was happy to be proved wrong.
 
+<!--more-->
 The first few rooms didn't really turn me on: I found myself pining for the Rauschenberg paintings I'd seen at the Barbican back in March. The sharp austere lines and primary colours did not seem like any match for Rauschenberg's muted palettes and abstract brush strokes. However, like a good retrospective should, the show hits its stride just as Lichtenstein appears to have done: during his pop period. It was this point that I realised just how disciplined and cohesive every painting from this period is: eventually the austerity makes sense and those eye-bending realms of Benday-dotted primary colour just pop off the canvas.
 
 Those paintings are helped by being enormous and are arranged beautifully in a long room with benches. There are also stands with notes and the original comic book source for _Whaam!_ that are interesting to compare to the finished painting. The paintings make me think about how in Lichtenstein's work two strands of twentieth century art converge: the modernism of the De Stijl group (the primary colours separated by thick black lines can't help but bring Mondrian's compositions to mind) that lead to the abstract expressionism that Lichtenstein had begun by experimenting with, and in the use of everyday objects as subjects, the "ready-made" sculptures of Duchamp. I am fast becoming a big admirer of Duchamp so this was a pleasant revelation. It also helped to tie things in nicely with the "A Bigger Splash" exhibition I went to in March.

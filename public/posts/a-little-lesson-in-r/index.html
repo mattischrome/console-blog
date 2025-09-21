@@ -12,7 +12,7 @@
 
 
 <link rel="stylesheet" type="text/css" href="/css/navbar.css">
-<link rel="stylesheet" type="text/css" href="/css/colours.css">
+<link rel="stylesheet" type="text/css" href="/css/colours-old.css">
 <link rel="stylesheet" type="text/css" href="/css/fonts.css">
 <link rel="stylesheet" type="text/css" href="/css/default.css">
 
@@ -20,6 +20,7 @@
 
 
 <link rel="stylesheet" type="text/css" href="/css/sidenotes.css">
+<link rel="stylesheet" type="text/css" href="/css/margin-figure.css">
 
 
 
@@ -67,7 +68,7 @@
     Posted on 2017-11-04
     
     
-    &thinsp;·&thinsp; <span title="447 words">3 min read</span> &thinsp;·&nbsp;
+    &thinsp;·&thinsp; <span title="380 words">2 min read</span> &thinsp;·&nbsp;
     
     
     
@@ -87,34 +88,16 @@
 
     
     <p>I had to compute an indicator this week. It had confidence intervals that relied on taking 100,000 samples from the indicator&rsquo;s approximate distribution. I had to repeat this over multiple GP practices and for twelve different demographic groups.</p>
-<p>I decided to use <code>dplyr</code><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> because I thought it would help me organise all subgroups involved. I used <a href="http://dplyr.tidyverse.org/reference/summarise_all.html"><code>mutate_at()</code></a> heavily and thought that <code>dplyr</code> was keeping everything organised. However, when I moved from the 10 samples I&rsquo;d used for testing to the 100,000 samples required by the specification of the indicator, my code moved to a crawl. Fearing that my work laptop was a little puny, I left it running overnight on my Mac<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> and by morning R was still holding up its infuriating little stop sign.</p>
-<p>So how could I fix it? The programmer in me returned to the for loops that I&rsquo;d tried to avoid. I overhauled the code using base R and vectorised <code>sapply</code> commands. These were handy, cutting out some of the loops, though I still used a loop for each of the sites. This is not an unfamiliar approach for me: I used the same technique to run my <a href="swaptastic-part-2">sticker swapping simulations</a> last year. The original <code>dplyr</code> commands aren&rsquo;t designed for passing around so many numbers about, at least not in this particular way<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>.</p>
+<p>I decided to use <code>dplyr</code> because I thought it would help me organise all subgroups involved. I used <a href="http://dplyr.tidyverse.org/reference/summarise_all.html"><code>mutate_at()</code></a> heavily and thought that <code>dplyr</code> was keeping everything organised. However, when I moved from the 10 samples I&rsquo;d used for testing to the 100,000 samples required by the specification of the indicator, my code moved to a crawl. Fearing that my work laptop was a little puny, I left it running overnight on my Mac and by morning R was still holding up its infuriating little stop sign.</p>
+<p>So how could I fix it? The programmer in me returned to the for loops that I&rsquo;d tried to avoid. I overhauled the code using base R and vectorised <code>sapply</code> commands. These were handy, cutting out some of the loops, though I still used a loop for each of the sites. This is not an unfamiliar approach for me: I used the same technique to run my <a href="/posts/swaptastic-part-2">sticker swapping simulations</a> last year. The original <code>dplyr</code> commands aren&rsquo;t designed for passing around so many numbers about, at least not in this particular way.</p>
 <p>In the end most of the work was done by this single line of code:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#a6e22e">sapply</span>(<span style="color:#a6e22e">sapply</span>(<span style="color:#a6e22e">rep</span>(<span style="color:#ae81ff">1</span>,num_samples), 
 </span></span><span style="display:flex;"><span>               runif),
 </span></span><span style="display:flex;"><span>        qnorm,
 </span></span><span style="display:flex;"><span>        sample_mean,
 </span></span><span style="display:flex;"><span>        sample_sd)
-</span></span></code></pre></div><p>It looks complicated but can be unpacked as follows: <code>sapply</code> takes a vector and a function, applying the function to each element of the vector. The first, inner, call to <code>sapply</code> constructs the vector for the second, outer, call. The vector constructed consists of uniformly generated random numbers between 0 and 1 (using <code>runif</code>). The second <code>sapply</code> calls <code>qnorm</code>,<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> which is R&rsquo;s approximation to the inverse cumulative distribution function of the normal distribution. The additional parameters to the second <code>sapply</code> are the parameters required by <code>qnorm</code>.</p>
+</span></span></code></pre></div><p>It looks complicated but can be unpacked as follows: <code>sapply</code> takes a vector and a function, applying the function to each element of the vector. The first, inner, call to <code>sapply</code> constructs the vector for the second, outer, call. The vector constructed consists of uniformly generated random numbers between 0 and 1 (using <code>runif</code>). The second <code>sapply</code> calls <code>qnorm</code>, which is R&rsquo;s approximation to the inverse cumulative distribution function of the normal distribution. The additional parameters to the second <code>sapply</code> are the parameters required by <code>qnorm</code>.</p>
 <p>The new code ran on my work laptop and took just over four minutes to finish. This is what stunned me into writing this post. Even though both bits of code had taken a similar amount of time to run in the test case, the time invested in writing things properly is well worth the extra effort.</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>There will be future posts about <code>dplyr</code>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:2">
-<p>This indicator involved the use of publicly available data so I was free to use the code at home.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:3">
-<p>That said, at the time of writing there is &lt;a href=&quot;https://github.com/tidyverse/dplyr/issues/2813&quot;&gt;an open github issue</a> about the slowness of <code>mutate_at()</code> in the current version of <code>dplyr</code>.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:4">
-<p>Various properties and generators of random numbers from various distributions are discussed in &lt;a href=&quot;https://mattischrome.com/generate-random-numbers-in-r/&quot;&gt;this post</a>.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
-
   </section>
 
   

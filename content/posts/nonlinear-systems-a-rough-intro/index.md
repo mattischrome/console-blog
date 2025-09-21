@@ -7,6 +7,7 @@ title: 'Nonlinear Systems: A Rough Intro'
 ---
 This is another mathematics post that does not actually feature any equations or graphs. It is intended to set the way clear for writing regularly about nonlinear systems. This in itself is a precursor to writing more about mathematical biology as biological systems are inherently complex and nonlinear. I am reading [P. G. Drazin’s textbook on Nonlinear Systems](http://www.amazon.co.uk/Nonlinear-Systems-Cambridge-Applied-Mathematics/dp/0521406684/ref=sr_1_1?ie=UTF8&qid=1349212296&sr=8-1) and this post is a glossary of terms from the start of the book laid down here because I wanted to remember how to typeset [definition lists](http://www.w3schools.com/tags/tag_dl.asp) in Markdown (though in the end I (ab)used `<h4>` tags because it looked better).
 
+<!--more-->
 #### Nonlinear system
 
 A set of nonlinear equations, which may be algebraic, functional, ordinary differential, partial differential, integral or a combination of these. Often the system will depend on given parameters. It is generally helpful to think of a nonlinear system as a feedback loop in which the response is not proportional to the the input. There are a great number of applications for the theory of nonlinear systems, as we shall see when the series of mathematical biology posts really gets going.

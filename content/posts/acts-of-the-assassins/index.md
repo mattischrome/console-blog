@@ -1,13 +1,13 @@
 ---
 category: Books
 date: '2016-07-30'
-
 tags: ["Books", "Richard Beard", "Fiction", "Sixteen"]
 title: Richard Beard, Acts of the Assassins
 ---
 [Acts of the Assassins](https://www.waterstones.com/book/acts-of-the-assassins/richard-beard/9780099592938) is an interesting novel by [Richard Beard](http://www.richardbeard.info) that retells the story of [the apostles](https://en.wikipedia.org/wiki/Apostle_(Christian)) and their deaths. It uses a modern crime genre style and a contemporary setting. The author himself refers to it as "Gospel Noir".
 Cassius Gallio, a Roman CSI-type referred to as a speculator, investigates the murders of the apostles following the crucifixion and resurrection of Jesus. Gallio, charged with guarding the body following Jesus' death and greatly undermined by the disappearance of the body, views the resurrection as the greatest conspiracy of the age.
 
+<!--more-->
 It's even stranger and more interesting than that because the novel unfolds in a superposition of past and present. Rather than updating every aspect of the story of the apostles and then bending the story to suit, Beard instead allows the action to progress regardless. If a narrative event requires a modern element of the story to proceed, then the modern version is used. When the story needs a more traditional take, that gets used. This means that the novel is neither a simple rehash of alleged events, nor an irreverent attempt to update them. The meaning of the events is the same either way, so why not superimpose the two versions of the narrative.
 
 The modern setting allows for some fun to be had with the narrative involving stakeouts, the DNA testing of glass fragments from Joseph of Arimathea's house, and the general crapness of English roads.

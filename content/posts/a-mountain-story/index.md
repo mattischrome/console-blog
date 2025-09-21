@@ -1,12 +1,12 @@
 ---
 category: Short Fiction
 date: '2012-11-27'
-
 tags: ["Ideas", "Modelling", "Short Story", "Twelve"]
 title: A Mountain Story
 ---
 A cat reaches the top of a mountain after a long climb through the snow. He is cold from the bottom of his fur to the tips of his claws. He is sodden and wet, and we all know how much a cat hates to be wet.
 
+<!--more-->
 At the top of the mountain there is not much to see. What may have been a breathtaking view is instead a murk of freezing mist and at any rate, snow assails the cat’s eyes and whiskers. He shivers and sneezes.
 
 “Bless you!” cries a dog who is already there, he sits about twenty metres away and is wearing a pair of sunglasses. “Come here and rest a while weary traveller!” He motions to his left and sweeps about two inches of snow off the bench he is sitting on. It is painted green as though it has been just this instant transported from a suburban park.

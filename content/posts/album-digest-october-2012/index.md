@@ -1,12 +1,12 @@
 ---
 category: Music
 date: '2012-10-31'
-
 tags: ["Music", "Album Digest", "October", "Ricardo Villalobos", "Laurie Spiegel", "Daphni", "Mala", "Twelve"]
 title: Album Digest, October 2012
 ---
 It has been a strange month and I found that I didn’t listen to a lot of new music. I have been a bit down and when that’s the case I tend to take refuge in music that I know well, stuff that cheers me up. I have listened to last month’s fave a lot, Nelly Furtado’s “The Spirit Indestructible”. I said a lot of nice things about it but it probably didn’t come over in my writing just how much I really liked it.
 
+<!--more-->
 Meanwhile, there were five albums I mostly got my teeth into this month though I didn’t listen to them as often as I would have liked. I will write now about four of the five that are similar to one another. The fifth album is “The Haunted Man” by Bat For Lashes, but I will wait until next month to write about that as I’d like to take a little more time to unpack it and get to know the songs better. The other four albums don’t really have songs, so it is less of a problem. All four are by and large abstract electronic albums and so I am going to write about them in a pretty general way. The albums are:
 
 1. “Dependent And Happy” by Ricardo Villalobos

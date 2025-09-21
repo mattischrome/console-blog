@@ -1,12 +1,12 @@
 ---
 category: Writing
 date: '2015-12-17'
-
 tags: ["Writing", "Blogging", "Fifteen", "Twenty"]
 title: The Long Post
 ---
 I am writing a long post that I will either publish as one long post (about five or six thousand words) or as about seven smaller ones each closer to the average post length of about eight hundred words. I have to get it out-of-the-way soon as my mind needs to focus on my health economics essay.
 
+<!--more-->
 It is hard to write short posts to a timetable, let alone churn out long posts on a regular basis. As a result, this longer post is not likely to become the norm. It's an idea I had that bloomed into something ever bigger and this time I decided to have a crack at it.
 
 My WordPress dashboard includes a post that I wrote over two months ago in my "recent" posts. The swanky new WordPress.com app has an insights tab in its stats section that shows a heat map of posts by month and mine are looking rather sparse. Hence this little post to keep things going.

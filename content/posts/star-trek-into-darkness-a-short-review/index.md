@@ -1,12 +1,12 @@
 ---
 category: Films
 date: '2013-05-17'
-
 tags: ["Films", "Science Fiction", "Thirteen"]
 title: 'Star Trek: Into Darkness - A Short Review'
 ---
 I saw _Star Trek: Into Darkness_ last night in 3D at the IMAX in Waterloo. I am going to have to separate this into a review into two parts, a review of the film and a review of the viewing experience. I am not completely happy with how the film experience is changed by the 3D and the super big screen and I will try to explain what I mean.
 
+<!--more-->
 First the film. I will keep this brief because I don't really want to give up too many spoilers. I think it is pretty obvious from the trailer that this film is an amalgamation of _The Wrath Of Kahn_ and _The Search Of Spock_, but much like the mirror universe episodes of the TV series -- and because these films have spun off another strand of the Trek universe -- there is a lot of fun to be had in detecting the inversions from the two classic Trek films. If you've never seen those old films it does not matter, the film goes into warp from the first reel and benefits greatly from squeezing the plots of two films (okay, one and a half) into one.
 
 The usual rules apply of in that all laws of physics are suspended in service of keeping things crunching along and most of the action sequences are effectively geared to keeping you distracted from the fact that all they are trying to do is press a button. This is my only gripe with the actual film: it tries to hard to appease the members of the audience who are not sci-fi fans. While producing crash-bang-wallop Star Trek films is great for getting your friends into the cinema with you to see it, it would be nice if there were something in the plot that had a deeper meaning or required us to stretch our imagination or get our heads around something. Perhaps we will get that next time.

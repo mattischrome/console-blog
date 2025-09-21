@@ -1,12 +1,12 @@
 ---
 category: Art
 date: '2013-10-12'
-
 tags: ["Art", "Tate Britain", "Art Under Attack", "Thirteen"]
 title: Art Under Attack at Tate Britain
 ---
 Today I went with a friend to see [Tate Britain's "Art Under Attack" show](http://www.tate.org.uk/whats-on/tate-britain/exhibition/art-under-attack-histories-british-iconoclasm). It's an interesting, if uneven, affair that entertains but doesn't quite succeed in everything it attempts to do. The big word that you learn is iconoclasm: the act of attacking an object believed to represent particular beliefs. The show splits into two parts: ideological acts of iconoclasm committed against works of art in Britain and the work of British artists who embrace iconoclasm as a means for making art. The first half (comprising more than half of the show - because I lump together two of the shows sections "Religion" and "Politics" into this half) is more interesting and successful than the second ("Aesthetics").
 
+<!--more-->
 Why has Tate Britain created an exhibition about iconoclasm in Britain? It might have something to do with [an incident last year at Tate Modern in which one of the wonderful Rothko Red paintings was "vandalised"](http://www.telegraph.co.uk/culture/art/art-news/9592962/Rothko-painting-vandalised-in-Tate-Modern.html) in the name of some dubious art movement or other (["yellowism" apparently](http://www.thisisyellowism.com)). Sadly that Rothko is not on display in the show and the incident was not mentioned at all, which seems like a shame.
 
 The religious section of the show was captivating, showing just how much fine art and cultural heritage the reformation destroyed. The remains on display are heartbreaking, mere fragments of beautiful sculptures, paintings, and stained glass windows, alongside erasures and excisions from fine illuminated manuscripts. The exhibition takes great pains to explain that this process did not just take place at the orders of Henry VIII, but also later on under Edward IV and under the puritans during the interregnum. The ideology of the reformation held that lavish representations of religious imagery were a form of idolatry, the worship of graven images and such like forbidden by the second commandment. The show displays some of the works of art that replaced the destroyed images, large bodies of text devoted to the scripture that was held to be the true representation of the Christian faith. To this day, these events have ground into us a love of textual messages - witness the "Keep Calm and Carry On" posters that you see everywhere.

@@ -1,12 +1,12 @@
 ---
 category: Art
 date: '2013-05-29'
-
 tags: ["Royal Academy", "George Bellows", "Art", "Thirteen"]
 title: George Bellows At RA
 ---
 Today I went to see "George Bellows 1882-1925 Modern American Life" [at the Royal Academy of Arts](http://www.royalacademy.org.uk/exhibitions/george-bellows/). It's the first time I've been to the RA but I was emboldened by my art pass and the fact that Bellows was a contemporary of Edward Hopper, a painter whom I admire greatly. This is the first major retrospective of Bellows' work in the UK and taking in his wonderful paintings this afternoon, I felt a little embarrassed that I hadn't seen anything of his before.
 
+<!--more-->
 Bellows gained notoriety for his boxing paintings. In the hero image above, which shows the advert for the show, the painting [_A Stag At Sharkey's_](https://www.artfinder.com/story/george-bellows-stag-at-sharkeys-1909/) (1909) has been incorporated. It's a great painting that simultaneously captures the raw energy of the fight and the seedy atmosphere of what would then have been illegal boxing venues. I will return to the boxing pictures again later.
 
 ![George Bellows, New York](../../assets/images/other/George_Bellows_New_York.jpg)

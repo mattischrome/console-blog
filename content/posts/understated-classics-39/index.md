@@ -7,6 +7,7 @@ title: 'Understated Classics #39: Lifeforms by Future Sound of London'
 ---
 **Lifeforms** is the 1994 album from the Future Sound of London. A double album (just), it also features the talents of Robert Fripp, Ozric Tentacles, Talvin Singh, Toni Halliday, and Liz Frazer. It reached number 6 on the UK album chart and went silver.  
 
+<!--more-->
 I have wanted to write about the **Lifeforms** album for a long time. In 2012, I even tried learning how to tell the tracks apart from one another. It was not a success. Ten years later, I know some of them but not all. I know all the music, of course, but the album as a whole resists my trainspotter-like urge to identify the margins and components of every track. 
 
 Aware that I have written about quite a few ambient albums for this series, it’s worth noting the ways in which **Lifeforms** differs from say Eno and Budd’s **Ambient 2** or The Shamen’s **Arbor Bona Arbor Mala**. **Lifeforms** is very much composed electronic ambient, rather something generated. This is despite the provision of ‘textures’ on many tracks, Liz Frazer’s wordless contributions to the title track, and the other fragments and samples that echo through the album. While the album evolves much like the titular lifeforms it is meant to evoke, it also feels deliberate and planned in many places – a series of coincidences and accidents that were nonetheless put into motion.

@@ -1,12 +1,12 @@
 ---
 category: Life Experiences
 date: '2016-09-08'
-
 tags: ["Writing", "Blogging", "Depression", "Ideas", "Sixteen"]
 title: I Don't Have a Clue, part 43
 ---
 *A little man wearing a bow tie, and possibly a fez, scurries into the middle of the frame clutching a clapboard. Breathing heavily he hoists the clapboard up to chest height. He holds the clapper up then brings down while slurring &quot;This is a blog post about not having a clue, take 43&quot;. He exits to the right of the frame.*
 
+<!--more-->
 My feet are hot. The bed seems too small. Why are my feet always too hot on nights like these? I bet I could sleep if my feet weren&#39;t so hot.
 
 *The 'writer' flicks on a lamp in a dark lounge room. He sets up laptop down at the desk, arcs up the lid. He fetches a mug of milk. Tents his hands, wearily rubs his eyes and tries to type out the ideas that were keeping him awake.*

@@ -1,12 +1,12 @@
 ---
 category: Films
 date: '2018-01-25'
-
 tags: ["Films", "Eighteen", "Oscars"]
 title: Three Billboards Outside Ebbing, Missouri
 ---
 Ingrid and I renewed our Cineworld passes as it is the season to go to the movies and check out the Oscar contenders. You nod along sagely while dreaming up superlatives to show how much you agree with the taste-makers. Or you can call such-and-such movie a pretentious load of crap.
 
+<!--more-->
 With "Three Billboards Outside Ebbing, Missouri", it's more the former. But I don't have to say anything pretentious about the cinematography or its timeliness. Most people will recognise those elements. Instead, I can say it is a *good* film. An enjoyable movie. A flat-out entertaining one in fact.
 
 You might not think so from a summary of the plot. To track down who raped and murdered her daughter, Mildred Hayes (Frances McDormand) has three billboards erected outside Ebbing, Missouri. They accuse the Sheriff (Woody Harrelson) of not doing enough to catch the killer. This causes uproar among the town's population, not least a tetchy deputy, Jason Dixon (Sam Rockwell).

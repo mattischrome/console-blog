@@ -1,12 +1,12 @@
 ---
 category: Travel
 date: '2016-04-11'
-
 tags: ["Travel", "Europe", "Switzerland", "Photos", "Sixteen"]
 title: Lausanne, Switzerland, March 2016
 ---
 Just before Easter Ingrid and I went to Lausanne in Switzerland for a few days. It was a much-needed break and my first trip out of the UK since I got back from South America.
 
+<!--more-->
 We caught an early train to Gatwick. It took a strange route along the coast via Worthing and Hove, which was annoying because we could have left later if a more direct train were available at that time of day. At least it wasn&#39;t late, which for Southern is really rare.
 
 Bleary-eyed we got the monorail to the North terminal and fumbled our way through customs. As usual I forgot to take off my belt. We had a reasonable breakfast and people-watched as young men ordered cocktails at 7am in the morning: makes you proud to be British.

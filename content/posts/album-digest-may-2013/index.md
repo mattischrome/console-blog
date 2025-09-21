@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["Album Digest", "May", "Music", "Lilacs and Champagne", "The Phoenix Foundation", "The National", "Vampire Weekend", "Thirteen"]
 title: Album Digest, May 2013
 ---
+<!--more-->
+
 ## Lilacs & Champagne _Danish & Blue_
 
 You might remember that last year [I reviewed the first Lilacs & Champagne album](album-digest-february-2012) and I liked it a lot. This album sees them back with more of the same: taking the approach that if it ain't broke, don't fix it. There are very few changes to the formula apart from the fact that the spoken word samples are not quite as good this time and there's a bit more Grails-like guitar solo action.

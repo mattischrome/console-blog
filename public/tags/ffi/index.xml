@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/what-is-ffi-anyway/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/what-is-ffi-anyway/</guid>
-      <description>&lt;p&gt;At the moment I can’t compile this blog locally because my &lt;code&gt;ruby-ffi&lt;/code&gt; install is somehow wrong and is preventing Jekyll from running on my recently upgraded Mac system. Fortunately the site still compiles on Netlify, or else you wouldn’t be reading this!&lt;/p&gt;&#xA;&lt;p&gt;It’s always annoying when you rely on a complex multi-part system and some obscure part fails. It leaves you groping for answers and inventing unnecessary hack solutions. The dreaded old Stack Overflow rabbit hole. FFI stands for &lt;a href=&#34;https://en.wikipedia.org/wiki/Foreign_function_interface&#34;&gt;Foreign Function Interface&lt;/a&gt;, a mechanism that allows code written in one language to be called by another language.&lt;/p&gt;</description>
+      <description>&lt;p&gt;At the moment I can’t compile this blog locally because my &lt;code&gt;ruby-ffi&lt;/code&gt; install is somehow wrong and is preventing Jekyll from running on my recently upgraded Mac system. Fortunately the site still compiles on Netlify, or else you wouldn’t be reading this!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

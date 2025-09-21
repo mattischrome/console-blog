@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2015-04-19'
 slug: understated-classics-30
-
-tags: ["Music", "Red Snapper", "Understated Classics", "Fifteen", "Electronic"]
+tags: ["Music","Red Snapper","Understated Classics","Fifteen","Electronic"]
 title: 'Understated Classics #30: Our Aim Is to Satisfy by Red Snapper'
 ---
-The thirtieth understated classic is by a band named after a fish. There isn't a great deal for me to say about "Our Aim Is To Satisfy"[^1] apart from the usual insistence that it is quite good. There's no overarching theme to write about, and no deep personal story attached. It was bound to happen eventually.
+The thirtieth understated classic is by a band named after a fish. There isn't a great deal for me to say about "Our Aim Is To Satisfy"{{% sidenote "sn-1" %}}A note on the title of the album, some sources refer to is as "Our Aim Is To Satisfy Red Snapper". Personally I think this is ridiculous.{{% /sidenote %}} apart from the usual insistence that it is quite good. There's no overarching theme to write about, and no deep personal story attached. It was bound to happen eventually.
 
+<!--more-->
 "Our Aim Is To Satisfy" is one of those albums spawned in the late nineties and early naughties at the height of the Electronica boom: dance music that you didn't necessarily have to dance to. It's not quite chill out music but nor is it song-based (for the most part) - it's mainly instrumental electronic music.
 
 What set Red Snapper apart was an insistence on live percussion. This must have made them quite a compelling proposition live, which must be why the ended up supporting The Prodigy during their tours of "The Fat of The Land". On record I'm not sure that it translates the same way - many of the drum tracks and bass lines are chopped up, messed up, and mucked around with, so I'm not sure how to interpret their "liveness". Perhaps it explains why "Our Aim Is To Satisfy" is so darn funky.
@@ -25,5 +25,3 @@ Built on a similar idea, but less successfully, is "The Rough and The Quick". It
 "Bussing" and "I Stole Your Car" are pretty anonymous, though the latter is still better than most of the tracks on Massive Attack's recent "Heligoland". The last three tracks are amazing, and are the ones that really do it for me. A downtempo suite of breathtaking beauty, they culminate in "They're Hanging Me Tonight" - a track that I often include in my playlists - I particularly like the dying feedback and fake CD skips towards the end (or was that in the mp3s from my CD copy? - they don't seem to be there on Spotify...).
 
 Red Snapper aim to satisfy and they generally do on this album, which grafts live instruments and electronics in impressive fashion. Largely enjoyable and easy to get immersed in, it has me coming back to it time and time again. Be sure to check it out.
-
-[^1]: A note on the name of the album, some sources refer to is as "Our Aim Is To Satisfy Red Snapper". Personally I think this is ridiculous.

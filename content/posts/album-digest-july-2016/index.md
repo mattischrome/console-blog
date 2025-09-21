@@ -7,6 +7,7 @@ title: Album Digest, July 2016
 ---
 Album Digest July 2016 consists of a bumper five albums, mainly because I couldn't work out which one to drop. I think they're all pretty good though it's great to hear new music from The Avalanches after all this time.
 
+<!--more-->
 ## Bat For Lashes "The Bride"
 
 For her fourth album as Bat For Lashes, Natasha Khan applies her considerable songwriting skills to a concept album. She sings from the perspective of a bride whose husband dies on his way to their wedding. Almost all artists would deliver this subject matter in a melodramatic way, but Khan focusses on the sadness and delivers a beautiful suite of songs.

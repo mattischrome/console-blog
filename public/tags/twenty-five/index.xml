@@ -97,7 +97,7 @@
       <link>http://localhost:1313/posts/a-collection-of-links-about-blogging/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a-collection-of-links-about-blogging/</guid>
-      <description>&lt;p&gt;If you are thinking about making your own blog, here are some links to help you on your way.&lt;/p&gt;&#xA;&lt;p&gt;This is a very simple introduction to making websites that Pixel Shannon wrote for her daughter to help her create a website for a class project. It&amp;rsquo;s not completely at a 12 year old&amp;rsquo;s level, so don&amp;rsquo;t be put off by that idea. She gives a very good introduction to what HTML is and what else you have to put in there to get a website up and running. There&amp;rsquo;s also a big list of resources that I won&amp;rsquo;t repeat here, so be sure to check those out too:&lt;/p&gt;</description>
+      <description>&lt;p&gt;If you are thinking about making your own blog, here are some links to help you on your way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some Initial Thoughts About Civilization VII</title>
@@ -125,7 +125,7 @@
       <link>http://localhost:1313/posts/all-part-of-the-process/</link>
       <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/all-part-of-the-process/</guid>
-      <description>&lt;p&gt;Writing a blog post every day is not essential. It&amp;rsquo;s not part of some new year&amp;rsquo;s resolution, despite the fact that the start of this unbroken streak of posts was January 1st. If anything my new year&amp;rsquo;s resolution has been to try and step gently away from my perfection. And the adoption of that resolution began in the middle of 2024 rather than new year&amp;rsquo;s day.&lt;/p&gt;&#xA;&lt;p&gt;Around September time, I realised and began to recognise myself as I read many descriptions of crippling perfectionism, especially in how it relates to depression. Depression is a weird experience that is simultaneously subjective but also measurable in many ways. It became clearer and clearer to me that perfectionism was a significant component to my problems, in both work and the rest of life (i.e. the part that is most important). And so I began to try and undo a lifetime of thinking in a particular way, mostly guided by a set of rules that I now write down in all my notebooks. Those rules are for me, so I won&amp;rsquo;t share them here, at least not today. But they are eminently findable on the internet and recognisable variations of common themes in self-help literature. I still need to work out which of them are genuine rules and which are merely guidelines.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Writing a blog post every day is not essential. It&amp;rsquo;s not part of some new year&amp;rsquo;s resolution, despite the fact that the start of this unbroken streak of posts was January 1st. If anything my new year&amp;rsquo;s resolution has been to try and step gently away from my perfection. And the adoption of that resolution began in the middle of 2024 rather than new year&amp;rsquo;s day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Incredible Shrinking Blog Post</title>
@@ -167,35 +167,35 @@
       <link>http://localhost:1313/posts/slots-and-pipes/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/slots-and-pipes/</guid>
-      <description>&lt;p&gt;Recent explorations in R have reminded me about two ways of thinking about how you refer to objects or (parts of objects) in the language.&lt;/p&gt;&#xA;&lt;p&gt;Slots are probably what you learn about first, they use the &lt;code&gt;$&lt;/code&gt; syntax. In R, the &lt;code&gt;$&lt;/code&gt; operator is used to access specific elements or columns within a data structure, such as a list, data frame, or environment. You can think of it as an ersatz shorthand for the &lt;code&gt;tidyverse::select()&lt;/code&gt; function, except that the latter is more powerful because you can do funky things like selecting multiple columns programmatically. By programmatically I mean &amp;ldquo;in some way that is not predetermined until you run your code&amp;rdquo;, e.g. because you are selecting a subset of columns of your data frame that didn&amp;rsquo;t exist until (long) before that step. Anyway, back to &lt;code&gt;$&lt;/code&gt;, it&amp;rsquo;s a way of selecting a particular column of a data frame or any smaller part of an object in R. In fact, one of my main use cases for &lt;code&gt;$&lt;/code&gt; used to be for recalculating columns in a data frame when I wasn&amp;rsquo;t confident about using &lt;code&gt;mutate()&lt;/code&gt;: changing a column to a factor with &lt;code&gt;mutate()&lt;/code&gt; gave me the heebie-jeebies for a long time.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Recent explorations in R have reminded me about two ways of thinking about how you refer to objects or (parts of objects) in the language.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Into February</title>
       <link>http://localhost:1313/posts/into-february/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/into-february/</guid>
-      <description>&lt;p&gt;Having made it to one post per day in January, we now move into February: that graveyard of good habits for the new year. What is it about flipping over the calendar to a new month that does away with our resolve to continue with our resolutions? My office calendar has a lovely picture of a German steam train in the snow, in case you were wondering.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m going to reward myself at some point by allowing myself to fiddle with the blog&amp;rsquo;s theme a little more. Over the years, I&amp;rsquo;ve probably fiddled more with how the blog looks, rather than focussing on what to write. I&amp;rsquo;ve also turned on Hugo&amp;rsquo;s related posts module. The results are pretty high quality and it doesn&amp;rsquo;t seem to affect the build time of the site. A custom version is still a pet project for the future though.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Having made it to one post per day in January, we now move into February: that graveyard of good habits for the new year. What is it about flipping over the calendar to a new month that does away with our resolve to continue with our resolutions? My office calendar has a lovely picture of a German steam train in the snow, in case you were wondering.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dithering Around</title>
       <link>http://localhost:1313/posts/dithering-around/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/dithering-around/</guid>
-      <description>&lt;p&gt;While off sick and under the weather I decided to play around with presenting the photos on this blog in a fashion more in keeping with the current Hugo theme.&lt;/p&gt;&#xA;&lt;p&gt;I used &lt;a href=&#34;https://imagemagick.org&#34;&gt;Imagemagick&lt;/a&gt; to process the same files from &lt;a href=&#34;http://localhost:1313/posts/in-praise-of-paris/&#34;&gt;the Paris post&lt;/a&gt; earlier this week. I made them a bit smaller, reduced the number of colours to 256, posterized them (a built-in Imagemagick function that groups colours), and then did a dither on them.&lt;/p&gt;</description>
+      <description>&lt;p&gt;While off sick and under the weather I decided to play around with presenting the photos on this blog in a fashion more in keeping with the current Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Charlie XCX, Brat</title>
       <link>http://localhost:1313/posts/charlie-xcx-brat/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/charlie-xcx-brat/</guid>
-      <description>&lt;p&gt;When making my albums of the year posts at the start of the month, I realised that compared to many other critics lists, there was no sign of &lt;em&gt;Brat&lt;/em&gt; by Charlie XCX. And when it came up again on my album shuffle the other day, I  thought I should re-evaluate the album and whether it should have made my list.&lt;/p&gt;&#xA;&lt;p&gt;Listening to &lt;em&gt;Brat&lt;/em&gt; again for this post, it was clear that I&amp;rsquo;d missed out on something special. This was partly because I went for a walk with it on my headphones and that always lets me hear the details of the music. I think too many times when this album came on at home, it would be a little bit too doof-doof to be background music. These are songs that do demand (and deserve) a bit of attention.&lt;/p&gt;</description>
+      <description>&lt;p&gt;When making my albums of the year posts at the start of the month, I realised that compared to many other critics lists, there was no sign of &lt;em&gt;Brat&lt;/em&gt; by Charlie XCX. And when it came up again on my album shuffle the other day, I  thought I should re-evaluate the album and whether it should have made my list.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dora Carrington</title>
       <link>http://localhost:1313/posts/dora-carrington-at-pallant-house/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/dora-carrington-at-pallant-house/</guid>
-      <description>&lt;p&gt;Dora Carrington was an artist loosely affiliated with the Bloomsbury Group and noted for her unconventional lifestyle. Despite a short career, her work had a great impact and &lt;a href=&#34;https://pallant.org.uk/whats-on/dora-carrington/&#34;&gt;a retrospective at the Pallant House Gallery in Chichester&lt;/a&gt; brings together some of her major works.&lt;/p&gt;&#xA;&lt;p&gt;I was a bit confused at the start of the show, as I had got my Carrington&amp;rsquo;s wrong! I&amp;rsquo;d been thinking this was a show about &lt;a href=&#34;https://en.wikipedia.org/wiki/Leonora_Carrington&#34;&gt;Leonora Carrington&lt;/a&gt; who was active later, initially in circles with Max Ernst, and later on in her own right in Mexico City. I will have to wait for a retrospective of her work another time.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dora Carrington was an artist loosely affiliated with the Bloomsbury Group and noted for her unconventional lifestyle. Despite a short career, her work had a great impact and &lt;a href=&#34;https://pallant.org.uk/whats-on/dora-carrington/&#34;&gt;a retrospective at the Pallant House Gallery in Chichester&lt;/a&gt; brings together some of her major works.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thai Green Curry</title>
@@ -209,7 +209,7 @@
       <link>http://localhost:1313/posts/in-praise-of-paris/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/in-praise-of-paris/</guid>
-      <description>&lt;p&gt;This time last year, Ingrid and I were on the Eurostar to Paris for four days. We did so much in our time there that I couldn&amp;rsquo;t write about it at the time. Here&amp;rsquo;s a little summary with a few photos.&lt;/p&gt;&#xA;&lt;p&gt;Our chief aim was to take in as much Rodin as possible (as he&amp;rsquo;s Ingrid&amp;rsquo;s favourite sculptor) so on the Saturday we set out for Montparnasse and struck out for Meudon, where his house is. And&amp;hellip; it was closed for winter!&lt;/p&gt;</description>
+      <description>&lt;p&gt;This time last year, Ingrid and I were on the Eurostar to Paris for four days. We did so much in our time there that I couldn&amp;rsquo;t write about it at the time. Here&amp;rsquo;s a little summary with a few photos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Human in the Loop</title>
@@ -237,14 +237,14 @@
       <link>http://localhost:1313/posts/underworld-strawberrry-hotel/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/underworld-strawberrry-hotel/</guid>
-      <description>&lt;p&gt;An album that arrived a bit too late to be considered in the best of the year list, &lt;em&gt;Strawberry Hotel&lt;/em&gt; by Underworld is a solid effort. Their 11th album, it remarks their return to the format after five years after the &lt;em&gt;Drift&lt;/em&gt; series in 2019.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Drift&lt;/em&gt; had been an interesting experiment where Underworld had tried to put out a new track each week and grouping several weeks worth into EPs before putting out a massive 6+ hour box set. The striking thing about the project was that it was so good. They released a sampler edition of the album which cherry picked the best songs, but almost every track released as part of &lt;em&gt;Drift&lt;/em&gt; could be swapped into that sampler.&lt;/p&gt;</description>
+      <description>&lt;p&gt;An album that arrived a bit too late to be considered in the best of the year list, &lt;em&gt;Strawberry Hotel&lt;/em&gt; by Underworld is a solid effort. Their 11th album, it remarks their return to the format after five years after the &lt;em&gt;Drift&lt;/em&gt; series in 2019.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Push the right key</title>
       <link>http://localhost:1313/posts/push-the-right-key/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/push-the-right-key/</guid>
-      <description>&lt;p&gt;One of the absurd barriers to writing regularly is that my new post script is written to open the new markdown file in Neovim and until this week I had no idea how to type a hashtag (which markdown uses for headers) in this editor.&lt;/p&gt;&#xA;&lt;p&gt;Neovim, and its venerable predecessors vi and vim, is notorious for being a bit tricksy to work with. This is because it is a modal editor: you use keys to switch the editor between modes. The same key presses mean different things in different modes, which can be frustrating when you first start out and have no clue what is going on.&lt;/p&gt;</description>
+      <description>&lt;p&gt;One of the absurd barriers to writing regularly is that my new post script is written to open the new markdown file in Neovim and until this week I had no idea how to type a hashtag (which markdown uses for headers) in this editor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sticky Toffee Pudding</title>
@@ -265,7 +265,7 @@
       <link>http://localhost:1313/posts/nineteen-out-of-nineteen/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/nineteen-out-of-nineteen/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m having trouble finding something to write about today. Partly the problem of having a productive weekend of doing things rather than ruminating on blog topics. So unfortunately, we get another space-filling post.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve got lots of books on the go at the moment, including &amp;ldquo;Orbital&amp;rdquo; which won the Booker prize this year and &amp;ldquo;Otherlands&amp;rdquo; which is a really cool book about natural history going back in time through the eras of the Earth.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;m having trouble finding something to write about today. Partly the problem of having a productive weekend of doing things rather than ruminating on blog topics. So unfortunately, we get another space-filling post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Lost Guide to CIV VI</title>
@@ -286,10 +286,10 @@
       <link>http://localhost:1313/posts/a-realisation/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a-realisation/</guid>
-      <description>&lt;p&gt;One of the best pieces of advice I have ever been given about how to tackle programming problems is to treat your code as comments that describe your program to the computer, whilst the comments that are there for humans to read should tell them how the program is supposed to work.&lt;/p&gt;&#xA;&lt;p&gt;In recent days I have come to a realisation that you also need to try and see things as the computer sees them, rather than expecting it to see what you can see. I was working with some data that were formatted in a pretty way for humans and I was completely flummoxed because I couldn&amp;rsquo;t get &lt;em&gt;any&lt;/em&gt; of it into R. The more I stared at the files, the more I began to see all these weird anomalies like completely blank columns that had been shrunk to near zero widths and inconsistencies between files with how the main components of the data were stored. It&amp;rsquo;s been a strange experience!&lt;/p&gt;</description>
+      <description>&lt;p&gt;One of the best pieces of advice I have ever been given about how to tackle programming problems is to treat your code as comments that describe your program to the computer, whilst the comments that are there for humans to read should tell them how the program is supposed to work.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Parquet Courts Sympathy For Life</title>
+      <title>Parquet Courts, Sympathy For Life</title>
       <link>http://localhost:1313/posts/parquet-courts-sympathy-for-life/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/parquet-courts-sympathy-for-life/</guid>
@@ -307,21 +307,21 @@
       <link>http://localhost:1313/posts/in-praise-of-pilates/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/in-praise-of-pilates/</guid>
-      <description>&lt;p&gt;In searching for something to write about today, I wondered whether I had ever written about Pilates on this blog before. I modified &lt;a href=&#34;http://localhost:1313/posts/fun-with-chatgpt/&#34;&gt;the search of my posts from yesterday&amp;rsquo;s post&lt;/a&gt; to look for the word Pilates&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; and it only came up once in &lt;a href=&#34;http://localhost:1313/posts/ambitions-revisited/&#34;&gt;a post about revisiting my ambitions ten years on&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;There I wrote:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I haven’t taken up meditation at all because the inside of my head is way too noisy. What I did do (at Ingrid’s suggestion) is take up Pilates: I swear by it now. It’s not quite the same as meditation but I’ve found the improvements to my core strength to be quite useful for my mental health.&amp;rdquo;&lt;/p&gt;</description>
+      <description>&lt;p&gt;In searching for something to write about today, I wondered whether I had ever written about Pilates on this blog before. I modified &lt;a href=&#34;http://localhost:1313/posts/fun-with-chatgpt/&#34;&gt;the search of my posts from yesterday&amp;rsquo;s post&lt;/a&gt; to look for the word Pilates&lt;label for=&#34;sidenote-7f5229dc68644cc7b6fae73d318b8a3c-0&#34; class=&#34;margin-toggle sidenote-number&#34;&gt;&lt;/label&gt;&lt;input type=&#34;checkbox&#34; id=&#34;sidenote-7f5229dc68644cc7b6fae73d318b8a3c-0&#34; class=&#34;margin-toggle&#34;/&gt;&#xA;&lt;span class=&#34;sidenote&#34;&gt;I could have also just used CMD+F in Visual Studio Code, but where&amp;rsquo;s the fun in that?&lt;/span&gt; and it only came up once in &lt;a href=&#34;http://localhost:1313/posts/ambitions-revisited/&#34;&gt;a post about revisiting my ambitions ten years on&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fun With Chat-GPT</title>
       <link>http://localhost:1313/posts/fun-with-chatgpt/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/fun-with-chatgpt/</guid>
-      <description>&lt;p&gt;I asked:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;For my blog I have a folder called posts. In that folder are more folders that are named for the slug of each post, as per the conventions of the Hugo static site generator. Those folders each contain a markdown file named index.md, each of which has a YAML header. Draft posts have a YAML key called draft which has the value true. Please can you write me a shell script that I can run from the directory above posts that tells me which folders in the posts folder contain draft posts?&lt;/p&gt;</description>
+      <description>&lt;p&gt;I asked:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Don&#39;t Break The Chain</title>
       <link>http://localhost:1313/posts/dont-break-the-chain/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/dont-break-the-chain/</guid>
-      <description>&lt;p&gt;2025 might be a tough year, but I am going to try and blog every day. It means that now and then I might be writing a post like this one, where I am writing for the sake of continuing the streak. If I find myself doing that too often then I will take the hint and stop trying!&lt;/p&gt;&#xA;&lt;p&gt;This weekend was the 3rd round of the FA Cup, which is when the premier league and championship teams enter the competition. This is the first time for quite a few years where Portsmouth have entered at this stage. Naturally, they&amp;rsquo;re already out! Mind you, in recent years when they&amp;rsquo;ve entered at the first round they haven&amp;rsquo;t made it past those rounds either. That was bad news for one pub in Portsmouth which always made a big show of not taking down their Christmas decorations until Pompey were out of the FA Cup!&lt;/p&gt;</description>
+      <description>&lt;p&gt;2025 might be a tough year, but I am going to try and blog every day. It means that now and then I might be writing a post like this one, where I am writing for the sake of continuing the streak. If I find myself doing that too often then I will take the hint and stop trying!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

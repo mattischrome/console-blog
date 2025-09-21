@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["J. G. Ballard", "Reading Projects", "Science Fiction", "Books", "Ten"]
 title: J. G. Ballard, The Drowned World
 ---
+<!--more-->
+
 ### Does Science Fiction have to be believable to be meaningful?
 
 Should science fiction have predictive power? In plotting the vast unknowns of the future, should authors aim for prescience? Will people be able to say of the best SF novels in five hundred years time that some novels were right about some things and that these novels are better than the ones that didn’t?

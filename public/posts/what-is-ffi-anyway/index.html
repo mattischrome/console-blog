@@ -12,7 +12,7 @@
 
 
 <link rel="stylesheet" type="text/css" href="/css/navbar.css">
-<link rel="stylesheet" type="text/css" href="/css/colours.css">
+<link rel="stylesheet" type="text/css" href="/css/colours-old.css">
 <link rel="stylesheet" type="text/css" href="/css/fonts.css">
 <link rel="stylesheet" type="text/css" href="/css/default.css">
 
@@ -20,6 +20,7 @@
 
 
 <link rel="stylesheet" type="text/css" href="/css/sidenotes.css">
+<link rel="stylesheet" type="text/css" href="/css/margin-figure.css">
 
 
 
@@ -95,16 +96,8 @@
     <p>At the moment I can’t compile this blog locally because my <code>ruby-ffi</code> install is somehow wrong and is preventing Jekyll from running on my recently upgraded Mac system. Fortunately the site still compiles on Netlify, or else you wouldn’t be reading this!</p>
 <p>It’s always annoying when you rely on a complex multi-part system and some obscure part fails. It leaves you groping for answers and inventing unnecessary hack solutions. The dreaded old Stack Overflow rabbit hole. FFI stands for <a href="https://en.wikipedia.org/wiki/Foreign_function_interface">Foreign Function Interface</a>, a mechanism that allows code written in one language to be called by another language.</p>
 <p>In Ruby, this functionality is encapsulated in <code>ruby-ffi</code> gem. This is the one that keeps on breaking for me. There are a great many places where using code written in other programming languages alongside Ruby would be useful in a static site generator like Jekyll. When looking at where Jekyll depended on  <code>ruby-ffi</code>, the first dependency I found was a gem that reads in HTML documents and understands their structure - presumably code that had already been written in a fast and open source way in a language like Java or C.</p>
-<p>So why doesn’t it want to run on M1? Most solutions suggest to force install the x64 version which can then be run with Rosetta. I’m loathe to try this though, as it might be I get stuck with a suboptimal version of <code>ruby-ffi</code> going forward<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. That said, Jekyll seems pretty moribund at this point, and so it might be worth experimenting just to get the local build working. My qualms aren’t going to matter if I’m going to use a more modern tool like <a href="https://www.11ty.dev" title="Link to the Eleventy website"> Eleventy</a> in the future.</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>I suppose one would forcibly uninstall the x64 <code>ruby-ffi</code> and then reinstall the arm64 version.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
-
+<p>So why doesn’t it want to run on M1? Most solutions suggest to force install the x64 version which can then be run with Rosetta. I’m loathe to try this though, as it might be I get stuck with a suboptimal version of <code>ruby-ffi</code> going forward.<label for="sidenote-a99036dd8055cf4895d3057ab5d05105-0" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sidenote-a99036dd8055cf4895d3057ab5d05105-0" class="margin-toggle"/>
+<span class="sidenote">I suppose one would forcibly uninstall the x64 <code>ruby-ffi</code> and then reinstall the arm64 version.</span> That said, Jekyll seems pretty moribund at this point, and so it might be worth experimenting just to get the local build working. My qualms aren’t going to matter if I’m going to use a more modern tool like <a href="https://www.11ty.dev" title="Link to the Eleventy website">Eleventy</a> in the future.</p>
   </section>
 
   

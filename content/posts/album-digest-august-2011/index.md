@@ -7,6 +7,7 @@ title: Album Digest, August 2011
 ---
 I bought a collection of electronic music this month. I mixed them all up in a smart playlist on iTunes, the smart aspect being to limit to tracks that had been played fewer than five then six then seven times etc. This made sure I was still listening to all the tracks equally often, despite the randomness.
 
+<!--more-->
 1. Biosphere _N-plants_
 2. Ford & Lopatin _Channel Pressure_
 3. Gus Gus _Arabian Horse_

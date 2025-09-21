@@ -5,13 +5,13 @@ slug: 2023-albums-01-sofia-kourtesis-madres
 tags: ['Album Digest','Music','Twenty Three','Albums','Sofia Kourtesis','Electronic']
 title: '2023 Albums of the Year #1: Sofia Kourtesis, Madres'
 ---
-Sofia Kourtesis is a Berlin-based Peruvian dance producer, "Madres" is her debut album which follows on from a 2021 EP "Fresia Magdalena". It was trailed by several singles, including the title track which caught my attention back in May. The album is dedicated to her parents and there are also songs dedicated to the surgeon who performed life-saving surgery on Kourtesis’s mother. The whole album is a heady mix of positivity and dedication to both music and to family. 
-
-<!--more-->
-
-![Cover of Madres by Sofia Kourtesis](../../assets/images/albums-2023/sofia-kourtesis-madres.jpeg)
+Sofia Kourtesis is a Berlin-based Peruvian dance producer, "Madres" is her debut album which follows on from a 2021 EP "Fresia Magdalena".
+{{< marginfigure src="../../assets/images/albums-2023/sofia-kourtesis-madres.jpeg" alt="Cover of Madres by Sofia Kourtesis" caption="Cover of _Madres_ by Sofia Kourtesis" >}}
+It was trailed by several singles, including the title track which caught my attention back in May. The album is dedicated to her parents and there are also songs dedicated to the surgeon who performed life-saving surgery on Kourtesis’s mother. The whole album is a heady mix of positivity and dedication to both music and to family. 
 
 For me, ten years on from my trip to South America, I think my response to this album has been to its fusion of European and South American dance music, perhaps reminding me that it is possible to incorporate the experiences one has in other places into our viewpoint on the world. It seems to be that we are in a point in history that rather than acknowledging that we are interconnected and responsible for and to one another, that we have instead lurched into a protectionist and selfish mode of thinking. 
+
+<!--more-->
 
 The urge towards connection and dancing is not irresistible, it can take a lot of effort to get moving, to open channels and to start to express your feelings. Sometimes it is effort that is not rewarded, sometimes even rejected. But an open heart is better than closed one, an open mind is better than a closed mind, and so you have to keep on trying. In the meantime, Madres presents a collection of songs that are by turns wistful, joyous, hopeful, and welcoming. 
 

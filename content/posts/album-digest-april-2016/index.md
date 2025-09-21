@@ -7,6 +7,7 @@ title: Album Digest, April 2016
 ---
 This month's album digest is a mixture of comparisons. First we compare the fortunes of old hands Underworld to even older hands the Pet Shop Boys. After that I've found two dance albums, one that I liked and one that I didn't. I find it quite hard to write about dance music and so the comparison is quite useful. Sometimes it helps to work out why you like one thing and not another.
 
+<!--more-->
 ## Pet Shop Boys "Super"
 
 This month's pop album is "Super" by the Pet Shop Boys. For some it will be a surprise that they are still going but they did spark back to life somewhat with their last release "Electric". This album, by following in the same vein of melding their usual pop sensibilities to 'up to date' electronic music, does not have the novelty value of "Electric" but it is another strong showing nonetheless. This time there aren't as many big pop songs (there are no equivalents here to "Bolshy", "Love is a Bourgeois Construct" or "Thursday") but instead a sense of invention. If "Electric" was the monster, "Super" turns out to be the laboratory.

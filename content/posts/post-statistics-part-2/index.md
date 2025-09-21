@@ -1,12 +1,7 @@
 ---
 category: R
 date: '2025-02-16'
-tags:
-- Twenty Five
-- Stats
-- R
-- Blogging
-- Charts
+tags: ["Twenty Five", "Stats", "R", "Blogging", "Charts"]
 title: Post Statistics, Part 2
 ---
 Here are some more stats about the blog after I ran out of time yesterday due to
@@ -16,6 +11,7 @@ words written. I had to left join on the complete time span between August 2010
 and February 2025, filling in any NA values for the zeros that were missing
 before I did that.
 
+<!--more-->
 And why do I want the zeros? Because it's time for box plots! Then I can see
 whether this January is an outlier (spoiler alert: it is!) compared to the other
 Januarys I've been blogging, in terms of both posts written and total words

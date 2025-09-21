@@ -1,12 +1,12 @@
 ---
 category: Politics and Beliefs
 date: '2015-02-04'
-
 tags: ["News", "Politics", "Fifteen"]
 title: On Voting
 ---
 We hear a lot about our rights but these are given to us in return for fulfilling our responsibilities. One of these is engagement in the democratic process, and in particular voting. You should register to vote, that’s a no brainer. You should take an interest in what politics means for you locally, nationally, and internationally. On the day you to get to the polling station and cast your vote. Then you need to hold you representative accountable afterwards, even if he or she isn’t the person you voted for.
 
+<!--more-->
 Obviously I’m writing this after some guy in charge of Boots said that a Labour government would be a disaster. And also apparently Facebook is going to save democracy by encouraging us all to register to vote. Now this is all well and good, we can all feel good about being registered. But can Facebook help with any other part of the process. It’s unlikely, they’d probably want to maintain their neutrality (unless of course a particular party had bought a bunch of ads) and they probably feel too bulletproof to overtly state their own preference for how you vote. Just because Big Brother is watching, doesn’t mean that he cares what you do either way.
 
 No Facebook can’t help you. And the way to stick it to the man from Boots is to engage with the process - even if you agree with him. The news is filled with dark portents for the future of democracy. The alternatives really are much worse, even if our system is not perfect. It can be improved and it can be protected, provided you turn up to be counted. Even if you think everyone is crap (more true of this election than any I can remember in my lifetime), then spoil your ballot. A spoiled ballot registers your decision. Staying at home does not, unless everyone does it (like in the Jose Saramago novel “Seeing”), and political power is too siren a force for everyone to pull in the same direction. If you don’t vote, you are saying all of these things at the same time:

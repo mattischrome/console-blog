@@ -1,11 +1,7 @@
 ---
 category: Music
 date: '2025-02-03'
-tags:
-- Twenty Five
-- Music
-- The Orb
-- Albums
+tags: ["Twenty Five", "Music", "The Orb", "Albums"]
 title: In Praise of Pomme Fritz
 ---
 The release of Pomme Fritz by The Orb in 1994 was a moment of genuine excitement for me as it was the first new material they released after I'd become aware of them. Not only that, but thanks to my hard work riding around Emsworth on my BMX at unsafe speeds belting out Green Day's Dookie as out-of-tune-ly as is humanly possible, I'd managed to secure the funds to buy the album for myself. My excitement had been mounting from the moment the promotional postcard arrived a few weeks beforehand. I took my £4.99 to Our Price in Portsmouth Cascades on Saturday afternoon and bought myself a copy.

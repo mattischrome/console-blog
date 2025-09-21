@@ -13,14 +13,14 @@
       <link>http://localhost:1313/posts/dithering-around/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/dithering-around/</guid>
-      <description>&lt;p&gt;While off sick and under the weather I decided to play around with presenting the photos on this blog in a fashion more in keeping with the current Hugo theme.&lt;/p&gt;&#xA;&lt;p&gt;I used &lt;a href=&#34;https://imagemagick.org&#34;&gt;Imagemagick&lt;/a&gt; to process the same files from &lt;a href=&#34;http://localhost:1313/posts/in-praise-of-paris/&#34;&gt;the Paris post&lt;/a&gt; earlier this week. I made them a bit smaller, reduced the number of colours to 256, posterized them (a built-in Imagemagick function that groups colours), and then did a dither on them.&lt;/p&gt;</description>
+      <description>&lt;p&gt;While off sick and under the weather I decided to play around with presenting the photos on this blog in a fashion more in keeping with the current Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>In Praise of Paris</title>
       <link>http://localhost:1313/posts/in-praise-of-paris/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/in-praise-of-paris/</guid>
-      <description>&lt;p&gt;This time last year, Ingrid and I were on the Eurostar to Paris for four days. We did so much in our time there that I couldn&amp;rsquo;t write about it at the time. Here&amp;rsquo;s a little summary with a few photos.&lt;/p&gt;&#xA;&lt;p&gt;Our chief aim was to take in as much Rodin as possible (as he&amp;rsquo;s Ingrid&amp;rsquo;s favourite sculptor) so on the Saturday we set out for Montparnasse and struck out for Meudon, where his house is. And&amp;hellip; it was closed for winter!&lt;/p&gt;</description>
+      <description>&lt;p&gt;This time last year, Ingrid and I were on the Eurostar to Paris for four days. We did so much in our time there that I couldn&amp;rsquo;t write about it at the time. Here&amp;rsquo;s a little summary with a few photos.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

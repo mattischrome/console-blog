@@ -1,12 +1,12 @@
 ---
 category: Writing
 date: '2017-06-16'
-
 tags: ["Writing", "Ideas", "Seventeen"]
 title: Create
 ---
 It can be a struggle to keep writing. I've found this happened a lot since I moved the blog. First, there was  the business of moving things over. That meant a lot of thought about old posts and which ones I should keep. A lot of the time I thought "how on earth did I have time to write this?!"
 
+<!--more-->
 Then there seemed to be a lot more barriers to writing than previously. We can say what we like about the machinery that WordPress runs on, it does make it easy to write regularly. It also provides a lot of tools for making writing fun and for learning things as you go. I still have access to those things but it's a little different now.
 
 And of course, with it coming up for a year of living with [Ingrid](http://www.sustainabilityingrid.com/ingystravelog/) it just so happens that my creative outlets are a little different now. *Our* creative outlets. And  they haven't changed that much anyway. We cook. We visit places. We talk about culture and politics. It just seems more fun to do than to reflect. As I said, a different form of creativity.

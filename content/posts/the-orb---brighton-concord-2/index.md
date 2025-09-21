@@ -1,12 +1,12 @@
 ---
 category: Music
 date: '2022-10-29'
-
 tags: ["The Orb", "Music", "Live Music", "Ambient", "Electronic", "Twenty Two"]
 title: The Orb, Live at Brighton Concord 2
 ---
 Went with my friend Nick to see The Orb at Concord 2 last night. The last time I'd seen the Orb was back in 2004, at the start of their relatively dry spell. That night, they'd been a bit lacklustre despite playing (some of) the hits and a relatively decent album in "Bicycles and Tricycles". I left feeling that I'd seen the past rather than the future, something that I wouldn't glimpse again in their records until 2015.
 
+<!--more-->
 This tour celebrates the 30th anniversary of the U.F.Orb album. Regular readers will know that particular album is much beloved on these pages (you could read [its entry in my understated classics][1] if you like) and so I couldn't really pass that chance up. Also, I'd never been to one of those 'play the album in full' gigs before. Unless you include bands on their first album that is.
 
 Once they got going, the gig was very enjoyable. I always love the sound at Concord 2: anything with heavy bass just mashes into you. Suffice to say there is a lot of heavy bass material on U.F.Orb and the sound system lived up to the occasion. 

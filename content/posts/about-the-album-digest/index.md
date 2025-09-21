@@ -1,12 +1,12 @@
 ---
 category: Music
 date: '2019-04-30'
-
 tags: ["Album Digest", "Music", "Nineteen"]
 title: About the Album Digest
 ---
 I haven't written one of my monthly album digests for over a year. The reasons mostly boil down to a lack of time and motivation but other factors include the changing way in which I listen to music. I bought more albums on vinyl and only a small proportion of those were recently released music. Meanwhile, the attractions of Spotify's release radar proved too great to resist: it is a very convenient way to consume new music.
 
+<!--more-->
 Time is very important for understanding and critiquing new music. You don't have to be good at writing reviews for this to be true. Opinions should be a dialogue: if you hate something, you should give yourself some time to appreciate it more. Or at least figure out why you hate it and then justify those reasons.
 
 The problem is that we live in fast-moving times: a lot of new albums are being made. For better or ill, the internet makes us aware of new subcultures and forms of expression, more so than ever before. Responding to this ever-growing collection of genres and micro-genres is a full-time endeavour. As a hobbyist it's hard to keep up, even if you have the benefit of doing it just for fun. 

@@ -7,6 +7,7 @@ title: Album Digest, August 2012
 ---
 Album Digest August 2012 is also from the stack of albums that I [mentioned last month](album-digest-july-2012). I chose this selection (along with the Passion Pit album) because the colours looked good together in the mosaic of covers that I make each month. Last month’s digest was about the right amount of detail so this will be another briefer digest. These are all good albums but not ones that will change your life, they'll just happily sit alongside it. They are:
 
+<!--more-->
 1. Laurel Halo _Quarantine_
 2. Grimes _Visions_
 3. Auntie Flo _Future Rhythm Machine_

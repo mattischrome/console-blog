@@ -1,13 +1,7 @@
 ---
 category: Music
 date: '2025-02-09'
-tags:
-- Twenty Five
-- Music
-- Album Revisit
-- Peter Gabriel
-- Pop
-- Rock
+tags: ["Twenty Five","Music","Album Revisit","Peter Gabriel","Pop","Rock"]
 title: Peter Gabriel, So
 ---
 I recently watched the entry about Peter Gabriel's 1986 album "So" in the Classic Albums series on Amazon Prime. It was an entertaining way to fill an evening hour. 
@@ -15,7 +9,7 @@ I recently watched the entry about Peter Gabriel's 1986 album "So" in the Classi
 I absolutely love "So". I came to its songs via the "Secret World Live" album, and it was "Red Rain" specifically that convinced me of his greatness. Previously, I'd been aware of "Sledgehammer" (also on this album) and "Steam" (from the similarly titled "Us"), but "Red Rain" really captured my imagination. 
 <!--more-->
 
-"Secret World Live" was released in 1994, so it won't surprise you that it was another of those albums that I bought on cassette and wheeled around doing my paper round to. It's actually double album (though released on a single cassette) so I would listen to each side on alternate days. The only songs from "So" on the live album are "Red Rain", "Sledgehammer" and "Don't Give Up". ("Mercy Street" was also on the "Red Rain EP" but I hadn't quite got into singles as much back then so I missed it, but given how much I love "Mercy Street" I can't help but think it would have been a massive shortcut.)
+"Secret World Live" was released in 1994, so it won't surprise you that it was another of those albums that I bought on cassette and wheeled around doing my paper round to.{{< marginfigure src="./images/peter-gabriel-so.jpg" alt="Cover of So by Peter Gabriel" caption="Cover of _So_ by Peter Gabriel" >}} It's actually double album (though released on a single cassette) so I would listen to each side on alternate days. The only songs from "So" on the live album are "Red Rain", "Sledgehammer" and "Don't Give Up". ("Mercy Street" was also on the "Red Rain EP" but I hadn't quite got into singles as much back then so I missed it, but given how much I love "Mercy Street" I can't help but think it would have been a massive shortcut.)
 
 Fast forward about ten years and one of my PhD colleagues and I are chatting about music. Two artists he really likes are Prince and Peter Gabriel. He loans me some definitely legitimately acquired CD-ROMs full of MP3s that comprise the majority of both artists back catalogues. The three major revelations to me are "Around The World In a Day" by Prince, and "So" and "Up" by Peter Gabriel.
 
@@ -30,5 +24,3 @@ It took me a bit longer to appreciate "Big Time" for the great song that it is. 
 I also really like "We Do What We're Told" because for my PhD I studied a lot of network analysis, and even though Milgram's work about control and how people live up (or down) to the roles society assigns to them was tangential (at best) to my work, I still enjoyed the connection to this song. Similarly, "This is the Picture", which is more of an arty performance piece that was added to the album later. I am a big fan of spoken word tracks.
 
 _So_ yes, I do love "So". It was fun to watch the documentary, even if they didn't manage to get Kate Bush on to talk about her beautiful part on "Don't Give Up". Of course, I learned to love Paula Cole's rendition of it on "Secret World Live" and Kate Bush's original was utterly sublime. The album is so good, by equal turns serious and fun, it skews happy but with dark shadows cast too. It will be 40 years old next year but if you put it on you'll swear it could have been made yesterday. It's one for the ages.
-
-![Cover of So by Peter Gabriel](./images/peter-gabriel-so.jpg)

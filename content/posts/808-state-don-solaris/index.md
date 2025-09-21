@@ -1,22 +1,14 @@
 ---
 category: Albums
 date: '2025-04-08'
-tags:
-- Album
-- Music
-- Electronica
-- Dance
-- Understated Classics
-- Album Revisit
+tags: ["Album", "Music", "Electronica", "Dance", "Understated Classics", "Album Revisit"]
 title: 808 State, Don Solaris
 ---
 I sometimes wonder if I picked the correct 808 State album for my understated classics series. That's because today I was listening to their 1996 album _Don Solaris_ and it's pretty darn good. For understated classics I chose their earlier effort _Gorgeous_, partly out of the belief that probably no one else ever would, but also because _10X10_ and _Plan 9_ are such total bangers.
 
 <!--more-->
 
-![Cover of Don Solaris by 808 State](./images/808_state_don_solaris.jpg)
-
-808 State released three singles from _Don Solaris_, three singles that were totally different to one another, to the extent that when you listen to that part of their greatest hits (the excellently titled _808:88:98_) you could be convinced that they were all from different albums.
+808 State released three singles from _Don Solaris_,{{< marginfigure src="./images/808_state_don_solaris.jpg" alt="Cover of Don Solaris by 808 State" caption="Cover of _Don Solaris_ by 808 State" >}} three singles that were totally different to one another, to the extent that when you listen to that part of their greatest hits (the excellently titled _808:88:98_) you could be convinced that they were all from different albums.
 
 Those singles are _Bond_, featuring Mike Doughty, the lead singer of long vanished Grunge band Soul Coughing. It's a rattling cinematic epic, full of thunderous bass and a swing at something different. These audacious moves are quite common from 808 State, but this one didn't come off: _Bond_ didn't chart. It's the only one of the three I don't remember hearing at the time of its release.
 

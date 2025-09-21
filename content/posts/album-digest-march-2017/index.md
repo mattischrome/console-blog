@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["Album Digest", "March", "Music", "Blanck Mass", "The Shins", "Rolling Blackouts CF", "JFDR", "Seventeen"]
 title: Album Digest, March 2017
 ---
+<!--more-->
+
 ## Blanck Mass *World Eater* 
 
 This album is pretty extreme. It's not for everyone and even for the people who *can* handle it, it's not for all the time. This album is a soul crushing experience at points but there are also points of light. Perhaps this makes “World Eater” more reflective of life as a whole than any other of this month's albums. On balance it's probably less crushing than the last Blanck Mass album “Dumb Flesh”, which I reviewed back in June 2015. 

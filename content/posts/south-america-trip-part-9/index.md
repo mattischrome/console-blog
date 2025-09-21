@@ -7,16 +7,17 @@ title: South America, Part 9
 ---
 In a tour full of highlights, Christmas week of 2013 was nonetheless one of the greatest weeks of my life. I may have moaned, groaned, and got completely soaked, but it was worth it to see Machu Picchu in the sunshine.
 
+<!--more-->
 ## "The Story So Far"
 
-- [Arriving in Quito](south-america-trip-part-1)
-- [Otovalo and Misahualli](south-america-trip-part-2)
-- [Banos](south-america-trip-part-3)
-- [Ingapirca and Cuenca](south-america-trip-part-4)
-- [Into Peru](south-america-trip-part-5)
-- [The Road to Lima](south-america-trip-part-6)
-- [The Nazca Lines](south-america-trip-part-7)
-- [Arequipa and Cusco](south-america-trip-part-8)
+- [Arriving in Quito](/posts/south-america-trip-part-1)
+- [Otovalo and Misahualli](/posts/south-america-trip-part-2)
+- [Banos](/posts/south-america-trip-part-3)
+- [Ingapirca and Cuenca](/posts/south-america-trip-part-4)
+- [Into Peru](/posts/south-america-trip-part-5)
+- [The Road to Lima](/posts/south-america-trip-part-6)
+- [The Nazca Lines](/posts/south-america-trip-part-7)
+- [Arequipa and Cusco](/posts/south-america-trip-part-8)
 
 ## The Sacred Valley
 

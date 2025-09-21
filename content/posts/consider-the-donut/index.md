@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["Ideas", "The Simpsons", "Fifteen"]
 title: Consider the Donut
 ---
+<!--more-->
+
 ## Or, From There to Here With the Simpsons
 
 Old episodes of The Simpsons are great. The other night “Bart After Dark” was on and I really enjoyed seeing it again. It’s from season eight, the one where Bart ends up working in the Maison Derriére. I thought it was older; mind you, this makes it nineteen years old. When I thought about the episode later on that evening, I realised how the story anarchically set out in multiple directions before settling into its main storyline. This still happens in newer Simpsons episodes, though the show is rarely as joyfully chaotic now as it was back then.

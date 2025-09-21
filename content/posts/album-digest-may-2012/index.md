@@ -7,6 +7,7 @@ title: Album Digest, May 2012
 ---
 Four albums for Album Digest May 2012:
 
+<!--more-->
 1. Jack White _Blunderbuss_
 2. One Little Plane _Into The Trees_
 3. Beach House _Bloom_

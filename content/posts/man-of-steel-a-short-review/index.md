@@ -1,12 +1,12 @@
 ---
 category: Films
 date: '2013-06-22'
-
 tags: ["Films", "Thirteen", "Black Hole Rules", "Science Fiction"]
 title: 'Man of Steel: A Short Review'
 ---
 Today I went to see the new Superman reboot _Man of Steel_ with friends. I really enjoyed it, particularly the more reflective take on the superhero myth. Starting out with the fate of the planet Krypton, [_Man of Steel_](http://www.imdb.com/title/tt0770828/) approximately fuses the events of both the [first](http://www.imdb.com/title/tt0078346/?ref_=sr_2) [two](http://www.imdb.com/title/tt0081573/) original Superman movies. We get to see Superman's arrival and childhood on earth and then the arrival of Zod, a maniac bent on replacing the earth and everyone on it with a new race of Kryptonians.
 
+<!--more-->
 I think the slower and more considered take on Superman's youth as Clark Kent is really interesting and well made: should he intervene to save lives at the cost of revealing the extent of his powers? It's really unshowy, almost like a mystery as Clark drifts from job to job remembering episodes from his childhood as he goes. For me that's the best half of the film.
 
 _Man Of Steel_ is very much two films. After Zod shows up, some initially impressive fight sequences get repeated a bit too much for my taste. These scenes are also well made, there is a crushing heft to them and in a nod to audiences watching in 3D there's lots of stuff that gets flung around and all sorts of people and tanks and trains get blasted through walls. Personally I liked seeing it without depth, though unfortunately the obvious [problems with movies that are made for 3D](star-trek-into-darkness-a-short-review) don't necessarily vanish by watching the film in 2D. There are still scenes that are too busy and not only that, the ultraviolent smashing and crashing just gets a bit boring after a bit: all that excellent storytelling in the first half is just undone. It isn't tense because you know that Superman will win and the fact that Metropolis is almost totally trashed by the end doesn't seem to matter because -- in a fashion reminiscent of [Fast & Furious 6's tank](/fast-furious-6-a-short-review/) -- all the terrible aftermath is tucked away and the gigadeath that you don't see isn't really alluded to in the final scenes either.

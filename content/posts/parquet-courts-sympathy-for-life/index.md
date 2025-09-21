@@ -2,15 +2,13 @@
 category: Music
 date: '2025-01-15'
 tags: ["Album Revisit","Parquet Courts","Music","Rock","Indie","Twenty Five"]
-title: Parquet Courts Sympathy For Life
+title: Parquet Courts, Sympathy For Life
 ---
 Getting back to my occasional album revisits, I'd like to consider the 2021 Parquet Courts album "Sympathy For Life". This is partly because I own it on vinyl and put it on the other day while I was doing some rather humdrum data downloading at work. It's that kind of album, quite loose and jam-based.
 
 <!--more-->
 
-![Cover art of Sympathy for Life by Parquet Courts](./images/parquet-courts-sympathy-for-life.jpg)
-
-Recorded just before lockdown, first in New York then at the Real World studios in Box, the album seems eerily prescient of what was to come later in the Covid pandemic. These are songs about constantly being watched by AI and the sort of coddling of the modern mind that results from this. It's not quite as good as the previous album "Wide Awake" but is probably better than "Human Performance". It's so relaxed and different to the previous album that you might have expected it to appear under their Parkay Quarts alias.
+Recorded just before lockdown,{{< marginfigure src="./images/parquet-courts-sympathy-for-life.jpg" alt="Cover art of Sympathy for Life by Parquet Courts" caption="Cover of _Sympathy for Life_ by Parquet Courts" >}} first in New York then at the Real World studios in Box, the album seems eerily prescient of what was to come later in the Covid pandemic. These are songs about constantly being watched by AI and the sort of coddling of the modern mind that results from this. It's not quite as good as the previous album "Wide Awake" but is probably better than "Human Performance". It's so relaxed and different to the previous album that you might have expected it to appear under their Parkay Quarts alias.
 
 The first track is "Walking at a downtown pace" and is very much a song about getting back out into the world in order to hang out with your people. I think we've all had those moments in the past few years or so where we've gone "oh I haven't done this since before the pandemic, it's really nice to be doing this again!". This song, despite being written and recorded beforehand, seems a pretty good soundtrack for those moments.
 

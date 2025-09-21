@@ -1,12 +1,12 @@
 ---
 category: Ideas
 date: '2017-07-17'
-
 tags: ["Writing", "Ideas", "Blogging", "Seventeen"]
 title: Valleys
 ---
 In my last post, I wrote about hills. I tried to use them as a metaphor to explain nagging sense of incompletion when you single out one activity over another. The feeling that there's always a more exciting hill off in the distance to go climb, instead of the one you're on.
 
+<!--more-->
 I said my next post would be about how to pick between different options, particularly when you have many to choose from. This post is not that. This is a short piece about an experience I had in South America that relates to the hills post: about contentment in the moment and letting things go.
 
 On the first day of the Inca Trail in Peru (December 2013) we marched along as a happy band. The foothills were easy to cope with and the weather was great. The course of antibiotics I'd started back in Cuzco was taking effect and I was feeling better than I had in weeks.  

@@ -1,12 +1,12 @@
 ---
 category: Films
 date: '2015-03-27'
-
 tags: ["Films", "Documentary", "Frank Herbert", "Fifteen", "Science Fiction", "Books"]
 title: Jodorowsky's Dune
 ---
 [Jodorowsky's Dune](http://www.imdb.com/title/tt1935156/?ref_=fn_al_tt_1) is a documentary about outlandish Chilean director [Alejandro Jodorosky's](http://en.wikipedia.org/wiki/Alejandro_Jodorowsky) attempt at a film adaptation of [Frank Herbert's Dune](/dune/) in the 1970s. As a big fan of the novel and of science fiction in general, I was very interested in this film. It does not disappoint. It gives a great insight into the mind of a little known (if slightly batty) director and shows even an artistic failure can lead to shock waves that can be felt in later work by others.
 
+<!--more-->
 Alejandro Jodorowsky had made two internationally acclaimed films prior to his recruitment to develop the film version of "Dune". "[El Topo](http://www.badmovies.org/movies/eltopo/)" is often described as an "acid western" - I've not seen it but the trailer looks disturbing and bloody. I'm too scared to embed it here.
 
 Meanwhile "[The Holy Mountain](https://www.quora.com/What-was-the-movie-The-Holy-Mountain-by-Alejandro-Jodorowsky-about)" is a surrealistic satire of religious belief. You can (for now) watch the entire film on YouTube. Be warned as it is not safe for work and it is not suitable for people who are offended by religious or disturbing imagery. I've only watched twenty minutes so far (at the time of writing) but I will make time to watch the rest; it's bizarre but compelling viewing.

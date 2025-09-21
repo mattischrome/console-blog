@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["Books", "Reading Projects", "J. G. Ballard", "Eleven", "Fiction"]
 title: J. G. Ballard, Crash
 ---
+<!--more-->
+
 ### Form and function, deformation and dysfunction
 
 I think we should get one thing out of the way first. For me, there is nothing erotic about a car or a motorway. The place in popular culture of the car in particular as sexual icon has always bemused me. In fact, I’m really rather ambivalent about cars. This matters when discussing _Crash_, the 1973 novel by JG Ballard that resumes this strand of posts about his novels. (You can read about _The Drowned World_ [here](/the-drowned-world/), _The Drought_ [here](/the-drought/) and _The Crystal World_ [here](/the-crystal-world/)).

@@ -6,6 +6,8 @@ tableOfContents: true
 tags: ["Understated Classics", "Underworld", "Music", "Eleven", "Electronic"]
 title: 'Understated Classics #11: Second Toughest In The Infants by Underworld'
 ---
+<!--more-->
+
 ## Your rails, your fins, your thin paper wings
 
 _Second Toughest in the Infants_ (STITI) is the second album by Underworld, released in 1995. This was just ahead of the mania caused by the .NUXX version of Born Slippy appearing on the _Trainspotting_ soundtrack a little later. _Born Slippy_ itself, the blippy techno confection released between their début _Dubnobasswithmyheadman_ and this album. STITI then is very much the calm before the storm and features a band (in the truest sense, which is unusual among electronic acts) in full flow. The sure hands are apparent from the off with the all-in-one trifecta of _Juanita_, _Kiteless_ and _To Dream of Love_: a huge slab of a track that propels, mashes and then glides over various tempos in its sixteen minute run.

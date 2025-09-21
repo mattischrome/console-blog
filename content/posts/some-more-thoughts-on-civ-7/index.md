@@ -1,11 +1,7 @@
 ---
 category: Civ
 date: '2025-06-03'
-tags:
-- Twenty Five
-- Civ
-- Civ 7
-- Computer Games
+tags: ["Twenty Five", "Civ", "Civ 7", "Computer Games"]
 title: Some more thoughts on Civ 7
 ---
 It's been about 5 months now since the release of Civilisation VII and it's starting to become a playable game. This is partly due to me getting used to it and partly the effect of quality of life patches and additional features.

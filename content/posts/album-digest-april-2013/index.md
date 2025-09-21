@@ -7,6 +7,7 @@ title: Album Digest, April 2013
 ---
 Some great albums this month!
 
+<!--more-->
 1. The Flaming Lips _The Terror_
 2. Wire _Change Becomes Us_
 3. James Blake _Overgrown_

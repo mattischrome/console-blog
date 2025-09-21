@@ -1,12 +1,12 @@
 ---
 category: Books
-date: 2024-08-06
-
+date: "2024-08-06"
 tags: ["Books", "Twenty Four", "Bob Mortimer", "Detective Story", "Comedy"]
 title: Bob Mortimer, The Satsuma Complex
 ---
 A hardback book called "The Satsuma Complex" is all that remains of a mysterious young lady that young lawyer Gary is chatting up in the pub one night. It's a book that everyone reckons is "a bit sh*t". But Gary's moping about after the Satsuma lady doing a runner while he was in the loo will have to be put on hold when his friend turns up dead.
 
+<!--more-->
 I really enjoyed this book. It's not going to win any prizes for quality of writing but it is both fun and funny. There are a few repetitive phrases and at one point beers magically become lagers in the space of three paragraphs. The writing is very colloquial but there is a point-of-view shift at the start of part two that deploys some writerly skill. (This short-lived though as the new point-of-view soon collapses down into one similar to the main character.) 
 
 The plot is satisfying even if it writhes more than it twists. However, there's a cast of eccentric characters that you can't help rooting for. A flashback was used at the start but I completely forgot it by the time we returned to that point in the narrative.

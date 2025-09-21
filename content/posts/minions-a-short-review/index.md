@@ -1,12 +1,12 @@
 ---
 category: Films
 date: '2015-07-09'
-
 tags: ["Films", "Animation", "Fifteen", "Fun"]
 title: 'Minions: A Short Review'
 ---
 The Minions got their own movie, just as I predicted in [my review of Despicable Me 2](/despicable-me-2-a-short-review/). I went to see it this week and I enjoyed it a lot. Here's a short review. Don't worry, there are no spoilers here that aren't in the trailer.
 
+<!--more-->
 It's very funny. Right from the opening credits you get the minions and their anarchic fun-loving slapstick humour. There's always been something delightful about they way in which they innocently bumble around. Their penchant for evil bosses is inexplicable but incredibly amusing.
 
 There's nothing deeply philosophical about a minion. They just enjoy being part of the herd and live joyously in the moment. I guess we should all try to be like them, at least from the happiness point of view.

@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2010-08-02'
-
 tags: ["Reading Projects", "Science Fiction", "Books", "J. G. Ballard", "Ten"]
 title: J. G. Ballard
 ---
 Reading "Crash" at 17 left me in a state of numb shock. It got me hooked and left me with [J. G. Ballard](http://en.wikipedia.org/wiki/J._G._Ballard) as one of my favourite authors. I then devoured a short story collection called "Myths of the Near Future" around the same time. You may recognise it because the Klaxons appropriated the title for their debut album. Those stories captured my imagination, in particular the eponymous story of a world gone to run amid "space sickness".
 
+<!--more-->
 Later on, I tried “Concrete Island” and “High Rise” but couldn’t get into them. However, I found “The Crystal World” much easier to follow. I’ve not read much of his long-form fiction but I have waded through the complete collection of short stories. They were mostly enjoyable and I should probably write about those at some point.
 
 Even though you can't read books to order, I bought ten of his novels last week. They're cheap on Amazon and Waterstone’s extended their three-for-two offer to all fiction paperbacks. I was keen to take on a range of books that cover Ballard’s career. I decided on these novels. The list links to the wikipedia page for each book but beware, those links will contain plot spoilers:

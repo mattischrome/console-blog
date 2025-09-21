@@ -1,12 +1,12 @@
 ---
 category: Life Experiences
 date: '2022-03-03'
-
 tags: ["Motivation", "Ideas", "Mood", "Twenty Two"]
 title: Doing the thing
 ---
 I find it hard to get started on projects. This may have always been the case. I definitely remember instances of complex plans for school projects that I'd barely have time to finish. I once got up at 6AM to finish making a calendar in French—I thought it was going to be this outstanding piece of work that would genuinely replace my teacher's calendar! Reality didn't quite match the idea though.
 
+<!--more-->
 I got rather lukewarm responses to those efforts. That may be what drives me to be ambitious and stretch myself each time I take on a project. I dream of the day when I execute my fabulous plans and get the recognition for it. I just want to be loved, dang it.
 
 But dreaming is what it is. Now I often feel overwhelmed by complexity, and feel like everything is impossible before I even start. For example, this post took some dredging up and followed a worrying pattern that's become established in my life recently. I decided to abandon all my ideas for potential posts and just type.

@@ -2,9 +2,11 @@
 category: Writing
 date: '2014-08-21'
 tableOfContents: true
-tags: ["Writing", "Software", "Blogging", "Fourteen"]
+tags: ["Writing","Software","Blogging","Fourteen"]
 title: Useful Ulysses
 ---
+<!--more-->
+
 ## What it is
 [Ulysses](http://www.ulyssesapp.com) is a [markdown](http://daringfireball.net/projects/markdown/) editor for the Mac. It has a simple drafting model that makes it easy to organise ideas and move between them. Pieces of writing are represented as sheets that can be tagged and grouped together - the grouping can be made manually or using filters. There are no files, the sheets are entries in a single database that is synced with iCloud. Because everything is plain text it won’t eat up your storage space. Individual sheets can be archived for use with Mac Os X’s versions feature.
 
@@ -15,7 +17,7 @@ Ulysses is full of useful features: when a word count is set a simple indicator 
 ## Why it helps
 I now use Ulysses III to write nearly all of my posts. I use it to start writing anything long form, even if I have to transfer it to another format later (as is the case with blog posts). Because of the grouping features I can keep blog stuff away from other works in progress. Within particular projects Ulysses encourages structure, which is something that I like a lot.
 
-I like to brainstorm lots of ideas for posts. I set up multiple sheets in a group and type out the titles, while sketching out notes and details as markdown comments. Because my ideas are arranged into groups (by theme, whether research is required, etc), I can make sure my posts are varied[^1] in terms of subject and depth. 
+I like to brainstorm lots of ideas for posts. I set up multiple sheets in a group and type out the titles, while sketching out notes and details as markdown comments. Because my ideas are arranged into groups (by theme, whether research is required, etc), I can make sure my posts are varied in terms of subject and depth.{{% sidenote "sn-1" %}}Forget that crap about finding your niche! I say write ALL THE THINGS!{{% /sidenote %}}
 
 The word count targets make sure that I write enough for each post (and help me to identify quick wins in posts that are nearly finished). The export feature introduces another chance to edit into the writing process, so I feel like my writing is getting checked more often. 
 
@@ -34,6 +36,4 @@ It would be amazing if someone were to write a Ulysses-style LaTeX editor.
 I got it half price and that was about the right price for its usefulness. This means that at the moment it is about twice the price that it really should be. By anyone’s definition that makes it expensive.
 
 ## Is this an ad?
-Not really, I am just sharing the tools that I use for creating things. I also wanted to share what I like about software that I use regularly, so that I am more aware of those things in future. I’ve deliberately not used any of their logos in the hero image, which is [ULYSSES](https://flic.kr/p/aoXziY) by [Fedor Ø](https://www.flickr.com/photos/stop1er/), [(cc-by-nc-sa-2.0)](https://creativecommons.org/licenses/by-nc-sa/2.0/).
-
-[^1]:	Forget that crap about finding your niche! I say write ALL THE THINGS!
+Not really, I am just sharing the tools that I use for creating things. I also wanted to share what I like about software that I use regularly, so that I am more aware of those things in future.

@@ -1,12 +1,12 @@
 ---
 category: Travel
 date: '2013-11-29'
-
 tags: ["South America", "Ecuador", "Quito", "Thirteen"]
 title: South America, Part 1
 ---
 By the time this goes up, I will be at least a week in to my South American tour. I flew out to Ecuador last Thursday (the 21st) and ended up being awake for more than twenty four hours. My flight left London early and I had a three hour stopover in Madrid, then a twelve hour flight onward to Quito. My bag didn't leave Madrid though, so we were separated for about twenty four nerve-racking hours. Luckily, I'd packed a change of clothes and so I was still able to explore Quito with Lee and Miriam (fellow Tucan travellers) the next day without too much discomfort.
 
+<!--more-->
 Quito is an interesting city crammed full of crazy drivers. From the taxi from the airport and beyond, my time in the city was mostly defined by the sound of car horns. It's mostly just the tendency to use the horn to let people know that they are there, which is a bit different to those of us are used to it being used in anger. To some extent, I considered getting beeped a sign of getting acclimatised to the city and once I'd got used to the traffic flow (i.e realising for the fifteenth time that day that the traffic goes along on the _right_...) I was ducking and weaving with the best of them.
 
 On my first full day, I went with Lee and Miriam into the city and explored the old town. It is full of colonial architecture and painted all sorts of different colours. With no expectation of what it would be like, I enjoyed the whirl of new colours and sensations. From people selling anything and everything in the streets to the various churches that we ducked into, it was a completely new experience for me. A nice find was a museum of Pre-Colombian art with a collection that surpasses any I've seen up until now, with lots of beautiful pieces that sum up tribal life - bowls, statues of shamans, etc - not to mention a lot more sexually explicit material than you'd see at the dear old British Museum - no Victorian-era chipping off of phalluses in Ecuador!

@@ -1,11 +1,11 @@
 ---
 date: '2021-01-02'
-
 tags: ["Books", "Italo Calvino", "Fiction", "Twenty One", "Twenty", "Nineteen", "Eighteen", "Christmas", "Germany"]
 title: Italo Calvino, If on a Winter's Night a Traveller
 ---
 Last year I started to write a review of Italo Calvino's "If on a Winter's Night a Traveller". I read it while we were in Germany for Christmas. We'd visited Bremen and also undergone the bizarreness of Christmas in another language - the same motifs played out in different words and different customs. I'd tried to write the review in a similar structure to the book but, in a testament to Calvino's writing I couldn't pull it off. Here's the opening paragraph:
 
+<!--more-->
 > You are currently reading my blog post called If on a winter’s night a traveller, which is also a novel by Italo Calvino that you have just learned Matt was reading over Christmas. Perhaps you know that Matt bought a copy for Ingrid as a Christmas present last year and that Matt had decided to read it once she had finished. Because she didn’t quite get on so well with the experimental nature of the novel, it took her a while. You might guess that Matt also approached it (for a second time) with some trepidation (and no memory of the first time).
 
 It also devolved into a second person telling of the story of the musicians of Bremen (because, why not?):

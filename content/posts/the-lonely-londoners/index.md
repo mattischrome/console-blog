@@ -7,6 +7,7 @@ title: Sam Selvon, The Lonely Londoners
 ---
 _The Lonely Londoners_ by Sam Selvon was written in 1956 and tells of the experiences of West Indian men moving to London for work. It has been described as the definitive novel about the experiences of the [Windrush settlers](http://www.nationalarchives.gov.uk/museum/item.asp?item_id=50). The narrative centres on a man named Moses who was one of the first to come to London and finds himself the first port of call for many subsequent immigrants:
 
+<!--more-->
 > It look to old Moses that he hardly have time to settle in the old Brit’n before all sorts of fellars start coming straight to his room in the Water when they land up in London from the West Indies, saying that so and so tell them that Moses is a good fellar to contact, that he would help them get place to stay and work to do.
 
 The story is written to imitate the speech and linguistic form of the West Indian subculture and this provides immediate immersion in the story. From an outsider’s standpoint you gradually learn that a “test” is a man, to “rab” is to moan about something and so on. There are no chapters, just sections that describe a new person that Moses knows or meets for the first time. Among these are Sir Galahad, the guy who rocks up to London in just his coat with twenty pounds in his pocket and feels warm in winter but cold in summer; Cap, the feckless Nigerian guy who swindles everyone out of their money; Harris, who dresses in a suit and speaks the Queen’s English, desperately trying to impress white people and fit in.

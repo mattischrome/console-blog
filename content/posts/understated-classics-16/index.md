@@ -7,6 +7,8 @@ tags: ["Understated Classics", "Howard Budd", "Brian Eno", "Music", "Twelve", "E
 title: 'Understated Classics #16: Ambient 2 / The Plateaux Of Mirror by Howard Budd
   and Brian Eno'
 ---
+<!--more-->
+
 ## Among Fields of Crystal / Wind in Lonely Fences
 
 I have written about a [fair](uc4) [number of](uc6) [ambient](uc13) albums in this series (and there are at least two more to come!) but perhaps none are as unobtrusive as this one by Howard Budd and Brian Eno. It’s a subtle collection of music that sits at the margins of your consciousness: for a long time it was the music that I turned to when I could not sleep but I could just as easily imagine it as (ahem!) romantic background music as I could something to work to. I actually bought it in 2006 to listen to on an overnight flight back from the US.

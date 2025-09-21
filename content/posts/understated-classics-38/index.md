@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2021-05-29'
 slug: understated-classics-38
-
 tags: ["Understated Classics", "Music", "Electronic", "Twenty One"]
 title: 'Understated Classics #38: Trance Nation (Various Artists)'
 ---
 I don't know about you, but lately I've been in need of some music that:
 
+<!--more-->
 1. Blots out the outside world
 2. Helps me to concentrate on my work
 3. Makes me feel a bit less anxious about the state of the world

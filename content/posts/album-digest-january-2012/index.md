@@ -7,6 +7,7 @@ title: Album Digest, January 2012
 ---
 Five albums to see in the new year:
 
+<!--more-->
 1. FOE “Bad Dream Hotline”
 2. Leila “U & I”
 3. Diagrams “Black Light”

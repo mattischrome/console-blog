@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/the-negativity-casket/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/the-negativity-casket/</guid>
-      <description>&lt;p&gt;One of the things that people tend to start around this time of year is a diary. They usually get filled for as long as your new year&amp;rsquo;s resolutions last.&lt;/p&gt;&#xA;&lt;p&gt;However, I&amp;rsquo;ve been writing in my current diary for a while. It&amp;rsquo;s a Moleskine extra large ruled Notebook in beautiful Prussian Blue, covered in whatever stickers pass over my desk. (Hint: find my address and send me stickers Internet.) This is much more preferable to a &amp;lsquo;real&amp;rsquo; diary because I can leave a few days and then resume. I can also take breaks and write out a bunch of notes on Org-mode or the Julia programming language if I want to (and yes, I did).&lt;/p&gt;</description>
+      <description>&lt;p&gt;One of the things that people tend to start around this time of year is a diary. They usually get filled for as long as your new year&amp;rsquo;s resolutions last.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unindexed?</title>
@@ -41,14 +41,14 @@
       <link>http://localhost:1313/posts/how-random-should-things-be/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/how-random-should-things-be/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve managed to extract my music library, including all the albums I&amp;rsquo;ve added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for &lt;a href=&#34;http://localhost:1313/goldfrapp-black-cherry&#34;&gt;Goldfrapp&amp;rsquo;s Black Cherry.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;But I have to level with you. That was not the first album that was picked. Nor is the album selection process entirely unbiased. I got to a working situation and stopped there. Essentially, I smoosh together artist and album title, so that albums like compilations, or albums where the lead artist collaborates with multiple other artists, are slightly over-represented. I say slightly as the pool was already pretty large with just unique albums. I might do what I did yesterday and ignore singles or compilations, especially as the code takes almost zero time to give me another idea.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;ve managed to extract my music library, including all the albums I&amp;rsquo;ve added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for &lt;a href=&#34;http://localhost:1313/goldfrapp-black-cherry&#34;&gt;Goldfrapp&amp;rsquo;s Black Cherry.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A list for &#39;23</title>
       <link>http://localhost:1313/posts/a-list-for-23/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a-list-for-23/</guid>
-      <description>&lt;p&gt;A set of rules for living from now on (in no particular order)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Life is too short to look at adverts. Avoid them where possible. Block them if you have to.&lt;/li&gt;&#xA;&lt;li&gt;Embrace risk and chance, as they have contributed the most to where you are now.&lt;/li&gt;&#xA;&lt;li&gt;Intervene into physical things and leave your mark upon them. Draw pictures on the blank pages of books, even if they are dear to you. Fill your notebooks &lt;em&gt;before&lt;/em&gt; buying yourself new ones. Insert name tags in your clothes.&lt;/li&gt;&#xA;&lt;li&gt;Every day should be an attempt to see new things, and out of things, people like most to be seen.&lt;/li&gt;&#xA;&lt;li&gt;As good as it is to solve puzzles, try and avoid the rut of constantly solving the same puzzle lest it no longer require any mastery.&lt;/li&gt;&#xA;&lt;li&gt;Learn the 13 times table. (This is where I need to start, then I will move up to 17 and on up through the prime numbers.)&lt;/li&gt;&#xA;&lt;li&gt;Have a business card. Try to cram in as much information on both sides.&lt;/li&gt;&#xA;&lt;li&gt;Write write write. I will not be happy until I put some sort of rubbish on my blog &lt;strong&gt;every day&lt;/strong&gt;. Actually I could be writing three blogs but I need to get better at writing one first.&lt;/li&gt;&#xA;&lt;li&gt;Write out lists of quotes that inspire you in a notebook. Give those notebooks out as gifts. It’s not like anyone will read the quotes, much less take them to heart. But at least they’ll have a sampler for decoding your written notes after you shuffle off the mortal coil.&lt;/li&gt;&#xA;&lt;li&gt;If you have reached the age of forty three and don’t know how to knit, fucking well learn to knit a scarf. Of course, this does not apply to learning to drive, which is a violent and dangerous activity.&lt;/li&gt;&#xA;&lt;li&gt;Ask people about their tattoos and indulge your curiosity about how much they/it might have hurt.&lt;/li&gt;&#xA;&lt;li&gt;The reason for drawing terrible sketches, writing awful jokes and getting absolutely nowhere with the garden is simply to enjoy that process of being shit at things and making mistakes. Show people the bad stuff as well as the good stuff.&lt;/li&gt;&#xA;&lt;li&gt;Even at the middle of your life, there aren’t that many lunches left. You might want to alternate between what you like and what you’re curious about. (I freely admit that at the moment I am a terrible stick in the mud when it comes to my very conventional lunches.)&lt;/li&gt;&#xA;&lt;li&gt;Try to establish the clothes you most feel like yourself in (presumably these are also comfortable) and always wear those.&lt;/li&gt;&#xA;&lt;li&gt;Touch typing is a skill that is surprisingly enjoyable to practice. It’s like getting your left and right brains together to plan a heist (while they argue over who gets the G and the Y)&lt;/li&gt;&#xA;&lt;li&gt;Eat slowly, savour the flavours. Unless you are a guest and your host has expressed anxiety about the success of their culinary adventure, in that case you should savour or galumph it down as politeness dictates.&lt;/li&gt;&#xA;&lt;li&gt;When you’re asking someone if they need a bit of help, remember that some people need more cajoling than others. Remember also that some people won’t feel comfortable accepting help no matter how you press; sometimes you have to come back to it later.&lt;/li&gt;&#xA;&lt;li&gt;Adopt a new pose for every photo people take of you. Give the facial recognition overlords something to work with.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;A set of rules for living from now on (in no particular order):&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cheeseburgers 🍔</title>
@@ -76,7 +76,7 @@
       <link>http://localhost:1313/posts/jab-two/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/jab-two/</guid>
-      <description>&lt;p&gt;I was due to have my second vaccination today, but like most people I rebooked to have it a bit earlier. No real side effects this time, save for a bit of malaise. Though that may have just been the thought of opening up the country when cases are still increasing quickly.&lt;/p&gt;&#xA;&lt;p&gt;It goes without saying that I&amp;rsquo;d urge everyone to get vaccinated and then to keep turning up for whatever boosters the people protecting us (e.g. JCVI, &lt;em&gt;not&lt;/em&gt; the government) recommend in future. It seems like we aren&amp;rsquo;t out of the woods yet, though the vaccination program appears to have had a decent impact on hospitalisation rates.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I was due to have my second vaccination today, but like most people I rebooked to have it a bit earlier. No real side effects this time, save for a bit of malaise. Though that may have just been the thought of opening up the country when cases are still increasing quickly.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jab 1</title>
@@ -97,14 +97,14 @@
       <link>http://localhost:1313/posts/the-forever-now/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/the-forever-now/</guid>
-      <description>&lt;p&gt;Writing this post came about from  frustration with blogging. Specifically the tools I am using. Often it feels like a new language or paradigm comes along that shifts one or two of the pain points of blogging. The biggest are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;How long it takes to get a post on the internet once you’ve written it&lt;/li&gt;&#xA;&lt;li&gt;The reliability of the resulting website&lt;/li&gt;&#xA;&lt;li&gt;How good the resulting website looks&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Note that none of this really impacts the quality of the writing. I’m not claiming to be a good writer: in fact I spend so much time blogging or thinking about blogging because it is my writing practice. (I think I am getting better, but slowly).&lt;/p&gt;</description>
+      <description>&lt;p&gt;Writing this post came about from  frustration with blogging. Specifically the tools I am using. Often it feels like a new language or paradigm comes along that shifts one or two of the pain points of blogging. The biggest are:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Old photographs</title>
       <link>http://localhost:1313/posts/old-photographs/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/old-photographs/</guid>
-      <description>&lt;p&gt;Recently I&amp;rsquo;ve had cause to dig out some old photos. If I&amp;rsquo;m honest it&amp;rsquo;s made me sad. Sadder than I was expecting. There&amp;rsquo;s a quote from Nan Goldin that once felt like a warning but now just sounds like a sad statement of ongoing affairs:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“I used to think that I could never lose anyone if I photographed them enough. In fact, my pictures show me how much I’ve lost.”&lt;/p&gt;</description>
+      <description>&lt;p&gt;Recently I&amp;rsquo;ve had cause to dig out some old photos. If I&amp;rsquo;m honest it&amp;rsquo;s made me sad. Sadder than I was expecting. There&amp;rsquo;s a quote from Nan Goldin that once felt like a warning but now just sounds like a sad statement of ongoing affairs:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Travel Writing After All This</title>
@@ -125,14 +125,14 @@
       <link>http://localhost:1313/posts/the-same-yet-different/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/the-same-yet-different/</guid>
-      <description>&lt;p&gt;Ingrid and I got married a month ago. It was a lovely day. We had a simple ceremony with two witnesses, our friends Sue and Andrew. We kept it quiet and small, as we just wanted to be married without too much fuss. A month on, we&amp;rsquo;re happy to report that we are glad we did it.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;d like to thank everyone who nonetheless sent cards and gifts, and to all of those who wished us well on Facebook. Much as I&amp;rsquo;m wary of social networks this did seem to be one of those events to which an announcement on Facebook was well suited. We intend to have additional celebrations at some point in the near future so keep your eyes peeled. We&amp;rsquo;re aware that our little dyad cannot be the only point where our families intersect. We hope to overcome that, but it is those sorts of complications that drove us to a smaller scale event in the first place. I&amp;rsquo;m very keen on the &amp;lsquo;win the lottery and hire a few private jets&amp;rsquo; approach but they keep selling me faulty tickets.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ingrid and I got married a month ago. It was a lovely day. We had a simple ceremony with two witnesses, our friends Sue and Andrew. We kept it quiet and small, as we just wanted to be married without too much fuss. A month on, we&amp;rsquo;re happy to report that we are glad we did it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Happy New Year 2015!</title>
       <link>http://localhost:1313/posts/happy-new-year-for-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/happy-new-year-for-2015/</guid>
-      <description>&lt;p&gt;Just a brief message to wish everyone a happy new year. Getting my flat connected to the internet continues to be a trial so it&amp;rsquo;s still not as easy to post as I would like. However, I have some workarounds now and I hope to write (and post) more often from now on.&lt;/p&gt;&#xA;&lt;p&gt;Like everyone I make resolutions at this time of year, though as the years pass I realise that the best resolutions are to apopt a new way of being rather than a new way of doing. I find it quite difficult to &amp;ldquo;change&amp;rdquo; myself by willpower alone. I think this is true of most people. Travelling taught me that it&amp;rsquo;s better to evolve. I just do one little thing differently and then try to notice the benefits as they accrue. As you become are of how you are changing it gets easier and you can shift your focus to doing another little thing a bit differently, a bit better. At least that&amp;rsquo;s the theory.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Just a brief message to wish everyone a happy new year. Getting my flat connected to the internet continues to be a trial so it&amp;rsquo;s still not as easy to post as I would like. However, I have some workarounds now and I hope to write (and post) more often from now on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>October and November 2014</title>
@@ -153,14 +153,14 @@
       <link>http://localhost:1313/posts/the-reset-button/</link>
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/the-reset-button/</guid>
-      <description>&lt;h2 id=&#34;previously-on&#34;&gt;Previously on&amp;hellip;&lt;/h2&gt;&#xA;&lt;p&gt;I planned this post as a follow-up to one called &lt;a href=&#34;http://localhost:1313/the-truth-about-work/&#34;&gt;The Truth About Work&lt;/a&gt; from a couple of months ago, but a few things happened that changed my thinking. It has implications for my future and in particular, it redefines what this break from work and upcoming trip means to me.&lt;/p&gt;&#xA;&lt;p&gt;One of the punchlines to &amp;ldquo;The Truth About Work&amp;rdquo; was that, sometimes, the only way to move ahead is to quit. I originally put it a little more baldly: I said that you &lt;em&gt;always&lt;/em&gt; have to quit in order to move on from a sticky situation. Because I knew I was about to quit, I felt I had to write about that decision in unequivocal terms. Obviously I don&amp;rsquo;t think that you should just tap out every single time that things get a little tough. I am not even sure now whether I should have done it at all: hitting the reset button so far in advance of the tour no longer feels like the great idea that it once did. I wasted a lot of the last six weeks and the principal effect of that has been to erode my self-esteem and my bank account.&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>The Truth About Work</title>
       <link>http://localhost:1313/posts/the-truth-about-work/</link>
       <pubDate>Wed, 14 Aug 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/the-truth-about-work/</guid>
-      <description>&lt;h2 id=&#34;motivation-and-lies&#34;&gt;Motivation and Lies&lt;/h2&gt;&#xA;&lt;p&gt;Motivation is a fickle thing. You can see it in action here on this blog, or rather in inaction as there are often &amp;ldquo;&lt;a href=&#34;http://localhost:1313/articles/the-drought/&#34;&gt;droughts&lt;/a&gt;&amp;rdquo; between posts (and draughts between drafts&amp;hellip;). Back in June I tried to write a post each day that had a title of the form &amp;ldquo;X and Y&amp;rdquo;. I was overambitious and they petered out after a bit. This was one of those posts and was originally titled &amp;ldquo;Motivation and Lies&amp;rdquo; in melodramatic fashion. I came back to the original draft this evening and quite liked it; so I rewrote the introduction, cut out some of the swears, and rounded out the conclusion a bit.&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Five Things To Try When You Can&#39;t Sleep</title>
@@ -174,7 +174,7 @@
       <link>http://localhost:1313/posts/tales-from-home/</link>
       <pubDate>Fri, 24 Dec 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/tales-from-home/</guid>
-      <description>&lt;h3 id=&#34;a-question-of-identity&#34;&gt;A question of identity&lt;/h3&gt;&#xA;&lt;p&gt;Three letters for Dad in the mail today, three variations on our surname including the aquatic &lt;em&gt;Dory&lt;/em&gt; version and the lesser-spotted &lt;em&gt;Dorny&lt;/em&gt;. It is perhaps best not to go back to the time he was accidentally listed in the Thompson directory as Mr. Dopey, bringing forth prank calls from all teenagers within a ten mile radius. Fortunately, Dr. Dorey doesn’t have this problem with his mail: he doesn’t get any.&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>The Setback</title>
@@ -188,7 +188,7 @@
       <link>http://localhost:1313/posts/movember-10k/</link>
       <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/movember-10k/</guid>
-      <description>&lt;p&gt;So, Saturday. Finally. The big day. Would I a) be able to get to Greenwich in time for the registration? and b) be able to make it all the way around the course without collapsing and crying?&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../assets/images/other/movember01.jpg&#34; alt=&#34;Picture of Matt at Movember 10K run 2010&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Happily the answer to both questions was a resounding “Yes!” and I really enjoyed it. The weather was really good, especially compared to the two days before hand, and Marc came along to take some brilliant photos.&lt;/p&gt;</description>
+      <description>&lt;p&gt;So, Saturday. Finally. The big day. Would I a) be able to get to Greenwich in time for the registration? and b) be able to make it all the way around the course without collapsing and crying?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

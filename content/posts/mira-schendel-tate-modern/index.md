@@ -1,12 +1,12 @@
 ---
 category: Art
 date: '2016-10-08'
-
 tags: ["Tate Modern", "Art", "Mira Schendel", "Photos", "Sixteen"]
 title: Mira Schendel at Tate Modern
 ---
 [Mira Schendel](https://www.theguardian.com/artanddesign/2013/sep/29/mira-schendel-tate-modern-review) was a Brazilian artist who was active throughout the middle to late twentieth century. She is considered to be one of South America's best artists. Known mostly for her abstract paintings, she also experimented with sculptures and installations. Many of her works use text and semiotics to explore and define possible meanings for more abstract works.
 
+<!--more-->
 I saw this exhibition during its run in the Tate Modern in the Autumn of 2013. I didn't feel like writing about it at the time. In fact I may not have had any time because it was quite close to my departure for South America.
 
 I may not have written about them but I remember the pieces vividly. I also remember that the exhibition was rather heavily policed with helpers that intervened often to prevent people from taking pictures. Some helpers are less proactive, so photos always get through eventually! With this in mind I set up an IFTTT recipe that collected pictures tagged #miraschendel on Instagram and put them in my Dropbox. The intention was to use them when I eventually wrote about the exhibition.

@@ -1,12 +1,12 @@
 ---
 category: Art
 date: '2013-09-13'
-
 tags: ["Art", "Tate Modern", "Ellen Gallagher", "Thirteen"]
 title: Ellen Gallagher at Tate Modern
 ---
 Ellen Gallagher is an American artist and her "AxME" show recently finished at the Tate Modern. I went along a few weeks ago and have only now had a bit of time to write up my thoughts.
 
+<!--more-->
 My biggest regret is that I didn't go along to it sooner, so that I had a chance to see it more than once. It was certainly a larger show than I was expecting (it was about the size of the [Ibrahim El-salahi](ibrahim-el-salahi-at-tate-modern) and [Saloua Choucair](choucair-at-tate-modern) shows put together) and I hadn't left myself with a lot of time to see everything when I did go.
 
 It was also a lot better than I was expecting. Gallagher's work is funny and provocative, it was certainly nice to go and see modern art that made you chuckle. Generally her pieces are about race, identity, and the appropriation of found materials to produce a new context or meaning for them.

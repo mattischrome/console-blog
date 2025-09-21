@@ -1,12 +1,12 @@
 ---
 category: Understated Classics
 date: '2022-01-01'
-
 tags: ["Understated Classics", "Music", "Rock", "Electronic", "Dance", "Pop", "Twenty Two"]
 title: Understated Classics Or Not?
 ---
 At the new year, thoughts and spare time for writing point me toward writing some new posts for my understated classics series. Expect some new ones soon.
 
+<!--more-->
 I also reflected on my previous choices and thought a bit about how my music tastes have changed recently. Some of this has to do with streaming and the frustrations I wrote about [in my last post][1]. Some of it is just down to getting older: I have less time to listen to new music, and much of the 'new' stuff I listen to is me investigating the stuff I missed first time around. Who knew Art of Noise were so good? Not me, but I do now!
 
 For example, I listened to *Foxbase Alpha* and *So Tough* by Saint Etienne so much in 2021! I think I would now pick one of those two and not [*Tiger Bay*][2] if I were picking one for an understated classic tomorrow. I don't have a rule that says I can't pick a band twice, but I think that doing so means missing out something else – at least in the short term. If I manage to get through what is already quite a long list, one of *Foxbase Alpha* and *So Tough* will be early on the repeated bands list. 

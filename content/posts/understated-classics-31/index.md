@@ -8,6 +8,7 @@ title: 'Understated Classics #31: The White Room by The KLF'
 ---
 This little masterpiece was released in 1991. I got my copy on cassette for Christmas that year, but by May in 1992 they'd already "retired" and split up.
 
+<!--more-->
 The KLF were a band in the right place at the right time with the right idea. Taking advantage of synthesizers and the idea of fusing rock and pop music with the emerging sound of house music, they laid the ground for many of the most successful electronic acts that followed them. They were also master showmen, taking a whole host of crazy conspiracy theories and smooshing them together in one stadium-sized package.
 
 "The White Room" will be a quarter of a century old in 2016. It is a sort of Stonehenge of modern dance music: mysterious, totemic, and completely unique to the minds that conceived it. There are nine tracks and the whole thing's over and done in forty-five minutes, yet there's plenty of space and groove with two tracks making it past your standard 12" running time.

@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2015-02-22'
 slug: understated-classics-29
-
 tags: ["Understated Classics", "Music", "Spiritualized", "Rock", "Fifteen"]
 title: 'Understated Classics #29: Let It Come Down by Spiritualized'
 ---
 I listened to Let It Come Down by Spiritualized for the first time during a difficult time in my life. I think this will always affect my feelings towards it. For me it's a great big comfort blanket of a record. Coming after one of the all-time best break-up albums (in an artistic sense) in "Ladies and Gentlemen We Are Floating in Space" perhaps it's not that much of a surprise. Layered in orchestras, horn sections, and gospel choirs, it's not understated at all but hopefully I can persuade you that it is a classic.
 
+<!--more-->
 Let It Come Down begins in fine form with "On Fire", a song laden with horns, gospel choirs, barrelling drums and blues-y piano riffs. The first line is "Let's see how high we can fly before the sun melts the wax in our wings" and it just gets more defiant from there. It's reminiscent of "Electricity" off of "Ladies and Gentlemen…" but more upbeat. Continuing the upbeat feel is "Do It All Over Again", perhaps the closest Spiritualized have ever come to making a genuine pop song.
 
 "Don't Just Do Something" sums up the mood of the whole of Let It Come Down (and how I felt at the time I first heard the album): "I could lay around just stay in bed like my mama said / don't just do something, sit around instead". Starting off almost as a continuation of "Do It All Over Again", around half way through it slips into a tempo change and becomes a blissed out homage to doing nothing: "To tell the truth / I like to lie about". There's a lovely little coda too.

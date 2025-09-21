@@ -28,10 +28,13 @@
     {{ $content := .Summary }}
     {{ $section := .Section }}
     <!-- Fix relative post links -->
+    <!-- {{ $content = $content | replaceRE `href="/posts/page/[0-9]+/([^"]*)"` `href="/posts/$1"` }} -->
     {{ $content = $content | replaceRE `href="\.\.\/([^"]*)\/"` (printf `href="/%s/$1/"` $section) }}
     {{ $content = $content | replaceRE `href="\.\/([^"]*)\/"` (printf `href="/%s/$1/"` $section) }}
-    <!-- Fix relative image paths -->
-    {{ $content = $content | replaceRE `src="(\.\.\/)*assets\/images\/([^"]*)"` `/assets/images/$2` }}
+   
+    <!-- Fix images to use correct links -->
+    {{ $content = $content | replaceRE `src="\.\.\/\.\.\/assets\/images\/([^"]*)"` `src="/assets/images/$1"` }}
+    
     <div>{{ $content | safeHTML }}</div>
     {{ if .Truncated }}
     <p><a href="{{ .RelPermalink }}">Read more...</a></p>

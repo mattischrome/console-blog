@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["South America", "Bolivia", "Argentina", "Chile", "Photos", "Sixteen", "Fourteen"]
 title: South America, Part 12
 ---
+<!--more-->
+
 ## Uyuni to Tupiza
 
 We left Uyuni the night after the big storm, having stopped just a day or so to visit the salt flats. Our next stop was a strategic stay in Tupiza, a large town encircled with red hills. It resembled many towns that I visited in South America: low buildings arranged in a grid pattern. Not much greenery and plenty of dust billowing about. The reason for our stay was strategic, it's only a short distance to the notoriously fussy border between Bolivia and Argentina. We would leave at 5am the next morning so we would reach the border early in case of a long delay, which can happen at this border.

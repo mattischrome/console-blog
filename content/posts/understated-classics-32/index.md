@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2015-10-31'
 slug: understated-classics-32
-
 tags: ["Understated Classics", "Liars", "Music", "Fifteen"]
 title: 'Understated Classics #32: They Were Wrong So We Drowned by Liars'
 ---
 As it is Halloween, I'm writing about a spooky understated classic. Liars' second album "They Were Wrong, So We Drowned" is a concept album about witches. It was the first of their albums that I owned having heard their name mentioned among those in the New York Post-punk revival scene at the start of the 00s.
 
+<!--more-->
 I imagine that to most ears a first listen to "They Were Wrong, So We Drowned" sounds dreadful. I certainly thought so. It's a short album and if you plough through it there are one or two nuggets that would sound great on most albums - but a lot of it initially seems to be noise and chanting and screaming. If anyone wants to make the argument that Liars are not worth the trouble, not worth the effort to like or understand, then "They Were Wrong, So We Drowned" is the album they will use as ammunition. 
 
 However, when I revisited "They Were Wrong, So We Drowned" over the last month or so in preparation for this post (I *do* listen to the album I'm writing about), it surprised me just how much I enjoyed listening to it. I approached it with some trepidation, and I even thought that I should perhaps write about "Drum's Not Dead" instead. However while I listened to it for the first time in years at night and on the train, I found it to be a revelation.

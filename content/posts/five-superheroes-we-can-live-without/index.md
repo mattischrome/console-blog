@@ -1,12 +1,12 @@
 ---
 category: Writing
 date: '2011-05-05'
-
 tags: ["Fun", "Lists", "Eleven"]
 title: Five Superheroes We Can Live Without
 ---
 The other day while writing some rather self-pitying notes in my blog book (yes, I handwrite all this rubbish before I go to bed at night!) I came up with some useless superheroes, or rather the only superheroes that a washed-up guy in his early thirties could hope to be. Because I haven’t got any ideas for “five things on the fifth” this month, I decided to flesh out a few of these. Last month I began the five on the fifth meme with [five things to try if you can’t sleep](five-things-to-try-when-you-cant-sleep) and so this is a rather forced attempt to keep it going. I promise that I will try and think of more interesting posts on these lines for months. 
 
+<!--more-->
 I appreciate that this idea is not particularly new, there’s that film [Mystery Men](http://www.imdb.com/title/tt0132347/) (complete with inspired turn from Tom Waits) about a bunch of superheroes who really have no powers at all and of course in [Watchmen](http://en.wikipedia.org/wiki/Watchmen) the superheroes are merely vigilantes. Of course these characters started from me being self-deprecating about myself and my flaws, growing up from there. Without further I introduce you to my washed-up coterie of superhero has-beens.
 
 1. **The Mighty Groundhog** (AKA _Revision man_ or _Mr. Hindsight_). Special powers: is able to learn from his mistakes; does things over and over again until he gets them right; understands whatever the hell it is that is going on. Cape colour: Royal blue. Weaknesses: A bit boring in bed; highly susceptible to arch nemesis Professor Temptron’s Impulse-o-matic ray.

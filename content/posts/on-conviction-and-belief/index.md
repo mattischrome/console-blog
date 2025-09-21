@@ -1,13 +1,13 @@
 ---
 category: Life Experiences
 date: '2014-12-30'
-
 tags: ["Writing", "Blogging", "South America", "Fourteen"]
 title: On convictions, whereas to the strength of and belief in same
 ---
 Overlong reflection upon the past is one sure way to make yourself unhappy so I try to avoid it. Nevertheless it becomes unavoidable at this time of year, especially if, like me, you are somewhat prone to reflection. 
 
-At this time last year I was, [as detailed in the most recent report of my South American adventure](/articles/south-america-trip-part-11/), in La Paz, Bolivia. I think I felt as lost then as I do now, though back then I had the novelty of new places and good friends to steer me through. This year I find myself stuck in an expensive flat that I can hardly afford to heat in a city where I hardly know anyone: it seems ridiculous that I had more people around me in La Paz than I do here but there you go.
+<!--more-->
+At this time last year I was, [as detailed in the most recent report of my South American adventure](/posts/south-america-trip-part-11/), in La Paz, Bolivia. I think I felt as lost then as I do now, though back then I had the novelty of new places and good friends to steer me through. This year I find myself stuck in an expensive flat that I can hardly afford to heat in a city where I hardly know anyone: it seems ridiculous that I had more people around me in La Paz than I do here but there you go.
 
 Reflecting on all this made me think about this feeling of being lost - I certainly wasn't sure of my place going into 2014, or 2013, or for many of the years before that. And I realised that you do feel lost if you do not (or are not able to) live your life with complete conviction at any moment. 
 

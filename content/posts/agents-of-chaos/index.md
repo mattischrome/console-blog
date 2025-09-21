@@ -1,6 +1,6 @@
 ---
 category: Cats
-date: 2024-01-08
+date: "2024-01-08"
 slug: agents-of-chaos
 tags: ["Twenty Four", "Photo", "Cats", "Life Experiences"]
 title: Agents of Chaos (2024 edition)

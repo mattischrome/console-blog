@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2011-11-02'
-
 tags: ["Books", "Mark Rowlands", "Non Fiction", "Eleven"]
 title: Mark Rowlands, The Philosopher And The Wolf
 ---
 I saw that a friend had ‘liked’ this book on Facebook and reading about it on [amazon](http://www.amazon.co.uk/Philosopher-Wolf-Lessons-Death-Happiness/dp/1847081029/), I was curious enough to give it a go. It is the autobiography of the philosopher [Mark Rowlands](http://rowlands.philospot.com/), specifically the experiences and lessons learned from raising a wolf, Brenin, from cub to maturity and beyond.
 
+<!--more-->
 The book addresses different aspects of philosophy including the nature of evil and the interaction between humans and other animals. As you might expect, the book pays particular attention to our interactions with wolves and dogs. There is also a lot of explanation of the difference between wolves and dogs. Rowlands appears often to disparage dogs, though remembering my experiences of our Labradors while growing up did make me nod in agreement quite often.
 
 Some of what he has to say about his actions seem a little hagiographic, making himself look less controlled and more anarchic in retrospect than perhaps was the case. I appreciate that this is probably everything to do with making the book a more entertaining read and it it no way detracts from the strength of his arguments. Faced with writing any book about my past I would do the same (I would have to!). Perhaps there is not much hagiography after all and it is just my prickly reaction to someone living a more exciting life than mine! The book contains valuable insights into the nature of love, the role that death plays in our lives and what it means to care for and respect other living creatures. I definitely learned things from this book. Moreover, there is an entertaining story at the heart of the book: that of one man and his wolf. I particularly like the idea of the wolf attending his lectures and howling from time to time by way of critique.

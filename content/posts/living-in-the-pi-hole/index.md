@@ -7,6 +7,7 @@ title: Living in the Pi Hole
 ---
 Ingrid bought me a [raspberry pi](https://www.raspberrypi.org) for my birthday. I've set it up to run the [Pi-hole](https://docs.pi-hole.net) software. Pi-hole is a nifty bit of kit that intercepts your web requests and purges any that ask for material on known ad servers. Essentially it's like having an ad blocker on your network rather than just your computer.
 
+<!--more-->
 I've written before about [why I hate web advertising](/net-loss/), and since then it's got even more malign. The use of our web browsing habits to track our every move and sell us crap has gotten way worse. Instagram is particularly *awful* for it and gets more awful with every amendment that Facebook makes. An ad-blocking solution that works for apps as well as in the browser is especially welcome.
 
 I've recently backed up and purged my Mac. This is not entirely unconnected to the resumption of posts on this blog as I'd managed to completely bork my Ruby installation. Definitely a story for another time. Since the great reboot of 2020, one of many pieces of software I have not reinstalled is an ad blocker. As a result I thought I'd note down some observations. Not everything gets blocked and it's good to understand what exactly the Pi-hole protects you from and what it doesn't. I'll try to write further posts later about what you and I need to do to further protect our online privacy.

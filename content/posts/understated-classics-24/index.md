@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2013-06-24'
 slug: understated-classics-24
-
 tags: ["Understated Classics", "Fanfarlo", "Music", "Thirteen", "Rock"]
 title: 'Understated Classics #24: Reservoir by Fanfarlo'
 ---
 I have written a lot in these posts about how music gets indelibly tied up with places, events and feelings. For me this album by Fanfarlo is tied up with all three of these. It makes me happy and sad at the same time in memory of great times that are now gone but are fondly remembered. I am aware that this is the youngest album on the list so far and so it might be a bit early to endow classic status upon it, but "Reservoir" is a fine album and to my ears it stands up really well. Listening to it again in the course of writing this post I found that I remembered every note and musical phrase, and yet somehow I also managed to delight in hearing new features in the production that I'd not noticed before.
 
+<!--more-->
 In January 2009, I went to see Snow Patrol at the O2 in London. Having seen Snow Patrol for the first time in Moles in Bath just as "Run" was starting to break big, the O2 was precisely the biggest absurdest to catch up with where they had got to. It was quite a hard place to be a support act there like Fanfarlo were that night, they did seem a bit lost in the cavernous space. By that point I had already fallen in love with Reservoir though, so I was able to fill in the gaps despite only knowing their songs for a couple of weeks.
 
 People quite rightly worry about piracy and about sites like the now defunct Megaupload, but that's where I got my first copy of "Reservoir". It was my source back then for taking a punt on a support act. Later on, I purchased the limited edition box set of the album and I also paid for a digital copy (for the bonus tracks) later on too. Nowadays Spotify fulfils the same role so my conscience is a little clearer but obviously for every Fanfarlo there are bands that didn't persuade me to buy a version of their album all tied up in twine. (There's also another luxury version that features a board game which I _almost_ bought as well!)

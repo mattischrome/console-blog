@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2017-09-25'
 slug: understated-classics-35
-
 tags: ["Understated Classics", "Orbital", "Music", "Seventeen", "Electronic"]
 title: 'Understated Classics #35: Snivilisation by Orbital'
 ---
 I came late to Orbital's work. I knew of them through a few remixes and because as a mad Orb fan, they could not have avoided my notice could they? Apart from that, one of my college friends tried to get me into "In Sides" just after its release in 1996. The same friend got me into ["Second Toughest In The Infants" by Underworld](/understated-classics-11/). I cannot now understand the reason, but "In Sides" just left me cold.
 
+<!--more-->
 "Snivilisation" precedes "In Sides". Released in 1994, it is their third album. I got my hands on a copy about thirteen years later. Ten years ago, in 2007, I lived in a house in Bath with my landlord. One day she leaned in to the doorway of my room, listening to the music I was playing. It was [something by the Orb](/understated-classics-13/), or it might have been [the Shamen's "Arbor Bona Arbor Mala"](/understated-classics-6/), and she said "the guy who used to live here liked music like that." She explained that he left some of his CDs behind and that they were in the attic if I was interested.
 
 Well dear reader, my reward for overcoming my immense fear of ladders was to find a stash of about 10 CDs of mid-90s dance and indie music in the attic, perched on one of the roof struts. Three of them were by Orbital ("Snivilisation", "In Sides" and "Times Fly"). I do not remember what the others were, probably stuff by the Chemical Brothers and some ropy compilations. Some of the other albums I already had, but two of the Orbital albums were new to me. I also took an interest in the Greatest Hits of the Stone Roses but the CD wouldn't rip &#xe413;.

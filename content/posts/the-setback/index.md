@@ -1,13 +1,14 @@
 ---
 category: Life Experiences
-exceprt: Sometimes things don't go as planned...
 date: '2010-12-01'
+exceprt: Sometimes things don't go as planned...
 tableOfContents: true
 tags: ["Self Improvement", "Life Experiences", "Depression", "Films", "Ten"]
 title: The Setback
 ---
 Since the run there has been a bit of a hiatus in this blog. I wrote about how running was making me feel better. In fact, I should have said more. I recently stopped taking the antidepressants that I had been taking for eighteen months. This has been my longest period taking such medication but the running made me feel sufficiently good to decide that I could stop taking them.
 
+<!--more-->
 It was not easy at first. In fact, after the first two weeks I went back to my GP to complain about being anxious and unable to sleep. It seemed weird to not be able to sleep at that time given how tiring my running schedule had become by that point. I was told that I should persevere because being better without the medication would be better than feeling better on the medication. I believed him and was grateful for the advice.
 
 ## You do it to yourself, just you

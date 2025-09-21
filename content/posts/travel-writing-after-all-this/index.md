@@ -1,11 +1,11 @@
 ---
 date: '2020-05-31'
-
 tags: ["Covid", "Writing", "Travel", "Twenty", "Ideas", "Life Experiences"]
 title: Travel Writing After All This
 ---
 While sprucing up this blog a bit during lockdown, I fell into reading my old posts about [South America](/tag/south%20america/). I enjoyed it, mostly for the memories, but also because the current lockdown is warping my sense of time and space. Hours feel like weeks, but then I blink and a month's gone by. I find myself traipsing similar orbits each day around the house, and then perhaps over to the supermarket or the park. There's a palpable escapism to be had in reminiscing about South America and other places.
 
+<!--more-->
 But the comfort of looking through old posts and thinking about what happened on my travels brought it home to me that travel will be vastly different when the lockdowns are over. Whole economies will now spend probably upwards of a decade readjusting to this new normal, there will be many things that people will not be able to do in the short term. Tourism as we knew it will be not be the same as before, especially if Covid-19 turns out to be something that we cannot effectively vaccinate against.
 
 But I think this represents an opportunity rather than a crisis. In recent years, capitalism, global tourism, and social media had aglomerated to create a wave of people washing through touristy towns and cities much to the detriment of people who had to live there. It's not that new a phenomenon. Ten years ago  during my PhD Bath used to be intolerable during the summer months. Even earlier than that during my MSc, stag and hen dos would blight weekend nights out in York. In January 2018, Barcelona seemed to be creaking at the seams with overtourism even at that quieter time of the year. Now those places and many others will be desperate for tourists to come back. Both for their livelihoods and because for them playing host to bustling crowds of people living, laughing and drinking in strange lands will be a way to know that this dark time is over.

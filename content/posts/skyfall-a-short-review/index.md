@@ -1,12 +1,12 @@
 ---
 category: Films
 date: '2012-11-03'
-
 tags: ["Films", "Twelve", "James Bond"]
 title: 'Skyfall: A Short Review'
 ---
 I went to see "Skyfall" last night and I really enjoyed it. I knew nothing about the plot, mostly because I had avoided all discussion of the plot with people who had already seen it and I even avoided reviews as so many these days seem to just rattle off plot points, instead of discussing what makes the movie any good. With that in mind I will obviously try not to give away any of the plot in this brief review.
 
+<!--more-->
 I think "Skyfall" is probably the most enjoyable Bond movie that I have seen. It takes a lot of the now familiar formula - starting _in medias res_, lavish animated intro (Adele's theme song is stunning), a completely unhinged villain - and manages to produce a solid and entertaining film.
 
 In one of it's blogs this week the Guardian asked whether Bond had become too grim and serious. I'd say that Skyfall does have a more mournful tone but there are hints of light and brightness too. There were plenty of moments where the whole cinema laughed as one. I think the days of Roger Moore's arched eyebrows are over, as are lazy characterisations of slapstick American sherrifs who are fat and short-tempered. I am glad that "Skyfall" isn't a po-mo- deconstruction of who or what Bond should represent in the twenty-first century, I like that there is some suspension of belief.

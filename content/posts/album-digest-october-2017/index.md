@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["Album Digest", "October", "Music", "Mary Epworth", "Kaitlyn Aurelia Smith", "Four Tet", "Rival Consoles", "Seventeen"]
 title: Album Digest, October 2017
 ---
+<!--more-->
+
 ## Mary Epworth "Elytral"
 
 This album came to my attention because its lead single "Me Swimming" appeared on my Discover Weekly playlist. I'd never heard of Mary before but this album was one of those nice discoveries that one sometimes makes when one tries to broaden what one listens to. The aforementioned "Me Swimming" is probably the best track, a beautiful slice of summery experimental pop layered over a beat that you can imagine as the kicks of a swimmer compared to the swirling lyric that imitates the pull of the strokes through the water. Or the other way round. I was a latecomer to swimming, I'm not very good at it. But I do know a good song when I hear one.

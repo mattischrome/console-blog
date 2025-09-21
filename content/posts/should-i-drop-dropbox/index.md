@@ -1,12 +1,12 @@
 ---
 category: Politics and Beliefs
 date: '2014-04-15'
-
 tags: ["Technology", "Privacy", "Fourteen", "Software", "Internet"]
 title: Should I Drop Dropbox?
 ---
 I am thinking about whether I want to use Dropbox to sync my files anymore. Don't get me wrong, I love Dropbox. It came along in beta in just 2008 just as I needed it to manage my PhD thesis. In fact I often jokingly claim to having invented it by asking on the MacRumors forums whether a program like it existed  - just a few weeks before its beta rode in to my life like a knight in shining armour. I recognised the need for a service that would synchronise a single directory and its contents between multiple computers using The Power Of The Internet™. I was used to using commands like scp to maintain my static blog on the university's servers and the multiple computers that I authored it from, though in 2008 when I moved back to my parents' house to write up my PhD I was frustrated that I couldn't work out how to do the same things when the target was a PC running Windows XP.
 
+<!--more-->
 Enter Dropbox. It filled the role beautifully, no matter whether I used my parent's PC with the printer attached or my own mac when sequestered away in my room, I was always updating the right version. This is crucial when writing a thesis! As a beta tester I started with a decent amount of space and this expanded over the years, I even completed one of their ["dropquests"](https://blog.dropbox.com/2012/05/dropquest-ii-the-future-is-now/). Over the years various iterations of models I worked on got synced all over the place with Dropbox, though in retrospect perhaps I should have used a transfer method that allowed me to step away from things more decisively from time to time. Last week I finally purged those models from my Dropbox folder and it felt really good.
 
 The most obvious use for Dropbox these days is to back up and store my photos. (I also use synced storage to access my technical PDFs while on the go.) I recently upgraded my phone and while it is magical how easy it is to move photos from one phone to the next, it would be more difficult if I was moving away from Apple to Android or Windows Phone because I use the easy to use Photo Stream. Dropbox offers a platform neutral solution to the problem of photo backup and up until recently I'd thought that I'd buy space from them so that I could store all my photos with them.

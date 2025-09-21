@@ -1,12 +1,12 @@
 ---
 category: Ideas
 date: '2015-03-22'
-
 tags: ["Ideas", "Writing", "Blogging", "Fifteen"]
 title: A Little Bit Intimidating Really
 ---
 There is so much good writing out there. All you have to do is fire up [the guardian website](http://www.theguardian.com/uk/), or download the [medium app to your smartphone](https://medium.com/m/app), or visit [my friend Barrie's site](http://xianity.me/), or [Lee's](https://narami.wordpress.com/), and so on and so on.
 
+<!--more-->
 When it comes to my little whisper into this great choir, it's easy to feel a bit intimidated. How do I add my voice? How do I feel distinct? How do I do it as well as all these other wonderful writers?
 
 You might think that after nearly four years and over five hundred posts, I might be less timorous. I can assure you that I still feel nervous about every single post. Almost every time I write a post I get hung up on a detail that prevents me writing. I find the biggest source of writer's block is worrying about whether any of it matters.

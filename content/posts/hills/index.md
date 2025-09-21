@@ -1,12 +1,12 @@
 ---
 category: Ideas
 date: '2017-07-15'
-
 tags: ["Ideas", "Blogging", "Seventeen"]
 title: Hills
 ---
 I'm a big fan of books. The way they transport you away to other places and so on. As repositories of knowledge and adventure they can't be beat. I can think of no better way out of an existential fix than reading.
 
+<!--more-->
 The trouble is I tend to hoard them. I've posted pictures of [book stacks before](https://mattischrome.com/reading-list-mid-april-2012/) ([on more than one occasion](https://mattischrome.com/another-reading-list/)). I could probably repeat that every month if I wanted to, perhaps even more often. I've always been a networked thinker, able to see (at least superficially) the connections between all sorts of things. Because of this I get excited and enthusiastic about all kinds of things, and I want to learn them all. 
 
 My motto: learn all the things. If only I had some sort of heraldic crest below which those words could float on a trompe l'oeil fluttering scroll. I can picture it now: a Bear rampant on yellow and black quarters, above a scroll featuring the words *omnia scire*. 

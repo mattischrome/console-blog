@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2015-04-03'
-
 tags: ["Books", "Andy Weir", "Science Fiction", "Fifteen"]
 title: Andy Weir, The Martian
 ---
 I received a copy of The Martian by Andy Weir for Christmas. This week during some annual leave I managed to finish it. It's one of those novels that just flies by once it gets going. I've stayed up incredibly late to read it as it is full of those "just one more page" moments. It’s a readable and enjoyable story of an astronaut trapped on Mars.
 
+<!--more-->
 Mark Watney is believed to be dead following an accident during an emergency evacuation in a dust storm. With his life support readings at zero and unable to locate his body to be certain, his crew reluctantly abandon him on the red planet.
 
 Mark survives but knows that he does not have enough food or water to survive long enough to be rescued. In the novel missions to Mars operate by sending an ascent vehicle in advance of a future mission - that's the rocket that his colleagues escape in on page one. However there's another mission, which means that there is another ascent vehicle. If he can work out how to get there and somehow produce some food so he can survive long enough, there is a chance that the next mission can collect him.

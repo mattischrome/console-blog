@@ -1,7 +1,6 @@
 ---
 category: Podcasts
 date: '2016-10-10'
-
 tag:
 - Podcast
 - Ideas
@@ -10,6 +9,7 @@ title: Heavyweight Podcast
 ---
 [Heavyweight](https://gimletmedia.com/show/heavyweight/about/) is a podcast about “heavyweight” issues, in the sense of burdens on the soul, rather than the burning issues of the day. It’s presented by Jonathan Goldstein, who was the host of the WireTap podcast. Each week he helps someone resolve an issue from their past. These include resolving family feuds and understanding mid-life depression.
 
+<!--more-->
 I am a generalist who often takes a broader view of things. Heavyweight reminds me that the emotions of individuals are as important as the wider trends that affect groups. It’s helped reinforce my recent thinking that one leads to the other and that it’s more of a causal relationship than we might think. Despite my interest in the general, I’m a microeconomist at heart.
 
 As I write this, three episodes of Heavyweight have aired. I know the series could yet go downhill but so far I’ve found each episode improves on the last. Three's a manageable number to write about so here's a mini-review of each episode.

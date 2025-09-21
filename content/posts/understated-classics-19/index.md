@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2012-08-15'
 slug: understated-classics-19
-
 tags: ["Understated Classics", "Kate Bush", "Music", "Twelve", "Pop", "Rock", "Electronic"]
 title: 'Understated Classics #19: The Dreaming by Kate Bush'
 ---
 > “I see the people working and see it working for them.” (_Sat In Your Lap_)
 
+<!--more-->
 The Dreaming by Kate Bush is a strange 1982 album that many believed had destroyed her career. Two weeks before her first ever performance of “Running Up That Hill”, [the NME had written an editorial asking whether she had burnt herself out completely](http://www.nme.com/blog/index.php?blog=10&title=on_this_day_kate_bush_releases_hounds_of_1986&more=1&c=1&tb=1&pb=1). Obviously “Running Up That Hill” (recently used to great effect in the Olympic Closing Ceremony) and the parent album “The Hounds Of Love” that followed showed that she had plenty more up her sleeve.
 
 Nevertheless there is little doubt that back in 1982 “The Dreaming” would have sounded very bizarre indeed. There are songs about S&M, suicide bombings, stalkers, and a song about smugglers that I used to think was about [Amelia Earhart](http://en.wikipedia.org/wiki/Amelia_Earhart). One song is about the genocidal displacement of Australia's aboriginal peoples sung in an Australian accent, while another is a music hall spoof about a failed bank robbery. At first listen it is extremely strange and yet on repeat listens it is probably the best album in her discography.

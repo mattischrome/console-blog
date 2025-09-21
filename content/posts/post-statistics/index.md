@@ -1,11 +1,7 @@
 ---
 category: Maths
 date: '2025-02-15'
-tags:
-- Twenty Five
-- Meta
-- Blogging
-- Stats
+tags: ["Twenty Five", "Meta", "Blogging", "Stats"]
 title: Post Statistics
 ---
 Here's of graph of how the number of posts and the total word count on mattischrome has evolved over the years:

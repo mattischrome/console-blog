@@ -1,12 +1,12 @@
 ---
 category: Politics and Beliefs
 date: '2015-05-09'
-
 tags: ["News", "Politics", "Fifteen"]
 title: Like a Rhino Voting for Poaching
 ---
 There's a reason I cannot and will not vote Conservative, and like most people's apparent motive for voting tory it is also a selfish one. As someone employed in the public sector, working to ensure the greater good, I'm a member of an increasingly endangered species.
 
+<!--more-->
 Ah Matthew, I hear you say, you're trotting out the old "the turkeys have voted for Christmas" line. Well no, like I said, this is purely selfish. When you mark that X in the box, you tend to think about yourself only. Never mind the turkeys (for now).
 
 The rhino analogy is apt, you see. The conservatives are not shy about their ideological pursuit of a small state. They want as little paid for by taxpayers as possible, the functions of our community solidarity provided by unaccountable private companies. They are the poachers.

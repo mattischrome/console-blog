@@ -7,6 +7,7 @@ title: Album Digest, December 2011
 ---
 Some rather brief pen pictures of this month’s albums. I’ve been a bit busy!
 
+<!--more-->
 ## Radio Slave - Collected Remixes
 
 Thud thud thud. This is pretty much how all Radio Slave remixes go. I really liked his fabric mix and borrowed a few tracks for a playlist I made called "Dancing In Space". Anyway, back to the thudding: it’s no bad thing, the remixes have a nice formula that works well for discovering new tracks like UNKLE’s _Burn My Shadow_ (Ian Astbury’s vocal is given plenty of room to shine) and K3’s _Play To Win_.

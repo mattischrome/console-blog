@@ -41,7 +41,7 @@
       <link>http://localhost:1313/posts/all-part-of-the-process/</link>
       <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/all-part-of-the-process/</guid>
-      <description>&lt;p&gt;Writing a blog post every day is not essential. It&amp;rsquo;s not part of some new year&amp;rsquo;s resolution, despite the fact that the start of this unbroken streak of posts was January 1st. If anything my new year&amp;rsquo;s resolution has been to try and step gently away from my perfection. And the adoption of that resolution began in the middle of 2024 rather than new year&amp;rsquo;s day.&lt;/p&gt;&#xA;&lt;p&gt;Around September time, I realised and began to recognise myself as I read many descriptions of crippling perfectionism, especially in how it relates to depression. Depression is a weird experience that is simultaneously subjective but also measurable in many ways. It became clearer and clearer to me that perfectionism was a significant component to my problems, in both work and the rest of life (i.e. the part that is most important). And so I began to try and undo a lifetime of thinking in a particular way, mostly guided by a set of rules that I now write down in all my notebooks. Those rules are for me, so I won&amp;rsquo;t share them here, at least not today. But they are eminently findable on the internet and recognisable variations of common themes in self-help literature. I still need to work out which of them are genuine rules and which are merely guidelines.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Writing a blog post every day is not essential. It&amp;rsquo;s not part of some new year&amp;rsquo;s resolution, despite the fact that the start of this unbroken streak of posts was January 1st. If anything my new year&amp;rsquo;s resolution has been to try and step gently away from my perfection. And the adoption of that resolution began in the middle of 2024 rather than new year&amp;rsquo;s day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>More Uses For Little Notebooks</title>
@@ -55,14 +55,14 @@
       <link>http://localhost:1313/posts/nineteen-out-of-nineteen/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/nineteen-out-of-nineteen/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m having trouble finding something to write about today. Partly the problem of having a productive weekend of doing things rather than ruminating on blog topics. So unfortunately, we get another space-filling post.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve got lots of books on the go at the moment, including &amp;ldquo;Orbital&amp;rdquo; which won the Booker prize this year and &amp;ldquo;Otherlands&amp;rdquo; which is a really cool book about natural history going back in time through the eras of the Earth.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;m having trouble finding something to write about today. Partly the problem of having a productive weekend of doing things rather than ruminating on blog topics. So unfortunately, we get another space-filling post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Realisation</title>
       <link>http://localhost:1313/posts/a-realisation/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a-realisation/</guid>
-      <description>&lt;p&gt;One of the best pieces of advice I have ever been given about how to tackle programming problems is to treat your code as comments that describe your program to the computer, whilst the comments that are there for humans to read should tell them how the program is supposed to work.&lt;/p&gt;&#xA;&lt;p&gt;In recent days I have come to a realisation that you also need to try and see things as the computer sees them, rather than expecting it to see what you can see. I was working with some data that were formatted in a pretty way for humans and I was completely flummoxed because I couldn&amp;rsquo;t get &lt;em&gt;any&lt;/em&gt; of it into R. The more I stared at the files, the more I began to see all these weird anomalies like completely blank columns that had been shrunk to near zero widths and inconsistencies between files with how the main components of the data were stored. It&amp;rsquo;s been a strange experience!&lt;/p&gt;</description>
+      <description>&lt;p&gt;One of the best pieces of advice I have ever been given about how to tackle programming problems is to treat your code as comments that describe your program to the computer, whilst the comments that are there for humans to read should tell them how the program is supposed to work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doing the thing</title>
@@ -76,14 +76,14 @@
       <link>http://localhost:1313/posts/make-it-weird/</link>
       <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/make-it-weird/</guid>
-      <description>&lt;p&gt;Today I listened to &amp;lsquo;Cloudbusting&amp;rsquo; by Kate Bush for the first time in a while. What a gloriously strange song it is. Best of all, it&amp;rsquo;s one of those songs that obscures what it is really about. It&amp;rsquo;s not a song about a change in the weather, but about &lt;a href=&#34;https://wilhelmreichmuseum.org/about/biography-of-wilhelm-reich/&#34;&gt;Wilhelm Reich&lt;/a&gt;, the &lt;a href=&#34;https://en.wikipedia.org/wiki/Orgone&#34;&gt;orgone&lt;/a&gt; accumulator, &lt;a href=&#34;https://www.cultofweird.com/medical/radium-girls/&#34;&gt;fluorescent yo-yos&lt;/a&gt;, and a son (rather than a &lt;em&gt;sun&lt;/em&gt;) coming out.&lt;/p&gt;&#xA;&lt;p&gt;&amp;lsquo;Cloudbusting&amp;rsquo; is from &amp;lsquo;Hounds of Love&amp;rsquo;, Kate&amp;rsquo;s &amp;lsquo;comeback&amp;rsquo; album following the commercial failure of &lt;a href=&#34;https://mattischrome.com/understated-classics-19&#34;&gt;&amp;lsquo;The Dreaming&amp;rsquo;&lt;/a&gt;, an album I wrote about in my &lt;a href=&#34;https://mattischrome.com/tag/understated%20classics/&#34;&gt;understated classics series&lt;/a&gt;. It features four UK top 10 singles and some of her best work.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Today I listened to &amp;lsquo;Cloudbusting&amp;rsquo; by Kate Bush for the first time in a while. What a gloriously strange song it is. Best of all, it&amp;rsquo;s one of those songs that obscures what it is really about. It&amp;rsquo;s not a song about a change in the weather, but about &lt;a href=&#34;https://wilhelmreichmuseum.org/about/biography-of-wilhelm-reich/&#34;&gt;Wilhelm Reich&lt;/a&gt;, the &lt;a href=&#34;https://en.wikipedia.org/wiki/Orgone&#34;&gt;orgone&lt;/a&gt; accumulator, &lt;a href=&#34;https://www.cultofweird.com/medical/radium-girls/&#34;&gt;fluorescent yo-yos&lt;/a&gt;, and a son (rather than a &lt;em&gt;sun&lt;/em&gt;) coming out.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Drawing a line on the page</title>
       <link>http://localhost:1313/posts/drawing-a-line-on-the-page/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/drawing-a-line-on-the-page/</guid>
-      <description>&lt;p&gt;Ingrid has joined an online drawing class. She sits there on Teams getting feedback on her drawings, while I sit there attempting to absorb everything. I&amp;rsquo;m also learning by doing, by making a line on the page. In some ways, it&amp;rsquo;s instructive to observe the difference in what we learn with and without the feedback.&lt;/p&gt;&#xA;&lt;p&gt;We bought some drawing materials and nice notepads. But to be honest, I still haven&amp;rsquo;t made room in my day to draw regularly. This is a shame because you do have do these things regularly in order to develop the skill.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ingrid has joined an online drawing class. She sits there on Teams getting feedback on her drawings, while I sit there attempting to absorb everything. I&amp;rsquo;m also learning by doing, by making a line on the page. In some ways, it&amp;rsquo;s instructive to observe the difference in what we learn with and without the feedback.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some Tips For Saving Time</title>
@@ -104,7 +104,7 @@
       <link>http://localhost:1313/posts/holiday-tabs/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/holiday-tabs/</guid>
-      <description>&lt;p&gt;Over the course of a week on holiday, I started reading many interesting articles. In lockdown there isn&amp;rsquo;t much to do but read articles, but I still find myself not that good at finishing them. My phone has lots of tabs open and has become a Rolodex of shame. This post is to confess my sins.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m trying to re-familiarise myself with Python. As with all modern software development, Python now seems atomised and hyper-complicated. As a result, this series of posts from Claudio Jolowitz was useful. He cuts through lots of the complications and explains why they are there. Someone should ask him to write a book.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Over the course of a week on holiday, I started reading many interesting articles. In lockdown there isn&amp;rsquo;t much to do but read articles, but I still find myself not that good at finishing them. My phone has lots of tabs open and has become a Rolodex of shame. This post is to confess my sins.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Things to Remember</title>
@@ -118,7 +118,7 @@
       <link>http://localhost:1313/posts/ambitions-revisited/</link>
       <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/ambitions-revisited/</guid>
-      <description>&lt;p&gt;Back in 2012 &lt;a href=&#34;http://localhost:1313/ambitions&#34;&gt;I wrote a post&lt;/a&gt; listing my ambitions for the future. Well it&amp;rsquo;s the future now isn&amp;rsquo;t it? Almost. After all, &lt;a href=&#34;https://www.quora.com/How-long-does-it-take-for-most-of-the-atoms-in-your-body-to-be-replaced-by-others&#34;&gt;I’m a whole new person now&lt;/a&gt;. Anyway it&amp;rsquo;s probably time to take stock. Have I achieved any of them? Have any of my ambitions changed? What&amp;rsquo;s replaced the things that I&amp;rsquo;ve decided not to worry about? What has come after the things I managed to do?&lt;/p&gt;&#xA;&lt;p&gt;First off, here&amp;rsquo;s my justification for writing the list in the original post:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Back in 2012 &lt;a href=&#34;http://localhost:1313/ambitions&#34;&gt;I wrote a post&lt;/a&gt; listing my ambitions for the future. Well it&amp;rsquo;s the future now isn&amp;rsquo;t it? Almost. After all, &lt;a href=&#34;https://www.quora.com/How-long-does-it-take-for-most-of-the-atoms-in-your-body-to-be-replaced-by-others&#34;&gt;I’m a whole new person now&lt;/a&gt;. Anyway it&amp;rsquo;s probably time to take stock. Have I achieved any of them? Have any of my ambitions changed? What&amp;rsquo;s replaced the things that I&amp;rsquo;ve decided not to worry about? What has come after the things I managed to do?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Five years after</title>
@@ -132,7 +132,7 @@
       <link>http://localhost:1313/posts/reboot/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/reboot/</guid>
-      <description>&lt;p&gt;As much as I hate to write about writing, especially when I write so infrequently, I feel I need to reboot this blog. I wrote so few posts in recent months I considered giving up altogether.&lt;/p&gt;&#xA;&lt;p&gt;I’ve been stressed. Sometimes this manifests in being unable to sleep. Sometimes it manifests in all my interests and ideas seeming to be completely pointless. Sometimes one of those precedes the other. Sometimes it works vice versa. Often since getting back from Australia I’ve felt stuck in a vicious circle of insomnia and disinterest. Perhaps it’s just been the longest case of jet lag ever.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As much as I hate to write about writing, especially when I write so infrequently, I feel I need to reboot this blog. I wrote so few posts in recent months I considered giving up altogether.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Diary?</title>
@@ -146,21 +146,21 @@
       <link>http://localhost:1313/posts/valleys/</link>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/valleys/</guid>
-      <description>&lt;p&gt;In my last post, I wrote about hills. I tried to use them as a metaphor to explain nagging sense of incompletion when you single out one activity over another. The feeling that there&amp;rsquo;s always a more exciting hill off in the distance to go climb, instead of the one you&amp;rsquo;re on.&lt;/p&gt;&#xA;&lt;p&gt;I said my next post would be about how to pick between different options, particularly when you have many to choose from. This post is not that. This is a short piece about an experience I had in South America that relates to the hills post: about contentment in the moment and letting things go.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In my last post, I wrote about hills. I tried to use them as a metaphor to explain nagging sense of incompletion when you single out one activity over another. The feeling that there&amp;rsquo;s always a more exciting hill off in the distance to go climb, instead of the one you&amp;rsquo;re on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hills</title>
       <link>http://localhost:1313/posts/hills/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/hills/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a big fan of books. The way they transport you away to other places and so on. As repositories of knowledge and adventure they can&amp;rsquo;t be beat. I can think of no better way out of an existential fix than reading.&lt;/p&gt;&#xA;&lt;p&gt;The trouble is I tend to hoard them. I&amp;rsquo;ve posted pictures of &lt;a href=&#34;https://mattischrome.com/reading-list-mid-april-2012/&#34;&gt;book stacks before&lt;/a&gt; (&lt;a href=&#34;https://mattischrome.com/another-reading-list/&#34;&gt;on more than one occasion&lt;/a&gt;). I could probably repeat that every month if I wanted to, perhaps even more often. I&amp;rsquo;ve always been a networked thinker, able to see (at least superficially) the connections between all sorts of things. Because of this I get excited and enthusiastic about all kinds of things, and I want to learn them all.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;m a big fan of books. The way they transport you away to other places and so on. As repositories of knowledge and adventure they can&amp;rsquo;t be beat. I can think of no better way out of an existential fix than reading.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Create</title>
       <link>http://localhost:1313/posts/create/</link>
       <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/create/</guid>
-      <description>&lt;p&gt;It can be a struggle to keep writing. I&amp;rsquo;ve found this happened a lot since I moved the blog. First, there was  the business of moving things over. That meant a lot of thought about old posts and which ones I should keep. A lot of the time I thought &amp;ldquo;how on earth did I have time to write this?!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Then there seemed to be a lot more barriers to writing than previously. We can say what we like about the machinery that WordPress runs on, it does make it easy to write regularly. It also provides a lot of tools for making writing fun and for learning things as you go. I still have access to those things but it&amp;rsquo;s a little different now.&lt;/p&gt;</description>
+      <description>&lt;p&gt;It can be a struggle to keep writing. I&amp;rsquo;ve found this happened a lot since I moved the blog. First, there was  the business of moving things over. That meant a lot of thought about old posts and which ones I should keep. A lot of the time I thought &amp;ldquo;how on earth did I have time to write this?!&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A New Notebook</title>
@@ -174,7 +174,7 @@
       <link>http://localhost:1313/posts/no-clue-part-43/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/no-clue-part-43/</guid>
-      <description>&lt;p&gt;&lt;em&gt;A little man wearing a bow tie, and possibly a fez, scurries into the middle of the frame clutching a clapboard. Breathing heavily he hoists the clapboard up to chest height. He holds the clapper up then brings down while slurring &amp;quot;This is a blog post about not having a clue, take 43&amp;quot;. He exits to the right of the frame.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;My feet are hot. The bed seems too small. Why are my feet always too hot on nights like these? I bet I could sleep if my feet weren&#39;t so hot.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;A little man wearing a bow tie, and possibly a fez, scurries into the middle of the frame clutching a clapboard. Breathing heavily he hoists the clapboard up to chest height. He holds the clapper up then brings down while slurring &amp;quot;This is a blog post about not having a clue, take 43&amp;quot;. He exits to the right of the frame.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Untitled 2</title>
@@ -188,35 +188,35 @@
       <link>http://localhost:1313/posts/first-light-last-light/</link>
       <pubDate>Sun, 19 Jul 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/first-light-last-light/</guid>
-      <description>&lt;p&gt;I often ponder whether the joys of waking up early are greater than those of staying up late. Empirical evidence seems to bear this out: all those people who get to work before you do, super-eager to get everything done. But then all the people walking under your windows late at night, drunk and laughing, they sound like they&amp;rsquo;re having a whale of a time too.&lt;/p&gt;&#xA;&lt;p&gt;I oscillate between the two extremes, though I tend to sleep better if I stay up late. My natural sleep hours are 1am to 8am, though I am usually human if I can get up just after 7. Whenever I try to stick to getting up early, to do masochistic things like running or being organised, I often find it harder to get to sleep or I wake up at 3 rather than 6. I end up second guessing my alarm clock.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I often ponder whether the joys of waking up early are greater than those of staying up late. Empirical evidence seems to bear this out: all those people who get to work before you do, super-eager to get everything done. But then all the people walking under your windows late at night, drunk and laughing, they sound like they&amp;rsquo;re having a whale of a time too.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Time Is Time and That Is That</title>
       <link>http://localhost:1313/posts/time-is-time-and-that-is-that/</link>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/time-is-time-and-that-is-that/</guid>
-      <description>&lt;p&gt;A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.&lt;/p&gt;&#xA;&lt;p&gt;So why does Facebook feel the need to jiggle things about into a random order? Well most of you have that mobile phone app of theirs that sucks your battery and your data allowance like crazy (mainly by auto-playing videos like a dick). They know you’re checking your Facebook on the loo at work and that that limits your interaction time. During this precious interlude they want you to see the stuff that they think interests you and the things that other people paid for you to see. You’re going to see some hick’s new tattoo, at least one photo of someone else’s child and an advert telling you to vote Conservative - whether you like it or not.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jim&#39;s Conservatory</title>
       <link>http://localhost:1313/posts/jims-conservatory/</link>
       <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/jims-conservatory/</guid>
-      <description>&lt;p&gt;Let&amp;rsquo;s assume that Jim has just had a &lt;a href=&#34;https://en.wikipedia.org/wiki/2008_United_Kingdom_bank_rescue_package&#34;&gt;sudden unexpected expenditure&lt;/a&gt;: a neighbour released a bull into his back garden and &lt;a href=&#34;http://www.theguardian.com/business/2007/nov/01/creditcrunch.subprimecrisis&#34;&gt;it destroyed his conservatory&lt;/a&gt;. Let&amp;rsquo;s assume that the conservatory is essential to Jim&amp;rsquo;s wellbeing, so it has to be fixed immediately. As a result Jim&amp;rsquo;s debts, which &lt;a href=&#34;http://www.theguardian.com/business/2015/may/03/senior-tory-financial-crash-was-purely-a-banking-crisis-not-labour-overspend&#34;&gt;were previously small and well-managed&lt;/a&gt;, have now increased somewhat.&lt;/p&gt;&#xA;&lt;p&gt;Obviously Jim can&amp;rsquo;t keep that debt hanging over him forever. What does he do?&lt;/p&gt;&#xA;&lt;p&gt;Fortunately for Jim, the circumstances of his borrowing aren&amp;rsquo;t so different before and after the event. &lt;a href=&#34;http://www.telegraph.co.uk/finance/personalfinance/interest-rates/9922941/Interest-rates-predictions-Four-more-years-of-0.5.html&#34;&gt;Interest rates are low and are predicted to stay low&lt;/a&gt;, and the &lt;a href=&#34;http://www.bbc.co.uk/news/business-21554311&#34;&gt;terms of his credit haven&amp;rsquo;t changed a great deal despite his increased borrowing&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Let&amp;rsquo;s assume that Jim has just had a &lt;a href=&#34;https://en.wikipedia.org/wiki/2008_United_Kingdom_bank_rescue_package&#34;&gt;sudden unexpected expenditure&lt;/a&gt;: a neighbour released a bull into his back garden and &lt;a href=&#34;http://www.theguardian.com/business/2007/nov/01/creditcrunch.subprimecrisis&#34;&gt;it destroyed his conservatory&lt;/a&gt;. Let&amp;rsquo;s assume that the conservatory is essential to Jim&amp;rsquo;s wellbeing, so it has to be fixed immediately. As a result Jim&amp;rsquo;s debts, which &lt;a href=&#34;http://www.theguardian.com/business/2015/may/03/senior-tory-financial-crash-was-purely-a-banking-crisis-not-labour-overspend&#34;&gt;were previously small and well-managed&lt;/a&gt;, have now increased somewhat.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Consider the Donut</title>
       <link>http://localhost:1313/posts/consider-the-donut/</link>
       <pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/consider-the-donut/</guid>
-      <description>&lt;h2 id=&#34;or-from-there-to-here-with-the-simpsons&#34;&gt;Or, From There to Here With the Simpsons&lt;/h2&gt;&#xA;&lt;p&gt;Old episodes of The Simpsons are great. The other night “Bart After Dark” was on and I really enjoyed seeing it again. It’s from season eight, the one where Bart ends up working in the Maison Derriére. I thought it was older; mind you, this makes it nineteen years old. When I thought about the episode later on that evening, I realised how the story anarchically set out in multiple directions before settling into its main storyline. This still happens in newer Simpsons episodes, though the show is rarely as joyfully chaotic now as it was back then.&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>A Little Bit Intimidating Really</title>
       <link>http://localhost:1313/posts/a-little-bit-intimidating-really/</link>
       <pubDate>Sun, 22 Mar 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a-little-bit-intimidating-really/</guid>
-      <description>&lt;p&gt;There is so much good writing out there. All you have to do is fire up &lt;a href=&#34;http://www.theguardian.com/uk/&#34;&gt;the guardian website&lt;/a&gt;, or download the &lt;a href=&#34;https://medium.com/m/app&#34;&gt;medium app to your smartphone&lt;/a&gt;, or visit &lt;a href=&#34;http://xianity.me/&#34;&gt;my friend Barrie&amp;rsquo;s site&lt;/a&gt;, or &lt;a href=&#34;https://narami.wordpress.com/&#34;&gt;Lee&amp;rsquo;s&lt;/a&gt;, and so on and so on.&lt;/p&gt;&#xA;&lt;p&gt;When it comes to my little whisper into this great choir, it&amp;rsquo;s easy to feel a bit intimidated. How do I add my voice? How do I feel distinct? How do I do it as well as all these other wonderful writers?&lt;/p&gt;</description>
+      <description>&lt;p&gt;There is so much good writing out there. All you have to do is fire up &lt;a href=&#34;http://www.theguardian.com/uk/&#34;&gt;the guardian website&lt;/a&gt;, or download the &lt;a href=&#34;https://medium.com/m/app&#34;&gt;medium app to your smartphone&lt;/a&gt;, or visit &lt;a href=&#34;http://xianity.me/&#34;&gt;my friend Barrie&amp;rsquo;s site&lt;/a&gt;, or &lt;a href=&#34;https://narami.wordpress.com/&#34;&gt;Lee&amp;rsquo;s&lt;/a&gt;, and so on and so on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Fireworks Work</title>
@@ -244,21 +244,21 @@
       <link>http://localhost:1313/posts/jackson-x/</link>
       <pubDate>Sun, 15 Feb 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/jackson-x/</guid>
-      <description>&lt;p&gt;I set myself the task of writing about a fictional character for this blog post, so this post is about Jackson X. His surname isn’t really X, it’s just one of the details about him that I haven’t fleshed out yet. This is because Jackson X is the one of the protagonists of the novel I’m (not) writing.&lt;/p&gt;&#xA;&lt;p&gt;The name of the novel is “The Summer of the Giant Space Whale”. I’m quite happy to discuss its plot and structure here. I don’t need to worry about anyone stealing the idea because it is already a rip-off of &lt;a href=&#34;https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama&#34;&gt;Arthur C. Clarke’s “Rendezvous With Rama”&lt;/a&gt; (or, less charitably, &lt;a href=&#34;http://www.imdb.com/title/tt0092007/?ref_=nv_sr_1&#34;&gt;“Star Trek IV: The Voyage Home”&lt;/a&gt;).&lt;/p&gt;</description>
+      <description>&lt;p&gt;I set myself the task of writing about a fictional character for this blog post, so this post is about Jackson X. His surname isn’t really X, it’s just one of the details about him that I haven’t fleshed out yet. This is because Jackson X is the one of the protagonists of the novel I’m (not) writing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building Brains</title>
       <link>http://localhost:1313/posts/building-brains/</link>
       <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/building-brains/</guid>
-      <description>&lt;p&gt;This is a longer form post about artificial intelligence inspired by reading a little bit of &amp;ldquo;The Pale King&amp;rdquo; by David Foster Wallace and putting a picture of a &amp;ldquo;ghost&amp;rdquo; up on Instagram. This might be the last of these that I&amp;rsquo;m able to write for a while.&lt;/p&gt;&#xA;&lt;h2 id=&#34;on-not-reading-the-pale-king&#34;&gt;On Not Reading &amp;ldquo;The Pale King&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;The Pale King&amp;rdquo; is the third and final novel by American author &lt;a href=&#34;http://www.newsweek.com/david-foster-wallace-appreciation-david-gates-89371&#34;&gt;David Foster Wallace&lt;/a&gt;. He was working on it when he committed suicide in 2008. It was compiled from incomplete notes and released posthumously in 2011. It deals with several characters around an &lt;a href=&#34;http://en.m.wikipedia.org/wiki/Internal_Revenue_Service&#34;&gt;IRS&lt;/a&gt; tax office in Peoria, Illinois&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is a longer form post about artificial intelligence inspired by reading a little bit of &amp;ldquo;The Pale King&amp;rdquo; by David Foster Wallace and putting a picture of a &amp;ldquo;ghost&amp;rdquo; up on Instagram. This might be the last of these that I&amp;rsquo;m able to write for a while.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What IS That Noise?</title>
       <link>http://localhost:1313/posts/what-is-that-noise/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/what-is-that-noise/</guid>
-      <description>&lt;p&gt;I recently spruced up a post I wrote four years ago about &lt;a href=&#34;http://localhost:1313/articles/uc4/&#34;&gt;Biosphere’s wonderful album Substrata&lt;/a&gt;. I added the following footnote about the difference between voice samples and found sound:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I suppose I am distinguishing between found sound and vocal samples here. Perhaps there is very little difference, or that one is the other? When is a vocal snippet something more than found sound? Is it the fact that one has meaning? Isn’t a “meaningless” sample - like the ones here in Russian that I can’t understand - little more than found sound anyway?&lt;/p&gt;</description>
+      <description>&lt;p&gt;I recently spruced up a post I wrote four years ago about &lt;a href=&#34;http://localhost:1313/posts/understated-classics-4/&#34;&gt;Biosphere’s wonderful album Substrata&lt;/a&gt;. I added the following footnote about the difference between voice samples and found sound:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Posters</title>
@@ -279,28 +279,28 @@
       <link>http://localhost:1313/posts/a-mountain-story/</link>
       <pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a-mountain-story/</guid>
-      <description>&lt;p&gt;A cat reaches the top of a mountain after a long climb through the snow. He is cold from the bottom of his fur to the tips of his claws. He is sodden and wet, and we all know how much a cat hates to be wet.&lt;/p&gt;&#xA;&lt;p&gt;At the top of the mountain there is not much to see. What may have been a breathtaking view is instead a murk of freezing mist and at any rate, snow assails the cat’s eyes and whiskers. He shivers and sneezes.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A cat reaches the top of a mountain after a long climb through the snow. He is cold from the bottom of his fur to the tips of his claws. He is sodden and wet, and we all know how much a cat hates to be wet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ambitions</title>
       <link>http://localhost:1313/posts/ambitions/</link>
       <pubDate>Sat, 10 Nov 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/ambitions/</guid>
-      <description>&lt;p&gt;Sometimes, when I am feeling a bit down, I like to write down some of my ambitions. As you can see from this list they are mostly pretty humble but they are also a bit cheesy and embarassing, so I have put them after the fold!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Be wholehearted, cheerful, and sincere&lt;/li&gt;&#xA;&lt;li&gt;Be creative&lt;/li&gt;&#xA;&lt;li&gt;Look at the world and see its many faces, hear its many voices&lt;/li&gt;&#xA;&lt;li&gt;Explore new recipes as often as possible when I cook&lt;/li&gt;&#xA;&lt;li&gt;Learn to like the taste of tomatoes and cucumbers&lt;/li&gt;&#xA;&lt;li&gt;Be more at ease around people&lt;/li&gt;&#xA;&lt;li&gt;Listen to people and hear what they say&lt;/li&gt;&#xA;&lt;li&gt;Play my part&lt;/li&gt;&#xA;&lt;li&gt;Look after someone special&lt;/li&gt;&#xA;&lt;li&gt;Become a parent&lt;/li&gt;&#xA;&lt;li&gt;Share my values with others, help those who need it&lt;/li&gt;&#xA;&lt;li&gt;Break up all the negative things inside me&lt;/li&gt;&#xA;&lt;li&gt;Know what other people want, help them get it&lt;/li&gt;&#xA;&lt;li&gt;When I wake up each morning I would like to remember my dreams&lt;/li&gt;&#xA;&lt;li&gt;Understand art more than I do&lt;/li&gt;&#xA;&lt;li&gt;Lose my fear of creepy crawlies&lt;/li&gt;&#xA;&lt;li&gt;Learn to drive&lt;/li&gt;&#xA;&lt;li&gt;Learn to write left handed (why not?)&lt;/li&gt;&#xA;&lt;li&gt;Visit every country in Europe&lt;/li&gt;&#xA;&lt;li&gt;Visit the radio telescopes on Mauna Kea in Hawaii&lt;/li&gt;&#xA;&lt;li&gt;Let go of unnecessary things&lt;/li&gt;&#xA;&lt;li&gt;Ditch social networks and the rest of the internet as much as possible&lt;/li&gt;&#xA;&lt;li&gt;Learn to appreciate the noise around me&lt;/li&gt;&#xA;&lt;li&gt;Meditate&lt;/li&gt;&#xA;&lt;li&gt;Get over my reliance on sugar to improve my mood&lt;/li&gt;&#xA;&lt;li&gt;Get rid of things I don’t need&lt;/li&gt;&#xA;&lt;li&gt;Grow the garden&lt;/li&gt;&#xA;&lt;li&gt;Write people letters&lt;/li&gt;&#xA;&lt;li&gt;Learn the differences between species of trees&lt;/li&gt;&#xA;&lt;li&gt;Be flexible and adaptable and positive about the future&lt;/li&gt;&#xA;&lt;li&gt;Learn how to hang a picture on a wall&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Sometimes, when I am feeling a bit down, I like to write down some of my ambitions. As you can see from this list they are mostly pretty humble but they are also a bit cheesy and embarassing, so I have put them after the fold!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Net Loss</title>
       <link>http://localhost:1313/posts/net-loss/</link>
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/net-loss/</guid>
-      <description>&lt;p&gt;I pay to have this blog up and running. That is, I pay for the space where it is stored and I pay for the name. I have to look after all the files and plug-ins, I have to perform all the updates and optimise the database tables. All this is great fun but wouldn’t it be cheaper to slap the mattischro.me address onto a hosted WordPress.com account?&lt;/p&gt;&#xA;&lt;p&gt;Well, yes it would. I suppose I just like the independence of having my own little patch of cyberspace, sitting there waiting for all you dear readers to come and visit. Nice ideas don’t make the world go round though and so I need a better reason than that.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I pay to have this blog up and running. That is, I pay for the space where it is stored and I pay for the name. I have to look after all the files and plug-ins, I have to perform all the updates and optimise the database tables. All this is great fun but wouldn’t it be cheaper to slap the mattischro.me address onto a hosted WordPress.com account?&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Painter</title>
       <link>http://localhost:1313/posts/the-painter/</link>
       <pubDate>Fri, 13 Jan 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/the-painter/</guid>
-      <description>&lt;p&gt;Once upon a time there was a man who loved to paint. He studied the art and craft of painting for many years. He chose to invest his time and energy into creating the most realistic portraits that he could paint. For him the joy came not from completing the paintings but the process of recreating the real world with the strokes of his brush.&lt;/p&gt;&#xA;&lt;p&gt;For many years he continued to study the art of painting. He learned new techniques for abstracting from reality but he always favoured the realism above all else. Meanwhile, his friends and family mocked him and said that he would always be a poor boy who loved to paint but could not make money from it. He had no answer to this criticism, the satisfaction he gained from applying the brush to the canvas was to great to worry about whether his paintings would be finished or not.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Once upon a time there was a man who loved to paint. He studied the art and craft of painting for many years. He chose to invest his time and energy into creating the most realistic portraits that he could paint. For him the joy came not from completing the paintings but the process of recreating the real world with the strokes of his brush.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Amber World</title>
@@ -314,21 +314,21 @@
       <link>http://localhost:1313/posts/the-news/</link>
       <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/the-news/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“I read the news today, oh boy”  (The Beatles, &lt;em&gt;A Day In The Life&lt;/em&gt;.)&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Sometimes watching the news feels like a series of repeated blows to the face: arbitrary, cruel and unrelenting. It gets draining and upsetting, and leaves you fearful of what might come next.&lt;/p&gt;&#xA;&lt;p&gt;You won’t need me to tell you about the tragedies that have occurred all over the world in the last few days: drought in East Africa, the gunman running amok in Norway, the death of Amy Winehouse and the horrific train crash in China.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“I read the news today, oh boy”  (The Beatles, &lt;em&gt;A Day In The Life&lt;/em&gt;.)&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>A Beta Test Of Everything</title>
       <link>http://localhost:1313/posts/a-beta-test-of-everything/</link>
       <pubDate>Tue, 19 Jul 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a-beta-test-of-everything/</guid>
-      <description>&lt;p&gt;Reading a few articles about the recent launch of Google+, a few things hit home. Google tends to launch a product that works and not always one that is perfect or finished (like, say, Apple). Sometimes it takes them several iterations to get right. They love the beta tag. In fact, I think it was Google (or possibly Flickr) that made me aware of the concept of beta software.&lt;/p&gt;&#xA;&lt;p&gt;Along these line I thought about this blog and its one year anniversary. I take a similar approach here to posts on this blog, specifically in pushing out new categories now and then. I have done this in the hope that adding a new subject or thread will lead to me writing more posts. Currently I am averaging ten posts a month, which is not too bad.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Reading a few articles about the recent launch of Google+, a few things hit home. Google tends to launch a product that works and not always one that is perfect or finished (like, say, Apple). Sometimes it takes them several iterations to get right. They love the beta tag. In fact, I think it was Google (or possibly Flickr) that made me aware of the concept of beta software.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maps And Charts</title>
       <link>http://localhost:1313/posts/maps-and-charts/</link>
       <pubDate>Sat, 02 Jul 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/maps-and-charts/</guid>
-      <description>&lt;p&gt;When I was growing up a framed print of a map hung on the wall in the hallway. It was one of my favourite things, littered with strange latin names and with Vs where Us should have been. The outlines of the continents and countries were all familiar and yet slightly distorted, becoming more recognisable around the shores of western Europe.&lt;/p&gt;&#xA;&lt;p&gt;I don’t know the provenance of that map print but at some point it got taken to the charity shop and replaced by Van Gogh’s sunflowers. I guess that means that I shall never be able to work out exactly what map it was and when it was from.&lt;/p&gt;</description>
+      <description>&lt;p&gt;When I was growing up a framed print of a map hung on the wall in the hallway. It was one of my favourite things, littered with strange latin names and with Vs where Us should have been. The outlines of the continents and countries were all familiar and yet slightly distorted, becoming more recognisable around the shores of western Europe.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Five Things To Try When You Can&#39;t Sleep</title>

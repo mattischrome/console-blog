@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["South America", "Ecuador", "Amazon", "Thirteen"]
 title: South America, Part 2
 ---
+<!--more-->
+
 ### Otavalo
 
 Sunday (24th November) was our first day of travel and involved a four hour trip to Otavalo, a town to the north of Quito that is famous for its market... on _Saturdays_. The journey got us better acquainted with travel on our truck Magaly and we encountered a few of the little hiccups that are a natural part of travelling this way: power lines crashing down on to the highway, driver of your truck asking a policeman to take a photo of your truck snagged under the wires, wrong turns, and - funniest of all - getting a whole block's worth of concerned locals to watch as your truck tries to turn a corner. Magaly is a wonderful truck, but subtle she is not!

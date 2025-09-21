@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2013-07-30'
-
 tags: ["Neil Gaiman", "Books", "Novel", "Thirteen"]
 title: Neil Gaiman, The Ocean At The End Of The Lane
 ---
 "The Ocean At The End Of The Lane" is the new novel by Neil Gaiman. I was so intrigued by it that I bought the hardcover, which is unusual for me because I prefer paperbacks. I'd been excited by [reading the first chapter online at the Guardian website](http://www.theguardian.com/books/2013/jun/10/extract-ocean-end-lane-neil-gaiman) and from reading [a blog post about the novel written by the author's wife Amanda Palmer](http://amandapalmer.net/blog/20130618/). I'd not read any of his novels before but they had long been on that "to read" list that is typically as long as your arm. I also enjoyed the movie adaptation of "Stardust" though I have no way (yet!) of knowing whether the film is as good as the original book.
 
+<!--more-->
 I devoured "The Ocean At The End Of The Lane" over the course of a hot weekend (it was the book that I was reading on the balcony [in this post](from-the-balcony)). Though it is very easy to read, it is definitely a book for adults about adults despite the focus of the story being very much on children and childhood. Its main theme (to me) is that of how adults remember childhood and how the events we do not fully understand as children continue to resonate into our adult lives.
 
 I'm determined not to spoil the plot so I will only say that it involves an ocean at the end of a lane. You might want to think about how an ocean might be at the end of a lane. You might in fact think of a small puddle or very small lake - and you'd be correct. So how can a small body of water like that be an ocean? Well, if you're guessing that magic is somehow involved then you're on the right track.

@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2013-03-13'
 slug: understated-classics-22
-
 tags: ["Understated Classics", "Music", "Clinic", "Thirteen", "Rock"]
 title: 'Understated Classics #22: Walking With Thee by Clinic'
 ---
 “Walking With Thee” is the second album by Liverpool band [Clinic](http://en.wikipedia.org/wiki/Clinic_(band)). It was released in 2002, which seems like an age ago now. Even longer ago they released the single “The Return of Evil Bill”, which was got me interested in them in the first place.
 
+<!--more-->
 I recently got back into “Walking With Thee” when I picked “Vulture” in my A-Z of Animals playlist last month. I’d forgotten just how great a song it is, both musically and lyrically. It’s a caution against letting those with more power and wealth lord it over us – viz, “the best that you’ve left here for others / is the best the rest of us know” – and so it’s surely much more a song for these times than back then in 2002. Anyway, I’m going to avoid too much reading into the lyrics for this particular understated classic, as most of the time Clinic are defiantly resistant to that kind of analysis.
 
 I often champion bands that have a distinctive sound who then produce an album that is cohesive and all of their own sound. This is perhaps shorthand for saying that the songs on “Walking With Thee” “all sound the same”, but I’m really not trying to damn the album with faint praise. It’s had enough of that already and by rights, I should be fawning over their debut album “Internal Wrangler” if mainstream critical opinion is anything to go by. Now, “Internal Wrangler” is a fine album but it’s telling that when I looked in my iTunes for it I found that I’d never converted it to MP3! Sacrilege!

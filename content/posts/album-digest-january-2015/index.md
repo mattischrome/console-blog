@@ -7,6 +7,7 @@ title: Album Digest, January 2015
 ---
 Album Digest January 2015 rounds up a few albums from the tail end of 2014 that I didn't get much time to write about. The only one of these six to be released this month is the excellent "No Cities To Love" by Sleater-Kinney.
 
+<!--more-->
 ## Sleater-Kinney "No Cities To Love" 
 
  I had heard of Sleater-Kinney before their boxed set “Start Together” was released in 2014. I was quite impressed that they curated their own Spotify playlist with the contents of the box. I added it and even downloaded the songs for offline listening but didn’t get around to much more than a cursory play of a few tracks.

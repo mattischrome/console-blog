@@ -5,15 +5,15 @@ slug: 2023-albums-03-barry-cant-swim-when-will-we-land
 tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Barry Can't Swim", "Electronic"]
 title: '2023 Albums of the Year #3: Barry Can''t Swim, When Will We Land?'
 ---
-Some albums you come to one way: a good review on a blog you respect, a track appearing on a playlist by someone whose taste you trust, etc and so on. And sometimes you get directed to something multiple times. This is what happened to me this year with the irrepressible “When Will We Land?” by Barry Can’t Swim. Anyway, tracks by "Barry" appeared in mixes a lot this year and the album kept popping up in eagerly anticipated lists.
-
-<!--more-->
-
-![Cover of When Will We Land by Barry Can't Swim](../../assets/images/albums-2023/barry-cant-swim-when-will-we-land.jpeg)
+Some albums you come to one way: a good review on a blog you respect,
+{{< marginfigure src="../../assets/images/albums-2023/barry-cant-swim-when-will-we-land.jpeg" alt="Cover of _When Will We Land_ by Barry Can't Swim" caption="Cover of _When Will We Land_ by Barry Can't Swim" >}}
+a track appearing on a playlist by someone whose taste you trust, etc and so on. And sometimes you get directed to something multiple times. This is what happened to me this year with the irrepressible “When Will We Land?” by Barry Can’t Swim. Anyway, tracks by "Barry" appeared in mixes a lot this year and the album kept popping up in eagerly anticipated lists.
 
 I've listened to this album a lot but I still have questions. Like is "can't swim" his last name? Was he not made to learn in detention at lunchtime in the school's outdoor pool in an English April like yours truly?! 
 
 The album starts with the title track, a nice minimalist piece that is nearly “not dance music” in the way that so many opening tracks on dance albums are. It puts me in mind of Steve Reich played by Bonobo. The next track “Deadbeat Gospel” is an impromptu rap by an old school friend while on a night out sampled and cut to fit the beat, it’s pretty cool but I’m glad it’s near the beginning so I can skip over it if I’m not feeling it. 
+
+<!--more-->
 
 Bonobo seems to be a good template for describing what follows - a lot of tasteful soulful tracks with some nice samples cut and paste all over the place. It’s always true that the best dance albums are the ones that use samples in the best ways. The strength of “Deadbeat Gospel” is not the treatment of the rap, but the way it’s beautifully juxtaposed with the choir and vocal samples.
 

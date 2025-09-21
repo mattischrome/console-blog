@@ -1,12 +1,12 @@
 ---
 category: Music
 date: '2015-11-26'
-
 tags: ["Underworld", "Music", "Fifteen", "Electronic"]
 title: Underworld, Second Toughest in the Infants (Superdeluxe edition)
 ---
 Last week Underworld reissued their excellent second album “Second Toughest In The Infants” in various formats including a four disc super deluxe edition. I wrote about this album in my understated classics series and I want to share some thoughts on the reissue. I love this album so I was excited to hear the remaster and the additional material.
 
+<!--more-->
 I can’t comment on the physical version of the release as I can’t afford it at the moment. I also had to wait to buy the gorgeous yellow reissue of “Dubnobasswithmyheadman” but the “Second Toughest In The Infants” box is on the list. Underworld do a really good job on the boxes with interesting artwork to accompany the large volume of material. If the “Dubnobasswithmyheadman” box is anything to go by, the new one will be pretty hefty on the coffee table.
 
 The super deluxe edition comes as four discs. The first disc is the original album remastered. The second collects B-sides and remixes. The third disc comprises unreleased tracks and demos. The fourth disc is devoted to collecting demos and live performances of “Born Slippy (NUXX)”. The idea is to demonstrate how the track evolved from demo to finished track. Since “Born Slippy (NUXX)” is Underworld’s best known track, this makes sense.

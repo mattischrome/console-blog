@@ -7,6 +7,7 @@ title: Album Digest, October 2011
 ---
 This month we have albums by Björk, Coldplay, M83, and Radiohead.
 
+<!--more-->
 ## Album Digest October 2011 - Intro
 
 I listened to Wilco’s _The Whole Love_ again the other day. I happened to be walking past the venue in Portsmouth where I went to see them live back in 2004 and it seemed the right fit. I really enjoyed the album after a period of not having listened to it and I found that being familiar with the songs allowed me to better appreciate the production of the album. It really is better than I had said last time when I included it in the [September Album Digest](/2011/09/album-digest-september-2011/), I suppose that it was the danger in writing about music you have only had with you for a few weeks (or days in the case of _The Whole Love_).

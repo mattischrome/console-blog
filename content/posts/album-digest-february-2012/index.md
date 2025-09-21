@@ -7,6 +7,7 @@ title: Album Digest, February 2012
 ---
 One EP and three albums for Album Digest February 2012:
 
+<!--more-->
 1. Burial _Kindred EP_
 2. John Talabot _fIN_
 3. Lilacs & Champagne _Lilacs & Champagne_

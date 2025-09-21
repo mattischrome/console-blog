@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2019-08-26'
 slug: understated-classics-37
-
 tags: ["Understated Classics", "Doves", "Music", "Nineteen"]
 title: 'Understated Classics #37: Lost Souls by Doves'
 ---
 Doves are a band from Manchester who traded dance music for rock yet never left their former genre behind. Starting out as Sub Sub, they scored a worldwide hit in 1993 with "Ain't No Love (Ain't No Use)": a timeless dance tune that immediately owns whatever room it plays in. However, subsequent releases by Sub Sub did not catch on and people started to think of the band as a one-hit wonder.
 
+<!--more-->
 Sometimes a feeling of stagnation is best purged with reinvention. Often fire plays a role. When forests burn down, new life springs up to replace the old. This premise sustains many ecosystems. There are species of Eucalyptus tree in Australia that depend on fires to grow their next generation.
 
 Fire also rejuvenated Doves. In 1996, on the Williams brothers’ birthday, their studio burned down, taking with it most of Sub Sub's attempts at an album. The band rose again, a phoenix rechristened as Doves - the name a blurring of Old Testament myth and clubland drug lore. Renewed, they doubled down to create their new 'debut' album.

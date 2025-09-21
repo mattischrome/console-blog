@@ -1,17 +1,12 @@
 ---
 category: Books
 date: '2025-03-02'
-tags:
-- Books
-- Music
-- The KLF
-- Bill Drummond
-- Biography
-- Twenty Five
+tags: ["Books", "Music", "The KLF", "Bill Drummond", "Biography", "Twenty Five"]
 title: Bill Drummond, 45
 ---
 _45_ is Bill Drummond's sort of memoir, albeit one with a hazy memory of the events most readers (myself included) are likely to be interested in. Drummond is/was one half of pop-pranksters The KLF, but _45_ barely mentions them at all. There's a lot about before (e.g. managing Echo and the Bunnymen in late-70s and early-80s Liverpool) and after (various shenanigans in the art world and attempting to relate to his children), some of that writing is very interesting. Nevertheless the whole lacuna of his pop heyday seems to punches a hole through the entire book.
 
+<!--more-->
 The book is structured with dated chapters, the date referring to when it was written. It's almost a blog before blogs became a thing. Unfortunately, things get repetitive pretty fast. Entries ping back and forth between art dealers, the Aylesbury landscape and bizarre sojourns in Helsinki. Several entries are preoccupied with Drummond's sleeve notes for an Echo and the Bunnymen reissue. There's a horrible section about the K Foundation's intention to hang some dead cows off a pylon overlooking the M25. In fairness to Drummond, the awfulness of the idea comes over in the (literally) visceral writing, and makes plain the psychological toll of going through with the idea. As with most of their truly bad ideas, they don't actually go through with it.
 
 Speaking of bad ideas, and one they actually went through with, screenings of "Watch the K Foundation burn a million quid" are liberally peppered throughout the chapters, but there is literally no reflection on that action. I guess the whole point of burning the money was to only talk about it at these screenings, to get people to pay money to hear why they did it. Isn't the cost of a book enough? It is perhaps the ultimate satire of capitalism: burn a stack of money and encourage other to burn theirs in pursuit of understanding why.

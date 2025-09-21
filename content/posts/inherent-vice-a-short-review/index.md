@@ -1,12 +1,12 @@
 ---
 category: Films
 date: '2015-07-25'
-
 tags: ["Films", "Thomas Pynchon", "CAN", "Fifteen"]
 title: 'Inherent Vice: A Short Review'
 ---
 Tonight I finally caught up with [Inherent Vice](https://en.wikipedia.org/wiki/Inherent_Vice_(film)), Paul Thomas Anderson's adaptation of [Thomas Pynchon's novel](http://www.amazon.co.uk/Inherent-Vice-Thomas-Pynchon/dp/0099542161/ref=sr_1_4?ie=UTF8&qid=1437860132&sr=8-4&keywords=inherent+vice). It stars [Joaquin Phoenix](http://www.imdb.com/name/nm0001618/) as Larry 'Doc' Sportello who's put on to a case of possible kidnapping by his "ex-old lady" Shasta, played by [Katherine Waterston](http://www.theguardian.com/film/2015/jun/16/katherine-waterston-jk-rowlings-fantastic-beasts-harry-potter).
 
+<!--more-->
 There's no point attempting to tell much more you of the plot of Inherent Vice: it's rather convoluted and self-digesting. At least this means there's very little chance of stumbling into inadvertent spoilers. However, most of the plot strands do fall into place by the end, much more than I'd imagined they would half way through.
 
 Inherent Vice has a lot in common with other films that [Paul Thomas Anderson](http://www.rottentomatoes.com/celebrity/paul_thomas_anderson/) has directed that I've seen. In essence it's about the failure of the American dream as much as There Will Be Blood is. Set in 1970, it plays out as the counterculture finds itself sold out, exploited and infiltrated by the very people that it set itself against. It's as much about the difficulties in doing right by other human beings as Magnolia is. You get the impression that Doc is very much still in love with Shasta but that there are all manner of other complexities to his relationship. I imagine there are a fair few parallels with [The Master](http://www.rogerebert.com/reviews/the-master-2012) and [Boogie Nights](http://www.metacritic.com/movie/boogie-nights) too, but they're both still on my To Watch list. I picked Inherent Vice because I fancied something a bit lighter to watch.

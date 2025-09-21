@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2010-08-03'
 slug: understated-classics-1
-
 tags: ["Understated Classics", "Crowded House", "Music", "Pop", "Rock", "Ten"]
 title: 'Understated Classics #1: Together Alone by Crowded House'
 ---
 This week Arcade Fire released their hotly anticipated third album "The Suburbs".  I loved "Neon Bible" but critics found it preachy, as overbearing as the religious folk it sought to satirise. I disagree and think it was an impressive continuation from an exciting debut. "The Suburbs" steps on from their previous two albums, both in subject matter and tone. It's sad, thoughtful, resigned, angry and tetchy - among other things. “The Suburbs” isn't the understated classic that I want to discuss though: with all the praise and plaudits, it may never suit this new thread of posts. I want to write about [Together Alone by Crowded House](http://en.wikipedia.org/wiki/Together_Alone).
 
+<!--more-->
 When I first heard The Suburbs, and especially the title track, I immediately thought of Neil Finn’s voice and Crowded House's Together Alone album from 1993. Together Alone was the first Crowded House albums to work as a whole. It contributes a large number of tracks to their “best of”s for good reason. I think it deserves wider praise.
 
 On re-listening, I realise that it bears no resemblance to the Arcade Fire album but I won’t let that deter me from my nostalgia trip. When we hear a really good new album, it drives us back to something as brilliant that we have lived in. [Together Alone](http://www.last.fm/music/Crowded+House/Together+Alone) supports this theory because I can't think of an album that I have 'lived in' more.

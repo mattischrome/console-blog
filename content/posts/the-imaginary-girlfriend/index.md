@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2022-02-26'
-
 tags: ["Books", "Non Fiction", "Autobiography", "Writing", "Wrestling", "Twenty Two"]
 title: John Irving, The Imaginary Girlfriend
 ---
 *The Imaginary Girlfriend* is a short autobiography by American author John Irving. In it, he explains the interwoven roles of writing and wrestling in his life.
 
+<!--more-->
 As always with Irving, the book is absorbing from the off, and it's tempting to use the anecdotes here to explain why most of his novels seem to have an underdog narrating them. It's because he loves the work of Dickens so much. I kid. It might be because it is a role he has created for himself, and maybe he likes to write what he knows. 
 
 The tone is chatty throughout, but I did wonder at points exactly who he wrote the book for.  Some of it reads like gemmed up old diary entries. There is a lot of name-dropping, which tends to happen at the weaker points in the book. It's a little disappointing in fact that such a small volume should have *any* disappointing bits. (Though I am painfully aware that I am in no position to call this out!)

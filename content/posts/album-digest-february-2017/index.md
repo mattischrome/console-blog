@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["Album Digest", "February", "Music", "Grails", "Elbow", "Dreadzone", "Seventeen"]
 title: Album Digest, February 2017
 ---
+<!--more-->
+
 ## Grails *Chalice Hymnal*
 
 Some albums are good because a band continues making the music that you love. Some albums are good because a band takes their ideas a step or two further than before. *Chalice Hymnal*is that rare album that does both of these things. 

@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2016-05-17'
-
 tags: ["Paul McAuley", "Books", "Science Fiction", "Sixteen"]
 title: Paul McAuley, Something Coming Through
 ---
 "Something Coming Through" is a science fiction novel set in the near future. A few years after a brief nuclear war known as "The Spasm", an alien race known as the Jackaroo introduce themselves to humanity. The novel is funny, thoughtful, and politically charged. I found it to be a good read.
 
+<!--more-->
 The aliens have given humanity fifteen "gift" worlds and an automated way to access them. Think of the Docklands Light Railway but with space shuttles. These worlds contain artefacts and remnants from their previous occupants. Movement between the worlds has also changed the Earth: it suffers from incursions by invasive species brought back from the other worlds.
 
 The action in the novel takes place in two strands. One strand starts on Earth. Chloe, an anthropologist working for an innovation company called Disruption Theory, tracks an "outbreak" of a cult caused by bizarre alien technology. Meanwhile the other strand takes place on Mangala, one of the gift worlds. A policeman named Vic investigates the murder of someone just arrived from Earth.

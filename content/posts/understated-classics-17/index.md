@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2012-04-19'
 slug: understated-classics-17
-
 tags: ["Music", "Understated Classics", "Tricky", "Nearly God", "Twelve", "Electronic"]
 title: 'Understated Classics #17: Nearly God by Nearly God (Tricky)'
 ---
 > Sit back and let it happen, / Let us take your time away.
 
+<!--more-->
 _Nearly God_ is Tricky’s second album, which was released under a different name either because Island rejected it as the follow-up to _Maxinequaye_ or because it came too quickly after and Tricky just wanted it released. I had this album before _Maxinequaye_ because back then it wasn’t as easy to go back and catch up with albums that you had missed as it is now. I had bought enough singles to get the postcards through the post that advertised _Nearly God_ (this, kids, is what we had before e-mail and liking things on Facebook) and when I heard _Poems_ for the first time on the radio I was incredibly excited.
 
 The album is largely composed of collaborations and it is possible to think of Martina here as another contributor, she certainly doesn’t dominate the sound of the album like she does on _Maxinequaye_. There are some pretty big names: Terry Hall, Bjork, Neneh Cherry and Alison Moyet. Even better at no point does the production, stripped way back from the first album to an almost demo-like quality, get dwarfed by or threaten to underserve the contributions of the guest vocalists. One of Bjork’s donations is the vocal from _She’s Been Flirting Again_ off _Post_ and it adds to the remix/homespun feel of the album.

@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2021-01-01'
-
 tags: ["Richard Powers", "Books", "Fiction", "Twenty", "Twenty One"]
 title: Richard Powers, Orfeo
 ---
 > "The mind may give up its desire to improve on creation and function as a faithful receiver of experience." John Cage
 
+<!--more-->
 After enjoying [_The Overstory_](/the-overstory/), I wanted to read more of Richard Powers' novels. _Orfeo_  was also long listed for the Booker prize. Perhaps more of his novels would have been had the prize been opened to American authors earlier.
 
 _Orfeo_ is about Peter Els, a seventy year old composer who accidentally alerts Homeland Security to the existence of his home laboratory, in which he has been trying to recode the genetic material of a bacterium to include a piece of his music. He ends up on the run, which provides the catalyst for a narrative in which we ponders the past and returns to it. Woven throughout is a history of contemporary classical music, most real and some invented.

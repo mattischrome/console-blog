@@ -1,14 +1,14 @@
 ---
 category: Life Experiences
+date: "2024-07-19"
 draft: true
-date: 2024-07-19
 slug: sympathy-for-the-screenager
-
 tags: ["Twenty Four", "Emotions", "Life Experiences", "Mobile Phones", "Social Media"]
 title: Sympathy for the Screenager
 ---
 Haidt
 
+<!--more-->
 The counter argument
 
 Correlation and causation, as usual

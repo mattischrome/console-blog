@@ -1,12 +1,12 @@
 ---
 category: Music
 date: '2015-09-01'
-
 tags: ["Album Digest", "August", "Everything Everything", "Fifteen", "Music"]
 title: Everything Everything, Get To Heaven
 ---
 It's difficult to write honestly about your feelings. It's difficult to write about your feelings consistently, for a living on a regular basis. It's difficult to write about your feelings when the world constantly intrudes with inanity, insanity and hatred. It's difficult to write under those conditions without seeming frayed, without coming loose at the edges.
 
+<!--more-->
 "Get To Heaven", the third album by [Everything Everything](http://www.everything-everything.co.uk), was forged under these stresses and pressures. For most of its running time it sounds like either a bomb ticking down to explode or like a clock inexorably counting up missed opportunities and stolen moments. It sounds for all the world as though it is trapped between fight and flight, paused between action and apathy. Yet it also subjects the listener to the yammerings of a culture that has driven itself mad. Depth and surface, glass and steel, truth and lies.
 
 Everything Everything's previous album "Arc" found their songcraft in a similarly precarious state of affairs. Ideas about love and existence were crammed into miniature epics that twisted and thrashed around like a handcuffed escape artist suspended high above some watery peril. For the most part - as on singles "Cough Cough" and "Duet" - the escapist act was not there to be seen: it was only the thrashing that mattered. A song of theirs would fishtail between subjects, between id and ego, between triumph and disaster. Only on "Undrowned" was the danger truly glimpsed ("There's so much to talk about / that we don't talk about"). A glum lullaby set in ice, the modern media merry-go-round cast into the very depths of Dante's inferno - the winter chill of traitors, no flames here. It was, in retrospect, the marker lain for future trails.

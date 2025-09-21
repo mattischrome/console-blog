@@ -1,12 +1,12 @@
 ---
 category: Music
 date: '2012-06-24'
-
 tags: ["Music", "CAN", "Twelve", "Box Set", "Rock"]
 title: CAN, The Lost Tapes
 ---
 This arrived on Monday and I thought I would give it a post of its own because at over 3 hours of music, I am unlikely to do more than dip into it before writing the album digest next week. It is a far bigger and more enjoyable artefact than I thought it was going to be, so it probably deserves special attention for that reason too.
 
+<!--more-->
 [CAN](http://en.wikipedia.org/wiki/Can_(band)) are a German (“[Krautrock](http://en.wikipedia.org/wiki/Krautrock)”) band that I got into about four years ago after my interest in the genre was sparked by the “Neu! 75” album and the Kraftwerk box set. I have four of CAN's albums and I have thought about which one I should include as an [understated classic](understated-classics). It will probably be “Soon Over Babaluma” because no one really writes about that one. Then again, Portishead’s “Third” probably wouldn’t sound as awesome as it does without the influence of “Ege Bamyasi”, so that might be worth considering too. Everyone writes about “Tago Mago” and “Future Days” but for good reason.
 
 “The Lost Tapes” were more forgotten than lost, they had been left in a cupboard in their studio until its contents were catalogued and moved to the German Rock’n’Pop museum in Gronau. As a result some of the stuff here has a less essential feel and there is less cohesion than on the albums but there is still some lovely stuff. The middle of the second disc is particularly excellent: a live version of “Spoon” and a collage of music for the TV crime movie “Tote Taube in der Beethovenstrasse” entitled “Dead Pigeon Suite” that together run for about twenty-seven minutes.

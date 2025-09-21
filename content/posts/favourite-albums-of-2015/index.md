@@ -7,6 +7,7 @@ title: My Favourite Albums of 2015
 ---
 Given that I gave up on writing album digests for a bit this year, I thought I would at least do a proper top ten list of my favourite albums. There are quite a few albums that I did not have room for and I might try to revisit those later. In the mean time, let's crack on. (To save time, I have in some instances pasted my original review from the appropriate album digest.)
 
+<!--more-->
 ## 10. The Magic Whip by Blur
 
 I bought this album on the day that I got my new job. What better way to celebrate becoming an economist than by buying an album you've already listened to on Spotify? Besides, it has a nice looking cover so why not?

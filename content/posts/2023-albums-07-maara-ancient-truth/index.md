@@ -5,11 +5,11 @@ slug: 2023-albums-07-maara-ancient-truth
 tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Maara", "Electronic"]
 title: '2023 Albums of the Year #7: Maara, The Ancient Truth'
 ---
-There isn't a great deal I can write about The Ancient Truth without sounding vague and anodyne. While I try to come think about different forms of music and go into some analysis of what makes one album more interesting than another, sometimes you end up just saying "this album is great because I like it and I always have a good time listening to it."
+There isn't a great deal I can write about The Ancient Truth without sounding vague and anodyne.
+{{< marginfigure src="../../assets/images/albums-2023/maara-ancient-truth.jpeg" alt="Cover of The Ancient Truth by Maara" caption="Cover of _The Ancient Truth_ by Maara" >}}
+While I try to come think about different forms of music and go into some analysis of what makes one album more interesting than another, sometimes you end up just saying "this album is great because I like it and I always have a good time listening to it."
 
 <!--more-->
-
-![Cover of The Ancient Truth by Maara](../../assets/images/albums-2023/maara-ancient-truth.jpeg)
 
 The album has a late nineties early naughties kind of feel, all skittering breakbeats and chilly pads, but it also features a modern chill out vibe perhaps in keeping with recent reappraisals of music by artists like Enya. In short, it's very relaxing. 
 

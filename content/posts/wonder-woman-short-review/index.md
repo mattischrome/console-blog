@@ -1,12 +1,12 @@
 ---
 category: Films
 date: '2017-07-01'
-
 tags: ["Films", "Seventeen", "Science Fiction"]
 title: 'Wonder Woman: A Short Review'
 ---
 I enjoyed Wonder Woman, which came as a surprise to me given my growing distaste for superhero movies. [I can remember seeing the Superman reboot Man of Steel](man-of-steel-a-short-review) with its phallic rockets and its boring boring fight sequences. But almost everything about Wonder Woman exceeded my expectations. It's a well-made superhero movie and better still, it gets to the heart of why these kinds of movies matter. 
 
+<!--more-->
 Whereas Man of Steel ended up levelling cities and criminally underusing Amy Adams, all while giving us no stake on why Superman even matters as a man or a hero, Wonder Woman focusses tightly on its main character and explains what matters to her, and in turn the movie then explains why she should matter to us. In other words, it's not boring and it's not pointless. 
 
 This is a complete reverse on many recent superhero movies. In Christopher Nolan's Batman movies, the titular character has an arc more concerned with vengeance and petty squabbles than with saving people or making their lives better. I get that those movies are also about the complexities and burdens of being a hero, but even so, show us why we're here! Sure Batman gets to stop a lot of bad stuff going down, but who cares if the Scarecrow manages to take over Arkham or Bane manages to isolate Gotham from the world? In The Dark Knight, the Joker only cares about beating Batman and Batman only cares about beating the Joker. There's nothing in three whole movies about how ordinary people are affected, nothing in it for us. 

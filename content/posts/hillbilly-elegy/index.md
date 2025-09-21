@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2018-09-17'
-
 tags: ["Books", "J. D. Vance", "Non Fiction", "Eighteen"]
 title: J. D. Vance, Hillbilly Elegy
 ---
 ["Hillbilly Elegy"](https://www.goodreads.com/book/show/27161156-hillbilly-elegy) is the autobiography of JD Vance, a self-professed hillbilly made good who graduated from Yale Law School. I read it because reviews touted it as illustrating the economic conditions leading to Brexit and the implausible election of Donald Trump. As [I wrote in an earlier post](space-between-this-and-that), I'm keen to learn about why Brexit happened. However, I think this book fails to provide an explanation. 
 
+<!--more-->
 Nevertheless, I enjoyed the book. It gave me plenty to think about. The story Vance tells is entertaining, but falls short of presenting a meaningful social and economic analysis of the plight of the white working classes.
 
 To be fair, Vance does not claim to explain Trump's rise. I'm not sure he'd be happy for anyone to describe his book as the "why of Trump", beyond the extra attention and sales! He points out that working-class people who vote Republican do so for many, often complex, reasons.

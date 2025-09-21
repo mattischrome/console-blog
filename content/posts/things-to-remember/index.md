@@ -1,7 +1,6 @@
 ---
 category: Ideas
 date: '2020-05-26'
-
 tags: ["Ideas", "Self Improvement", "Depression", "Twenty"]
 title: Things to Remember
 ---
@@ -15,3 +14,5 @@ These are some things I jotted down one day last week, I'll refine them a bit mo
 - Always focus on your capability. Regard potential as something to be shaped into capability.
 - Take time to think about things in many different ways, employing both proven mental models and lateral thinking.
 - Often problems are easier to tackle once you have been for a walk in the countryside.
+
+<!--more-->

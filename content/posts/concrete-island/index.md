@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["J. G. Ballard", "Books", "Reading Projects", "Science Fiction", "Eleven"]
 title: J. G. Ballard, Concrete Island
 ---
+<!--more-->
+
 ## No man is an island (not any more)
 
 You are tracked pretty much everywhere you go. CCTV, the GPS on your phone or the signals sent by your more primitive model to the masts to keep in touch with the network. Your cash withdrawals, your purchases in Tesco and your journeys on public transport all add to the picture of where you are. If you drive, your sat nav will hold clues to where you have been and, if you disappear, where you might have gone to.

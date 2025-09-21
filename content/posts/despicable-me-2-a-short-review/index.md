@@ -1,12 +1,12 @@
 ---
 category: Films
 date: '2013-08-12'
-
 tags: ["Films", "Animation", "Thirteen"]
 title: 'Despicable Me 2: A Short Review'
 ---
 It's so good that I paid to see it twice! There, that's the review done.
 
+<!--more-->
 _Despicable Me 2_ is great for so many reasons. I reckon pretty much anyone aged from 3 to 103 would enjoy both movies' warm heartedness and most will love the minions' riot of anarchic slapstick. And if they don't, I guess they aren't our kind of people anyway, right?
 
 Here are a few good reasons for loving "Despicable Me 2" (and actually most of these reasons apply to the original "Despicable Me"):

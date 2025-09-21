@@ -5,8 +5,9 @@ tableOfContents: true
 tags: ["Films", "Lists", "Wes Anderson", "Twelve", "Yellow"]
 title: A Case For Yellow As Your New Favourite Colour
 ---
-This post is about the films of Wes Anderson. I am no expert, I’ve just watched them all recently (inspired by [seeing “Moonrise Kingdom”](moonrise-kingdom-a-short-review)) and spotted a some similarities and differences between the films and I thought it would be fun to write about them. My appearance on Mastermind with “The Films of Wes Anderson” as my specialist subject will have to wait for now. Feel free to add to the discussion in the comments. In case you don’t know what the films are, here they are in order (with links to their IMDB pages):
+This post is about the films of Wes Anderson. I am no expert, I’ve just watched them all recently (inspired by [seeing “Moonrise Kingdom”](/posts/moonrise-kingdom-a-short-review)) and spotted a some similarities and differences between the films and I thought it would be fun to write about them. My appearance on Mastermind with “The Films of Wes Anderson” as my specialist subject will have to wait for now. Feel free to add to the discussion in the comments. In case you don’t know what the films are, here they are in order (with links to their IMDB pages):
 
+<!--more-->
 1. [“Bottle Rocket”](http://www.imdb.com/title/tt0115734/) (1996)
 2. [“Rushmore”](http://www.imdb.com/title/tt0128445/) (1998)
 3. [“The Royal Tenenbaums”](http://www.imdb.com/title/tt0265666/) (2001)

@@ -20,7 +20,7 @@
       <link>http://localhost:1313/posts/a-jigsaw/</link>
       <pubDate>Mon, 11 Feb 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a-jigsaw/</guid>
-      <description>&lt;p&gt;The other weekend, beset by insomnia, I decided to follow &lt;a href=&#34;five-things-to-try-when-you-cant-sleep&#34;&gt;my own advice&lt;/a&gt; and get up to do something instead of wallowing unable to sleep. I pulled my emergency jigsaw out of the cupboard and set to it. I should stress that I mean a jigsaw puzzle and not an actually jigsaw: DIY at 2am is not such a good idea!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;d forgotten how interesting jigsaw puzzles actually are. As I sat there contemplating the 1000 pieces and wondered exactly what I&amp;rsquo;d let myself in for, I found myself thinking about a number of things.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The other weekend, beset by insomnia, I decided to follow &lt;a href=&#34;http://localhost:1313/posts/five-things-to-try-when-you-cant-sleep&#34;&gt;my own advice&lt;/a&gt; and get up to do something instead of wallowing unable to sleep. I pulled my emergency jigsaw out of the cupboard and set to it. I should stress that I mean a jigsaw puzzle and not an actually jigsaw: DIY at 2am is not such a good idea!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programming a Carcassonne Game</title>
@@ -34,14 +34,14 @@
       <link>http://localhost:1313/posts/programming-an-uno-game-part-2/</link>
       <pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/programming-an-uno-game-part-2/</guid>
-      <description>&lt;p&gt;It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.&lt;/p&gt;&#xA;&lt;h4 id=&#34;the-deck&#34;&gt;The deck&lt;/h4&gt;&#xA;&lt;p&gt;An UNO deck consists of four sets of coloured cards (red, yellow, green and blue) together with eight wild cards. The non-wild cards are marked with either numbers or special symbols. The numbers range from zero to nine with two of each number except for the zero, which is unique. For each colour there are also two each of three kinds of special card: SKIP, SWAP and DRAW. The eight wild cards are divided into four each of two types: WILD and WILDFOUR. The wild cards are usually black in UNO decks so we may refer to them as black cards on occasion. There are one hundred and eight cards in total.&lt;/p&gt;</description>
+      <description>&lt;p&gt;It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programming an UNO game</title>
       <link>http://localhost:1313/posts/programming-an-uno-game/</link>
       <pubDate>Tue, 28 Dec 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/programming-an-uno-game/</guid>
-      <description>&lt;h4 id=&#34;a-new-year-a-new-hobby&#34;&gt;A new year, a new hobby&lt;/h4&gt;&#xA;&lt;p&gt;I don’t write about programming enough. This is a shame because it is a very interesting subject and I find that the problem solving aspects of programming are very satisfying. Keenly aware of the need to do more hobby programming and to get up to speed on areas of software development that I’ve been neglecting, I have decided to give myself the project of creating a computerised version of the &lt;a href=&#34;http://en.wikipedia.org/wiki/Uno_(card_game)&#34;&gt;UNO card game&lt;/a&gt;. I know that one already exists, for example there’s an official one that you can play on MSN messenger.&lt;/p&gt;</description>
+      <description></description>
     </item>
   </channel>
 </rss>

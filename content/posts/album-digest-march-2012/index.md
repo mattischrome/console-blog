@@ -7,6 +7,7 @@ title: Album Digest, March 2012
 ---
 Five albums for Album Digest March 2012
 
+<!--more-->
 1. Fanfarlo _Rooms Filled With Light_
 2. The Shins _Port Of Morrow_
 3. Grails _Deep Politics_

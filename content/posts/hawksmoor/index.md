@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2013-06-26'
-
 tags: ["Books", "Peter Ackroyd", "Novel", "Thirteen", "London"]
 title: Peter Ackroyd, Hawksmoor
 ---
 Peter Ackroyd's "Hawksmoor" was first published in 1985. I bought a recent reissue that forms part of Penguin's decades collection whilst on a spree in Waterstone's. It appealed to me as I recently realised that despite growing up in the eighties and nineties, I had read very novels that were either written or set in the eighties. Happily "Hawksmoor" is both of these, sort of. It also appealed to me because it is (again, sort of) a detective story and I've found myself getting into those lately. John Squire's excellent artwork for the cover and the nice binding also helped to seal the deal: you don't get that with an iPad or a Kindle.
 
+<!--more-->
 For once I am certain that I will not give away too many spoilers because I am really not sure what to make of the ending to this book. Not in the slightest. If you've read it, feel free to leave a comment and explain what happened (Note: if people have done this and you haven't read the book yet, avoid the comments!). I am sure I will read it again and try to work it all out as this is too good a book to not revisit.
 
 The novel split into two time streams that take up alternating chapters. In the first it is the start of the eighteenth century and Nicholas Dyer, apprentice to Sir Christopher Wren, has been commissioned to design seven churches for the city of London. His designs are motivated by a dark past endured during the plague and the Great Fire and he aims to consecrate each church with the murder of an innocent. The second strand takes place in the modern day and a series of murders are taking place in the grounds of Dyer's churches. The lead detective is Nick Hawksmoor and he is having trouble finding who has murdered these people.

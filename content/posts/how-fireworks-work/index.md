@@ -1,12 +1,12 @@
 ---
 category: Science
 date: '2015-03-22'
-
 tags: ["Science", "Ideas", "Fifteen", "Writing"]
 title: How Fireworks Work
 ---
 Last night an impromptu firework display occurred. I watched it from my bathroom window. Very pretty and somewhat extravagant, given that there’s no reason for one on the calendar. I could have filmed it on meerkat but it would have diminished the spectacle. However, it did at least motivate me to write this piece that I have put off for a while (since about November I guess?). One where I find out (i.e. [look up on Wikipedia](http://en.wikipedia.org/wiki/Fireworks)) how fireworks work.
 
+<!--more-->
 Fireworks are essentially showy explosions, so the way they “work” from a practical point of view is the same as how gunpowder works. Light the fuse, and an exothermic reaction emits lots of energy in the form of light, heat, and a big bang.
 
 The Chinese introduced the aesthetic element in the 7th Century (CE) and fireworks developed into a major part of Chinese culture. In Britain, fireworks have supplanted the more traditional burning of the Guy on “bonfire night”. It is likely that this transition occurred once China opened up to trade in the 1800s.

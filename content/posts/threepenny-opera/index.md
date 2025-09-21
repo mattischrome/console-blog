@@ -1,12 +1,12 @@
 ---
 category: Theatre
 date: '2016-09-24'
-
 tags: ["Theatre", "Brecht", "Sixteen", "London"]
 title: The Threepenny Opera
 ---
 A few weeks ago, Ingrid and I went to see The Threepenny Opera at the National Theatre.
 
+<!--more-->
 The Threepenny Opera was written by Bertolt Brecht and Kurt Weill, based on Elisabeth Hauptmann's German translation of John Gay's "A Beggar's Opera". It was first performed in Weimar Berlin in 1928 and has evolved over time through many adaptations, including several film and off-Broadway versions. It's a work with very powerful musical overtones and, despite avowals otherwise throughout by the narrator, it has a powerful moral message.
 
 The play is set in the poorest parts of East London and is usually set in time just ahead of Queen Victoria's coronation. Drawing on Charles Booth's descriptive maps of urban poverty, it focusses on the slums and their occupants. The "vicious and semi-criminal" thieves and the whores as the black lines on Booth's maps would have it.

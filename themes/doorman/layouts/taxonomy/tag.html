@@ -3,24 +3,28 @@
 <br/>
 {{ .Content }}
 
-<div class="posts-list">
+<div class="posts">
     {{ range .Data.Pages }}
-    <div class="post">
-        <h3><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h3>
-        <p class="header">Posted on {{ .PublishDate.Format "2006-01-02" }}
+    <div style="text-align: left;">
+        <b style="font-size: 1.1em;"><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></b>
+        <span style="font-size: 19px;"><p>Posted on {{ .PublishDate.Format "2006-01-02" }}
             {{ if .Params.readingTime }}
                 &thinsp;·&thinsp; <span title="{{ .WordCount }} words">{{ .Params.readingTime }}</span> &thinsp;·&nbsp;
             {{ else if .ReadingTime }}
                 &thinsp;·&thinsp; <span title="{{ .WordCount }} words">{{ .ReadingTime }} min read</span> &thinsp;·&nbsp;
             {{ end }}
+            {{ $currentTag := $.Page.Title }}
+            {{ $tagCount := 0 }}
             {{ range $index, $tag := .Params.tags }}
-                {{ if gt $index 0 }}&thinsp;·&thinsp;{{ end }}
-                <a title="All pages tagged '{{ $tag }}'." href="{{ printf "/tags/%s" (urlize $tag) | relURL }}" rel="tag">{{ $tag }}</a>
+                {{ if ne $tag $currentTag }}
+                    {{ if gt $tagCount 0 }}&thinsp;·&thinsp;{{ end }}
+                    <a title="All pages tagged '{{ $tag }}'." href="{{ printf "/tags/%s" (urlize $tag) | relURL }}" rel="tag">{{ $tag }}</a>
+                    {{ $tagCount = add $tagCount 1 }}
+                {{ end }}
             {{ end }}
-        </p>
+        </p></span>
     </div>
-
-    {{ end }}
+{{ end }}
 
 
 {{ end }}

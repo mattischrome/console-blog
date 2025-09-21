@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2012-11-21'
 slug: understated-classics-21
-
 tags: ["Understated Classics", "Woob", "Music", "Twelve", "Electronic"]
 title: 'Understated Classics #21: Woob 2 by Woob'
 ---
 The second Woob album (AKA “Woob 4495”) is probably the greatest ambient album ever made and is certainly the best one you have never heard of. Originally released in 1995 [on the em:t label](http://www.emit.cc) it is also a rare record. I don’t have an actual copy but I have seen one! I downloaded it off the internet and even that is quite difficult to do. My friend is an avid collector of all the em:t releases and it is easy to see why: all the albums are titled in a specific way that is very appealing to people who like to collect things and they also have very striking nature photography on the covers. In a strange way, the label was able to create an identity for its releases in a way that many artists would try to.
 
+<!--more-->
 Unfortunately the em:t label failed and it is hard to know if post-internet (things were still getting underway in the early/mid-90s) it might have had an easier time selling these albums. You can now get the first Woob album on iTunes and this second album was re-released in a remixed form as “Repurpose” back in 2010. There is a rabid second hand market for em:t records releases and “Woob 2”, sorry “Woob 4495”, is among the most sought-after.
 
 When I listened to “Woob 2” again when I was writing this post something very obvious struck me about it. It is by far and away the most played record in my iTunes. I have played each track on the album (there are seven) between 57 and 75 times. I’ve played the 25 minute track “Depart” 60 times, which means I have spent more than a day of my life listening to just that track.

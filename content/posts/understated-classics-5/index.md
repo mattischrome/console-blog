@@ -6,6 +6,8 @@ tableOfContents: true
 tags: ["Understated Classics", "Bloc Party", "Music", "Rock", "Ten"]
 title: 'Understated Classics #5: A Weekend In The City by Bloc Party'
 ---
+<!--more-->
+
 ## A Weekend In The City: Background
 
 This is the youngest album I have chosen for this series. I try to pick albums that are at least ten years old but every now and then, I will think of an album that matches the sort of things I want to write about. That's the case here. _A Weekend in the City_ is an unusual album that, in a reversal of the old adage, is “easy to love but hard to admire”. Nevertheless I do love and admire it, and I would like to share my thoughts about it with you.

@@ -1,12 +1,12 @@
 ---
 category: Writing
 date: '2016-09-11'
-
 tags: ["Writing", "Ideas", "Sixteen", "Insomnia"]
 title: A New Notebook
 ---
 Witness the pressure of a new notebook. You sit at your desk, trying to get it started with an amazing piece of writing. Something worthy of that crisp new page. You want it to tumble out of you, fully formed and coherent. Something that justifies you abandoning the previous one. As though first drafts don't exist. You cast yourself into the role of shaman, of seer - of someone gifted a prophetic vision. But it's a role that you cannot and will not fulfil.
 
+<!--more-->
 Your pen hovers on the blank lines as you try to bring forth words describing your thoughts. Everything feels stultifying and false. You feel disappointed. Here you are pressing on regardless, same as always, and those magic ringing words - the ones you hear so clearly in your head - still fail to appear on your pristine page.
 
 To cap it all there are blots and mistakes everywhere. You strike through every other word as you pin your writhing sentences to the page. You're [a bad butterfly collector](https://medium.com/@chrisdeerin/obama-the-butterfly-collector-af3304b1acd9#.35ws6g4bg). Your net is full of holes that let the best ones get away. Worse still, the poor creatures you catch aren't yet dead so you smudge them as you finish them off.

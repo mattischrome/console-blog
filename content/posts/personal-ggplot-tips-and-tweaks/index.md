@@ -7,6 +7,7 @@ title: Personal ggplot tips and tweaks
 ---
 I love making plots in R with `ggplot`. However, there are always a few niggles that I forget about between plots. I wrote this post so that I have somewhere to look the next time I need to tweak a few things in my plots. I intend to come back and add updates in the future as I learn more things. If I keep coming back, I might also remember a few of these too.
 
+<!--more-->
 ## Axis labels
 I'm always getting caught out by labels. How the heck do I change such and such to a larger font and so on? For most things the `theme()` function comes to my rescue. It's just a matter of remembering all the elements that can be altered. There are so many that there's no shame in forgetting a few. Thankfully [the documentation for `ggplot` is great]() and it's easy to find the relevant setting. It's worth bearing in mind that there are additional helper functions that *do* things in `ggplot`. For example, in the code:
 

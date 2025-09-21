@@ -7,6 +7,7 @@ title: Album Digest, David Bowie RIP
 ---
 I thought I'd add three of my favourite David Bowie albums to my review of Blackstar to a form an album digest tribute. Also among my favourites but not included here is "Outside", which will be included in the understated classics (currently it's number 66) at some point. I thought about bumping "Outside" up the running order but I'd like to be objective about it when its turn comes.
 
+<!--more-->
 ### Station To Station
 
 "It's not the side effects of the cocaine / I'm thinking it must be love" sings Bowie on the title track of his tenth studio album "Station To Station", released in 1976. But this album is most definitely almost entirely built on cocaine, from the weird Kabbalah channeling title track, to the smooth funk of "Golden Years" and on toward to the weepy conclusion of his cover of "Wild Is The Wind".

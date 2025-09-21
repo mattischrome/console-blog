@@ -7,6 +7,7 @@ title: Beetroot Bolognaise
 ---
 We cook this version of bolognaise with beetroot due to Ingrid's tomato allergy. This recipe is an attempt to capture what we do on the fly. The key to it is using the wine, the Worcestershire sauce and the herbs to even out the sweetness of the beetroot. If you can manage that, it's super tasty. The sauce usually ends up being an unusual but pleasing pink/purple colour, as you will see from the pictures.
 
+<!--more-->
 ### Ingredients: (Serves 4 to 5)
 * ~500g turkey/pork/beef mince  
 * 3 beetroot, grated  

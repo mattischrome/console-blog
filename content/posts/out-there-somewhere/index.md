@@ -1,12 +1,12 @@
 ---
 category: Science
 date: '2011-02-03'
-
 tags: ["Science", "Exoplanets", "Eleven", "Speculative", "Telescope"]
 title: Out There Somewhere
 ---
 Hurrah for more exoplanets [making the news](http://www.guardian.co.uk/science/2011/feb/02/new-planets-solar-system) this week. This time it is a star with a whole bunch of small planets very close to the star, usually they tend to be single gas giants larger even than [Jupiter](http://en.wikipedia.org/wiki/Jupiter) as this [list of stars with exoplanets](http://en.wikipedia.org/wiki/List_of_exoplanetary_host_stars) from Wikipedia shows. 
 
+<!--more-->
 But these stars are all so far away! The closest star with an exoplanet found in orbit around it so far is 10 light years away (Epsilon Eridani) and this week’s system was found over 2000 light years away. To put this in perspective, Voyager 2 is [currently 11 hours 13 minutes and 52 seconds of light travel from Earth](http://twitter.com/#!/Voyager2/status/32589239199731713) just over 33 years after launch. It hasn’t really left our solar system yet - it is twice as far from the sun as Pluto but not as far as planet X - and according to current calculations it will next encounter a star (Sirius) in 290,000 years time, by which time it will be 8.6 light years from Earth and its instruments will be long dead.
 
 Of course, we don’t tend to talk about stars that _don’t_ have planets orbiting them. I presume that we would know by now if our nearest stars like [Proxima Centauri](http://www.solstation.com/stars/alp-cent3.htm) or [Alpha Centauri](http://www.glyphweb.com/esky/stars/alphacentauri.html) definitely do not have stars orbiting them, so we definitely know that Epsilon Eridani is the star nearest to us with a planuc8et. It would be good to know that you definitely have to go that far to see more planets.

@@ -1,13 +1,13 @@
 ---
 category: Life Experiences
-date: 2024-01-12
+date: "2024-01-12"
 slug: the-negativity-casket
-
 tags: ["Twenty Four", "Writing", "Emotions", "Diary", "Life Experiences"]
 title: The Negativity Casket
 ---
 One of the things that people tend to start around this time of year is a diary. They usually get filled for as long as your new year's resolutions last.
 
+<!--more-->
 However, I've been writing in my current diary for a while. It's a Moleskine extra large ruled Notebook in beautiful Prussian Blue, covered in whatever stickers pass over my desk. (Hint: find my address and send me stickers Internet.) This is much more preferable to a 'real' diary because I can leave a few days and then resume. I can also take breaks and write out a bunch of notes on Org-mode or the Julia programming language if I want to (and yes, I did).
 
 The guilty expanse of pages left by days and weeks unfilled are what get me every year, despite my best attempts at forming a routine. Ironically, it's often a busy spell, or precisely the sort of tumultuous ruction to daily life that one writes a diary in order to *record*, that ends up doing for my diary every year.

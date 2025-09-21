@@ -1,19 +1,13 @@
 ---
 category: Music
 date: '2025-01-30'
-tags:
-- Twenty Five
-- Album Revisit
-- Pop
-- Dance
-- Charlie XCX
+tags: ["Twenty Five","Album Revisit","Pop","Dance","Charlie XCX"]
 title: Charlie XCX, Brat
 ---
 When making my albums of the year posts at the start of the month, I realised that compared to many other critics lists, there was no sign of _Brat_ by Charlie XCX. And when it came up again on my album shuffle the other day, I  thought I should re-evaluate the album and whether it should have made my list.
 
-Listening to _Brat_ again for this post, it was clear that I'd missed out on something special. This was partly because I went for a walk with it on my headphones and that always lets me hear the details of the music. I think too many times when this album came on at home, it would be a little bit too doof-doof to be background music. These are songs that do demand (and deserve) a bit of attention.
-
-![Cover of Brat by Charlie XCX](./images/charlie_xcx_brat.jpg)
+<!--more-->
+Listening to _Brat_{{< marginfigure src="./images/charlie_xcx_brat.jpg" alt="Cover of Brat by Charlie XCX" caption="Cover of _Brat_ by Charlie XCX" >}} again for this post, it was clear that I'd missed out on something special. This was partly because I went for a walk with it on my headphones and that always lets me hear the details of the music. I think too many times when this album came on at home, it would be a little bit too doof-doof to be background music. These are songs that do demand (and deserve) a bit of attention.
 
 However, I can see why the album as a whole didn't make a huge impression on me, and why it got skipped over a fair bit last year. The songs are pretty samey, both in content and style. Don't get me wrong, lots of albums have the distinguishing feature that one track only differs from another due to a slightly different production quirk. Lots of those albums are great. _Brat_ is great too, but...
 

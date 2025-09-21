@@ -1,12 +1,12 @@
 ---
 category: Writing
 date: '2018-06-10'
-
 tags: ["Writing", "Ideas", "Blogging", "Eighteen"]
 title: Reboot
 ---
 As much as I hate to write about writing, especially when I write so infrequently, I feel I need to reboot this blog. I wrote so few posts in recent months I considered giving up altogether.
 
+<!--more-->
 I’ve been stressed. Sometimes this manifests in being unable to sleep. Sometimes it manifests in all my interests and ideas seeming to be completely pointless. Sometimes one of those precedes the other. Sometimes it works vice versa. Often since getting back from Australia I’ve felt stuck in a vicious circle of insomnia and disinterest. Perhaps it’s just been the longest case of jet lag ever.
 
 Despite all this, I’ve tried to stay busy. Well I say busy, it’s more that Ingrid and I decided to get every Civilisation VI achievement. I bet that makes us sound *so* dull but we do other things I promise. We’ve started making cocktails. My goodness this post is becoming a hundred different cries for help!

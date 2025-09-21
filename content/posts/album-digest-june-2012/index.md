@@ -7,6 +7,7 @@ title: Album Digest, June 2012
 ---
 Three fantastic albums for Album Digest June 2012:
 
+<!--more-->
 1. Saint Etienne _Words and Music by Saint Etienne_
 2. Liars _WIXIW_
 3. Hot Chip _In Our Heads_

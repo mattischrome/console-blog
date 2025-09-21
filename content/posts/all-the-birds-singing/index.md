@@ -7,6 +7,7 @@ title: Evie Wyld, All The Birds, Singing
 ---
 I recently finished reading _All The Birds, Singing_, the second novel by [Evie Wyld](http://www.eviewyld.com). It’s about a woman called Jake who lives alone on a farm with a dog called Dog on an island somewhere off the coast of Britain. She has sheep to look after but something keeps coming in the middle of the night to kill them.
 
+<!--more-->
 Meanwhile, as the narrative on the island moves forward in the present, a second narrative peels off backwards to explain her past. This takes place in Australia. Jake is still working with sheep but there is a confrontation with a fellow farmhand who threatens to expose a secret from her past. As this second strand unfurls, we begin to see why Jake is jumpy and convinced that the deaths of her sheep represent ill-portent. However, because this second story rolls backwards in jumps, we have to wait until the end for the terrible events that set her on this path.
 
 Wyld uses the two narratives to drive the plot and it does a good job at keeping you reading. The structure is one I’ve encountered before in Iain M. Banks’ _Use of Weapons_ where it is used to devastating effect. The secret at the heart of “All The Birds, Singing” does not quite have the same impact as a chair made of bone, but this protects the plot from being overwhelmed by the device and appearing contrived.

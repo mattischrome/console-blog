@@ -1,13 +1,7 @@
 ---
 category: Writing
 date: '2025-02-04'
-tags:
-- Twenty Five
-- Notebooks
-- Notes
-- Blogging
-- Ideas
-- Writing
+tags: ["Twenty Five", "Notebooks", "Notes", "Blogging", "Ideas", "Writing"]
 title: More Uses For Little Notebooks
 ---
 I'm an avid collector of small notebooks. So much so that I have a box full of them in my office. I'm not afraid of writing in them, it's just that I've bought so many over the years I can't get through them quick enough.<!--more-->

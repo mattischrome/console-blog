@@ -7,6 +7,7 @@ title: You Can’t Just Switch Off Free
 ---
 [Ministry of Sound boss Lohan Presencer does the cry baby act in today's Guardian](http://www.theguardian.com/technology/2015/mar/11/ministry-of-sound-streaming-switch-off-free), complaining that Spotify's freemium model doesn't allow him to bathe in a Scrooge McDuck style swimming pool of golden coins any more. The cat is out of the bag for streaming music now, and no matter how much music companies cry foul they can't stop Spotify and their ilk, and there wouldn't be pots of gold waiting for them even if they could.
 
+<!--more-->
 Presencer goes on to say that he fears for artist development in this post-streaming world. Personally I think he's more worried about whether he can sell any more shitty themed compilations that aren't dance music but nonetheless trade on Ministry of Sound's credentials. But let's take him at face value and explore this point. Will allowing people to stream some of the music that they like for free affect artist development?
 
 ## It Used to Be Called Radio

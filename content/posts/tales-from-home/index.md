@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["Life Experiences", "Christmas", "Birds", "Photos", "Ten"]
 title: Tales From Home
 ---
+<!--more-->
+
 ### A question of identity
 
 Three letters for Dad in the mail today, three variations on our surname including the aquatic _Dory_ version and the lesser-spotted _Dorny_. It is perhaps best not to go back to the time he was accidentally listed in the Thompson directory as Mr. Dopey, bringing forth prank calls from all teenagers within a ten mile radius. Fortunately, Dr. Dorey doesn’t have this problem with his mail: he doesn’t get any.

@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/sprucing-up-the-blog/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/sprucing-up-the-blog/</guid>
-      <description>&lt;p&gt;This post explains some of the modifications I made to a minimal Jekyll theme to get this blog as I wanted it. This blog (currently) uses the excellent &lt;a href=&#34;https://sidey-jekyll.netlify.app/about&#34;&gt;Sidey theme&lt;/a&gt; by &lt;a href=&#34;https://www.ronaldsvilcins.com&#34;&gt;Ronalds Vilciņš&lt;/a&gt;. His site looks eerily similar to this one, at least at time of writing.&lt;/p&gt;&#xA;&lt;p&gt;The theme is pretty minimal in terms of features (and appearance) but it scores well on the Google Page Speed test. The features I added have increased the build time, but have not affected the speed of the site in terms of the page speed test.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This post explains some of the modifications I made to a minimal Jekyll theme to get this blog as I wanted it. This blog (currently) uses the excellent &lt;a href=&#34;https://sidey-jekyll.netlify.app/about&#34;&gt;Sidey theme&lt;/a&gt; by &lt;a href=&#34;https://www.ronaldsvilcins.com&#34;&gt;Ronalds Vilciņš&lt;/a&gt;. His site looks eerily similar to this one, at least at time of writing.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

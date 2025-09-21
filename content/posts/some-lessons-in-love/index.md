@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2012-06-25'
-
 tags: ["Helen Fisher", "Non Fiction", "Books", "Twelve", "Self Improvement"]
 title: Helen Fisher, Some Lessons In Love
 ---
 As indicated by my [reading list](articles/reading-list-mid-april-2012) posted a couple of months ago (which has since been added to [here](articles/another-reading-list)), I’ve started to try to read more about the things that I felt that I did not understand so well. Most notably perhaps is this book “on love” by Helen Fisher. Lest there is any innuendo it is not a book about technique nor does it attempt to explain love to those who have never known it, instead it assumes that we have all been there. In fact, the book attempts to explain the neurological mechanisms of love (specifically romantic love) and describes how science has helped reveal these mechanisms to us.
 
+<!--more-->
 I have long been intrigued by such matters. As an undergraduate I lived as the sole atheist in a bunch of people who were very active in the Christian Union. In our debates, pity was often expressed toward my wholesale belief in science (with, funnily enough, very acknowledgment of my _faith_ in science) precisely because of how they saw it to be demeaning of emotional concepts like love. The story goes that if you are in love with someone and God didn’t make you, and that if instead the person who loves you only ‘loves’ you because of the chemicals that are flooding their brain, that feeling is somehow false and invalid.
 
 This book does a pretty good job of shooting a hole right through that nonsense. I can hear some from the back who might say that I should not have let such spurious talk bother me but I did often approach the same question from a philosophical point of view: if our brains are just (peculiar) meat then why on earth do we feel sensations like love that are so outside of our common-place experience? You have been there, you know that amazing sense of security and sense of purpose that comes from love (and again, specifically romantic love). Well the answer is obvious: to trick us into the rather risky but biologically essential practice of farting out babies.

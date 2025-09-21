@@ -1,12 +1,12 @@
 ---
 category: Films
 date: '2012-11-05'
-
 tags: ["Films", "French", "Marion Cotillard", "Thriller", "Twelve"]
 title: 'Rust And Bone: A Short Review'
 ---
 So, two short reviews in a row. I had the day off work and went to see “Rust And Bone” this afternooon. It’s the new film by Jacques Audiard, who directed “A Prophet” – one of my favourite films of the last five years.
 
+<!--more-->
 “Rust And Bone” is a love story about Ali, a sexually feckless security guard who is struggling to look after his young son on his own, and Stéphanie (played by second most beautiful woman in the world, Marion Cotillard), who is injured while working as a co-ordinator of killer whale displays at an ocenarium. Needless to say it is not a minor injury. The film is basically their love story. I don’t feel so much responsibility to hide plot details about this film because, to be frank, I could type out the whole plot here and it wouldn’t convey the reasons why it’s so great.
 
 Whereas “Skyfall” was an enjoyable film by virtue of being well paced dumb entertainment, “Rust And Bone” is that other type of great film: the one that tries to tell us a new story while trying to explain something about all of us at the same time. It’s full of gritty moments, both physical and psychological, and also moments of transcendant delight and beauty. There were points were it felt like a wire was being worked into my chest and yet there are also moments of deep delight and sweetness. For the most part it is shot with a documentary style that makes it feel very immediate and real, but as with “A Prophet” there are also giddy slow motion shots and scenes that are loose and unstructured and dream-like. However, what drives it more than anything else is two superb acting performances by Marion Cotilliard and Matthias Schoenaerts.

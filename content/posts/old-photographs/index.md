@@ -1,12 +1,12 @@
 ---
 category: Life Experiences
 date: '2020-10-08'
-
 tags: ["Photography", "Life Experiences", "Family", "Twenty"]
 title: Old photographs
 ---
 Recently I've had cause to dig out some old photos. If I'm honest it's made me sad. Sadder than I was expecting. There's a quote from Nan Goldin that once felt like a warning but now just sounds like a sad statement of ongoing affairs:
 
+<!--more-->
 > “I used to think that I could never lose anyone if I photographed them enough. In fact, my pictures show me how much I’ve lost.”
 
 Goldin took pictures of people in trouble. The people in her pictures were often in trouble, victims of circumstance who were in over their head. We saw an exhibition of her photos in the Tate Modern last year, they were windows into other lives that bordered on the uncomfortable: the viewer of a photograph is always in the privileged position of owning its narrative, no matter how well the photographer has framed it. 

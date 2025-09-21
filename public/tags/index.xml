@@ -1227,20 +1227,6 @@
       <description></description>
     </item>
     <item>
-      <title>Green</title>
-      <link>http://localhost:1313/tags/green/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/green/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Red</title>
-      <link>http://localhost:1313/tags/red/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/red/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Housekeeping</title>
       <link>http://localhost:1313/tags/housekeeping/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>

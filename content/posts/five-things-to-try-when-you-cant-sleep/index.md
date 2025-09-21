@@ -1,12 +1,12 @@
 ---
 category: Ideas
 date: '2011-04-05'
-
 tags: ["Ideas", "Insomnia", "Life Experiences", "Self Improvement", "Eleven"]
 title: Five Things To Try When You Can't Sleep
 ---
 Facebook is wonderful for keeping in touch but I’ve noticed that quite a few of my friends tend to use it to tell the world that they can’t sleep. Here’s some advice for you if you find yourself unable to sleep one night. I’ve often had to try these out myself! Note that these are just things that work for me and your mileage may vary, particularly if you are fortunate enough to have a partner next to you! You may need to appease them if you wriggle around too much.
 
+<!--more-->
 1. **Plan to be awake for a reasonable time yet.** This may seem like a stupid and defeatist “thing to do” and certainly not the sort of thing to put as number one on the list. Think about it though, there will be a reason why you are awake: you are worried about something, or are excited about something, you have indigestion, or you otherwise have some sort of reason why you are not headed to the land of nod. You are going to have to distract yourself, tire yourself or prove to yourself in some other way that you really need to sleep. As with anything, it is best to put in the hours if you are serious. If you are sleeping with a partner, extricate yourself and head somewhere comfortable where you won’t disturb them.
 
 2. **Listen to some music you know really well.** This is usually my first resort because then I can turn the light back off. By “some music you know really well” I mean something that you have loved for ages and you know inside out, so that you can predict the words or chords or samples or beats that are coming next. Sometimes you can just kick back and be asleep again before you know it. Meanwhile, if your playlist choice is something you really enjoy, you can at least make being kept awake a little nicer for yourself. Of course, this doesn’t really work if you have a partner who might be disturbed by noise leakage or who expects details next morning of what they talked about in their sleep.

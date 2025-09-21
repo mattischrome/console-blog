@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["Programming", "Projects", "Games", "Ten", "Fun"]
 title: Programming an UNO game
 ---
+<!--more-->
+
 #### A new year, a new hobby
 
 I don’t write about programming enough. This is a shame because it is a very interesting subject and I find that the problem solving aspects of programming are very satisfying. Keenly aware of the need to do more hobby programming and to get up to speed on areas of software development that I’ve been neglecting, I have decided to give myself the project of creating a computerised version of the [UNO card game](http://en.wikipedia.org/wiki/Uno_(card_game)). I know that one already exists, for example there’s an official one that you can play on MSN messenger.

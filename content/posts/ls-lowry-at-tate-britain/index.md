@@ -1,12 +1,12 @@
 ---
 category: Art
 date: '2013-10-18'
-
 tags: ["Art", "L. S. Lowry", "Tate Britain", "Thirteen"]
 title: LS Lowry At Tate Britain
 ---
 I have mixed feelings about this show. On the one hand, I like that there are depictions of working class Britain on display and I feel that it is right that these paintings are considered part of the British cultural canon. I also like that a lot of these paintings represent large gatherings of people, which are absent from a lot of what we might call the mainstream of art.
 
+<!--more-->
 However the problem with this show and, for me, with Lowry's paintings in the main, is that the large crowds of people are almost devoid of meaning. It's a sort of lazy pointillism of stick figures used to populate vast areas of canvas that would otherwise be empty. So while it is great that Lowry fills some of his paintings in this way (a great example being "Going To The Match"), I don't think it works for every painting. (To be fair, not every painting is hyper-populated with stick figures, but the majority are.) I think in some paintings the presence of large numbers of his oft-caricatured matchstick figures make important points about large crowds of people and/or the dehumanizing effects of the industrial revolution on traditional working life. However, in other paintings the large gatherings of figures feel perfunctory or gimmicky -- they're there because the other paintings have them. Sometimes excessive homage can start to feel like satire or exploitation instead.
 
 And boy are there a lot of paintings featuring those famous matchstick men (and on a Saturday afternoon there are also a lot of matchstick people crowded into the gallery to look at them all!) - it's quite wearying in fact. An equivalent show would be [the Lichtenstein retrospective from earlier this year](/lichtenstein-at-tate-modern/), which also had to present an artist with a signature style without making the works seem to repetitious or boring. When I think about the structure of both shows they are quite similar, which makes me think that the charisma of Lichtenstein's work (or my response to it, I was really won over) may be what carried the day.

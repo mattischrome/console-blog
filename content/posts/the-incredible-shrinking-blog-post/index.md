@@ -1,12 +1,7 @@
 ---
 category: Blogging
 date: '2025-02-07'
-tags:
-- Twenty Five
-- Blogging
-- Writing
-- Meta
-- Consistency
+tags: ["Twenty Five", "Blogging", "Writing", "Meta", "Consistency"]
 title: The Incredible Shrinking Blog Post
 ---
 The problem with keeping up a blog streak for however many days it is now is that you don't actually get a huge amount of time to think of ideas for posts and actually write them. Ironically, I've been thinking about this post for a while though. <!--more--> I've become very aware that I'm dredging up posts from old drafts or old notes and not really adding much to them. Sometimes, when I've decided what to write in advance, a lot of ideas circle within my head right up until it's time to write... and then nothing.

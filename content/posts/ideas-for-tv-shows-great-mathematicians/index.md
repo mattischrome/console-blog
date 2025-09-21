@@ -1,12 +1,12 @@
 ---
 category: Mathematics
 date: '2013-07-29'
-
 tags: ["Ideas", "Maths", "Lists", "Thirteen"]
 title: 'Ideas for TV shows: Great Mathematicians'
 ---
 I want to see a TV show about great mathematicians of the past on a channel like BBC Four. Programmes about mathematics tend to be rather condescending, at least to anyone who has a bit of mathematical knowledge. Perhaps a way around this is to delve into the social and historical circumstances of the great mathematicians and how that along with their personality produced the mathematical results for which they are famous.
 
+<!--more-->
 I apologise if this sounds like dumbed down nonsense to you. Personally, I can think of six mathematicians whose lives and results are interesting and important enough to create a series of great programmes. I'm thinking of those shows where scenes from someone's life are re-enacted. Obviously you would need a bit of poetic license to augment what is already known, but as long as things weren't too over the top it would be ok.
 
 I've put my six choices in chronological order. I am not sure you would need to do that for a series because if you were to make six more choices, they probably would fall in and these choices. For example there are many more interesting choices for a mathematician from antiquity.

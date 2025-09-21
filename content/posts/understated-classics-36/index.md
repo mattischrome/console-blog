@@ -2,12 +2,12 @@
 category: Understated Classics
 date: '2017-10-29'
 slug: understated-classics-36
-
 tags: ["Understated Classics", "The Coral", "Music", "Rock", "Seventeen"]
 title: 'Understated Classics #36: The Coral by The Coral'
 ---
 Perhaps in today's modern age of streaming and such, [The Coral](http://thecoral.co.uk) would be a bigger band and may have survived their eventual burnout. Their work ethic was evident from the start, as rumours swirled [in the NME](https://i.ebayimg.com/images/g/YdkAAOSwfl9XBSiR/s-l300.jpg) about a fantastic new band from Liverpool who were going to blow everybody's socks off. I went to see them live in Bristol after they'd released three EPs and they were incredible. Their sound, a bit like [the movie "Holy Mountain"](http://www.imdb.com/title/tt0071615/) set to pop music, imagined a Merseybeat channelled from an alternative universe in which Lennon and McCartney took their acid in [the Mojave desert](https://www.desertusa.com/mojave-desert.html) rather than in the English suburbs. Yes, it was derivative but somehow it also managed to be utterly new and compelling.
 
+<!--more-->
 In the nascent days of the internet it was harder to find new music by bands than it is today. I remember that looking for songs by The Coral on Amazon and [Audiogalaxy](https://en.wikipedia.org/wiki/Audiogalaxy) became an obsession. Their first single "Shadows Fall" was too rare for me to find a copy. but I managed to find the MP3s and quickly got hooked. Even now copies of "Shadows Fall" go for about £30, which is a little steep for three tracks and eight minutes of music. Two songs from that EP appear on "The Coral", the title track "Shadows Fall" and "The Ballad of Simon Diamond". Both seemed to me, recovering from my first bout of depression, like glittering mirages, like songs formed from shadows and left open for the listener to fill in the gaps. "Simon Diamond", ostensibly about a man who turns himself into a tree by sheer force of will, only has about ten lines of lyrics. Even so, it manages to be about smoking too much weed, ecological angst and the Midas myth, all at once, and in just 158 seconds.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kax7S_SX-qk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -27,14 +27,14 @@
       <link>http://localhost:1313/posts/a-collection-of-links-about-blogging/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a-collection-of-links-about-blogging/</guid>
-      <description>&lt;p&gt;If you are thinking about making your own blog, here are some links to help you on your way.&lt;/p&gt;&#xA;&lt;p&gt;This is a very simple introduction to making websites that Pixel Shannon wrote for her daughter to help her create a website for a class project. It&amp;rsquo;s not completely at a 12 year old&amp;rsquo;s level, so don&amp;rsquo;t be put off by that idea. She gives a very good introduction to what HTML is and what else you have to put in there to get a website up and running. There&amp;rsquo;s also a big list of resources that I won&amp;rsquo;t repeat here, so be sure to check those out too:&lt;/p&gt;</description>
+      <description>&lt;p&gt;If you are thinking about making your own blog, here are some links to help you on your way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>All Part of the Process</title>
       <link>http://localhost:1313/posts/all-part-of-the-process/</link>
       <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/all-part-of-the-process/</guid>
-      <description>&lt;p&gt;Writing a blog post every day is not essential. It&amp;rsquo;s not part of some new year&amp;rsquo;s resolution, despite the fact that the start of this unbroken streak of posts was January 1st. If anything my new year&amp;rsquo;s resolution has been to try and step gently away from my perfection. And the adoption of that resolution began in the middle of 2024 rather than new year&amp;rsquo;s day.&lt;/p&gt;&#xA;&lt;p&gt;Around September time, I realised and began to recognise myself as I read many descriptions of crippling perfectionism, especially in how it relates to depression. Depression is a weird experience that is simultaneously subjective but also measurable in many ways. It became clearer and clearer to me that perfectionism was a significant component to my problems, in both work and the rest of life (i.e. the part that is most important). And so I began to try and undo a lifetime of thinking in a particular way, mostly guided by a set of rules that I now write down in all my notebooks. Those rules are for me, so I won&amp;rsquo;t share them here, at least not today. But they are eminently findable on the internet and recognisable variations of common themes in self-help literature. I still need to work out which of them are genuine rules and which are merely guidelines.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Writing a blog post every day is not essential. It&amp;rsquo;s not part of some new year&amp;rsquo;s resolution, despite the fact that the start of this unbroken streak of posts was January 1st. If anything my new year&amp;rsquo;s resolution has been to try and step gently away from my perfection. And the adoption of that resolution began in the middle of 2024 rather than new year&amp;rsquo;s day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Incredible Shrinking Blog Post</title>
@@ -55,42 +55,42 @@
       <link>http://localhost:1313/posts/into-february/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/into-february/</guid>
-      <description>&lt;p&gt;Having made it to one post per day in January, we now move into February: that graveyard of good habits for the new year. What is it about flipping over the calendar to a new month that does away with our resolve to continue with our resolutions? My office calendar has a lovely picture of a German steam train in the snow, in case you were wondering.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m going to reward myself at some point by allowing myself to fiddle with the blog&amp;rsquo;s theme a little more. Over the years, I&amp;rsquo;ve probably fiddled more with how the blog looks, rather than focussing on what to write. I&amp;rsquo;ve also turned on Hugo&amp;rsquo;s related posts module. The results are pretty high quality and it doesn&amp;rsquo;t seem to affect the build time of the site. A custom version is still a pet project for the future though.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Having made it to one post per day in January, we now move into February: that graveyard of good habits for the new year. What is it about flipping over the calendar to a new month that does away with our resolve to continue with our resolutions? My office calendar has a lovely picture of a German steam train in the snow, in case you were wondering.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dithering Around</title>
       <link>http://localhost:1313/posts/dithering-around/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/dithering-around/</guid>
-      <description>&lt;p&gt;While off sick and under the weather I decided to play around with presenting the photos on this blog in a fashion more in keeping with the current Hugo theme.&lt;/p&gt;&#xA;&lt;p&gt;I used &lt;a href=&#34;https://imagemagick.org&#34;&gt;Imagemagick&lt;/a&gt; to process the same files from &lt;a href=&#34;http://localhost:1313/posts/in-praise-of-paris/&#34;&gt;the Paris post&lt;/a&gt; earlier this week. I made them a bit smaller, reduced the number of colours to 256, posterized them (a built-in Imagemagick function that groups colours), and then did a dither on them.&lt;/p&gt;</description>
+      <description>&lt;p&gt;While off sick and under the weather I decided to play around with presenting the photos on this blog in a fashion more in keeping with the current Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Push the right key</title>
       <link>http://localhost:1313/posts/push-the-right-key/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/push-the-right-key/</guid>
-      <description>&lt;p&gt;One of the absurd barriers to writing regularly is that my new post script is written to open the new markdown file in Neovim and until this week I had no idea how to type a hashtag (which markdown uses for headers) in this editor.&lt;/p&gt;&#xA;&lt;p&gt;Neovim, and its venerable predecessors vi and vim, is notorious for being a bit tricksy to work with. This is because it is a modal editor: you use keys to switch the editor between modes. The same key presses mean different things in different modes, which can be frustrating when you first start out and have no clue what is going on.&lt;/p&gt;</description>
+      <description>&lt;p&gt;One of the absurd barriers to writing regularly is that my new post script is written to open the new markdown file in Neovim and until this week I had no idea how to type a hashtag (which markdown uses for headers) in this editor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nineteen Out Of Nineteen?</title>
       <link>http://localhost:1313/posts/nineteen-out-of-nineteen/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/nineteen-out-of-nineteen/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m having trouble finding something to write about today. Partly the problem of having a productive weekend of doing things rather than ruminating on blog topics. So unfortunately, we get another space-filling post.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve got lots of books on the go at the moment, including &amp;ldquo;Orbital&amp;rdquo; which won the Booker prize this year and &amp;ldquo;Otherlands&amp;rdquo; which is a really cool book about natural history going back in time through the eras of the Earth.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;m having trouble finding something to write about today. Partly the problem of having a productive weekend of doing things rather than ruminating on blog topics. So unfortunately, we get another space-filling post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fun With Chat-GPT</title>
       <link>http://localhost:1313/posts/fun-with-chatgpt/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/fun-with-chatgpt/</guid>
-      <description>&lt;p&gt;I asked:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;For my blog I have a folder called posts. In that folder are more folders that are named for the slug of each post, as per the conventions of the Hugo static site generator. Those folders each contain a markdown file named index.md, each of which has a YAML header. Draft posts have a YAML key called draft which has the value true. Please can you write me a shell script that I can run from the directory above posts that tells me which folders in the posts folder contain draft posts?&lt;/p&gt;</description>
+      <description>&lt;p&gt;I asked:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Don&#39;t Break The Chain</title>
       <link>http://localhost:1313/posts/dont-break-the-chain/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/dont-break-the-chain/</guid>
-      <description>&lt;p&gt;2025 might be a tough year, but I am going to try and blog every day. It means that now and then I might be writing a post like this one, where I am writing for the sake of continuing the streak. If I find myself doing that too often then I will take the hint and stop trying!&lt;/p&gt;&#xA;&lt;p&gt;This weekend was the 3rd round of the FA Cup, which is when the premier league and championship teams enter the competition. This is the first time for quite a few years where Portsmouth have entered at this stage. Naturally, they&amp;rsquo;re already out! Mind you, in recent years when they&amp;rsquo;ve entered at the first round they haven&amp;rsquo;t made it past those rounds either. That was bad news for one pub in Portsmouth which always made a big show of not taking down their Christmas decorations until Pompey were out of the FA Cup!&lt;/p&gt;</description>
+      <description>&lt;p&gt;2025 might be a tough year, but I am going to try and blog every day. It means that now and then I might be writing a post like this one, where I am writing for the sake of continuing the streak. If I find myself doing that too often then I will take the hint and stop trying!&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Orphan Project</title>
@@ -118,7 +118,7 @@
       <link>http://localhost:1313/posts/git-instructions-for-future-matt/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/git-instructions-for-future-matt/</guid>
-      <description>&lt;p&gt;Dear Future Matt,&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Always look up instructions for what you want to do in the Git documentation. It&amp;rsquo;s dry but it&amp;rsquo;s good. In a pinch, look at Stack Overflow. Don&amp;rsquo;t ask Chat-GPT for advice on Git problems!&lt;/li&gt;&#xA;&lt;li&gt;To reverse mistakes, consult the &lt;a href=&#34;https://ohshitgit.com&#34;&gt;Oh Shit Git&lt;/a&gt; website.&lt;/li&gt;&#xA;&lt;li&gt;To make things easier, delete the remote to your Github repository and then add it (the remote) back again. This is so much easier than the alternative.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Best wishes,&#xA;Past Matt (with his annual flash of January git confidence).&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dear Future Matt,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reflections on 2023</title>
@@ -132,7 +132,7 @@
       <link>http://localhost:1313/posts/albums-of-the-year-preview/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/albums-of-the-year-preview/</guid>
-      <description>&lt;p&gt;Another year (nearly) over and so starting from tomorrow, I&amp;rsquo;m going to count down my top 10 albums of 2023. The rules are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;They have to have to have been released in 2023.&lt;/li&gt;&#xA;&lt;li&gt;They need to be albums. I&amp;rsquo;m defining this as either more than 7 tracks or songs, or more than forty minutes in length.&lt;/li&gt;&#xA;&lt;li&gt;To make the top ten, they need to have been played the most times. I admit that I don&amp;rsquo;t have a precise measure of this, as I do still buy vinyl and about four of these albums will have had play counts missed by not being captured through a streaming service.&lt;/li&gt;&#xA;&lt;li&gt;Compilations are not included, whether they feature multiple artists or a retrospective of a single artist.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;And that&amp;rsquo;s pretty much it. Have I done any prep work? Well no, not really. I made a preliminary list at the start of October and not only was the number one album not out at the time (!) but I also had mistakenly included two albums from 2022. So yeah, this is not a pro operation. 😂&lt;/p&gt;</description>
+      <description>&lt;p&gt;Another year (nearly) over and so starting from tomorrow, I&amp;rsquo;m going to count down my top 10 albums of 2023. The rules are:&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is in my Rakefile? (March 2023 edition)</title>
@@ -167,21 +167,21 @@
       <link>http://localhost:1313/posts/sprucing-up-the-blog/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/sprucing-up-the-blog/</guid>
-      <description>&lt;p&gt;This post explains some of the modifications I made to a minimal Jekyll theme to get this blog as I wanted it. This blog (currently) uses the excellent &lt;a href=&#34;https://sidey-jekyll.netlify.app/about&#34;&gt;Sidey theme&lt;/a&gt; by &lt;a href=&#34;https://www.ronaldsvilcins.com&#34;&gt;Ronalds Vilciņš&lt;/a&gt;. His site looks eerily similar to this one, at least at time of writing.&lt;/p&gt;&#xA;&lt;p&gt;The theme is pretty minimal in terms of features (and appearance) but it scores well on the Google Page Speed test. The features I added have increased the build time, but have not affected the speed of the site in terms of the page speed test.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This post explains some of the modifications I made to a minimal Jekyll theme to get this blog as I wanted it. This blog (currently) uses the excellent &lt;a href=&#34;https://sidey-jekyll.netlify.app/about&#34;&gt;Sidey theme&lt;/a&gt; by &lt;a href=&#34;https://www.ronaldsvilcins.com&#34;&gt;Ronalds Vilciņš&lt;/a&gt;. His site looks eerily similar to this one, at least at time of writing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ambitions Revisited</title>
       <link>http://localhost:1313/posts/ambitions-revisited/</link>
       <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/ambitions-revisited/</guid>
-      <description>&lt;p&gt;Back in 2012 &lt;a href=&#34;http://localhost:1313/ambitions&#34;&gt;I wrote a post&lt;/a&gt; listing my ambitions for the future. Well it&amp;rsquo;s the future now isn&amp;rsquo;t it? Almost. After all, &lt;a href=&#34;https://www.quora.com/How-long-does-it-take-for-most-of-the-atoms-in-your-body-to-be-replaced-by-others&#34;&gt;I’m a whole new person now&lt;/a&gt;. Anyway it&amp;rsquo;s probably time to take stock. Have I achieved any of them? Have any of my ambitions changed? What&amp;rsquo;s replaced the things that I&amp;rsquo;ve decided not to worry about? What has come after the things I managed to do?&lt;/p&gt;&#xA;&lt;p&gt;First off, here&amp;rsquo;s my justification for writing the list in the original post:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Back in 2012 &lt;a href=&#34;http://localhost:1313/ambitions&#34;&gt;I wrote a post&lt;/a&gt; listing my ambitions for the future. Well it&amp;rsquo;s the future now isn&amp;rsquo;t it? Almost. After all, &lt;a href=&#34;https://www.quora.com/How-long-does-it-take-for-most-of-the-atoms-in-your-body-to-be-replaced-by-others&#34;&gt;I’m a whole new person now&lt;/a&gt;. Anyway it&amp;rsquo;s probably time to take stock. Have I achieved any of them? Have any of my ambitions changed? What&amp;rsquo;s replaced the things that I&amp;rsquo;ve decided not to worry about? What has come after the things I managed to do?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reboot</title>
       <link>http://localhost:1313/posts/reboot/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/reboot/</guid>
-      <description>&lt;p&gt;As much as I hate to write about writing, especially when I write so infrequently, I feel I need to reboot this blog. I wrote so few posts in recent months I considered giving up altogether.&lt;/p&gt;&#xA;&lt;p&gt;I’ve been stressed. Sometimes this manifests in being unable to sleep. Sometimes it manifests in all my interests and ideas seeming to be completely pointless. Sometimes one of those precedes the other. Sometimes it works vice versa. Often since getting back from Australia I’ve felt stuck in a vicious circle of insomnia and disinterest. Perhaps it’s just been the longest case of jet lag ever.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As much as I hate to write about writing, especially when I write so infrequently, I feel I need to reboot this blog. I wrote so few posts in recent months I considered giving up altogether.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Diary?</title>
@@ -195,70 +195,70 @@
       <link>http://localhost:1313/posts/valleys/</link>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/valleys/</guid>
-      <description>&lt;p&gt;In my last post, I wrote about hills. I tried to use them as a metaphor to explain nagging sense of incompletion when you single out one activity over another. The feeling that there&amp;rsquo;s always a more exciting hill off in the distance to go climb, instead of the one you&amp;rsquo;re on.&lt;/p&gt;&#xA;&lt;p&gt;I said my next post would be about how to pick between different options, particularly when you have many to choose from. This post is not that. This is a short piece about an experience I had in South America that relates to the hills post: about contentment in the moment and letting things go.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In my last post, I wrote about hills. I tried to use them as a metaphor to explain nagging sense of incompletion when you single out one activity over another. The feeling that there&amp;rsquo;s always a more exciting hill off in the distance to go climb, instead of the one you&amp;rsquo;re on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hills</title>
       <link>http://localhost:1313/posts/hills/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/hills/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a big fan of books. The way they transport you away to other places and so on. As repositories of knowledge and adventure they can&amp;rsquo;t be beat. I can think of no better way out of an existential fix than reading.&lt;/p&gt;&#xA;&lt;p&gt;The trouble is I tend to hoard them. I&amp;rsquo;ve posted pictures of &lt;a href=&#34;https://mattischrome.com/reading-list-mid-april-2012/&#34;&gt;book stacks before&lt;/a&gt; (&lt;a href=&#34;https://mattischrome.com/another-reading-list/&#34;&gt;on more than one occasion&lt;/a&gt;). I could probably repeat that every month if I wanted to, perhaps even more often. I&amp;rsquo;ve always been a networked thinker, able to see (at least superficially) the connections between all sorts of things. Because of this I get excited and enthusiastic about all kinds of things, and I want to learn them all.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;m a big fan of books. The way they transport you away to other places and so on. As repositories of knowledge and adventure they can&amp;rsquo;t be beat. I can think of no better way out of an existential fix than reading.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Changes</title>
       <link>http://localhost:1313/posts/changes/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/changes/</guid>
-      <description>&lt;h2 id=&#34;moving-the-blog-to-jekyll-again-sort-of&#34;&gt;Moving the blog to Jekyll (again, sort of)&lt;/h2&gt;&#xA;&lt;p&gt;Et voila, my blog lives! In a new body (&lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;) and at &lt;a href=&#34;%7B%7Babsolute.url%7D%7D&#34;&gt;a new location&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-process&#34;&gt;The Process&lt;/h2&gt;&#xA;&lt;p&gt;I set up Jekyll on my MacBook Air after loads of initial problems with installing the theme and getting assorted Ruby gems installed and working. &lt;a href=&#34;https://www.stackoverflow.com&#34;&gt;Stack Overflow&lt;/a&gt; is a friend for life now. By way of comparison, getting things up and running on my new Mac was simple.&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>I Don&#39;t Have a Clue, part 43</title>
       <link>http://localhost:1313/posts/no-clue-part-43/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/no-clue-part-43/</guid>
-      <description>&lt;p&gt;&lt;em&gt;A little man wearing a bow tie, and possibly a fez, scurries into the middle of the frame clutching a clapboard. Breathing heavily he hoists the clapboard up to chest height. He holds the clapper up then brings down while slurring &amp;quot;This is a blog post about not having a clue, take 43&amp;quot;. He exits to the right of the frame.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;My feet are hot. The bed seems too small. Why are my feet always too hot on nights like these? I bet I could sleep if my feet weren&#39;t so hot.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;A little man wearing a bow tie, and possibly a fez, scurries into the middle of the frame clutching a clapboard. Breathing heavily he hoists the clapboard up to chest height. He holds the clapper up then brings down while slurring &amp;quot;This is a blog post about not having a clue, take 43&amp;quot;. He exits to the right of the frame.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Long Post</title>
       <link>http://localhost:1313/posts/the-long-post/</link>
       <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/the-long-post/</guid>
-      <description>&lt;p&gt;I am writing a long post that I will either publish as one long post (about five or six thousand words) or as about seven smaller ones each closer to the average post length of about eight hundred words. I have to get it out-of-the-way soon as my mind needs to focus on my health economics essay.&lt;/p&gt;&#xA;&lt;p&gt;It is hard to write short posts to a timetable, let alone churn out long posts on a regular basis. As a result, this longer post is not likely to become the norm. It&amp;rsquo;s an idea I had that bloomed into something ever bigger and this time I decided to have a crack at it.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I am writing a long post that I will either publish as one long post (about five or six thousand words) or as about seven smaller ones each closer to the average post length of about eight hundred words. I have to get it out-of-the-way soon as my mind needs to focus on my health economics essay.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Time Is Time and That Is That</title>
       <link>http://localhost:1313/posts/time-is-time-and-that-is-that/</link>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/time-is-time-and-that-is-that/</guid>
-      <description>&lt;p&gt;A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.&lt;/p&gt;&#xA;&lt;p&gt;So why does Facebook feel the need to jiggle things about into a random order? Well most of you have that mobile phone app of theirs that sucks your battery and your data allowance like crazy (mainly by auto-playing videos like a dick). They know you’re checking your Facebook on the loo at work and that that limits your interaction time. During this precious interlude they want you to see the stuff that they think interests you and the things that other people paid for you to see. You’re going to see some hick’s new tattoo, at least one photo of someone else’s child and an advert telling you to vote Conservative - whether you like it or not.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Little Bit Intimidating Really</title>
       <link>http://localhost:1313/posts/a-little-bit-intimidating-really/</link>
       <pubDate>Sun, 22 Mar 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a-little-bit-intimidating-really/</guid>
-      <description>&lt;p&gt;There is so much good writing out there. All you have to do is fire up &lt;a href=&#34;http://www.theguardian.com/uk/&#34;&gt;the guardian website&lt;/a&gt;, or download the &lt;a href=&#34;https://medium.com/m/app&#34;&gt;medium app to your smartphone&lt;/a&gt;, or visit &lt;a href=&#34;http://xianity.me/&#34;&gt;my friend Barrie&amp;rsquo;s site&lt;/a&gt;, or &lt;a href=&#34;https://narami.wordpress.com/&#34;&gt;Lee&amp;rsquo;s&lt;/a&gt;, and so on and so on.&lt;/p&gt;&#xA;&lt;p&gt;When it comes to my little whisper into this great choir, it&amp;rsquo;s easy to feel a bit intimidated. How do I add my voice? How do I feel distinct? How do I do it as well as all these other wonderful writers?&lt;/p&gt;</description>
+      <description>&lt;p&gt;There is so much good writing out there. All you have to do is fire up &lt;a href=&#34;http://www.theguardian.com/uk/&#34;&gt;the guardian website&lt;/a&gt;, or download the &lt;a href=&#34;https://medium.com/m/app&#34;&gt;medium app to your smartphone&lt;/a&gt;, or visit &lt;a href=&#34;http://xianity.me/&#34;&gt;my friend Barrie&amp;rsquo;s site&lt;/a&gt;, or &lt;a href=&#34;https://narami.wordpress.com/&#34;&gt;Lee&amp;rsquo;s&lt;/a&gt;, and so on and so on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Writing As It Happens</title>
       <link>http://localhost:1313/posts/writing-as-it-happens/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/writing-as-it-happens/</guid>
-      <description>&lt;p&gt;I’m pretty close to a round number. To date I have written 298,500 words for this blog, not counting posts that I have discarded or deleted. This will be the 505th post currently on the blog, which makes for an average of just under 600 words per post. Some posts are just a picture or a video or a gallery though, so that distorts the average a bit.&lt;/p&gt;&#xA;&lt;p&gt;I don’t think I can write the 1500 words I need to hit 300,000 in this post. It’s quite hard to write on demand and I often feel like my bright ideas are unassailable when I sit down to type them up. I’m conscious that I have to keep turning up to type but I’m not sure that it’s worthwhile to write posts like this simply to keep up a streak. A blog should be like an iceberg: the heft below the water line will make everything above it more beautiful.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I’m pretty close to a round number. To date I have written 298,500 words for this blog, not counting posts that I have discarded or deleted. This will be the 505th post currently on the blog, which makes for an average of just under 600 words per post. Some posts are just a picture or a video or a gallery though, so that distorts the average a bit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Jackson X</title>
       <link>http://localhost:1313/posts/jackson-x/</link>
       <pubDate>Sun, 15 Feb 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/jackson-x/</guid>
-      <description>&lt;p&gt;I set myself the task of writing about a fictional character for this blog post, so this post is about Jackson X. His surname isn’t really X, it’s just one of the details about him that I haven’t fleshed out yet. This is because Jackson X is the one of the protagonists of the novel I’m (not) writing.&lt;/p&gt;&#xA;&lt;p&gt;The name of the novel is “The Summer of the Giant Space Whale”. I’m quite happy to discuss its plot and structure here. I don’t need to worry about anyone stealing the idea because it is already a rip-off of &lt;a href=&#34;https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama&#34;&gt;Arthur C. Clarke’s “Rendezvous With Rama”&lt;/a&gt; (or, less charitably, &lt;a href=&#34;http://www.imdb.com/title/tt0092007/?ref_=nv_sr_1&#34;&gt;“Star Trek IV: The Voyage Home”&lt;/a&gt;).&lt;/p&gt;</description>
+      <description>&lt;p&gt;I set myself the task of writing about a fictional character for this blog post, so this post is about Jackson X. His surname isn’t really X, it’s just one of the details about him that I haven’t fleshed out yet. This is because Jackson X is the one of the protagonists of the novel I’m (not) writing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On convictions, whereas to the strength of and belief in same</title>
       <link>http://localhost:1313/posts/on-conviction-and-belief/</link>
       <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/on-conviction-and-belief/</guid>
-      <description>&lt;p&gt;Overlong reflection upon the past is one sure way to make yourself unhappy so I try to avoid it. Nevertheless it becomes unavoidable at this time of year, especially if, like me, you are somewhat prone to reflection.&lt;/p&gt;&#xA;&lt;p&gt;At this time last year I was, &lt;a href=&#34;http://localhost:1313/articles/south-america-trip-part-11/&#34;&gt;as detailed in the most recent report of my South American adventure&lt;/a&gt;, in La Paz, Bolivia. I think I felt as lost then as I do now, though back then I had the novelty of new places and good friends to steer me through. This year I find myself stuck in an expensive flat that I can hardly afford to heat in a city where I hardly know anyone: it seems ridiculous that I had more people around me in La Paz than I do here but there you go.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Overlong reflection upon the past is one sure way to make yourself unhappy so I try to avoid it. Nevertheless it becomes unavoidable at this time of year, especially if, like me, you are somewhat prone to reflection.&lt;/p&gt;</description>
     </item>
     <item>
       <title>October and November 2014</title>
@@ -272,21 +272,21 @@
       <link>http://localhost:1313/posts/useful-ulysses/</link>
       <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/useful-ulysses/</guid>
-      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.ulyssesapp.com&#34;&gt;Ulysses&lt;/a&gt; is a &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;markdown&lt;/a&gt; editor for the Mac. It has a simple drafting model that makes it easy to organise ideas and move between them. Pieces of writing are represented as sheets that can be tagged and grouped together - the grouping can be made manually or using filters. There are no files, the sheets are entries in a single database that is synced with iCloud. Because everything is plain text it won’t eat up your storage space. Individual sheets can be archived for use with Mac Os X’s versions feature.&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Net Loss</title>
       <link>http://localhost:1313/posts/net-loss/</link>
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/net-loss/</guid>
-      <description>&lt;p&gt;I pay to have this blog up and running. That is, I pay for the space where it is stored and I pay for the name. I have to look after all the files and plug-ins, I have to perform all the updates and optimise the database tables. All this is great fun but wouldn’t it be cheaper to slap the mattischro.me address onto a hosted WordPress.com account?&lt;/p&gt;&#xA;&lt;p&gt;Well, yes it would. I suppose I just like the independence of having my own little patch of cyberspace, sitting there waiting for all you dear readers to come and visit. Nice ideas don’t make the world go round though and so I need a better reason than that.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I pay to have this blog up and running. That is, I pay for the space where it is stored and I pay for the name. I have to look after all the files and plug-ins, I have to perform all the updates and optimise the database tables. All this is great fun but wouldn’t it be cheaper to slap the mattischro.me address onto a hosted WordPress.com account?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Five lessons from a year of blogging</title>
       <link>http://localhost:1313/posts/five-lessons-from-a-year-of-blogging/</link>
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/five-lessons-from-a-year-of-blogging/</guid>
-      <description>&lt;p&gt;I have now been writing decent length articles on this site for about a year. I have learned a lot in this time, mostly about writing but also how to express your feelings and how to marshal your ideas and passions into action. For this month’s “five on the fifth”, I would like to share  with you some of the things I have learned.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Writing posts consistently is hard…&lt;/strong&gt; There are a lot of things that get in the way of regular posting. Sometimes it is ambition undermines me, I have ideas for posts that are easy to think up that turn out to be much harder to actually write. Other times life does just get in the way, it is  a time-consuming activity to write five hundred or more words every day. I like to write posts out longhand before typing them up. I often find mistakes or horrible phrasing when I do this and often what seemed like a simple matter of typing something up becomes a bit of a mission. Of course, there are times when I am just lazy or uninspired.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;…except when it is easy.&lt;/strong&gt; I discovered early on that having a few arcs through the posts was a good idea as it makes you think a few in advance about what to do next. I prefer to be a generalist but it is nice to have the movie reviews, the &lt;a href=&#34;understated-classics&#34;&gt;understated classics&lt;/a&gt; and the &lt;a href=&#34;j-g-ballard&#34;&gt;JG Ballard&lt;/a&gt; novels to fall back on. Truth be told I am a little bored of Ballard now but even if I retire that particular strand of posts (Spoiler: Don’t worry, &lt;em&gt;High-Rise&lt;/em&gt; is on the way soon) I can always resume it later. Meanwhile, I can pad out the off days with some quotes or some photos.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Easier to read is easier to write.&lt;/strong&gt; I hope that the blog is easier to read now than when I started. I still find myself producing the odd clunky phrase now and then but the number of passive sentences is decreasing. The unexpected benefit of this has been that I find it easier to check earlier posts in search for inspiration about what to write next. Early on, I would often end up editing old posts into something more comprehensible instead of writing new material. The “After the Deadline” feature of &lt;a href=&#34;http://wordpress.org/extend/plugins/jetpack/&#34;&gt;Jetpack for WordPress&lt;/a&gt; has been very helpful in training me to write better.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;WordPress is a lot of fun.&lt;/strong&gt; The statistic is that &lt;a href=&#34;http://www.wordpress.org/&#34;&gt;WordPress&lt;/a&gt; now powers about 500 million websites. It is not hard to see why, it is easy to install, easy to customise to suit to your tastes and most of all, it rewards you for continuing to produce content. I have installed all sorts of plug-ins, including a &lt;a href=&#34;http://wordpress.org/extend/plugins/wp-word-count/&#34;&gt;word count plug-in&lt;/a&gt; that tells me that I have (up to this post) written a total of 89,032 published words. &lt;a href=&#34;http://en.wikipedia.org/wiki/Length_of_a_novel&#34;&gt;If Wikipedia is to be believed&lt;/a&gt;, that is about the length of a pretty long novel. At least now I know I could write a novel in a year even if it was a rather surreal one featuring a 10K run, spiders and an Apatosaurus.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;I still have a lot more to do, a lot more to learn.&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;2017-update&#34;&gt;2017 Update&lt;/h3&gt;&#xA;&lt;p&gt;Adding to this footnote some years later (2017) I realise that not all blog posts are permanent. Sometimes you write what you need to at the time and then take it down later. We don&amp;rsquo;t have to be permanently changed by what we once wrote on a Wednesday afternoon.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I have now been writing decent length articles on this site for about a year. I have learned a lot in this time, mostly about writing but also how to express your feelings and how to marshal your ideas and passions into action. For this month’s “five on the fifth”, I would like to share  with you some of the things I have learned.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

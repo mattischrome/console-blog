@@ -12,7 +12,7 @@
 
 
 <link rel="stylesheet" type="text/css" href="/css/navbar.css">
-<link rel="stylesheet" type="text/css" href="/css/colours.css">
+<link rel="stylesheet" type="text/css" href="/css/colours-old.css">
 <link rel="stylesheet" type="text/css" href="/css/fonts.css">
 <link rel="stylesheet" type="text/css" href="/css/default.css">
 
@@ -20,6 +20,7 @@
 
 
 <link rel="stylesheet" type="text/css" href="/css/sidenotes.css">
+<link rel="stylesheet" type="text/css" href="/css/margin-figure.css">
 
 
 
@@ -118,7 +119,6 @@
 </span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">summarise</span>(Value <span style="color:#f92672">=</span> <span style="color:#a6e22e">sum</span>(Value))
 </span></span></code></pre></div><p>But it&rsquo;s also good to not forget about slots once you know about pipes. I don&rsquo;t think pipes are to blame for me forgetting about slots, per se, just that whole &ldquo;everything&rsquo;s a nail&rdquo; outlook I mentioned above. But sometimes, you want to pick things out easily. Over the years I&rsquo;ve gotten myself into also sorts of <code>my_df %&gt;% select(my_column) %&gt;% as.vector()</code> contortions when a simple <code>my_df$my_column</code> would have sufficed.</p>
 <p>Lately I&rsquo;ve been wanting to create plots inside of loops and then access those plots later, for the purposes of putting them into a slide deck. This is what drove me back to slots. You can obviously cram your generated plots into a list, but let&rsquo;s say you want the titles of your plots to be the titles of your slides. Well, the simple to pull out the titles is to use the <code>$</code> operator. <code>my_ggplot$labels$title</code> will let you grab the title of the plot to use somewhere else. A simple thing, but something I had completely forgotten!</p>
-
   </section>
 
   

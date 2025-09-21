@@ -5,6 +5,8 @@ tableOfContents: true
 tags: ["Music", "Album Digest", "March", "Eleven", "Ramadanman", "Nicolas Jaar", "Julianna Barwick", "Yeasayer", "Saint Etienne", "LCD Soundsystem", "Salva"]
 title: Album Digest, March 2011
 ---
+<!--more-->
+
 ## This is not an Album Digest March 2011
 
 Well as I said at the end of [last month’s album digest post](/album-digest-february-2011/), I took a bit of a break from pursuing new music quite as closely as I have been. As promised, I sidestepped the new R.E.M. and Elbow albums - although I had been promised the latter as a birthday present it is yet to show up, maybe I will look at in April.

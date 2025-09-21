@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-07-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -833,15 +836,6 @@
     <loc>http://localhost:1313/tags/quotes/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/green/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-3/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/red/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/housekeeping/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -854,9 +848,6 @@
     <loc>http://localhost:1313/posts/what-is-in-my-rakefile-march-2023-edition/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-2/</loc>
-    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/come-back-to-us-brother-matthew/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -865,12 +856,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/new-year/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-1/</loc>
-    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/live-music/</loc>
     <lastmod>2022-10-29T00:00:00+00:00</lastmod>

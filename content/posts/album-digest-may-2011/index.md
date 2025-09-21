@@ -2,7 +2,7 @@
 category: Music
 date: '2011-05-31'
 tableOfContents: true
-tags: ["Music", "Album Digest", "May", "Kate Bush", "Africa Hitech", "Fleet Foxes", "TV On The Radio", "Eleven"]
+tags: ["Music","Album Digest","May","Kate Bush","Africa Hitech","Fleet Foxes","TV On The Radio","Eleven"]
 title: Album Digest, May 2011
 ---
 Four albums this month:
@@ -12,11 +12,13 @@ Four albums this month:
 3. Fleet Foxes _Helplessness Blues_
 4. TV On The Radio _Nine Types of Light_
 
+<!--more-->
+
 There is a pleasing red hue to all the covers this month. I had time to write four full reviews of the major albums I listened to. Like last month I have included a video at the foot of each review. Enjoy!
 
 ## Kate Bush _Director’s Cut_
 
- _Director’s Cut_ is not a new album from Kate Bush but a collection of re-visits to old songs, four from [_The Sensual World_](http://en.wikipedia.org/wiki/The_Sensual_World) (1989) and seven from [_The Red Shoes_](http://en.wikipedia.org/wiki/The_Red_Shoes_(album) (1993). It is certainly an interesting idea to re-examine old songs with hindsight, something usually only done with live albums or dodgy remixes. It is rare to have an artist to even admit flaws in their earlier material, let alone for them to go back and attempt to fix them.
+ _Director’s Cut_ is not a new album from Kate Bush but a collection of re-visits to old songs, four from [_The Sensual World_](http://en.wikipedia.org/wiki/The_Sensual_World) (1989) and seven from [_The Red Shoes_](http://en.wikipedia.org/wiki/The_Red_Shoes_(album)) (1993). It is certainly an interesting idea to re-examine old songs with hindsight, something usually only done with live albums or dodgy remixes. It is rare to have an artist to even admit flaws in their earlier material, let alone for them to go back and attempt to fix them.
 
 The success of the project depends on how much you buy into whether the rehashing of old material is value for money and whether you believe that the songs need alteration in the first place. For me, I can buy into the first thing - I am always curious to hear multiple versions and re-interpretations. On the second issue I am more ambivalent because I happen to really like _The Red Shoes_ and yet have never felt that much of a connection to _The Sensual World_.
 
@@ -56,11 +58,8 @@ I feel embarrassed for two things about _Nine Types Of Light_, the new album by 
 
 I am starting to really like TV On The Radio. I first noticed them after seeing the amazing video to the single _Wolf Like Me_ and even though I found its parent album _Return To Cookie Mountain_ to be a bit angular for my tastes, I persevered with _Dear Science_, which was probably one of 2008’s best albums.
 
-It is funny how as I have got older I have begun to obsess over every aspect of a band less and less. Is this because I am not looking for influences for my identity, is it because I listen to so much more music now, is it because the information is easier to find on the internet? I am not sure. All I know is that I know next to nothing about this band even though I love their songs![^1]
+It is funny how as I have got older I have begun to obsess over every aspect of a band less and less. Is this because I am not looking for influences for my identity, is it because I listen to so much more music now, is it because the information is easier to find on the internet? I am not sure. All I know is that I know next to nothing about this band even though I love their songs!{{% sidenote "sn-1" %}}Why is it important to know stuff about bands anyway? Well, later on when you are old and lonely you can write about the albums you love on your own website.{{% /sidenote %}}
 
 Anyway, I think this is a great album (it’s been a very good month). While there is nothing as good as _Halfway Home_, _Golden Age_ and _Family Tree_ off _Dear Science_, it’s very solid collection once again. From that Scissor Sister chorus on _Second Song_ to the gorgeous crooning on _You_ to the clever and topical lyric of _Repetition_: “What’s the matter with your next door neighbour? / I heard he had sex, drugs and danger / but you can kick it with a complete stranger / I think I hear him calling”. Actually the good bit is the stuff about the bankers: “I can choose my victims and I can shed my skin / and if the world keeps turning I can do it again”.
 
-Overall, it’s a good solid album that I need to listen to a bit more. My main emotional connections at the moment are to _Second Song_, the aforementioned _Repetition_ and the wonderful post-apocalyptic dreamscape of _Forgotten_. I remember writing rather odd praise of PJ Harvey’s _Let England Shake_ [back in February](2011/02/album-digest-february-2011/) and not realising how utterly fantastic it was until I’d really got to know all the songs some time later. I think there’s a similar situation. In the mean time, _Nine Types Of Light_ has my heartfelt recommendation, as with the other albums I’ve talked about this month.
-
-
-[^1]: Why is it important to know stuff about bands anyway? Well, later on when you are old and lonely you can write about the albums you love on your own website.
+Overall, it’s a good solid album that I need to listen to a bit more. My main emotional connections at the moment are to _Second Song_, the aforementioned _Repetition_ and the wonderful post-apocalyptic dreamscape of _Forgotten_. I remember writing rather odd praise of PJ Harvey’s _Let England Shake_ [back in February](2011/02/album-digest-february-2011/) and not realising how utterly fantastic it was until I’d really got to know all the songs some time later. I think there’s a similar situation. In the mean time, _Nine Types Of Light_ has my heartfelt recommendation, along with the other albums I’ve written about this month.

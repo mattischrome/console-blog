@@ -2,12 +2,14 @@
 category: Music
 date: '2017-01-31'
 tableOfContents: true
-tags: ["Music", "Album Digest", "January", "Mike Oldfield", "Bonobo", "The xx", "Seventeen"]
+tags: ["Music","Album Digest","January","Mike Oldfield","Bonobo","The xx","Seventeen"]
 title: Album Digest, January 2017
 ---
+<!--more-->
+
 ## Mike Oldfield *Return to Ommadawn*
 
-With *Return to Ommadawn*, Mike Oldfield revisits his third album Ommadawn. He has past form for this, having revisited his masterwork Tubular Bells twice (the third revisit and fourth instalment Tubular Bells 4 is due next year). I wrote about Tubular Bells II for my understated classics series. Of course Mike has in fact made many more than three Tubular Bells albums[^1], and this is not a first "return" to Ommadawn. His 1990 album Amorok was a similar affair.
+With *Return to Ommadawn*, Mike Oldfield revisits his third album Ommadawn. He has past form for this, having revisited his masterwork Tubular Bells twice (the third revisit and fourth instalment Tubular Bells 4 is due next year). I wrote about Tubular Bells II for my understated classics series. Of course Mike has in fact made many more than three Tubular Bells albums{{% sidenote "sn-1" %}}Personally, I like to forget that oddities like Orchestral Tubular Bells, The Millennium Bell, and Tubular Bells 2003 ever existed.{{% /sidenote %}}, and this is not a first "return" to Ommadawn. His 1990 album Amorok was a similar affair.
 
 It's important to mention Amorok as it makes for an interesting comparison to this new album. While recording Amorok Mike was disenchanted with making music or at least the political side of it. At that time, Virgin Records didn't even bother to promote his records. It’s telling that one of the bigger rarities of the Oldfield canon is a promo cassette containing three extracts from Amorok that was sent to readers of the WHSmith magazine. 
 
@@ -19,11 +21,11 @@ Until composing Ommadawn, Oldfield had been writing under pressure since demoing
 
 The rest of Ommadawn works when it doesn't try too hard. It revels in its oddness, something that Oldfield learned to do as the monster success of his debut began to grate with previously supportive critics. Oldfield's contributions are virtuoso throughout, though long passages find him hiding behind his collaborators. These sections are uneven and the whole piece ends up tripped over into silliness by the last four minutes of Part Two. Some track listings represent this section as a single track called "On Horseback". It’s a song about a man who'd rather be on horseback. Unfortunately it also features a children's choir and makes Clive Dunn's much-maligned Grandad sound like black metal. 
 
-Return to Ommadawn differs from Tubular Bells II. It’s not a “shot for shot remake” and the technology is placed firmly behind the speakers rather than through them. The liner notes say little, save to point out that no synthesisers appear on the record[^2]. What we get as listeners is a thorough exploration of all Ommadawn’s themes filtered through a lifetime of experience. It took a while to convince me but after a few listens it is in fact rather marvellous.
+Return to Ommadawn differs from Tubular Bells II. It’s not a “shot for shot remake” and the technology is placed firmly behind the speakers rather than through them. The liner notes say little, save to point out that no synthesisers appear on the record.{{% sidenote "sn-2" %}}However, “vocal samples” are used. If you listen carefully, this even includes the “Happy?!” sample from Amorok. There is no explanation of which gadgets or software helped make this possible.{{% /sidenote %}} What we get as listeners is a thorough exploration of all Ommadawn’s themes filtered through a lifetime of experience. It took a while to convince me but after a few listens it is in fact rather marvellous.
 
 Perhaps the most important feature is just how sensitive it is. There are phrases and sections that make me shiver. Other parts will make you think of rain drops tracking their way down window panes. Others are strong and bold and confident, all shiny with winter sunshine. It’s a beautiful melancholic experience with a radiant happy ending. “On Horseback” gets transformed into sampled pulp (see earlier footnote) and apparently the only original vocal contribution to the album is for Mike to say “On Horseback? I’d rather be here!”. Of course mate, you live in the Bahamas now.
 
-This is probably Mike’s best album since Tubular Bells III. It has that album’s sense of exploration, the sensitivity of “The Songs of Distant Earth”[^3] and a self-restraint lacking from the likes of “Voyager” and “Amorok”. It bodes well for Tubular Bells 4, but those reissues of “Islands” and “Earth Moving” (also coming this year?) will look a little jaded by comparison.
+This is probably Mike’s best album since Tubular Bells III. It has that album’s sense of exploration, the sensitivity of “The Songs of Distant Earth”{{% sidenote "sn-3" %}}The album that I *should* have written about for Understated Classics!{{% /sidenote %}} and a self-restraint lacking from the likes of “Voyager” and “Amorok”. It bodes well for Tubular Bells 4, but those reissues of “Islands” and “Earth Moving” (also coming this year?) will look a little jaded by comparison.
 
 
 ## Bonobo *Migration*
@@ -36,7 +38,7 @@ While the title track might form a sonic comfort blanket and [Rhye’s](http://w
 
 “Grains” features some interesting voice manipulations but Holly Herndon and Kaitlynn Aurelia Smith cover this ground more convincingly for me. “Second Sun” is a gorgeous chill out track, the strings in particular are very enjoyable as they cut in over the synths. Nicole Miglis of [Hundred Waters](http://hundred-waters.com) appears on “Surface”, a track that is more polished than the work of her band but one that lacks their appeal.
 
-“Bambro Koyo Ganda” seems more in keeping with the album’s title and premise, a collaboration with Moroccan band [Innov Gnawa](http://www.clevelandart.org/events/music-and-performances/innov-gnawa). It’s loose and funky and best of all it isn’t lulling you to sleep. There should have been about five tracks featuring these guys, I will have to check out more of their stuff[^4]. “Kerala” is also upbeat, though also not a million miles from “Jets” on “The North Borders”. “Ontario” is great though, mixing up lots of live instrumentation samples into a compelling whole like a less woozy Lilacs & Champagne.
+“Bambro Koyo Ganda” seems more in keeping with the album’s title and premise, a collaboration with Moroccan band [Innov Gnawa](http://www.clevelandart.org/events/music-and-performances/innov-gnawa). It’s loose and funky and best of all it isn’t lulling you to sleep. There should have been about five tracks featuring these guys, I will have to check out more of their stuff.{{% sidenote "sn-4" %}}There’s an eponymous EP on Spotify from 2016 that I’ll try to cover in a future digest.{{% /sidenote %}} “Kerala” is also upbeat, though also not a million miles from “Jets” on “The North Borders”. “Ontario” is great though, mixing up lots of live instrumentation samples into a compelling whole like a less woozy Lilacs & Champagne.
 
 I don’t like the vocal on “No Reason”, it sounds too much like the anonymous stadium dance of Avicii and his ilk. That said, there are some nice moody moments in the mix: I think I’d like to hear an instrumental version. “7th Sevens” slowly retreads through “Outlier” but with less menace and more soundtrack samples. “Figures” closes out the album with slow strings and more “Grains”-style vocal manipulations, it’s pretty but it’s not going to save your life.
 
@@ -52,13 +54,3 @@ The most interesting thing about “I See You” is that it continues to play to
 At some points, I thought that it might be too aching, too self-aware, too self-contained. There’s certainly a lot of repetition in the track list, even if the songs themselves manage to cast light on similar things from different angles. Essentially “Say Something Loving”, “Performance” and “Brave For You” are all about the same thing: taking the strain in a relationship that’s in difficulty. They deserve some slack because that’s  pretty universal subject matter for pop songs and it’s certainly interesting to listen to how the production tricks combine to create very different-sounding songs from essentially the same lyrical ideas.
 
 At the end of the day, I enjoyed this album more than their other two but I still get the feeling while listening to it that it’s all too arch. I still can’t quite care about their songs enough to rave about them (except for “Say Something Loving”, which is great). However, I like the fact that the workings are shown and that, once again, The xx promise great things for the future.
-
-***
-
-[^1]:	Personally, I like to forget that oddities like Orchestral Tubular Bells, The Millennium Bell, and Tubular Bells 2003 ever existed. 
-
-[^2]:	However, “vocal samples” are used. If you listen carefully, this even includes the “Happy?!” sample from Amorok. There is no explanation of which gadgets or software helped make this possible.
-
-[^3]:	The album that I *should* have written about for Understated Classics!
-
-[^4]:	There’s an eponymous EP on Spotify from 2016 that I’ll try to cover in a future digest.

@@ -1,12 +1,12 @@
 ---
 category: Music
 date: '2023-06-03'
-
 tags: ["Music", "Album Revisit", "Randomness", "Life Experiences", "Twenty Three"]
 title: How random should things be?
 ---
 I've managed to extract my music library, including all the albums I've added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for [Goldfrapp's Black Cherry.](/goldfrapp-black-cherry)
 
+<!--more-->
 But I have to level with you. That was not the first album that was picked. Nor is the album selection process entirely unbiased. I got to a working situation and stopped there. Essentially, I smoosh together artist and album title, so that albums like compilations, or albums where the lead artist collaborates with multiple other artists, are slightly over-represented. I say slightly as the pool was already pretty large with just unique albums. I might do what I did yesterday and ignore singles or compilations, especially as the code takes almost zero time to give me another idea.
 
 I've experimented with this sort of idea before. I have a big list of about thirty or so 'things to write about'. (It's actually thirty one, because I once was such an optimist that I thought I could write something every day about something totally different.) Selecting from that list at random does bring up repetitions pretty often, it's a fair while before you get through all of your list. Some simulations are probably in order, I'll do that when I get some time. 

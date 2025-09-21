@@ -1,12 +1,12 @@
 ---
 category: Films
 date: '2014-08-15'
-
 tags: ["Films", "Science Fiction", "Fourteen", "Lists"]
 title: 'Guardians of the Galaxy: A Short Review'
 ---
 *Finally* saw Guardians of the Galaxy today. Here are fifteen observations about the film that may or may not constitute a short review.
 
+<!--more-->
 1. At least two Oscars for [Best Use Of Body Paint (Green)](http://media.comicbook.com/uploads1/2014/07/guardians-of-the-galaxy-gamora-101682-101718.jpg) and [Best Use Of Body Paint (Blue)](http://images.radiotimes.com/namedimage/Karen_Gillan_takes_on_Zoe_Saldana_in_extended_Guardians_of_the_Galaxy_trailer.jpg?quality=85&mode=crop&width=620&height=374&404=tv&url=/uploads/images/original/53103.jpg) are sewn up.
 2. Chris Pratt basically plays Star Lord as “[Andy Dwyer](http://parksandrecreation.wikia.com/wiki/Andy_Dwyer) in space” and this is fine by me.
 3. Best movie to feature [a talking raccoon](http://www.etonline.com/movies/148845_bradley_cooper_explains_his_voice_guardians_of_the_galaxy/) in a long time.

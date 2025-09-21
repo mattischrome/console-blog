@@ -1,12 +1,12 @@
 ---
 category: Books
 date: '2013-03-18'
-
 tags: ["Books", "Iain M. Banks", "Science Fiction", "Thirteen"]
 title: Iain M. Banks, Consider Phlebas
 ---
 A while back, I decided I was going to write about the Iain M. Banks sci-fi-novels (mainly as a respite from having to read and write about [J. G. Ballard novels](j-g-ballard), but I only got as fas as writing about the excellent “Against A Dark Barkground” and re-reading the first of the Culture novels “Consider Phlebas”. WARNING: Some plot spoilers follow (but not too many).
 
+<!--more-->
 I’m not sure why it has taken almost two years to write about this novel. Perhaps it is because I couldn’t find myself a proper explanation for the title. The following is my own theory, feel free to add your own in the comments. The book takes its name from the epigraph, an extract from T.S. Elliot’s [“The Waste Land”](http://www.bartleby.com/201/1.html) (which is also on my “to read” list):
 
 > Gentile or Jew. 
