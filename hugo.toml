@@ -7,6 +7,10 @@ theme = 'doorman'
   math = false
   recent_posts = true
   recent_posts_count = 6
+  show_post_footer = true
+  fleuron_image = '/images/divider.svg'
+  rss = true
+  source_url = 'https://github.com/mattischrome/console-blog'
   [params.posts]
     paginate = 12
 

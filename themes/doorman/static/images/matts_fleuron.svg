@@ -1,0 +1,73 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Central rosette -->
+  <g transform="translate(150,100)">
+    <!-- Outer petals -->
+    <g stroke="#2c3e50" stroke-width="1.5" fill="#34495e">
+      <path d="M 0,-40 Q -15,-25 -28,-28 Q -15,-15 0,-20 Q 15,-15 28,-28 Q 15,-25 0,-40 Z" transform="rotate(0)"/>
+      <path d="M 0,-40 Q -15,-25 -28,-28 Q -15,-15 0,-20 Q 15,-15 28,-28 Q 15,-25 0,-40 Z" transform="rotate(45)"/>
+      <path d="M 0,-40 Q -15,-25 -28,-28 Q -15,-15 0,-20 Q 15,-15 28,-28 Q 15,-25 0,-40 Z" transform="rotate(90)"/>
+      <path d="M 0,-40 Q -15,-25 -28,-28 Q -15,-15 0,-20 Q 15,-15 28,-28 Q 15,-25 0,-40 Z" transform="rotate(135)"/>
+      <path d="M 0,-40 Q -15,-25 -28,-28 Q -15,-15 0,-20 Q 15,-15 28,-28 Q 15,-25 0,-40 Z" transform="rotate(180)"/>
+      <path d="M 0,-40 Q -15,-25 -28,-28 Q -15,-15 0,-20 Q 15,-15 28,-28 Q 15,-25 0,-40 Z" transform="rotate(225)"/>
+      <path d="M 0,-40 Q -15,-25 -28,-28 Q -15,-15 0,-20 Q 15,-15 28,-28 Q 15,-25 0,-40 Z" transform="rotate(270)"/>
+      <path d="M 0,-40 Q -15,-25 -28,-28 Q -15,-15 0,-20 Q 15,-15 28,-28 Q 15,-25 0,-40 Z" transform="rotate(315)"/>
+    </g>
+    
+    <!-- Inner petals -->
+    <g stroke="#2c3e50" stroke-width="1" fill="#7f8c8d">
+      <path d="M 0,-25 Q -8,-15 -18,-18 Q -8,-8 0,-12 Q 8,-8 18,-18 Q 8,-15 0,-25 Z" transform="rotate(22.5)"/>
+      <path d="M 0,-25 Q -8,-15 -18,-18 Q -8,-8 0,-12 Q 8,-8 18,-18 Q 8,-15 0,-25 Z" transform="rotate(67.5)"/>
+      <path d="M 0,-25 Q -8,-15 -18,-18 Q -8,-8 0,-12 Q 8,-8 18,-18 Q 8,-15 0,-25 Z" transform="rotate(112.5)"/>
+      <path d="M 0,-25 Q -8,-15 -18,-18 Q -8,-8 0,-12 Q 8,-8 18,-18 Q 8,-15 0,-25 Z" transform="rotate(157.5)"/>
+      <path d="M 0,-25 Q -8,-15 -18,-18 Q -8,-8 0,-12 Q 8,-8 18,-18 Q 8,-15 0,-25 Z" transform="rotate(202.5)"/>
+      <path d="M 0,-25 Q -8,-15 -18,-18 Q -8,-8 0,-12 Q 8,-8 18,-18 Q 8,-15 0,-25 Z" transform="rotate(247.5)"/>
+      <path d="M 0,-25 Q -8,-15 -18,-18 Q -8,-8 0,-12 Q 8,-8 18,-18 Q 8,-15 0,-25 Z" transform="rotate(292.5)"/>
+      <path d="M 0,-25 Q -8,-15 -18,-18 Q -8,-8 0,-12 Q 8,-8 18,-18 Q 8,-15 0,-25 Z" transform="rotate(337.5)"/>
+    </g>
+    
+
+  </g>
+  
+  <!-- Corner ornaments with three petals -->
+  <g stroke="#2c3e50" stroke-width="1" fill="#95a5a6">
+    <!-- Top left -->
+    <g transform="translate(40,25)">
+      <path d="M 0,-12 Q -6,-6 -12,-8 Q -6,-3 0,-6 Q 6,-3 12,-8 Q 6,-6 0,-12 Z" transform="rotate(135)"/>
+      <path d="M 0,-12 Q -6,-6 -12,-8 Q -6,-3 0,-6 Q 6,-3 12,-8 Q 6,-6 0,-12 Z" transform="rotate(180)"/>
+      <path d="M 0,-12 Q -6,-6 -12,-8 Q -6,-3 0,-6 Q 6,-3 12,-8 Q 6,-6 0,-12 Z" transform="rotate(225)"/>
+    </g>
+    
+    <!-- Top right -->
+    <g transform="translate(260,25)">
+      <path d="M 0,-12 Q -6,-6 -12,-8 Q -6,-3 0,-6 Q 6,-3 12,-8 Q 6,-6 0,-12 Z" transform="rotate(135)"/>
+      <path d="M 0,-12 Q -6,-6 -12,-8 Q -6,-3 0,-6 Q 6,-3 12,-8 Q 6,-6 0,-12 Z" transform="rotate(180)"/>
+      <path d="M 0,-12 Q -6,-6 -12,-8 Q -6,-3 0,-6 Q 6,-3 12,-8 Q 6,-6 0,-12 Z" transform="rotate(225)"/>
+    </g>
+    
+    <!-- Bottom left -->
+    <g transform="translate(40,175)">
+      <path d="M 0,-12 Q -6,-6 -12,-8 Q -6,-3 0,-6 Q 6,-3 12,-8 Q 6,-6 0,-12 Z" transform="rotate(315)"/>
+      <path d="M 0,-12 Q -6,-6 -12,-8 Q -6,-3 0,-6 Q 6,-3 12,-8 Q 6,-6 0,-12 Z" transform="rotate(0)"/>
+      <path d="M 0,-12 Q -6,-6 -12,-8 Q -6,-3 0,-6 Q 6,-3 12,-8 Q 6,-6 0,-12 Z" transform="rotate(45)"/>
+    </g>
+    
+    <!-- Bottom right -->
+    <g transform="translate(260,175)">
+      <path d="M 0,-12 Q -6,-6 -12,-8 Q -6,-3 0,-6 Q 6,-3 12,-8 Q 6,-6 0,-12 Z" transform="rotate(315)"/>
+      <path d="M 0,-12 Q -6,-6 -12,-8 Q -6,-3 0,-6 Q 6,-3 12,-8 Q 6,-6 0,-12 Z" transform="rotate(0)"/>
+      <path d="M 0,-12 Q -6,-6 -12,-8 Q -6,-3 0,-6 Q 6,-3 12,-8 Q 6,-6 0,-12 Z" transform="rotate(45)"/>
+    </g>
+  </g>
+  
+  <!-- Decorative border elements -->
+  <g stroke="#7f8c8d" stroke-width="0.5" fill="none">
+    <!-- Top -->
+    <path d="M 90,15 Q 150,5 210,15"/>
+    <!-- Bottom -->
+    <path d="M 90,185 Q 150,195 210,185"/>
+    <!-- Left -->
+    <path d="M 15,60 Q 5,100 15,140"/>
+    <!-- Right -->
+    <path d="M 285,60 Q 295,100 285,140"/>
+  </g>
+</svg>

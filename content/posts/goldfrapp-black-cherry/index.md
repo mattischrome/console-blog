@@ -7,11 +7,9 @@ title: Goldfrapp - Black Cherry
 _This is the first in an unplanned series of **album revisits**, I will write a post explaining the process soon._
 
 <!--more-->
-["Black Cherry"](https://en.wikipedia.org/wiki/Black_Cherry_(Goldfrapp_album)) is the second album by Goldfrapp, released in 2003. I bought the lead single Train while I lived in York and also the single of the title track because by then I'd discovered M83 and they'd done a remix of it. 
+["Black Cherry"](https://en.wikipedia.org/wiki/Black_Cherry_(Goldfrapp_album)) {{< marginfigure src="../../assets/images/album-revisits/goldfrapp-black-cherry.jpg" alt="Cover of Black Cherry album by Goldfrapp" caption="Cover of _Black Cherry_ album by Goldfrapp" >}} is the second album by Goldfrapp, released in 2003. I bought the lead single Train while I lived in York and also the single of the title track because by then I'd discovered M83 and they'd done a remix of it. 
 
 "Black Cherry" finds the band faced with following their successful and chilled out debut album "Felt Mountain", which back in 2000 had sounded notably weird. But nobody wants to sound like a kook forever, sometimes people want to let their hair down and just dance. That's very much what the first two tracks anyway, especially the pulsating "Train". To my ears, I was definitely pleased when I first played the single - I love that relentless synth riff that sounds like it's being fed through about seventy FX pedals. I vaguely remember the single's B-side "Big Black Cloud, Little White Lie" and the Village Hall Remix being pretty ace too. Fortunately they're also on streaming, so I was able to check. I think I liked the B-side because it sounded very much like a "Felt Mountain" outtake - twenty years ago I likely appreciated the familiarity but today it serves a reminder that while "Felt Mountain 2" would have been nice, "Black Cherry" definitely benefitted from changing things up a bit. The Remix is mostly instrumental and adds even more Glitter beat stomp to Train, pleasant enough I guess. 
-
-![Cover of Black Cherry album by Goldfrapp](../../assets/images/album-revisits/goldfrapp-black-cherry.jpg)
 
 The title track is also quite like the songs on "Felt Mountain", a seductive croon that sounds like something you'd hear on an advert for luxury yoghurt (not a bad thing!) or a dark chocolate bar. It's a bit more solid and less string-dependent than "Big Black Cloud, Little White Lie". The M83 remix is gorgeous and probably my preferred version.
 ith

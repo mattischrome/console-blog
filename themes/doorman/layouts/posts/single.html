@@ -41,7 +41,7 @@
   <!-- Post footer with fleuron -->
   <div style="text-align:center;">
     {{ if .Site.Params.fleuron_image }}
-    <img class="fleuron-block" src="{{ .Site.Params.fleuron_image | relURL }}" style="max-width: 3cm" alt="End of post fleuron">
+    <img class="fleuron-block" src="{{ .Site.Params.fleuron_image | relURL }}" style="max-width: 10cm" alt="End of post fleuron">
     {{ end }}
     {{ if .Site.Params.contact_email }}
     Have a comment? Write me an <a href="{{ .Site.Params.about_url | default "/about" | relURL }}">email!</a>

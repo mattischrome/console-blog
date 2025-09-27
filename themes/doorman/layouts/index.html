@@ -12,7 +12,8 @@
 <section>
   {{ range first (.Site.Params.recent_posts_count | default 5) (where .Site.RegularPages "Type" "posts") }}
   <article style="margin-bottom: 2rem;">
-    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <h3 style="font-size: 1.2em;">{{ .Title }}</h3>
+    <!--<h3 style="font-size: 1.2em;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>-->
     <p class="header">
       {{ if .Date }}
       Posted on {{ .Date.Format "2006-01-02" }}
