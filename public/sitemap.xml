@@ -563,12 +563,6 @@
     <loc>http://localhost:1313/tags/yard-act/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photos/country-sunshine/</loc>
-    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/photos/</loc>
-    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/orphans/</loc>
     <lastmod>2024-10-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -577,9 +571,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/the-orphan-project/</loc>
     <lastmod>2024-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/photos/plant-3/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bob-mortimer/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
@@ -595,33 +586,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/new-look-mattischrome/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/photos/spider-webs/</loc>
-    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/photos/bosham/</loc>
-    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/photos/sun-cats/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/photos/stonehenge-1/</loc>
-    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/photos/stonehenge-2/</loc>
-    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/photos/stonehenge-3/</loc>
-    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/photos/paris-1/</loc>
-    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/photos/paris-2/</loc>
-    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/photos/paris-0/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/projects/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>

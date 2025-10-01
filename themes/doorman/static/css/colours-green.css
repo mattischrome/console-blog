@@ -1,0 +1,73 @@
+:root {
+    --fg: #000000;
+    --bg: #fcfcfc;
+    --table-head: #f2f2f2;
+    --fg-menu: #1b5d35;
+    --fg-menu-hover: #0d4322;
+    --fg-menu-heading: #072e17;
+    --fg-menu-divider: #6f9b80;
+    --fg-menu-border: #eceaec;
+    --bg-menu-foc: #9bb1a4;
+    --bg-menu-children: #fbf9fb;
+    --fg-sec-link: grey;
+    --fg-link: #1a6b3a;
+    --fg-link-hover: #999;
+    --fg-footer-pipe: #555;
+    --fg-footer-divider: #5b9572;
+    --border-inline-code: #c8c8c8;
+    --bg-inline-code: #f7f7f7;
+    --fg-variable: #b4b4b4;
+    --fg-string: #4d4d4d;
+    --fg-output: #2f2f2f;
+    --fg-nametag: #5d5d5d;
+    --fg-nameclass: #919191;
+    --fg-literal: #5b5b5b;
+    --fg-keyword: #686868;
+    --fg-exception: black;
+    --fg-comment: #919191;
+    --fg-comment2: #818181;
+    --bg-code-accent: #b4c0b9;
+    --fg-diff-added: #005000;
+    --fg-diff-deleted: #8f1313;
+    --fg-bqn-sub: #005e8b;
+    --fg-bqn-1-mod: #1a4a2d;
+    --fg-bqn-2-mod: #144336;
+    --fg-bqn-string: #3548cf;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --fg: #eaf2ef;
+        --bg: #332c31;
+        --table-head: #2d272b;
+        --fg-menu: #64c189;
+        --fg-menu-heading: #86c79f;
+        --fg-menu-divider: #143b24;
+        --fg-menu-border: #594a4f;
+        --bg-menu-foc: #152d1f;
+        --bg-menu-children: #3f373c;
+        --fg-link: #42c877;
+        --fg-link-hover: #bbb;
+        --fg-footer-pipe: #999;
+        --fg-footer-divider: #3db26b;
+        --border-inline-code: #585858;
+        --bg-inline-code: #443b41;
+        --fg-string: #afafaf;
+        --fg-output: #c1c1c1;
+        --fg-nametag: #dcdcdc;
+        --fg-nameclass: #a9a9a9;
+        --fg-literal: #b0b0b0;
+        --fg-keyword: #b6b6b6;
+        --fg-exception: white;
+        --fg-comment: #9e9e9e;
+        --fg-comment2: #a4a4a4;
+        --bg-code-accent: #1e3226;
+        --fg-diff-added: #a0e0a0;
+        --fg-diff-deleted: #ffbfbf;
+        --fg-bqn-sub: #00d3d0;
+        --fg-bqn-1-mod: #48b473;
+        --fg-bqn-2-mod: #53c4a5;
+        --fg-bqn-string: #79a8ff;
+        --fg-variable: #e1e1e1;
+    }
+}

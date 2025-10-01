@@ -401,25 +401,11 @@
       <description>&lt;p&gt;Yard Act are a post-punk band from Leeds. &amp;ldquo;Where&amp;rsquo;s My Utopia?&amp;rdquo; is their second album. I first encountered Yard Act in a review of this album, which sent me to look at the excellent video to their non-album single &amp;ldquo;The Trenchcoat Museum&amp;rdquo;. I enjoyed the metatextual references both in the video and the song, so I eagerly added &amp;ldquo;Where&amp;rsquo;s My Utopia?&amp;rdquo; to my library.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Country Sunshine, November 2024</title>
-      <link>http://localhost:1313/photos/country-sunshine/</link>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/country-sunshine/</guid>
-      <description>&lt;p&gt;I know what you&amp;rsquo;re thinking. That this doesn&amp;rsquo;t look like much of a country photo at all. All I would do is urge you to look a little closer&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>The Orphan Project</title>
       <link>http://localhost:1313/posts/the-orphan-project/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/the-orphan-project/</guid>
       <description>&lt;p&gt;A nice feature I added to this blog in its recent update was a &lt;a href=&#34;https://mattischrome.com/tags/&#34;&gt;tags page&lt;/a&gt;. With the help of this &lt;a href=&#34;https://discourse.gohugo.io/t/how-to-get-a-tags-page/24213/4&#34;&gt;very useful discourse thread&lt;/a&gt; and some additional CSS tweaks, the resulting page is something that I am very happy with. It lists all of the tags that apply to any post, along with the number of posts with that tag, in alphabetical order. It&amp;rsquo;s mostly intended as a guide for you the reader, to help you see whether your preoccupations match my own.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A new plant for the office</title>
-      <link>http://localhost:1313/photos/plant-3/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/plant-3/</guid>
-      <description>&lt;p&gt;Ingrid bought me a new plant for my office. Beautiful flowers and cat friendly!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bob Mortimer, The Satsuma Complex</title>
@@ -434,69 +420,6 @@
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/new-look-mattischrome/</guid>
       <description>&lt;p&gt;Welcome to the new look for my blog. I&amp;rsquo;ve had my eye on a more minimal look for a while now. Whether this new look is successful or not depends on how often I write new posts. To that end, this theme also supports a separate (or almost separate) stream of photos. Once I&amp;rsquo;ve got back in to the habit of putting photos up, that should be a nice additional stream of content.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spider webs in the garden</title>
-      <link>http://localhost:1313/photos/spider-webs/</link>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/spider-webs/</guid>
-      <description>&lt;p&gt;Ingrid bravely took this photo of our Christmas tree which is summering out in the garden and is currently decorated with spiders&amp;rsquo; webs.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bosham, July 2024</title>
-      <link>http://localhost:1313/photos/bosham/</link>
-      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/bosham/</guid>
-      <description>&lt;p&gt;A nice shot of Bosham across the low tide while on a sunny walk with Ingrid&amp;rsquo;s cousin and family.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cats lounging in the sun, July 2024</title>
-      <link>http://localhost:1313/photos/sun-cats/</link>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/sun-cats/</guid>
-      <description>&lt;p&gt;Our cats lounging in the warm spots one sunny morning.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stonehenge, June 2024</title>
-      <link>http://localhost:1313/photos/stonehenge-1/</link>
-      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/stonehenge-1/</guid>
-      <description>&lt;p&gt;What a beautiful day it was to be back at Stonehenge!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stonehenge, June 2024</title>
-      <link>http://localhost:1313/photos/stonehenge-2/</link>
-      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/stonehenge-2/</guid>
-      <description>&lt;p&gt;The ancient stones framed by cirrus clouds and beautiful blue skies.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stonehenge, June 2024</title>
-      <link>http://localhost:1313/photos/stonehenge-3/</link>
-      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/stonehenge-3/</guid>
-      <description>&lt;p&gt;View from the car on the way back home.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Paris, January 2024</title>
-      <link>http://localhost:1313/photos/paris-1/</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/paris-1/</guid>
-      <description>&lt;p&gt;Sat in the Jardins du Tulleries in Paris with a cup of coffee, feeling philosophical in the winter sunshine.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Paris, January 2024</title>
-      <link>http://localhost:1313/photos/paris-2/</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/paris-2/</guid>
-      <description>&lt;p&gt;The Eiffel Tower, but of course!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Paris, January 2024</title>
-      <link>http://localhost:1313/photos/paris-0/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/paris-0/</guid>
-      <description>&lt;p&gt;The highlight of our trip was a visit to the Rodin Museum. This is the &lt;em&gt;Burghers of Calais&lt;/em&gt;, a masterpiece that I&amp;rsquo;d not really paid much attention to before.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sofa So Good</title>
