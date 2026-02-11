@@ -14,7 +14,7 @@ Side two has another pop song "Ma Tau Wai Road" featuring vocals by his sister S
 
 The album closes out with "Cosmic Rendez-vous" a recording of in Dutch over a soft piano track. It's a bit of a change of pace from the previous tracks but it's a beautiful piece to close on. 
 
-I love this album. It's sad and happy in equal parts. It has some reflective pop songs but also some dancey bangers. Like [Sofia Kourtesis's "Madres" last year]() it reflects on the global village we live in, while providing us with a new and exciting contribution to its cultural life.
+I love this album. It's sad and happy in equal parts. It has some reflective pop songs but also some dancey bangers. Like [Sofia Kourtesis's "Madres" last year](/posts/2023-albums-01-sofia-kourtesis-madres) it reflects on the global village we live in, while providing us with a new and exciting contribution to its cultural life.
 
 ## Other options
 
