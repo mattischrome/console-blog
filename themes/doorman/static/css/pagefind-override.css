@@ -1,0 +1,11 @@
+:root {
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-primary: #1a6b3a;
+  --pagefind-ui-text: #eaf2ef;
+  --pagefind-ui-background: #332c31;
+  --pagefind-ui-border: #3db26b
+  --pagefind-ui-tag: #48b473;
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 0px;  /* 0px suits a terminal aesthetic */
+  --pagefind-ui-font: "Alegreya", serif;
+}
