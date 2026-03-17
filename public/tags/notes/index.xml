@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on mattischrome</title>
-    <link>http://localhost:1313/tags/notes/</link>
+    <link>https://mattischrome.com/tags/notes/</link>
     <description>Recent content in Notes on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal Development Environment</title>
-      <link>http://localhost:1313/posts/personal-development-environment/</link>
+      <link>https://mattischrome.com/posts/personal-development-environment/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/personal-development-environment/</guid>
+      <guid>https://mattischrome.com/posts/personal-development-environment/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been trying to settle on a text editor, IDE, and terminal for a long time now. Partly I&amp;rsquo;m limited by what I can use at work because I owe to myself and my colleagues to be able to reproduce all my skills in a work setting. However, part of me has also wandered off a bit after reading about the idea of a &amp;ldquo;personal Development Environment&amp;rdquo; (or PDE I guess, though in a former life that &lt;a href=&#34;https://en.wikipedia.org/wiki/Partial_differential_equation&#34;&gt;meant something very different&lt;/a&gt;), which is essentially an application where you can do anything and have it configured exactly how you like. Here&amp;rsquo;s an update on my progress on that front:&lt;/p&gt;</description>
     </item>
     <item>
       <title>More Uses For Little Notebooks</title>
-      <link>http://localhost:1313/posts/more-uses-for-little-notebooks/</link>
+      <link>https://mattischrome.com/posts/more-uses-for-little-notebooks/</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/more-uses-for-little-notebooks/</guid>
+      <guid>https://mattischrome.com/posts/more-uses-for-little-notebooks/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m an avid collector of small notebooks. So much so that I have a box full of them in my office. I&amp;rsquo;m not afraid of writing in them, it&amp;rsquo;s just that I&amp;rsquo;ve bought so many over the years I can&amp;rsquo;t get through them quick enough.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some Tips For Saving Time</title>
-      <link>http://localhost:1313/posts/some-tips-for-saving-time/</link>
+      <link>https://mattischrome.com/posts/some-tips-for-saving-time/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/some-tips-for-saving-time/</guid>
+      <guid>https://mattischrome.com/posts/some-tips-for-saving-time/</guid>
       <description>&lt;p&gt;A non-exhaustive list of ideas for saving time:&lt;/p&gt;</description>
     </item>
   </channel>

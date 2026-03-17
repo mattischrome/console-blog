@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Beltran on mattischrome</title>
-    <link>http://localhost:1313/tags/john-beltran/</link>
+    <link>https://mattischrome.com/tags/john-beltran/</link>
     <description>Recent content in John Beltran on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 30 Sep 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/john-beltran/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/john-beltran/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, September 2011</title>
-      <link>http://localhost:1313/posts/album-digest-september-2011/</link>
+      <link>https://mattischrome.com/posts/album-digest-september-2011/</link>
       <pubDate>Fri, 30 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-september-2011/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-september-2011/</guid>
       <description>&lt;p&gt;Hmmm, a rather grey looking selection of covers this month. The albums I have listened to most are:&lt;/p&gt;</description>
     </item>
   </channel>

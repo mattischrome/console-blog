@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karl Hyde on mattischrome</title>
-    <link>http://localhost:1313/tags/karl-hyde/</link>
+    <link>https://mattischrome.com/tags/karl-hyde/</link>
     <description>Recent content in Karl Hyde on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 31 Aug 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/karl-hyde/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/karl-hyde/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, August 2014</title>
-      <link>http://localhost:1313/posts/album-digest-august-2014/</link>
+      <link>https://mattischrome.com/posts/album-digest-august-2014/</link>
       <pubDate>Sun, 31 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-august-2014/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-august-2014/</guid>
       <description>&lt;p&gt;The album digest returns with five albums by four artists.&lt;/p&gt;</description>
     </item>
   </channel>

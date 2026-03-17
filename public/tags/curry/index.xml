@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curry on mattischrome</title>
-    <link>http://localhost:1313/tags/curry/</link>
+    <link>https://mattischrome.com/tags/curry/</link>
     <description>Recent content in Curry on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/curry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/curry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thai Green Curry</title>
-      <link>http://localhost:1313/posts/thai-green-curry/</link>
+      <link>https://mattischrome.com/posts/thai-green-curry/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/thai-green-curry/</guid>
+      <guid>https://mattischrome.com/posts/thai-green-curry/</guid>
       <description>&lt;p&gt;Thai Green Curry is one of our favourites. Often when we are travelling we will find a Thai restaurant and order it. It&amp;rsquo;s a nice way to see how a familiar dish is rendered in your new surroundings. More importantly, it&amp;rsquo;s a dish that&amp;rsquo;s reliably gluten and tomato free.&lt;/p&gt;</description>
     </item>
   </channel>

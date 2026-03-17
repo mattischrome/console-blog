@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terrence Rattigan on mattischrome</title>
-    <link>http://localhost:1313/tags/terrence-rattigan/</link>
+    <link>https://mattischrome.com/tags/terrence-rattigan/</link>
     <description>Recent content in Terrence Rattigan on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/terrence-rattigan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/terrence-rattigan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Summer 1954</title>
-      <link>http://localhost:1313/posts/summer-1954/</link>
+      <link>https://mattischrome.com/posts/summer-1954/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/summer-1954/</guid>
+      <guid>https://mattischrome.com/posts/summer-1954/</guid>
       <description>&lt;p&gt;Summer 1954 is a pair of one-act plays by Sir Terrence Rattigan that are currently being performed together at the Chichester Festival Theatre. I really enjoyed both plays.&lt;/p&gt;</description>
     </item>
   </channel>

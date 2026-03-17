@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Happy New Year on mattischrome</title>
-    <link>http://localhost:1313/tags/happy-new-year/</link>
+    <link>https://mattischrome.com/tags/happy-new-year/</link>
     <description>Recent content in Happy New Year on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/happy-new-year/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/happy-new-year/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Year Twenty Six</title>
-      <link>http://localhost:1313/posts/new-year-twenty-six/</link>
+      <link>https://mattischrome.com/posts/new-year-twenty-six/</link>
       <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/new-year-twenty-six/</guid>
+      <guid>https://mattischrome.com/posts/new-year-twenty-six/</guid>
       <description>&lt;p&gt;This is a quick blog post to say Happy New Year. I&amp;rsquo;ve got lots of things to write about, including my favourite albums of last year and a whole month in Australia. Obviously you don&amp;rsquo;t spend a whole month in Australia and blog about it while you&amp;rsquo;re there because someone will come and rob your house.&lt;/p&gt;&#xA;&lt;p&gt;So anyway, there&amp;rsquo;s a whole load of posts I need to write about: some books, all sorts of things really. Looking forward to doing that.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spain, New Year 2017/18</title>
-      <link>http://localhost:1313/posts/spain-new-year-201718/</link>
+      <link>https://mattischrome.com/posts/spain-new-year-201718/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spain-new-year-201718/</guid>
+      <guid>https://mattischrome.com/posts/spain-new-year-201718/</guid>
       <description>&lt;p&gt;For new year Ingrid and I met up with Ingrid&amp;rsquo;s friend Ros at Barcelona airport. We went from there to Cadaqués on the Costa Brava. A winding drive over steep hills leads you down to a cute bay with the typical white houses and terracotta roofs. All the window frames were painted just the right shade of blue.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Happy New Year 2015!</title>
-      <link>http://localhost:1313/posts/happy-new-year-for-2015/</link>
+      <link>https://mattischrome.com/posts/happy-new-year-for-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/happy-new-year-for-2015/</guid>
+      <guid>https://mattischrome.com/posts/happy-new-year-for-2015/</guid>
       <description>&lt;p&gt;Just a brief message to wish everyone a happy new year. Getting my flat connected to the internet continues to be a trial so it&amp;rsquo;s still not as easy to post as I would like. However, I have some workarounds now and I hope to write (and post) more often from now on.&lt;/p&gt;</description>
     </item>
   </channel>

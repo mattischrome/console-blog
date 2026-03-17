@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drafts on mattischrome</title>
-    <link>http://localhost:1313/tags/drafts/</link>
+    <link>https://mattischrome.com/tags/drafts/</link>
     <description>Recent content in Drafts on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/drafts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/drafts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fun With Chat-GPT</title>
-      <link>http://localhost:1313/posts/fun-with-chatgpt/</link>
+      <link>https://mattischrome.com/posts/fun-with-chatgpt/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fun-with-chatgpt/</guid>
+      <guid>https://mattischrome.com/posts/fun-with-chatgpt/</guid>
       <description>&lt;p&gt;I asked:&lt;/p&gt;</description>
     </item>
   </channel>

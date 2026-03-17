@@ -17,6 +17,11 @@ title = 'My New Hugo Site'
     name = 'Tags'
     pageRef = '/tags'
     weight = 30
+  
+  [[menus.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 40
 
 [module]
   [module.hugoVersion]

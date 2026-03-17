@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Streak on mattischrome</title>
-    <link>http://localhost:1313/tags/streak/</link>
+    <link>https://mattischrome.com/tags/streak/</link>
     <description>Recent content in Streak on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/streak/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/streak/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Into February</title>
-      <link>http://localhost:1313/posts/into-february/</link>
+      <link>https://mattischrome.com/posts/into-february/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/into-february/</guid>
+      <guid>https://mattischrome.com/posts/into-february/</guid>
       <description>&lt;p&gt;Having made it to one post per day in January, we now move into February: that graveyard of good habits for the new year. What is it about flipping over the calendar to a new month that does away with our resolve to continue with our resolutions? My office calendar has a lovely picture of a German steam train in the snow, in case you were wondering.&lt;/p&gt;</description>
     </item>
   </channel>

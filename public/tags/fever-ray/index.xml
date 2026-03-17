@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fever Ray on mattischrome</title>
-    <link>http://localhost:1313/tags/fever-ray/</link>
+    <link>https://mattischrome.com/tags/fever-ray/</link>
     <description>Recent content in Fever Ray on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/fever-ray/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/fever-ray/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 Albums of the Year #9: Fever Ray, Radical Romantics</title>
-      <link>http://localhost:1313/posts/2023-albums-09-fever-ray-radical-romantics/</link>
+      <link>https://mattischrome.com/posts/2023-albums-09-fever-ray-radical-romantics/</link>
       <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-albums-09-fever-ray-radical-romantics/</guid>
+      <guid>https://mattischrome.com/posts/2023-albums-09-fever-ray-radical-romantics/</guid>
       <description>&lt;p&gt;Radical Romantics, the third album by Fever Ray was released in April. I bought a copy on red vinyl which is a beautiful sight to behold.&lt;span class=&#34;marginfigure&#34;&gt;&#xA;    &lt;img src=&#34;../../assets/images/albums-2023/fever-ray-radical-romantics.jpeg&#34; alt=&#34;Cover of Radical Romantics by Fever Ray&#34; /&gt;&#xA;    &#xA;    &lt;span class=&#34;caption&#34;&gt;Cover of &lt;em&gt;Radical Romantics&lt;/em&gt; by Fever Ray&lt;/span&gt;&#xA;    &#xA;&lt;/span&gt; I listened to a lot when it was released but eased up a bit until listening to it a couple more times while writing this list. It&amp;rsquo;s a great collection of songs, probably better than their second album &amp;ldquo;Plunge&amp;rdquo;. The cover art is just as scary though.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, November 2017</title>
-      <link>http://localhost:1313/posts/album-digest-november-2017/</link>
+      <link>https://mattischrome.com/posts/album-digest-november-2017/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-november-2017/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-november-2017/</guid>
       <description></description>
     </item>
   </channel>

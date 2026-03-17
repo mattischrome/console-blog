@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Randomness on mattischrome</title>
-    <link>http://localhost:1313/tags/randomness/</link>
+    <link>https://mattischrome.com/tags/randomness/</link>
     <description>Recent content in Randomness on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/randomness/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/randomness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Human in the Loop</title>
-      <link>http://localhost:1313/posts/the-human-in-the-loop/</link>
+      <link>https://mattischrome.com/posts/the-human-in-the-loop/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-human-in-the-loop/</guid>
+      <guid>https://mattischrome.com/posts/the-human-in-the-loop/</guid>
       <description>&lt;p&gt;I want to start making generative art again. I can&amp;rsquo;t say I ever did it that seriously but using programming languages to generate &amp;lsquo;art&amp;rsquo; is a pretty fun to while away the hours, especially when one&amp;rsquo;s talents for drawing truculently refuse to improve. Of course, more recently the phrase generative art might be said to have grown to encompass the GPT-class models that generate images from prompts. So what would be the point of coding something, when you can make &amp;lsquo;proper&amp;rsquo; art?&lt;/p&gt;</description>
     </item>
     <item>
       <title>How random should things be?</title>
-      <link>http://localhost:1313/posts/how-random-should-things-be/</link>
+      <link>https://mattischrome.com/posts/how-random-should-things-be/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/how-random-should-things-be/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve managed to extract my music library, including all the albums I&amp;rsquo;ve added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for &lt;a href=&#34;http://localhost:1313/goldfrapp-black-cherry&#34;&gt;Goldfrapp&amp;rsquo;s Black Cherry.&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/how-random-should-things-be/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve managed to extract my music library, including all the albums I&amp;rsquo;ve added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for &lt;a href=&#34;https://mattischrome.com/goldfrapp-black-cherry&#34;&gt;Goldfrapp&amp;rsquo;s Black Cherry.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

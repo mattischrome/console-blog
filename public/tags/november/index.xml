@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>November on mattischrome</title>
-    <link>http://localhost:1313/tags/november/</link>
+    <link>https://mattischrome.com/tags/november/</link>
     <description>Recent content in November on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/november/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/november/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, November 2017</title>
-      <link>http://localhost:1313/posts/album-digest-november-2017/</link>
+      <link>https://mattischrome.com/posts/album-digest-november-2017/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-november-2017/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-november-2017/</guid>
       <description></description>
     </item>
     <item>
       <title>Album Digest, November 2012</title>
-      <link>http://localhost:1313/posts/album-digest-november-2012/</link>
+      <link>https://mattischrome.com/posts/album-digest-november-2012/</link>
       <pubDate>Thu, 29 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-november-2012/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-november-2012/</guid>
       <description>&lt;p&gt;Pretty much a sliding scale between songs and electronic wibble on this month’s albums and a particularly damp, chilly feeling to proceedings too.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, November 2011</title>
-      <link>http://localhost:1313/posts/album-digest-november-2011/</link>
+      <link>https://mattischrome.com/posts/album-digest-november-2011/</link>
       <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-november-2011/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-november-2011/</guid>
       <description>&lt;p&gt;Just three albums this month as I’ve been listening to a lot of Brian Eno records ready for an upcoming understated classic. First up is &lt;em&gt;50 Words For Snow&lt;/em&gt; by &lt;strong&gt;Kate Bush&lt;/strong&gt;, the second album that she has released this year. &lt;a href=&#34;album-digest-may-2011&#34;&gt;Back in May&lt;/a&gt; I wrote about &lt;em&gt;Director’s Cut&lt;/em&gt;, which presented re-recorded and re-mastered versions of songs from her albums &lt;em&gt;The Sensual World&lt;/em&gt; and &lt;em&gt;The Red Shoes&lt;/em&gt;. This time around it is an album of brand new material, the first since &lt;em&gt;Aerial&lt;/em&gt; in 2006.&lt;/p&gt;</description>
     </item>
   </channel>

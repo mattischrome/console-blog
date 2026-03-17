@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Detective Story on mattischrome</title>
-    <link>http://localhost:1313/tags/detective-story/</link>
+    <link>https://mattischrome.com/tags/detective-story/</link>
     <description>Recent content in Detective Story on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/detective-story/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/detective-story/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bob Mortimer, The Satsuma Complex</title>
-      <link>http://localhost:1313/posts/bob-mortimer-the-satsuma-complex/</link>
+      <link>https://mattischrome.com/posts/bob-mortimer-the-satsuma-complex/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bob-mortimer-the-satsuma-complex/</guid>
+      <guid>https://mattischrome.com/posts/bob-mortimer-the-satsuma-complex/</guid>
       <description>&lt;p&gt;A hardback book called &amp;ldquo;The Satsuma Complex&amp;rdquo; is all that remains of a mysterious young lady that young lawyer Gary is chatting up in the pub one night. It&amp;rsquo;s a book that everyone reckons is &amp;ldquo;a bit sh*t&amp;rdquo;. But Gary&amp;rsquo;s moping about after the Satsuma lady doing a runner while he was in the loo will have to be put on hold when his friend turns up dead.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Decision to Leave</title>
-      <link>http://localhost:1313/posts/decision-to-leave/</link>
+      <link>https://mattischrome.com/posts/decision-to-leave/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/decision-to-leave/</guid>
+      <guid>https://mattischrome.com/posts/decision-to-leave/</guid>
       <description>&lt;p&gt;I gave up writing reviews of movies because:&lt;/p&gt;</description>
     </item>
   </channel>

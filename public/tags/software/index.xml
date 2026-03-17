@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on mattischrome</title>
-    <link>http://localhost:1313/tags/software/</link>
+    <link>https://mattischrome.com/tags/software/</link>
     <description>Recent content in Software on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LLMs and Cryptic Crosswords</title>
-      <link>http://localhost:1313/posts/llms-and-cryptic-crosswords/</link>
+      <link>https://mattischrome.com/posts/llms-and-cryptic-crosswords/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/llms-and-cryptic-crosswords/</guid>
+      <guid>https://mattischrome.com/posts/llms-and-cryptic-crosswords/</guid>
       <description>&lt;p&gt;At the time of writing, one way to demonstrate the illusory nature of LLM intelligence is to get one to try and answer a cryptic crossword clue.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some Initial Thoughts About Civilization VII</title>
-      <link>http://localhost:1313/posts/some-initial-thoughts-about-civilization-vii/</link>
+      <link>https://mattischrome.com/posts/some-initial-thoughts-about-civilization-vii/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/some-initial-thoughts-about-civilization-vii/</guid>
+      <guid>https://mattischrome.com/posts/some-initial-thoughts-about-civilization-vii/</guid>
       <description>&lt;p&gt;Sid Meier&amp;rsquo;s Civilization VII is out today to much fanfare. After spending what top scientists are calling &amp;ldquo;far too long&amp;rdquo; playing Civ VI and a couple of run-throughs of the new game during the early access period, here are some thoughts on the new instalment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dithering Around</title>
-      <link>http://localhost:1313/posts/dithering-around/</link>
+      <link>https://mattischrome.com/posts/dithering-around/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dithering-around/</guid>
+      <guid>https://mattischrome.com/posts/dithering-around/</guid>
       <description>&lt;p&gt;While off sick and under the weather I decided to play around with presenting the photos on this blog in a fashion more in keeping with the current Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Push the right key</title>
-      <link>http://localhost:1313/posts/push-the-right-key/</link>
+      <link>https://mattischrome.com/posts/push-the-right-key/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/push-the-right-key/</guid>
+      <guid>https://mattischrome.com/posts/push-the-right-key/</guid>
       <description>&lt;p&gt;One of the absurd barriers to writing regularly is that my new post script is written to open the new markdown file in Neovim and until this week I had no idea how to type a hashtag (which markdown uses for headers) in this editor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Lost Guide to CIV VI</title>
-      <link>http://localhost:1313/posts/the-lost-guide-to-civ-vi/</link>
+      <link>https://mattischrome.com/posts/the-lost-guide-to-civ-vi/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-lost-guide-to-civ-vi/</guid>
+      <guid>https://mattischrome.com/posts/the-lost-guide-to-civ-vi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve written some guides about how to play as various leaders in Sid Meier&amp;rsquo;s Civilization VI, covering &lt;a href=&#34;https://mattischrome.com/posts/civ-leaders-1/&#34;&gt;Hojo&lt;/a&gt;, &lt;a href=&#34;https://mattischrome.com/posts/civ-leaders-2/&#34;&gt;Alexander&lt;/a&gt;, &lt;a href=&#34;https://mattischrome.com/posts/civ-leaders-3/&#34;&gt;Amanitore&lt;/a&gt;, and &lt;a href=&#34;https://mattischrome.com/posts/civ-leaders-4/&#34;&gt;Qin&lt;/a&gt; in his Mandate of Heaven persona. I&amp;rsquo;m pretty sure I also wrote a guide to Gorgo at some point but all I can find are game screenshots I took one of the times that I played as her.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Realisation</title>
-      <link>http://localhost:1313/posts/a-realisation/</link>
+      <link>https://mattischrome.com/posts/a-realisation/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-realisation/</guid>
+      <guid>https://mattischrome.com/posts/a-realisation/</guid>
       <description>&lt;p&gt;One of the best pieces of advice I have ever been given about how to tackle programming problems is to treat your code as comments that describe your program to the computer, whilst the comments that are there for humans to read should tell them how the program is supposed to work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fun With Chat-GPT</title>
-      <link>http://localhost:1313/posts/fun-with-chatgpt/</link>
+      <link>https://mattischrome.com/posts/fun-with-chatgpt/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fun-with-chatgpt/</guid>
+      <guid>https://mattischrome.com/posts/fun-with-chatgpt/</guid>
       <description>&lt;p&gt;I asked:&lt;/p&gt;</description>
     </item>
     <item>
       <title>On learning new tools</title>
-      <link>http://localhost:1313/posts/on-learning-new-tools/</link>
+      <link>https://mattischrome.com/posts/on-learning-new-tools/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/on-learning-new-tools/</guid>
+      <guid>https://mattischrome.com/posts/on-learning-new-tools/</guid>
       <description>&lt;p&gt;It strikes me that it is better to sit and think about what you need to do, rather than endless try out new tools and hoping you end up with a use for them. I&amp;rsquo;m not saying that innovation is bad, or that you shouldn&amp;rsquo;t stretch yourself into some new spot once in a while, but you will become more valuable to others if you can identify what it is you are supposed to be doing and then use your existing skills to get that job done. Don&amp;rsquo;t go looking at galleries of tools and techniques in service of finding something to do. Trust me, I know from experience that it is a great way to spend a hell of a lot of time not getting anywhere in particular.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A February Project</title>
-      <link>http://localhost:1313/posts/second-february-post/</link>
+      <link>https://mattischrome.com/posts/second-february-post/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/second-february-post/</guid>
+      <guid>https://mattischrome.com/posts/second-february-post/</guid>
       <description>&lt;p&gt;Hmmm it seems as though the &lt;code&gt;ffi&lt;/code&gt; gem as installed by bundler is not compatible with a Mac that has an M1 chip. This limits my ability to preview blog posts locally. I might have to swap to a more modern static site generator (which is probably easier than working out what &lt;code&gt;ffi&lt;/code&gt; actually does) - seems like a good February project!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sprucing up the Blog</title>
-      <link>http://localhost:1313/posts/sprucing-up-the-blog/</link>
+      <link>https://mattischrome.com/posts/sprucing-up-the-blog/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sprucing-up-the-blog/</guid>
+      <guid>https://mattischrome.com/posts/sprucing-up-the-blog/</guid>
       <description>&lt;p&gt;This post explains some of the modifications I made to a minimal Jekyll theme to get this blog as I wanted it. This blog (currently) uses the excellent &lt;a href=&#34;https://sidey-jekyll.netlify.app/about&#34;&gt;Sidey theme&lt;/a&gt; by &lt;a href=&#34;https://www.ronaldsvilcins.com&#34;&gt;Ronalds Vilciņš&lt;/a&gt;. His site looks eerily similar to this one, at least at time of writing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Living in the Pi Hole</title>
-      <link>http://localhost:1313/posts/living-in-the-pi-hole/</link>
+      <link>https://mattischrome.com/posts/living-in-the-pi-hole/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/living-in-the-pi-hole/</guid>
+      <guid>https://mattischrome.com/posts/living-in-the-pi-hole/</guid>
       <description>&lt;p&gt;Ingrid bought me a &lt;a href=&#34;https://www.raspberrypi.org&#34;&gt;raspberry pi&lt;/a&gt; for my birthday. I&amp;rsquo;ve set it up to run the &lt;a href=&#34;https://docs.pi-hole.net&#34;&gt;Pi-hole&lt;/a&gt; software. Pi-hole is a nifty bit of kit that intercepts your web requests and purges any that ask for material on known ad servers. Essentially it&amp;rsquo;s like having an ad blocker on your network rather than just your computer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Changes</title>
-      <link>http://localhost:1313/posts/changes/</link>
+      <link>https://mattischrome.com/posts/changes/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/changes/</guid>
+      <guid>https://mattischrome.com/posts/changes/</guid>
       <description></description>
     </item>
     <item>
       <title>Adventures with Discover Weekly</title>
-      <link>http://localhost:1313/posts/adventures-with-discover-weekly/</link>
+      <link>https://mattischrome.com/posts/adventures-with-discover-weekly/</link>
       <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/adventures-with-discover-weekly/</guid>
+      <guid>https://mattischrome.com/posts/adventures-with-discover-weekly/</guid>
       <description>&lt;p&gt;Because I couldn&amp;rsquo;t find any albums coming out this month that I wanted to review for the album digest, I decided to let Spotify pick the albums to listen to. I listened to my algorithmically chosen &lt;a href=&#34;https://techcrunch.com/2015/07/20/why-browse-when-you-can-play/&#34;&gt;Discover Weekly&lt;/a&gt; playlist one week and selected albums based on the songs that I liked the most. The album also had to be released in 2016. The selections are ones that got away.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Initial Comparison of Apple Music and Spotify</title>
-      <link>http://localhost:1313/posts/an-initial-comparison-of-apple-music-and-spotify/</link>
+      <link>https://mattischrome.com/posts/an-initial-comparison-of-apple-music-and-spotify/</link>
       <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/an-initial-comparison-of-apple-music-and-spotify/</guid>
-      <description>&lt;p&gt;My &lt;a href=&#34;http://localhost:1313/why-apple-music-feels-like-a-fail/&#34;&gt;previous post about Apple Music&lt;/a&gt; was more a response to how it was presented at the WWDC Keynote rather than to the idea of Apple Music itself. I should have known better than to use that clickbait title. I knew I wasn&amp;rsquo;t writing about the product, more the flatness of its introduction (despite the names on show).&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/an-initial-comparison-of-apple-music-and-spotify/</guid>
+      <description>&lt;p&gt;My &lt;a href=&#34;https://mattischrome.com/why-apple-music-feels-like-a-fail/&#34;&gt;previous post about Apple Music&lt;/a&gt; was more a response to how it was presented at the WWDC Keynote rather than to the idea of Apple Music itself. I should have known better than to use that clickbait title. I knew I wasn&amp;rsquo;t writing about the product, more the flatness of its introduction (despite the names on show).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Useful Ulysses</title>
-      <link>http://localhost:1313/posts/useful-ulysses/</link>
+      <link>https://mattischrome.com/posts/useful-ulysses/</link>
       <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/useful-ulysses/</guid>
+      <guid>https://mattischrome.com/posts/useful-ulysses/</guid>
       <description></description>
     </item>
     <item>
       <title>Should I Drop Dropbox?</title>
-      <link>http://localhost:1313/posts/should-i-drop-dropbox/</link>
+      <link>https://mattischrome.com/posts/should-i-drop-dropbox/</link>
       <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/should-i-drop-dropbox/</guid>
+      <guid>https://mattischrome.com/posts/should-i-drop-dropbox/</guid>
       <description>&lt;p&gt;I am thinking about whether I want to use Dropbox to sync my files anymore. Don&amp;rsquo;t get me wrong, I love Dropbox. It came along in beta in just 2008 just as I needed it to manage my PhD thesis. In fact I often jokingly claim to having invented it by asking on the MacRumors forums whether a program like it existed  - just a few weeks before its beta rode in to my life like a knight in shining armour. I recognised the need for a service that would synchronise a single directory and its contents between multiple computers using The Power Of The Internet™. I was used to using commands like scp to maintain my static blog on the university&amp;rsquo;s servers and the multiple computers that I authored it from, though in 2008 when I moved back to my parents&amp;rsquo; house to write up my PhD I was frustrated that I couldn&amp;rsquo;t work out how to do the same things when the target was a PC running Windows XP.&lt;/p&gt;</description>
     </item>
   </channel>

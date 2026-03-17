@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pinch and Shackleton on mattischrome</title>
-    <link>http://localhost:1313/tags/pinch-and-shackleton/</link>
+    <link>https://mattischrome.com/tags/pinch-and-shackleton/</link>
     <description>Recent content in Pinch and Shackleton on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 29 Dec 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pinch-and-shackleton/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/pinch-and-shackleton/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, December 2011</title>
-      <link>http://localhost:1313/posts/album-digest-december-2011/</link>
+      <link>https://mattischrome.com/posts/album-digest-december-2011/</link>
       <pubDate>Thu, 29 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-december-2011/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-december-2011/</guid>
       <description>&lt;p&gt;Some rather brief pen pictures of this month’s albums. I’ve been a bit busy!&lt;/p&gt;</description>
     </item>
   </channel>

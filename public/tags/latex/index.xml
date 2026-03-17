@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LaTeX on mattischrome</title>
-    <link>http://localhost:1313/tags/latex/</link>
+    <link>https://mattischrome.com/tags/latex/</link>
     <description>Recent content in LaTeX on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/latex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TIL: footnotes in Latex captions</title>
-      <link>http://localhost:1313/posts/til-latex-footnotes-in-captions/</link>
+      <link>https://mattischrome.com/posts/til-latex-footnotes-in-captions/</link>
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/til-latex-footnotes-in-captions/</guid>
+      <guid>https://mattischrome.com/posts/til-latex-footnotes-in-captions/</guid>
       <description>&lt;p&gt;Today I had an interesting bug in some Latex code I am writing. Putting a footnote into a caption caused the document to fail compilation. The problem was that this document doesn&amp;rsquo;t use a table of figures at the start, so I hadn&amp;rsquo;t thought to include a short summary caption. Apparently the curly brace in the footnote command does not sit well with that, even if you aren&amp;rsquo;t using a list or table of figures in your document. The solution is simple, as long as the footnote isn&amp;rsquo;t crucial to the list of tables!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Posters</title>
-      <link>http://localhost:1313/posts/posters/</link>
+      <link>https://mattischrome.com/posts/posters/</link>
       <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/posters/</guid>
+      <guid>https://mattischrome.com/posts/posters/</guid>
       <description>&lt;p&gt;In 2005, towards the end of the second year of my PhD I presented a poster at a conference in Dresden, Germany. My eccentric colleagues and I stayed on a huge canal boat moored on the Elbe for no discernible reason other than it seemed like a laugh at the time. In reality I was the second worst snorer of the three of us and it also turned out that our room was right underneath the gang-plank and every morning at six the person who made breakfast would stomp across it.&lt;/p&gt;</description>
     </item>
   </channel>

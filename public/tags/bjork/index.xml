@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bjork on mattischrome</title>
-    <link>http://localhost:1313/tags/bjork/</link>
+    <link>https://mattischrome.com/tags/bjork/</link>
     <description>Recent content in Bjork on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 27 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/bjork/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/bjork/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, December 2017</title>
-      <link>http://localhost:1313/posts/album-digest-december-2017/</link>
+      <link>https://mattischrome.com/posts/album-digest-december-2017/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-december-2017/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-december-2017/</guid>
       <description></description>
     </item>
     <item>
       <title>Album Digest, November 2012</title>
-      <link>http://localhost:1313/posts/album-digest-november-2012/</link>
+      <link>https://mattischrome.com/posts/album-digest-november-2012/</link>
       <pubDate>Thu, 29 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-november-2012/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-november-2012/</guid>
       <description>&lt;p&gt;Pretty much a sliding scale between songs and electronic wibble on this month’s albums and a particularly damp, chilly feeling to proceedings too.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understated Classics #15: Début by Björk</title>
-      <link>http://localhost:1313/posts/understated-classics-15/</link>
+      <link>https://mattischrome.com/posts/understated-classics-15/</link>
       <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/understated-classics-15/</guid>
+      <guid>https://mattischrome.com/posts/understated-classics-15/</guid>
       <description>&lt;p&gt;I got into Début via a cassette from the library, much like I did with &lt;a href=&#34;uc1&#34;&gt;&lt;em&gt;Together Alone&lt;/em&gt; by Crowded House&lt;/a&gt;. I suppose it is less obscure than many of my choices for &lt;a href=&#34;understated-classics&#34;&gt;this strand&lt;/a&gt; but I do think that &lt;em&gt;Post&lt;/em&gt; is more well-known (because of &lt;em&gt;It’s Oh So Quiet&lt;/em&gt;, which we shall mention here only briefly) and that &lt;em&gt;Homogenic&lt;/em&gt; is probably more popular among her fans.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, October 2011</title>
-      <link>http://localhost:1313/posts/album-digest-october-2011/</link>
+      <link>https://mattischrome.com/posts/album-digest-october-2011/</link>
       <pubDate>Mon, 31 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-october-2011/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-october-2011/</guid>
       <description>&lt;p&gt;This month we have albums by Björk, Coldplay, M83, and Radiohead.&lt;/p&gt;</description>
     </item>
   </channel>

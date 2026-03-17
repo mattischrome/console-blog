@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta on mattischrome</title>
-    <link>http://localhost:1313/tags/meta/</link>
+    <link>https://mattischrome.com/tags/meta/</link>
     <description>Recent content in Meta on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post Statistics</title>
-      <link>http://localhost:1313/posts/post-statistics/</link>
+      <link>https://mattischrome.com/posts/post-statistics/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-statistics/</guid>
+      <guid>https://mattischrome.com/posts/post-statistics/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s of graph of how the number of posts and the total word count on mattischrome has evolved over the years:&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Incredible Shrinking Blog Post</title>
-      <link>http://localhost:1313/posts/the-incredible-shrinking-blog-post/</link>
+      <link>https://mattischrome.com/posts/the-incredible-shrinking-blog-post/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-incredible-shrinking-blog-post/</guid>
+      <guid>https://mattischrome.com/posts/the-incredible-shrinking-blog-post/</guid>
       <description>&lt;p&gt;The problem with keeping up a blog streak for however many days it is now is that you don&amp;rsquo;t actually get a huge amount of time to think of ideas for posts and actually write them. Ironically, I&amp;rsquo;ve been thinking about this post for a while though.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fun With Chat-GPT</title>
-      <link>http://localhost:1313/posts/fun-with-chatgpt/</link>
+      <link>https://mattischrome.com/posts/fun-with-chatgpt/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fun-with-chatgpt/</guid>
+      <guid>https://mattischrome.com/posts/fun-with-chatgpt/</guid>
       <description>&lt;p&gt;I asked:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Don&#39;t Break The Chain</title>
-      <link>http://localhost:1313/posts/dont-break-the-chain/</link>
+      <link>https://mattischrome.com/posts/dont-break-the-chain/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dont-break-the-chain/</guid>
+      <guid>https://mattischrome.com/posts/dont-break-the-chain/</guid>
       <description>&lt;p&gt;2025 might be a tough year, but I am going to try and blog every day. It means that now and then I might be writing a post like this one, where I am writing for the sake of continuing the streak. If I find myself doing that too often then I will take the hint and stop trying!&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Orphan Project</title>
-      <link>http://localhost:1313/posts/the-orphan-project/</link>
+      <link>https://mattischrome.com/posts/the-orphan-project/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-orphan-project/</guid>
+      <guid>https://mattischrome.com/posts/the-orphan-project/</guid>
       <description>&lt;p&gt;A nice feature I added to this blog in its recent update was a &lt;a href=&#34;https://mattischrome.com/tags/&#34;&gt;tags page&lt;/a&gt;. With the help of this &lt;a href=&#34;https://discourse.gohugo.io/t/how-to-get-a-tags-page/24213/4&#34;&gt;very useful discourse thread&lt;/a&gt; and some additional CSS tweaks, the resulting page is something that I am very happy with. It lists all of the tags that apply to any post, along with the number of posts with that tag, in alphabetical order. It&amp;rsquo;s mostly intended as a guide for you the reader, to help you see whether your preoccupations match my own.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The new look mattischrome</title>
-      <link>http://localhost:1313/posts/new-look-mattischrome/</link>
+      <link>https://mattischrome.com/posts/new-look-mattischrome/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/new-look-mattischrome/</guid>
+      <guid>https://mattischrome.com/posts/new-look-mattischrome/</guid>
       <description>&lt;p&gt;Welcome to the new look for my blog. I&amp;rsquo;ve had my eye on a more minimal look for a while now. Whether this new look is successful or not depends on how often I write new posts. To that end, this theme also supports a separate (or almost separate) stream of photos. Once I&amp;rsquo;ve got back in to the habit of putting photos up, that should be a nice additional stream of content.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023 Albums of the Year Preview</title>
-      <link>http://localhost:1313/posts/albums-of-the-year-preview/</link>
+      <link>https://mattischrome.com/posts/albums-of-the-year-preview/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/albums-of-the-year-preview/</guid>
+      <guid>https://mattischrome.com/posts/albums-of-the-year-preview/</guid>
       <description>&lt;p&gt;Another year (nearly) over and so starting from tomorrow, I&amp;rsquo;m going to count down my top 10 albums of 2023. The rules are:&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internet on mattischrome</title>
-    <link>http://localhost:1313/tags/internet/</link>
+    <link>https://mattischrome.com/tags/internet/</link>
     <description>Recent content in Internet on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Forever Now</title>
-      <link>http://localhost:1313/posts/the-forever-now/</link>
+      <link>https://mattischrome.com/posts/the-forever-now/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-forever-now/</guid>
+      <guid>https://mattischrome.com/posts/the-forever-now/</guid>
       <description>&lt;p&gt;Writing this post came about from  frustration with blogging. Specifically the tools I am using. Often it feels like a new language or paradigm comes along that shifts one or two of the pain points of blogging. The biggest are:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Living in the Pi Hole</title>
-      <link>http://localhost:1313/posts/living-in-the-pi-hole/</link>
+      <link>https://mattischrome.com/posts/living-in-the-pi-hole/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/living-in-the-pi-hole/</guid>
+      <guid>https://mattischrome.com/posts/living-in-the-pi-hole/</guid>
       <description>&lt;p&gt;Ingrid bought me a &lt;a href=&#34;https://www.raspberrypi.org&#34;&gt;raspberry pi&lt;/a&gt; for my birthday. I&amp;rsquo;ve set it up to run the &lt;a href=&#34;https://docs.pi-hole.net&#34;&gt;Pi-hole&lt;/a&gt; software. Pi-hole is a nifty bit of kit that intercepts your web requests and purges any that ask for material on known ad servers. Essentially it&amp;rsquo;s like having an ad blocker on your network rather than just your computer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Time Is Time and That Is That</title>
-      <link>http://localhost:1313/posts/time-is-time-and-that-is-that/</link>
+      <link>https://mattischrome.com/posts/time-is-time-and-that-is-that/</link>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/time-is-time-and-that-is-that/</guid>
+      <guid>https://mattischrome.com/posts/time-is-time-and-that-is-that/</guid>
       <description>&lt;p&gt;A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building Brains</title>
-      <link>http://localhost:1313/posts/building-brains/</link>
+      <link>https://mattischrome.com/posts/building-brains/</link>
       <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/building-brains/</guid>
+      <guid>https://mattischrome.com/posts/building-brains/</guid>
       <description>&lt;p&gt;This is a longer form post about artificial intelligence inspired by reading a little bit of &amp;ldquo;The Pale King&amp;rdquo; by David Foster Wallace and putting a picture of a &amp;ldquo;ghost&amp;rdquo; up on Instagram. This might be the last of these that I&amp;rsquo;m able to write for a while.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Should I Drop Dropbox?</title>
-      <link>http://localhost:1313/posts/should-i-drop-dropbox/</link>
+      <link>https://mattischrome.com/posts/should-i-drop-dropbox/</link>
       <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/should-i-drop-dropbox/</guid>
+      <guid>https://mattischrome.com/posts/should-i-drop-dropbox/</guid>
       <description>&lt;p&gt;I am thinking about whether I want to use Dropbox to sync my files anymore. Don&amp;rsquo;t get me wrong, I love Dropbox. It came along in beta in just 2008 just as I needed it to manage my PhD thesis. In fact I often jokingly claim to having invented it by asking on the MacRumors forums whether a program like it existed  - just a few weeks before its beta rode in to my life like a knight in shining armour. I recognised the need for a service that would synchronise a single directory and its contents between multiple computers using The Power Of The Internet™. I was used to using commands like scp to maintain my static blog on the university&amp;rsquo;s servers and the multiple computers that I authored it from, though in 2008 when I moved back to my parents&amp;rsquo; house to write up my PhD I was frustrated that I couldn&amp;rsquo;t work out how to do the same things when the target was a PC running Windows XP.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Net Loss</title>
-      <link>http://localhost:1313/posts/net-loss/</link>
+      <link>https://mattischrome.com/posts/net-loss/</link>
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/net-loss/</guid>
+      <guid>https://mattischrome.com/posts/net-loss/</guid>
       <description>&lt;p&gt;I pay to have this blog up and running. That is, I pay for the space where it is stored and I pay for the name. I have to look after all the files and plug-ins, I have to perform all the updates and optimise the database tables. All this is great fun but wouldn’t it be cheaper to slap the mattischro.me address onto a hosted WordPress.com account?&lt;/p&gt;</description>
     </item>
     <item>
       <title>In Defence Of Tolerance</title>
-      <link>http://localhost:1313/posts/in-defence-of-tolerance/</link>
+      <link>https://mattischrome.com/posts/in-defence-of-tolerance/</link>
       <pubDate>Mon, 24 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/in-defence-of-tolerance/</guid>
+      <guid>https://mattischrome.com/posts/in-defence-of-tolerance/</guid>
       <description>&lt;p&gt;I’ve found twitter to be a bit boring lately but today a perfect storm brew up and once again the Daily Mail and one of its odious columnists was at its centre. Melanie Phillips’ opinion piece was a perfectly constructed piece of trolling that implied that since the repeal of section 28, schools have been flooded with an influx of gay propaganda in subjects like maths, history and geography. Well I’m all for it, Alan Turing &lt;em&gt;was&lt;/em&gt; a genius brutally mistreated by his country despite turning the second world war in favour of the allies - that story is maths and history is combined. Meanwhile, if you can spice up geography a bit go for it. I am not sure what you would do, discuss routes for pride marches? After all, the subject is hideously out of date now that we all have google maps on our phones.&lt;/p&gt;</description>
     </item>
   </channel>

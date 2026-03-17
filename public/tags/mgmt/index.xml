@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MGMT on mattischrome</title>
-    <link>http://localhost:1313/tags/mgmt/</link>
+    <link>https://mattischrome.com/tags/mgmt/</link>
     <description>Recent content in MGMT on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mgmt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/mgmt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024 Albums of the Year #7: MGMT, Loss Of Life</title>
-      <link>http://localhost:1313/posts/2024-albums-07-mgmt-loss-of-life/</link>
+      <link>https://mattischrome.com/posts/2024-albums-07-mgmt-loss-of-life/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024-albums-07-mgmt-loss-of-life/</guid>
+      <guid>https://mattischrome.com/posts/2024-albums-07-mgmt-loss-of-life/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t know very much about MGMT these days. I haven&amp;rsquo;t read any interviews about their albums. The video to the single &amp;ldquo;Nothing to Declare&amp;rdquo; was brought to my attention by the YouTube channel Justin Hawkins Rides Again. In it he points out how melodically interesting the song is. To be honest I was more than a little bit in love with the video.&lt;/p&gt;</description>
     </item>
   </channel>

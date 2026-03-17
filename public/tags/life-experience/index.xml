@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life Experience on mattischrome</title>
-    <link>http://localhost:1313/tags/life-experience/</link>
+    <link>https://mattischrome.com/tags/life-experience/</link>
     <description>Recent content in Life Experience on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/life-experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/life-experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In Praise of Pilates</title>
-      <link>http://localhost:1313/posts/in-praise-of-pilates/</link>
+      <link>https://mattischrome.com/posts/in-praise-of-pilates/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/in-praise-of-pilates/</guid>
-      <description>&lt;p&gt;In searching for something to write about today, I wondered whether I had ever written about Pilates on this blog before. I modified &lt;a href=&#34;http://localhost:1313/posts/fun-with-chatgpt/&#34;&gt;the search of my posts from yesterday&amp;rsquo;s post&lt;/a&gt; to look for the word Pilates&lt;label for=&#34;sidenote-7f5229dc68644cc7b6fae73d318b8a3c-0&#34; class=&#34;margin-toggle sidenote-number&#34;&gt;&lt;/label&gt;&lt;input type=&#34;checkbox&#34; id=&#34;sidenote-7f5229dc68644cc7b6fae73d318b8a3c-0&#34; class=&#34;margin-toggle&#34;/&gt;&#xA;&lt;span class=&#34;sidenote&#34;&gt;I could have also just used CMD+F in Visual Studio Code, but where&amp;rsquo;s the fun in that?&lt;/span&gt; and it only came up once in &lt;a href=&#34;http://localhost:1313/posts/ambitions-revisited/&#34;&gt;a post about revisiting my ambitions ten years on&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/in-praise-of-pilates/</guid>
+      <description>&lt;p&gt;In searching for something to write about today, I wondered whether I had ever written about Pilates on this blog before. I modified &lt;a href=&#34;https://mattischrome.com/posts/fun-with-chatgpt/&#34;&gt;the search of my posts from yesterday&amp;rsquo;s post&lt;/a&gt; to look for the word Pilates&lt;label for=&#34;sidenote-7f5229dc68644cc7b6fae73d318b8a3c-0&#34; class=&#34;margin-toggle sidenote-number&#34;&gt;&lt;/label&gt;&lt;input type=&#34;checkbox&#34; id=&#34;sidenote-7f5229dc68644cc7b6fae73d318b8a3c-0&#34; class=&#34;margin-toggle&#34;/&gt;&#xA;&lt;span class=&#34;sidenote&#34;&gt;I could have also just used CMD+F in Visual Studio Code, but where&amp;rsquo;s the fun in that?&lt;/span&gt; and it only came up once in &lt;a href=&#34;https://mattischrome.com/posts/ambitions-revisited/&#34;&gt;a post about revisiting my ambitions ten years on&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lists on mattischrome</title>
-    <link>http://localhost:1313/tags/lists/</link>
+    <link>https://mattischrome.com/tags/lists/</link>
     <description>Recent content in Lists on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/lists/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/lists/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Top 10 Albums 2017</title>
-      <link>http://localhost:1313/posts/top-10-albums-2017/</link>
+      <link>https://mattischrome.com/posts/top-10-albums-2017/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/top-10-albums-2017/</guid>
+      <guid>https://mattischrome.com/posts/top-10-albums-2017/</guid>
       <description></description>
     </item>
     <item>
       <title>Top 10 Songs 2017</title>
-      <link>http://localhost:1313/posts/top-10-songs-2017/</link>
+      <link>https://mattischrome.com/posts/top-10-songs-2017/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/top-10-songs-2017/</guid>
+      <guid>https://mattischrome.com/posts/top-10-songs-2017/</guid>
       <description></description>
     </item>
     <item>
       <title>Guardians of the Galaxy: A Short Review</title>
-      <link>http://localhost:1313/posts/guardians-of-the-galaxy-fifteen-observations/</link>
+      <link>https://mattischrome.com/posts/guardians-of-the-galaxy-fifteen-observations/</link>
       <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/guardians-of-the-galaxy-fifteen-observations/</guid>
+      <guid>https://mattischrome.com/posts/guardians-of-the-galaxy-fifteen-observations/</guid>
       <description>&lt;p&gt;&lt;em&gt;Finally&lt;/em&gt; saw Guardians of the Galaxy today. Here are fifteen observations about the film that may or may not constitute a short review.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ideas for TV shows: Great Mathematicians</title>
-      <link>http://localhost:1313/posts/ideas-for-tv-shows-great-mathematicians/</link>
+      <link>https://mattischrome.com/posts/ideas-for-tv-shows-great-mathematicians/</link>
       <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ideas-for-tv-shows-great-mathematicians/</guid>
+      <guid>https://mattischrome.com/posts/ideas-for-tv-shows-great-mathematicians/</guid>
       <description>&lt;p&gt;I want to see a TV show about great mathematicians of the past on a channel like BBC Four. Programmes about mathematics tend to be rather condescending, at least to anyone who has a bit of mathematical knowledge. Perhaps a way around this is to delve into the social and historical circumstances of the great mathematicians and how that along with their personality produced the mathematical results for which they are famous.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ambitions</title>
-      <link>http://localhost:1313/posts/ambitions/</link>
+      <link>https://mattischrome.com/posts/ambitions/</link>
       <pubDate>Sat, 10 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ambitions/</guid>
+      <guid>https://mattischrome.com/posts/ambitions/</guid>
       <description>&lt;p&gt;Sometimes, when I am feeling a bit down, I like to write down some of my ambitions. As you can see from this list they are mostly pretty humble but they are also a bit cheesy and embarassing, so I have put them after the fold!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nonlinear Systems: A Rough Intro</title>
-      <link>http://localhost:1313/posts/nonlinear-systems-a-rough-intro/</link>
+      <link>https://mattischrome.com/posts/nonlinear-systems-a-rough-intro/</link>
       <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nonlinear-systems-a-rough-intro/</guid>
+      <guid>https://mattischrome.com/posts/nonlinear-systems-a-rough-intro/</guid>
       <description>&lt;p&gt;This is another mathematics post that does not actually feature any equations or graphs. It is intended to set the way clear for writing regularly about nonlinear systems. This in itself is a precursor to writing more about mathematical biology as biological systems are inherently complex and nonlinear. I am reading &lt;a href=&#34;http://www.amazon.co.uk/Nonlinear-Systems-Cambridge-Applied-Mathematics/dp/0521406684/ref=sr_1_1?ie=UTF8&amp;amp;qid=1349212296&amp;amp;sr=8-1&#34;&gt;P. G. Drazin’s textbook on Nonlinear Systems&lt;/a&gt; and this post is a glossary of terms from the start of the book laid down here because I wanted to remember how to typeset &lt;a href=&#34;http://www.w3schools.com/tags/tag_dl.asp&#34;&gt;definition lists&lt;/a&gt; in Markdown (though in the end I (ab)used &lt;code&gt;&amp;lt;h4&amp;gt;&lt;/code&gt; tags because it looked better).&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Case For Yellow As Your New Favourite Colour</title>
-      <link>http://localhost:1313/posts/a-case-for-yellow-as-your-new-favourite-colour/</link>
+      <link>https://mattischrome.com/posts/a-case-for-yellow-as-your-new-favourite-colour/</link>
       <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-case-for-yellow-as-your-new-favourite-colour/</guid>
-      <description>&lt;p&gt;This post is about the films of Wes Anderson. I am no expert, I’ve just watched them all recently (inspired by &lt;a href=&#34;http://localhost:1313/posts/moonrise-kingdom-a-short-review&#34;&gt;seeing “Moonrise Kingdom”&lt;/a&gt;) and spotted a some similarities and differences between the films and I thought it would be fun to write about them. My appearance on Mastermind with “The Films of Wes Anderson” as my specialist subject will have to wait for now. Feel free to add to the discussion in the comments. In case you don’t know what the films are, here they are in order (with links to their IMDB pages):&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/a-case-for-yellow-as-your-new-favourite-colour/</guid>
+      <description>&lt;p&gt;This post is about the films of Wes Anderson. I am no expert, I’ve just watched them all recently (inspired by &lt;a href=&#34;https://mattischrome.com/posts/moonrise-kingdom-a-short-review&#34;&gt;seeing “Moonrise Kingdom”&lt;/a&gt;) and spotted a some similarities and differences between the films and I thought it would be fun to write about them. My appearance on Mastermind with “The Films of Wes Anderson” as my specialist subject will have to wait for now. Feel free to add to the discussion in the comments. In case you don’t know what the films are, here they are in order (with links to their IMDB pages):&lt;/p&gt;</description>
     </item>
     <item>
       <title>Another Reading List</title>
-      <link>http://localhost:1313/posts/another-reading-list/</link>
+      <link>https://mattischrome.com/posts/another-reading-list/</link>
       <pubDate>Mon, 25 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/another-reading-list/</guid>
+      <guid>https://mattischrome.com/posts/another-reading-list/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../assets/images/other/June-2012-Bookstack.jpg&#34; alt=&#34;More books to add to the “University of life” course list&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading list, mid-April 2012</title>
-      <link>http://localhost:1313/posts/reading-list-mid-april-2012/</link>
+      <link>https://mattischrome.com/posts/reading-list-mid-april-2012/</link>
       <pubDate>Fri, 20 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/reading-list-mid-april-2012/</guid>
+      <guid>https://mattischrome.com/posts/reading-list-mid-april-2012/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../assets/images/other/April-2012-Bookstack.jpg&#34; alt=&#34;A hefty reading list that should keep me occupied into the summer.&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Five lessons from a year of blogging</title>
-      <link>http://localhost:1313/posts/five-lessons-from-a-year-of-blogging/</link>
+      <link>https://mattischrome.com/posts/five-lessons-from-a-year-of-blogging/</link>
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/five-lessons-from-a-year-of-blogging/</guid>
+      <guid>https://mattischrome.com/posts/five-lessons-from-a-year-of-blogging/</guid>
       <description>&lt;p&gt;I have now been writing decent length articles on this site for about a year. I have learned a lot in this time, mostly about writing but also how to express your feelings and how to marshal your ideas and passions into action. For this month’s “five on the fifth”, I would like to share  with you some of the things I have learned.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why I Love The Jungle Book</title>
-      <link>http://localhost:1313/posts/why-i-love-the-jungle-book/</link>
+      <link>https://mattischrome.com/posts/why-i-love-the-jungle-book/</link>
       <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/why-i-love-the-jungle-book/</guid>
+      <guid>https://mattischrome.com/posts/why-i-love-the-jungle-book/</guid>
       <description>&lt;p&gt;Just as with the &lt;a href=&#34;understated-classics&#34;&gt;understated classics&lt;/a&gt; I want to set out my stall early on that good movies are good enough. Both &lt;a href=&#34;why-i-love-betty-blue&#34;&gt;&lt;em&gt;Betty Blue&lt;/em&gt;&lt;/a&gt; and today’s choice &lt;em&gt;The Jungle Book&lt;/em&gt; are never going to win any sort of consensus prize for the best movies ever made but they are really good. They also have a personal history attached that makes them worth writing about.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Five Superheroes We Can Live Without</title>
-      <link>http://localhost:1313/posts/five-superheroes-we-can-live-without/</link>
+      <link>https://mattischrome.com/posts/five-superheroes-we-can-live-without/</link>
       <pubDate>Thu, 05 May 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/five-superheroes-we-can-live-without/</guid>
+      <guid>https://mattischrome.com/posts/five-superheroes-we-can-live-without/</guid>
       <description>&lt;p&gt;The other day while writing some rather self-pitying notes in my blog book (yes, I handwrite all this rubbish before I go to bed at night!) I came up with some useless superheroes, or rather the only superheroes that a washed-up guy in his early thirties could hope to be. Because I haven’t got any ideas for “five things on the fifth” this month, I decided to flesh out a few of these. Last month I began the five on the fifth meme with &lt;a href=&#34;five-things-to-try-when-you-cant-sleep&#34;&gt;five things to try if you can’t sleep&lt;/a&gt; and so this is a rather forced attempt to keep it going. I promise that I will try and think of more interesting posts on these lines for months.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why I Love Betty Blue</title>
-      <link>http://localhost:1313/posts/why-i-love-betty-blue/</link>
+      <link>https://mattischrome.com/posts/why-i-love-betty-blue/</link>
       <pubDate>Wed, 06 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/why-i-love-betty-blue/</guid>
+      <guid>https://mattischrome.com/posts/why-i-love-betty-blue/</guid>
       <description>&lt;p&gt;I saw &lt;a href=&#34;http://www.imdb.com/title/tt0090563/&#34;&gt;Betty Blue&lt;/a&gt; (original French title &lt;em&gt;37,2 Le Matin&lt;/em&gt;) for the first time in 1996 shortly after having read the book and it remains one of my favourite films to this day. Although there are &lt;a href=&#34;http://www.google.co.uk/images?hl=en&amp;amp;source=hp&amp;amp;biw=1427&amp;amp;bih=1022&amp;amp;q=b%C3%A9atrice+dalle+betty+blue&amp;amp;gbv=2&amp;amp;aq=f&amp;amp;aqi=&amp;amp;oq=&amp;amp;uss=1&#34;&gt;many obvious reasons why&lt;/a&gt; a sixteen year old boy might like it, I think it does stand up to scrutiny beyond the sex and nudity. This post is a brief explanation of some of the obvious and not-so-obvious reasons why this is a film to be loved and cherished. (It was quite interesting to write this defence of a sexy film!)&lt;/p&gt;</description>
     </item>
   </channel>

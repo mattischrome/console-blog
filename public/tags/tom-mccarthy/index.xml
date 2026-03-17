@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tom McCarthy on mattischrome</title>
-    <link>http://localhost:1313/tags/tom-mccarthy/</link>
+    <link>https://mattischrome.com/tags/tom-mccarthy/</link>
     <description>Recent content in Tom McCarthy on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 20 Nov 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tom-mccarthy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/tom-mccarthy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Satin Island by Tom McCarthy: Review</title>
-      <link>http://localhost:1313/posts/satin-island-tom-mccarthy-review/</link>
+      <link>https://mattischrome.com/posts/satin-island-tom-mccarthy-review/</link>
       <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/satin-island-tom-mccarthy-review/</guid>
+      <guid>https://mattischrome.com/posts/satin-island-tom-mccarthy-review/</guid>
       <description>&lt;p&gt;As much as I wanted it to, Satin Island by Tom McCarthy did not win the Booker Prize. Having read it all I realise it was a long shot. However it is an interesting book that deserved consideration, even if it does have some flaws.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Booker Prize Pick 2015</title>
-      <link>http://localhost:1313/posts/booker-prize-pick-2015/</link>
+      <link>https://mattischrome.com/posts/booker-prize-pick-2015/</link>
       <pubDate>Mon, 12 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/booker-prize-pick-2015/</guid>
+      <guid>https://mattischrome.com/posts/booker-prize-pick-2015/</guid>
       <description>&lt;p&gt;&amp;ldquo;&lt;a href=&#34;http://www.theatlantic.com/entertainment/archive/2015/10/man-booker-shortlist-2015-satin-island/408784/&#34;&gt;Satin Island&lt;/a&gt;&amp;rdquo; is my pick for the &lt;a href=&#34;http://themanbookerprize.com/man-booker-prize-2015&#34;&gt;Man Booker prize&lt;/a&gt;, announced tomorrow. I&amp;rsquo;ve not managed to read all of it yet. Also, I&amp;rsquo;ve only glanced at the others on &lt;a href=&#34;http://themanbookerprize.com/news/man-booker-prize-fiction-2015-shortlist-revealed&#34;&gt;the shortlist&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games on mattischrome</title>
-    <link>http://localhost:1313/tags/games/</link>
+    <link>https://mattischrome.com/tags/games/</link>
     <description>Recent content in Games on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some Initial Thoughts About Civilization VII</title>
-      <link>http://localhost:1313/posts/some-initial-thoughts-about-civilization-vii/</link>
+      <link>https://mattischrome.com/posts/some-initial-thoughts-about-civilization-vii/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/some-initial-thoughts-about-civilization-vii/</guid>
+      <guid>https://mattischrome.com/posts/some-initial-thoughts-about-civilization-vii/</guid>
       <description>&lt;p&gt;Sid Meier&amp;rsquo;s Civilization VII is out today to much fanfare. After spending what top scientists are calling &amp;ldquo;far too long&amp;rdquo; playing Civ VI and a couple of run-throughs of the new game during the early access period, here are some thoughts on the new instalment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Jigsaw</title>
-      <link>http://localhost:1313/posts/a-jigsaw/</link>
+      <link>https://mattischrome.com/posts/a-jigsaw/</link>
       <pubDate>Mon, 11 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-jigsaw/</guid>
-      <description>&lt;p&gt;The other weekend, beset by insomnia, I decided to follow &lt;a href=&#34;http://localhost:1313/posts/five-things-to-try-when-you-cant-sleep&#34;&gt;my own advice&lt;/a&gt; and get up to do something instead of wallowing unable to sleep. I pulled my emergency jigsaw out of the cupboard and set to it. I should stress that I mean a jigsaw puzzle and not an actually jigsaw: DIY at 2am is not such a good idea!&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/a-jigsaw/</guid>
+      <description>&lt;p&gt;The other weekend, beset by insomnia, I decided to follow &lt;a href=&#34;https://mattischrome.com/posts/five-things-to-try-when-you-cant-sleep&#34;&gt;my own advice&lt;/a&gt; and get up to do something instead of wallowing unable to sleep. I pulled my emergency jigsaw out of the cupboard and set to it. I should stress that I mean a jigsaw puzzle and not an actually jigsaw: DIY at 2am is not such a good idea!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programming a Carcassonne Game</title>
-      <link>http://localhost:1313/posts/programming-a-carcassonne-game/</link>
+      <link>https://mattischrome.com/posts/programming-a-carcassonne-game/</link>
       <pubDate>Fri, 21 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/programming-a-carcassonne-game/</guid>
+      <guid>https://mattischrome.com/posts/programming-a-carcassonne-game/</guid>
       <description>&lt;p&gt;Although I have put off finishing &lt;a href=&#34;programming-an-uno-game&#34;&gt;my UNO game&lt;/a&gt; for over eighteen months, I thought I would get started with another pet project of mine: making a Carcassonne game. This is not a serious affair, there is an excellent app of Carcassonne available for those of you who have iOS devices (it works particularly well on the iPad). The game just strikes me as having the right level of complexity to be a taxing yet attainable project. I’d also like to understand strategies for playing the game and what better way to evaluate strategies for games of chance than to have a simulator to play all those millions of games that you don’t have time to play?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programming an UNO game, part 2</title>
-      <link>http://localhost:1313/posts/programming-an-uno-game-part-2/</link>
+      <link>https://mattischrome.com/posts/programming-an-uno-game-part-2/</link>
       <pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/programming-an-uno-game-part-2/</guid>
+      <guid>https://mattischrome.com/posts/programming-an-uno-game-part-2/</guid>
       <description>&lt;p&gt;It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programming an UNO game</title>
-      <link>http://localhost:1313/posts/programming-an-uno-game/</link>
+      <link>https://mattischrome.com/posts/programming-an-uno-game/</link>
       <pubDate>Tue, 28 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/programming-an-uno-game/</guid>
+      <guid>https://mattischrome.com/posts/programming-an-uno-game/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resolutions on mattischrome</title>
-    <link>http://localhost:1313/tags/resolutions/</link>
+    <link>https://mattischrome.com/tags/resolutions/</link>
     <description>Recent content in Resolutions on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/resolutions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/resolutions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some Tips For Saving Time</title>
-      <link>http://localhost:1313/posts/some-tips-for-saving-time/</link>
+      <link>https://mattischrome.com/posts/some-tips-for-saving-time/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/some-tips-for-saving-time/</guid>
+      <guid>https://mattischrome.com/posts/some-tips-for-saving-time/</guid>
       <description>&lt;p&gt;A non-exhaustive list of ideas for saving time:&lt;/p&gt;</description>
     </item>
   </channel>

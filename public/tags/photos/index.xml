@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on mattischrome</title>
-    <link>http://localhost:1313/tags/photos/</link>
+    <link>https://mattischrome.com/tags/photos/</link>
     <description>Recent content in Photos on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dithering Around</title>
-      <link>http://localhost:1313/posts/dithering-around/</link>
+      <link>https://mattischrome.com/posts/dithering-around/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dithering-around/</guid>
+      <guid>https://mattischrome.com/posts/dithering-around/</guid>
       <description>&lt;p&gt;While off sick and under the weather I decided to play around with presenting the photos on this blog in a fashion more in keeping with the current Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Great Ocean Road</title>
-      <link>http://localhost:1313/posts/the-great-ocean-road/</link>
+      <link>https://mattischrome.com/posts/the-great-ocean-road/</link>
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-great-ocean-road/</guid>
+      <guid>https://mattischrome.com/posts/the-great-ocean-road/</guid>
       <description>&lt;p&gt;As a &lt;a href=&#34;articles/the-same-yet-different&#34;&gt;wedding present&lt;/a&gt;, Ingrid&amp;rsquo;s Mum Maria kindly took us for a trip along &lt;a href=&#34;https://en.wikipedia.org/wiki/Great_Ocean_Road&#34;&gt;The Great Ocean Road&lt;/a&gt;, the longest war memorial in the world.&lt;/p&gt;</description>
     </item>
     <item>
       <title>More Melbourne</title>
-      <link>http://localhost:1313/posts/metros-suburbs-barbies/</link>
+      <link>https://mattischrome.com/posts/metros-suburbs-barbies/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/metros-suburbs-barbies/</guid>
+      <guid>https://mattischrome.com/posts/metros-suburbs-barbies/</guid>
       <description>&lt;p&gt;On our second full day in Australia we went shopping in central Melbourne, before Ingrid&amp;rsquo;s mum Maria picked us up ahead of our trip along the Great Ocean Road.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spain, New Year 2017/18</title>
-      <link>http://localhost:1313/posts/spain-new-year-201718/</link>
+      <link>https://mattischrome.com/posts/spain-new-year-201718/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spain-new-year-201718/</guid>
+      <guid>https://mattischrome.com/posts/spain-new-year-201718/</guid>
       <description>&lt;p&gt;For new year Ingrid and I met up with Ingrid&amp;rsquo;s friend Ros at Barcelona airport. We went from there to Cadaqués on the Costa Brava. A winding drive over steep hills leads you down to a cute bay with the typical white houses and terracotta roofs. All the window frames were painted just the right shade of blue.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A trip to Iceland. Part 3: Flu∂ir to Vík.</title>
-      <link>http://localhost:1313/posts/a-trip-to-iceland-part-3-even-more-waterfalls/</link>
+      <link>https://mattischrome.com/posts/a-trip-to-iceland-part-3-even-more-waterfalls/</link>
       <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-trip-to-iceland-part-3-even-more-waterfalls/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/iceland-part-two&#34;&gt;We left Gulfoss&lt;/a&gt; and drove through the countryside to Fluðir where our next hotel stay would be. The hotel had cute little cabins arranged around a central square and the room itself was comfy and warm. Our dinner was nice enough, although we had a bit of a Fawlty Towers moment with Ingrid’s chicken salad. First it went back because they didn’t leave the BBQ sauce off. Then it came back &lt;em&gt;with&lt;/em&gt; tomatoes. And then back again with more BBQ sauce. Fourth time lucky.&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/a-trip-to-iceland-part-3-even-more-waterfalls/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mattischrome.com/posts/iceland-part-two&#34;&gt;We left Gulfoss&lt;/a&gt; and drove through the countryside to Fluðir where our next hotel stay would be. The hotel had cute little cabins arranged around a central square and the room itself was comfy and warm. Our dinner was nice enough, although we had a bit of a Fawlty Towers moment with Ingrid’s chicken salad. First it went back because they didn’t leave the BBQ sauce off. Then it came back &lt;em&gt;with&lt;/em&gt; tomatoes. And then back again with more BBQ sauce. Fourth time lucky.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A trip to Iceland. Part 2: Reykjavík to Flu∂ir.</title>
-      <link>http://localhost:1313/posts/a-trip-to-iceland-part-2-all-the-waterfalls/</link>
+      <link>https://mattischrome.com/posts/a-trip-to-iceland-part-2-all-the-waterfalls/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-trip-to-iceland-part-2-all-the-waterfalls/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/iceland-part-one&#34;&gt;After a day on foot in Reykjavík&lt;/a&gt;, and with some trepidation, we returned to the car for our drive through Iceland&amp;rsquo;s countryside. We started by heading out on route 1, which is like Iceland&amp;rsquo;s M25 except that it encircles an entire country &lt;em&gt;and&lt;/em&gt; about thirty times fewer people. We went to house of Nobel Prize winner Halldór Laxness, only to be turned away because it was being renovated and wouldn&amp;rsquo;t open for another month. Undeterred, we pressed on toward &lt;a href=&#34;https://en.wikipedia.org/wiki/%C3%9Eingvellir&#34;&gt;Þingvellir&lt;/a&gt;, stopping off on the way to take pictures at a viewpoint. It was just crazy, a flat expanse of undisturbed snow. Just as with the drive from the airport, the territory should have been relentlessly bleak but instead we got a winter wonderland.&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/a-trip-to-iceland-part-2-all-the-waterfalls/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mattischrome.com/posts/iceland-part-one&#34;&gt;After a day on foot in Reykjavík&lt;/a&gt;, and with some trepidation, we returned to the car for our drive through Iceland&amp;rsquo;s countryside. We started by heading out on route 1, which is like Iceland&amp;rsquo;s M25 except that it encircles an entire country &lt;em&gt;and&lt;/em&gt; about thirty times fewer people. We went to house of Nobel Prize winner Halldór Laxness, only to be turned away because it was being renovated and wouldn&amp;rsquo;t open for another month. Undeterred, we pressed on toward &lt;a href=&#34;https://en.wikipedia.org/wiki/%C3%9Eingvellir&#34;&gt;Þingvellir&lt;/a&gt;, stopping off on the way to take pictures at a viewpoint. It was just crazy, a flat expanse of undisturbed snow. Just as with the drive from the airport, the territory should have been relentlessly bleak but instead we got a winter wonderland.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A trip to Iceland. Part 1: Reykjavík.</title>
-      <link>http://localhost:1313/posts/a-trip-to-iceland-part-1-reykjavik/</link>
+      <link>https://mattischrome.com/posts/a-trip-to-iceland-part-1-reykjavik/</link>
       <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-trip-to-iceland-part-1-reykjavik/</guid>
+      <guid>https://mattischrome.com/posts/a-trip-to-iceland-part-1-reykjavik/</guid>
       <description>&lt;p&gt;We arrived in Reykjavík a few days &lt;a href=&#34;https://weather.com/news/news/reykjavik-iceland-record-snowfall-february&#34;&gt;after a monumental snowstorm&lt;/a&gt;. As such the city was still under at least six inches of snow. We collected the hire car from the airport and drove out of Keflavik. The scenery normally looks like a moonscape, but for us it was a frosty white wonderland.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The same, but different</title>
-      <link>http://localhost:1313/posts/the-same-yet-different/</link>
+      <link>https://mattischrome.com/posts/the-same-yet-different/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-same-yet-different/</guid>
+      <guid>https://mattischrome.com/posts/the-same-yet-different/</guid>
       <description>&lt;p&gt;Ingrid and I got married a month ago. It was a lovely day. We had a simple ceremony with two witnesses, our friends Sue and Andrew. We kept it quiet and small, as we just wanted to be married without too much fuss. A month on, we&amp;rsquo;re happy to report that we are glad we did it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A little trip to Italy</title>
-      <link>http://localhost:1313/posts/a-little-trip-to-italy/</link>
+      <link>https://mattischrome.com/posts/a-little-trip-to-italy/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-little-trip-to-italy/</guid>
+      <guid>https://mattischrome.com/posts/a-little-trip-to-italy/</guid>
       <description>&lt;p&gt;We bought a cheap package holiday in the British Airways Black Friday sale. The weekend spanned Ingrid&amp;rsquo;s birthday, so it was ideal. £99 each for flights and a hotel, and we bagged a hire car quite cheaply too.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mira Schendel at Tate Modern</title>
-      <link>http://localhost:1313/posts/mira-schendel-tate-modern/</link>
+      <link>https://mattischrome.com/posts/mira-schendel-tate-modern/</link>
       <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mira-schendel-tate-modern/</guid>
+      <guid>https://mattischrome.com/posts/mira-schendel-tate-modern/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/artanddesign/2013/sep/29/mira-schendel-tate-modern-review&#34;&gt;Mira Schendel&lt;/a&gt; was a Brazilian artist who was active throughout the middle to late twentieth century. She is considered to be one of South America&amp;rsquo;s best artists. Known mostly for her abstract paintings, she also experimented with sculptures and installations. Many of her works use text and semiotics to explore and define possible meanings for more abstract works.&lt;/p&gt;</description>
     </item>
     <item>
       <title>South America, Part 12</title>
-      <link>http://localhost:1313/posts/south-america-trip-part-12/</link>
+      <link>https://mattischrome.com/posts/south-america-trip-part-12/</link>
       <pubDate>Tue, 19 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/south-america-trip-part-12/</guid>
+      <guid>https://mattischrome.com/posts/south-america-trip-part-12/</guid>
       <description></description>
     </item>
     <item>
       <title>Swaptastic Part 1</title>
-      <link>http://localhost:1313/posts/swaptastic-part-1/</link>
+      <link>https://mattischrome.com/posts/swaptastic-part-1/</link>
       <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/swaptastic-part-1/</guid>
+      <guid>https://mattischrome.com/posts/swaptastic-part-1/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../assets/images/other/StickersInThePost.jpg&#34; alt=&#34;Envelopes containing swaps that have arrived in the post in recent days.&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Werner Bischof: Point of View and Helvetica</title>
-      <link>http://localhost:1313/posts/werner-bischof-exhibitions/</link>
+      <link>https://mattischrome.com/posts/werner-bischof-exhibitions/</link>
       <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/werner-bischof-exhibitions/</guid>
+      <guid>https://mattischrome.com/posts/werner-bischof-exhibitions/</guid>
       <description>&lt;p&gt;2016 marks the centenary of the birth of &lt;a href=&#34;http://www.magnumphotos.com/C.aspx?VP3=CMS3&amp;amp;VF=MAGO31_9_VForm&amp;amp;ERID=24KL534M5N&#34;&gt;Werner Bischof&lt;/a&gt;, the talented Magnum photojournalist who died in Peru in 1954, aged 38. He travelled widely, making the most of an incredible talent for photography. After the second world war, this led him all over Europe to document its aftermath. As the cold war began, Bischof found himself documenting events further afield.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lausanne, Switzerland, March 2016</title>
-      <link>http://localhost:1313/posts/lausanne-march-2016/</link>
+      <link>https://mattischrome.com/posts/lausanne-march-2016/</link>
       <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lausanne-march-2016/</guid>
+      <guid>https://mattischrome.com/posts/lausanne-march-2016/</guid>
       <description>&lt;p&gt;Just before Easter Ingrid and I went to Lausanne in Switzerland for a few days. It was a much-needed break and my first trip out of the UK since I got back from South America.&lt;/p&gt;</description>
     </item>
     <item>
       <title>South America, Part 11</title>
-      <link>http://localhost:1313/posts/south-america-trip-part-11/</link>
+      <link>https://mattischrome.com/posts/south-america-trip-part-11/</link>
       <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/south-america-trip-part-11/</guid>
+      <guid>https://mattischrome.com/posts/south-america-trip-part-11/</guid>
       <description></description>
     </item>
     <item>
       <title>Another Reading List</title>
-      <link>http://localhost:1313/posts/another-reading-list/</link>
+      <link>https://mattischrome.com/posts/another-reading-list/</link>
       <pubDate>Mon, 25 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/another-reading-list/</guid>
+      <guid>https://mattischrome.com/posts/another-reading-list/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../assets/images/other/June-2012-Bookstack.jpg&#34; alt=&#34;More books to add to the “University of life” course list&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading list, mid-April 2012</title>
-      <link>http://localhost:1313/posts/reading-list-mid-april-2012/</link>
+      <link>https://mattischrome.com/posts/reading-list-mid-april-2012/</link>
       <pubDate>Fri, 20 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/reading-list-mid-april-2012/</guid>
+      <guid>https://mattischrome.com/posts/reading-list-mid-april-2012/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../assets/images/other/April-2012-Bookstack.jpg&#34; alt=&#34;A hefty reading list that should keep me occupied into the summer.&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tales From Home</title>
-      <link>http://localhost:1313/posts/tales-from-home/</link>
+      <link>https://mattischrome.com/posts/tales-from-home/</link>
       <pubDate>Fri, 24 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tales-from-home/</guid>
+      <guid>https://mattischrome.com/posts/tales-from-home/</guid>
       <description></description>
     </item>
     <item>
       <title>Movember 10K</title>
-      <link>http://localhost:1313/posts/movember-10k/</link>
+      <link>https://mattischrome.com/posts/movember-10k/</link>
       <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/movember-10k/</guid>
+      <guid>https://mattischrome.com/posts/movember-10k/</guid>
       <description>&lt;p&gt;So, Saturday. Finally. The big day. Would I a) be able to get to Greenwich in time for the registration? and b) be able to make it all the way around the course without collapsing and crying?&lt;/p&gt;</description>
     </item>
   </channel>

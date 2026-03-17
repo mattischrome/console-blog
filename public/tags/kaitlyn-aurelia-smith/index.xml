@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaitlyn Aurelia Smith on mattischrome</title>
-    <link>http://localhost:1313/tags/kaitlyn-aurelia-smith/</link>
+    <link>https://mattischrome.com/tags/kaitlyn-aurelia-smith/</link>
     <description>Recent content in Kaitlyn Aurelia Smith on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 15 Nov 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/kaitlyn-aurelia-smith/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/kaitlyn-aurelia-smith/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Will Make Room For You - Four Tet Remix</title>
-      <link>http://localhost:1313/posts/i-will-make-room-for-you---four-tet-remix/</link>
+      <link>https://mattischrome.com/posts/i-will-make-room-for-you---four-tet-remix/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/i-will-make-room-for-you---four-tet-remix/</guid>
+      <guid>https://mattischrome.com/posts/i-will-make-room-for-you---four-tet-remix/</guid>
       <description>&lt;p&gt;In a perfect confluence of &lt;a href=&#34;album-digest-october-2011&#34;&gt;last month&amp;rsquo;s album digest&lt;/a&gt;, here&amp;rsquo;s an excellent Four Tet remix of Kaitlyn Aurelia Smith&amp;rsquo;s &amp;ldquo;I Will Make Room For You&amp;rdquo; from her album &amp;ldquo;The Kid&amp;rdquo;. I&amp;rsquo;ve put it into a playlist with &amp;ldquo;Lush&amp;rdquo; from Four Tet&amp;rsquo;s &amp;ldquo;New Energy&amp;rdquo; album and the original version of &amp;ldquo;I Will Make Room For You.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Album Digest, October 2017</title>
-      <link>http://localhost:1313/posts/album-digest-october-2017/</link>
+      <link>https://mattischrome.com/posts/album-digest-october-2017/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-october-2017/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-october-2017/</guid>
       <description></description>
     </item>
     <item>
       <title>Album Digest, September 2016</title>
-      <link>http://localhost:1313/posts/album-digest-september-2016/</link>
+      <link>https://mattischrome.com/posts/album-digest-september-2016/</link>
       <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-september-2016/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-september-2016/</guid>
       <description>&lt;p&gt;This month&amp;rsquo;s album digest features albums by Wilco, M.I.A., Local Natives, and a collaboration between Kaitlyn Aurelia Smith and Suzanne Ciani.&lt;/p&gt;</description>
     </item>
   </channel>

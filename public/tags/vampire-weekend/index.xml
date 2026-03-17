@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vampire Weekend on mattischrome</title>
-    <link>http://localhost:1313/tags/vampire-weekend/</link>
+    <link>https://mattischrome.com/tags/vampire-weekend/</link>
     <description>Recent content in Vampire Weekend on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 31 May 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/vampire-weekend/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/vampire-weekend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, May 2013</title>
-      <link>http://localhost:1313/posts/album-digest-may-2013/</link>
+      <link>https://mattischrome.com/posts/album-digest-may-2013/</link>
       <pubDate>Fri, 31 May 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-may-2013/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-may-2013/</guid>
       <description></description>
     </item>
   </channel>

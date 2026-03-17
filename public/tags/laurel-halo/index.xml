@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laurel Halo on mattischrome</title>
-    <link>http://localhost:1313/tags/laurel-halo/</link>
+    <link>https://mattischrome.com/tags/laurel-halo/</link>
     <description>Recent content in Laurel Halo on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 31 Aug 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/laurel-halo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/laurel-halo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, August 2012</title>
-      <link>http://localhost:1313/posts/album-digest-august-2012/</link>
+      <link>https://mattischrome.com/posts/album-digest-august-2012/</link>
       <pubDate>Fri, 31 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/album-digest-august-2012/</guid>
+      <guid>https://mattischrome.com/posts/album-digest-august-2012/</guid>
       <description>&lt;p&gt;Album Digest August 2012 is also from the stack of albums that I &lt;a href=&#34;album-digest-july-2012&#34;&gt;mentioned last month&lt;/a&gt;. I chose this selection (along with the Passion Pit album) because the colours looked good together in the mosaic of covers that I make each month. Last month’s digest was about the right amount of detail so this will be another briefer digest. These are all good albums but not ones that will change your life, they&amp;rsquo;ll just happily sit alongside it. They are:&lt;/p&gt;</description>
     </item>
   </channel>

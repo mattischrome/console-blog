@@ -2,290 +2,290 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogging on mattischrome</title>
-    <link>http://localhost:1313/tags/blogging/</link>
+    <link>https://mattischrome.com/tags/blogging/</link>
     <description>Recent content in Blogging on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattischrome.com/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post Statistics, Part 2</title>
-      <link>http://localhost:1313/posts/post-statistics-part-2/</link>
+      <link>https://mattischrome.com/posts/post-statistics-part-2/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-statistics-part-2/</guid>
+      <guid>https://mattischrome.com/posts/post-statistics-part-2/</guid>
       <description>&lt;p&gt;Here are some more stats about the blog after I ran out of time yesterday due to&#xA;data cleaning! This time I&amp;rsquo;ve taken the date of each post and extracted the&#xA;month and year. Then I added the number of posts in each month and the number of&#xA;words written. I had to left join on the complete time span between August 2010&#xA;and February 2025, filling in any NA values for the zeros that were missing&#xA;before I did that.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post Statistics</title>
-      <link>http://localhost:1313/posts/post-statistics/</link>
+      <link>https://mattischrome.com/posts/post-statistics/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-statistics/</guid>
+      <guid>https://mattischrome.com/posts/post-statistics/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s of graph of how the number of posts and the total word count on mattischrome has evolved over the years:&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Collection of Links About Blogging</title>
-      <link>http://localhost:1313/posts/a-collection-of-links-about-blogging/</link>
+      <link>https://mattischrome.com/posts/a-collection-of-links-about-blogging/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-collection-of-links-about-blogging/</guid>
+      <guid>https://mattischrome.com/posts/a-collection-of-links-about-blogging/</guid>
       <description>&lt;p&gt;If you are thinking about making your own blog, here are some links to help you on your way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>All Part of the Process</title>
-      <link>http://localhost:1313/posts/all-part-of-the-process/</link>
+      <link>https://mattischrome.com/posts/all-part-of-the-process/</link>
       <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/all-part-of-the-process/</guid>
+      <guid>https://mattischrome.com/posts/all-part-of-the-process/</guid>
       <description>&lt;p&gt;Writing a blog post every day is not essential. It&amp;rsquo;s not part of some new year&amp;rsquo;s resolution, despite the fact that the start of this unbroken streak of posts was January 1st. If anything my new year&amp;rsquo;s resolution has been to try and step gently away from my perfection. And the adoption of that resolution began in the middle of 2024 rather than new year&amp;rsquo;s day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Incredible Shrinking Blog Post</title>
-      <link>http://localhost:1313/posts/the-incredible-shrinking-blog-post/</link>
+      <link>https://mattischrome.com/posts/the-incredible-shrinking-blog-post/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-incredible-shrinking-blog-post/</guid>
+      <guid>https://mattischrome.com/posts/the-incredible-shrinking-blog-post/</guid>
       <description>&lt;p&gt;The problem with keeping up a blog streak for however many days it is now is that you don&amp;rsquo;t actually get a huge amount of time to think of ideas for posts and actually write them. Ironically, I&amp;rsquo;ve been thinking about this post for a while though.&lt;/p&gt;</description>
     </item>
     <item>
       <title>More Uses For Little Notebooks</title>
-      <link>http://localhost:1313/posts/more-uses-for-little-notebooks/</link>
+      <link>https://mattischrome.com/posts/more-uses-for-little-notebooks/</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/more-uses-for-little-notebooks/</guid>
+      <guid>https://mattischrome.com/posts/more-uses-for-little-notebooks/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m an avid collector of small notebooks. So much so that I have a box full of them in my office. I&amp;rsquo;m not afraid of writing in them, it&amp;rsquo;s just that I&amp;rsquo;ve bought so many over the years I can&amp;rsquo;t get through them quick enough.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Into February</title>
-      <link>http://localhost:1313/posts/into-february/</link>
+      <link>https://mattischrome.com/posts/into-february/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/into-february/</guid>
+      <guid>https://mattischrome.com/posts/into-february/</guid>
       <description>&lt;p&gt;Having made it to one post per day in January, we now move into February: that graveyard of good habits for the new year. What is it about flipping over the calendar to a new month that does away with our resolve to continue with our resolutions? My office calendar has a lovely picture of a German steam train in the snow, in case you were wondering.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dithering Around</title>
-      <link>http://localhost:1313/posts/dithering-around/</link>
+      <link>https://mattischrome.com/posts/dithering-around/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dithering-around/</guid>
+      <guid>https://mattischrome.com/posts/dithering-around/</guid>
       <description>&lt;p&gt;While off sick and under the weather I decided to play around with presenting the photos on this blog in a fashion more in keeping with the current Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Push the right key</title>
-      <link>http://localhost:1313/posts/push-the-right-key/</link>
+      <link>https://mattischrome.com/posts/push-the-right-key/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/push-the-right-key/</guid>
+      <guid>https://mattischrome.com/posts/push-the-right-key/</guid>
       <description>&lt;p&gt;One of the absurd barriers to writing regularly is that my new post script is written to open the new markdown file in Neovim and until this week I had no idea how to type a hashtag (which markdown uses for headers) in this editor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nineteen Out Of Nineteen?</title>
-      <link>http://localhost:1313/posts/nineteen-out-of-nineteen/</link>
+      <link>https://mattischrome.com/posts/nineteen-out-of-nineteen/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nineteen-out-of-nineteen/</guid>
+      <guid>https://mattischrome.com/posts/nineteen-out-of-nineteen/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m having trouble finding something to write about today. Partly the problem of having a productive weekend of doing things rather than ruminating on blog topics. So unfortunately, we get another space-filling post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fun With Chat-GPT</title>
-      <link>http://localhost:1313/posts/fun-with-chatgpt/</link>
+      <link>https://mattischrome.com/posts/fun-with-chatgpt/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fun-with-chatgpt/</guid>
+      <guid>https://mattischrome.com/posts/fun-with-chatgpt/</guid>
       <description>&lt;p&gt;I asked:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Don&#39;t Break The Chain</title>
-      <link>http://localhost:1313/posts/dont-break-the-chain/</link>
+      <link>https://mattischrome.com/posts/dont-break-the-chain/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dont-break-the-chain/</guid>
+      <guid>https://mattischrome.com/posts/dont-break-the-chain/</guid>
       <description>&lt;p&gt;2025 might be a tough year, but I am going to try and blog every day. It means that now and then I might be writing a post like this one, where I am writing for the sake of continuing the streak. If I find myself doing that too often then I will take the hint and stop trying!&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Orphan Project</title>
-      <link>http://localhost:1313/posts/the-orphan-project/</link>
+      <link>https://mattischrome.com/posts/the-orphan-project/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-orphan-project/</guid>
+      <guid>https://mattischrome.com/posts/the-orphan-project/</guid>
       <description>&lt;p&gt;A nice feature I added to this blog in its recent update was a &lt;a href=&#34;https://mattischrome.com/tags/&#34;&gt;tags page&lt;/a&gt;. With the help of this &lt;a href=&#34;https://discourse.gohugo.io/t/how-to-get-a-tags-page/24213/4&#34;&gt;very useful discourse thread&lt;/a&gt; and some additional CSS tweaks, the resulting page is something that I am very happy with. It lists all of the tags that apply to any post, along with the number of posts with that tag, in alphabetical order. It&amp;rsquo;s mostly intended as a guide for you the reader, to help you see whether your preoccupations match my own.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The new look mattischrome</title>
-      <link>http://localhost:1313/posts/new-look-mattischrome/</link>
+      <link>https://mattischrome.com/posts/new-look-mattischrome/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/new-look-mattischrome/</guid>
+      <guid>https://mattischrome.com/posts/new-look-mattischrome/</guid>
       <description>&lt;p&gt;Welcome to the new look for my blog. I&amp;rsquo;ve had my eye on a more minimal look for a while now. Whether this new look is successful or not depends on how often I write new posts. To that end, this theme also supports a separate (or almost separate) stream of photos. Once I&amp;rsquo;ve got back in to the habit of putting photos up, that should be a nice additional stream of content.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unindexed?</title>
-      <link>http://localhost:1313/posts/unindexed/</link>
+      <link>https://mattischrome.com/posts/unindexed/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/unindexed/</guid>
+      <guid>https://mattischrome.com/posts/unindexed/</guid>
       <description>&lt;p&gt;There was &lt;a href=&#34;https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization&#34;&gt;an excellent article on The Verge yesterday about how Google is transforming the kinds of sites and blogs that are on the internet&lt;/a&gt;. I also read &lt;a href=&#34;https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/&#34;&gt;this slightly more personal take by Jason Velasquez&lt;/a&gt;, which is more about how social networks have gobbled up all the time and attention of people who might otherwise be making interesting web sites. This has made me think deeply about what this blog is &lt;em&gt;for&lt;/em&gt;, and why I might continue to blog in Twenty Twenty Four.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some Git Instructions for Future Matt</title>
-      <link>http://localhost:1313/posts/git-instructions-for-future-matt/</link>
+      <link>https://mattischrome.com/posts/git-instructions-for-future-matt/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/git-instructions-for-future-matt/</guid>
+      <guid>https://mattischrome.com/posts/git-instructions-for-future-matt/</guid>
       <description>&lt;p&gt;Dear Future Matt,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reflections on 2023</title>
-      <link>http://localhost:1313/posts/reflections-2023/</link>
+      <link>https://mattischrome.com/posts/reflections-2023/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/reflections-2023/</guid>
+      <guid>https://mattischrome.com/posts/reflections-2023/</guid>
       <description>&lt;p&gt;Here are some reflections on 2023.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023 Albums of the Year Preview</title>
-      <link>http://localhost:1313/posts/albums-of-the-year-preview/</link>
+      <link>https://mattischrome.com/posts/albums-of-the-year-preview/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/albums-of-the-year-preview/</guid>
+      <guid>https://mattischrome.com/posts/albums-of-the-year-preview/</guid>
       <description>&lt;p&gt;Another year (nearly) over and so starting from tomorrow, I&amp;rsquo;m going to count down my top 10 albums of 2023. The rules are:&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is in my Rakefile? (March 2023 edition)</title>
-      <link>http://localhost:1313/posts/what-is-in-my-rakefile-march-2023-edition/</link>
+      <link>https://mattischrome.com/posts/what-is-in-my-rakefile-march-2023-edition/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/what-is-in-my-rakefile-march-2023-edition/</guid>
+      <guid>https://mattischrome.com/posts/what-is-in-my-rakefile-march-2023-edition/</guid>
       <description>&lt;p&gt;Because I am bored of forgetting what&amp;rsquo;s in my website&amp;rsquo;s Rakefile, I thought I&amp;rsquo;d write a list. Also, as I&amp;rsquo;m probably going to move over to a node based approach soon, it&amp;rsquo;s a handy wish list for my &lt;code&gt;package.json&lt;/code&gt; file when the time comes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The paths in the wood</title>
-      <link>http://localhost:1313/posts/the-paths-in-the-wood/</link>
+      <link>https://mattischrome.com/posts/the-paths-in-the-wood/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-paths-in-the-wood/</guid>
+      <guid>https://mattischrome.com/posts/the-paths-in-the-wood/</guid>
       <description>&lt;p&gt;I began writing this post after realising that it is the first of June and I might as well attempt once more to write a post every day. The speed with which the first of the month comes around, inviting another such promise, always amuses me. But at the moment I am not sure whether this blog will still exist come the end of the month. I think I want to start again in pastures new.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A February Project</title>
-      <link>http://localhost:1313/posts/second-february-post/</link>
+      <link>https://mattischrome.com/posts/second-february-post/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/second-february-post/</guid>
+      <guid>https://mattischrome.com/posts/second-february-post/</guid>
       <description>&lt;p&gt;Hmmm it seems as though the &lt;code&gt;ffi&lt;/code&gt; gem as installed by bundler is not compatible with a Mac that has an M1 chip. This limits my ability to preview blog posts locally. I might have to swap to a more modern static site generator (which is probably easier than working out what &lt;code&gt;ffi&lt;/code&gt; actually does) - seems like a good February project!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Checking In</title>
-      <link>http://localhost:1313/posts/first-of-feb-post/</link>
+      <link>https://mattischrome.com/posts/first-of-feb-post/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-of-feb-post/</guid>
+      <guid>https://mattischrome.com/posts/first-of-feb-post/</guid>
       <description>&lt;p&gt;Despite my best intentions, I didn’t manage to continue writing posts after the first day of 2022! But perhaps now I can try again as an excuse to test my blogging set up on my new computer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sprucing up the Blog</title>
-      <link>http://localhost:1313/posts/sprucing-up-the-blog/</link>
+      <link>https://mattischrome.com/posts/sprucing-up-the-blog/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sprucing-up-the-blog/</guid>
+      <guid>https://mattischrome.com/posts/sprucing-up-the-blog/</guid>
       <description>&lt;p&gt;This post explains some of the modifications I made to a minimal Jekyll theme to get this blog as I wanted it. This blog (currently) uses the excellent &lt;a href=&#34;https://sidey-jekyll.netlify.app/about&#34;&gt;Sidey theme&lt;/a&gt; by &lt;a href=&#34;https://www.ronaldsvilcins.com&#34;&gt;Ronalds Vilciņš&lt;/a&gt;. His site looks eerily similar to this one, at least at time of writing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ambitions Revisited</title>
-      <link>http://localhost:1313/posts/ambitions-revisited/</link>
+      <link>https://mattischrome.com/posts/ambitions-revisited/</link>
       <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ambitions-revisited/</guid>
-      <description>&lt;p&gt;Back in 2012 &lt;a href=&#34;http://localhost:1313/ambitions&#34;&gt;I wrote a post&lt;/a&gt; listing my ambitions for the future. Well it&amp;rsquo;s the future now isn&amp;rsquo;t it? Almost. After all, &lt;a href=&#34;https://www.quora.com/How-long-does-it-take-for-most-of-the-atoms-in-your-body-to-be-replaced-by-others&#34;&gt;I’m a whole new person now&lt;/a&gt;. Anyway it&amp;rsquo;s probably time to take stock. Have I achieved any of them? Have any of my ambitions changed? What&amp;rsquo;s replaced the things that I&amp;rsquo;ve decided not to worry about? What has come after the things I managed to do?&lt;/p&gt;</description>
+      <guid>https://mattischrome.com/posts/ambitions-revisited/</guid>
+      <description>&lt;p&gt;Back in 2012 &lt;a href=&#34;https://mattischrome.com/ambitions&#34;&gt;I wrote a post&lt;/a&gt; listing my ambitions for the future. Well it&amp;rsquo;s the future now isn&amp;rsquo;t it? Almost. After all, &lt;a href=&#34;https://www.quora.com/How-long-does-it-take-for-most-of-the-atoms-in-your-body-to-be-replaced-by-others&#34;&gt;I’m a whole new person now&lt;/a&gt;. Anyway it&amp;rsquo;s probably time to take stock. Have I achieved any of them? Have any of my ambitions changed? What&amp;rsquo;s replaced the things that I&amp;rsquo;ve decided not to worry about? What has come after the things I managed to do?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reboot</title>
-      <link>http://localhost:1313/posts/reboot/</link>
+      <link>https://mattischrome.com/posts/reboot/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/reboot/</guid>
+      <guid>https://mattischrome.com/posts/reboot/</guid>
       <description>&lt;p&gt;As much as I hate to write about writing, especially when I write so infrequently, I feel I need to reboot this blog. I wrote so few posts in recent months I considered giving up altogether.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Diary?</title>
-      <link>http://localhost:1313/posts/a-diary/</link>
+      <link>https://mattischrome.com/posts/a-diary/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-diary/</guid>
+      <guid>https://mattischrome.com/posts/a-diary/</guid>
       <description>&lt;p&gt;This year promises to be exciting so this week I tried to buy a diary. One of those day-to-a-page affairs for scribbling down all the things I&amp;rsquo;ve seen and learned about. I thought they might be cheap now the calendar is turning to February. No such luck. There were a few week-to-view diaries going for half price in Waterstones but nothing suitable for my needs. I have lots of Field Notes notebooks if my urge to write gets too much to resist.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Valleys</title>
-      <link>http://localhost:1313/posts/valleys/</link>
+      <link>https://mattischrome.com/posts/valleys/</link>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/valleys/</guid>
+      <guid>https://mattischrome.com/posts/valleys/</guid>
       <description>&lt;p&gt;In my last post, I wrote about hills. I tried to use them as a metaphor to explain nagging sense of incompletion when you single out one activity over another. The feeling that there&amp;rsquo;s always a more exciting hill off in the distance to go climb, instead of the one you&amp;rsquo;re on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hills</title>
-      <link>http://localhost:1313/posts/hills/</link>
+      <link>https://mattischrome.com/posts/hills/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hills/</guid>
+      <guid>https://mattischrome.com/posts/hills/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a big fan of books. The way they transport you away to other places and so on. As repositories of knowledge and adventure they can&amp;rsquo;t be beat. I can think of no better way out of an existential fix than reading.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Changes</title>
-      <link>http://localhost:1313/posts/changes/</link>
+      <link>https://mattischrome.com/posts/changes/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/changes/</guid>
+      <guid>https://mattischrome.com/posts/changes/</guid>
       <description></description>
     </item>
     <item>
       <title>I Don&#39;t Have a Clue, part 43</title>
-      <link>http://localhost:1313/posts/no-clue-part-43/</link>
+      <link>https://mattischrome.com/posts/no-clue-part-43/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/no-clue-part-43/</guid>
+      <guid>https://mattischrome.com/posts/no-clue-part-43/</guid>
       <description>&lt;p&gt;&lt;em&gt;A little man wearing a bow tie, and possibly a fez, scurries into the middle of the frame clutching a clapboard. Breathing heavily he hoists the clapboard up to chest height. He holds the clapper up then brings down while slurring &amp;quot;This is a blog post about not having a clue, take 43&amp;quot;. He exits to the right of the frame.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Long Post</title>
-      <link>http://localhost:1313/posts/the-long-post/</link>
+      <link>https://mattischrome.com/posts/the-long-post/</link>
       <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-long-post/</guid>
+      <guid>https://mattischrome.com/posts/the-long-post/</guid>
       <description>&lt;p&gt;I am writing a long post that I will either publish as one long post (about five or six thousand words) or as about seven smaller ones each closer to the average post length of about eight hundred words. I have to get it out-of-the-way soon as my mind needs to focus on my health economics essay.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Time Is Time and That Is That</title>
-      <link>http://localhost:1313/posts/time-is-time-and-that-is-that/</link>
+      <link>https://mattischrome.com/posts/time-is-time-and-that-is-that/</link>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/time-is-time-and-that-is-that/</guid>
+      <guid>https://mattischrome.com/posts/time-is-time-and-that-is-that/</guid>
       <description>&lt;p&gt;A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Little Bit Intimidating Really</title>
-      <link>http://localhost:1313/posts/a-little-bit-intimidating-really/</link>
+      <link>https://mattischrome.com/posts/a-little-bit-intimidating-really/</link>
       <pubDate>Sun, 22 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-little-bit-intimidating-really/</guid>
+      <guid>https://mattischrome.com/posts/a-little-bit-intimidating-really/</guid>
       <description>&lt;p&gt;There is so much good writing out there. All you have to do is fire up &lt;a href=&#34;http://www.theguardian.com/uk/&#34;&gt;the guardian website&lt;/a&gt;, or download the &lt;a href=&#34;https://medium.com/m/app&#34;&gt;medium app to your smartphone&lt;/a&gt;, or visit &lt;a href=&#34;http://xianity.me/&#34;&gt;my friend Barrie&amp;rsquo;s site&lt;/a&gt;, or &lt;a href=&#34;https://narami.wordpress.com/&#34;&gt;Lee&amp;rsquo;s&lt;/a&gt;, and so on and so on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Writing As It Happens</title>
-      <link>http://localhost:1313/posts/writing-as-it-happens/</link>
+      <link>https://mattischrome.com/posts/writing-as-it-happens/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/writing-as-it-happens/</guid>
+      <guid>https://mattischrome.com/posts/writing-as-it-happens/</guid>
       <description>&lt;p&gt;I’m pretty close to a round number. To date I have written 298,500 words for this blog, not counting posts that I have discarded or deleted. This will be the 505th post currently on the blog, which makes for an average of just under 600 words per post. Some posts are just a picture or a video or a gallery though, so that distorts the average a bit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Jackson X</title>
-      <link>http://localhost:1313/posts/jackson-x/</link>
+      <link>https://mattischrome.com/posts/jackson-x/</link>
       <pubDate>Sun, 15 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jackson-x/</guid>
+      <guid>https://mattischrome.com/posts/jackson-x/</guid>
       <description>&lt;p&gt;I set myself the task of writing about a fictional character for this blog post, so this post is about Jackson X. His surname isn’t really X, it’s just one of the details about him that I haven’t fleshed out yet. This is because Jackson X is the one of the protagonists of the novel I’m (not) writing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On convictions, whereas to the strength of and belief in same</title>
-      <link>http://localhost:1313/posts/on-conviction-and-belief/</link>
+      <link>https://mattischrome.com/posts/on-conviction-and-belief/</link>
       <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/on-conviction-and-belief/</guid>
+      <guid>https://mattischrome.com/posts/on-conviction-and-belief/</guid>
       <description>&lt;p&gt;Overlong reflection upon the past is one sure way to make yourself unhappy so I try to avoid it. Nevertheless it becomes unavoidable at this time of year, especially if, like me, you are somewhat prone to reflection.&lt;/p&gt;</description>
     </item>
     <item>
       <title>October and November 2014</title>
-      <link>http://localhost:1313/posts/october-november-2014/</link>
+      <link>https://mattischrome.com/posts/october-november-2014/</link>
       <pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/october-november-2014/</guid>
+      <guid>https://mattischrome.com/posts/october-november-2014/</guid>
       <description>&lt;p&gt;I recently started a new job and moved in to a new flat. This means I&amp;rsquo;m too busy to write any long blog posts at the moment. Also I&amp;rsquo;m still not quite at home there, so I tend to spend my evenings tidying up or setting up new things. It&amp;rsquo;s a shame because I have plenty of things to write about (even without observations on moving, starting a new job, etc) but I guess the writing will happen eventually&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Useful Ulysses</title>
-      <link>http://localhost:1313/posts/useful-ulysses/</link>
+      <link>https://mattischrome.com/posts/useful-ulysses/</link>
       <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/useful-ulysses/</guid>
+      <guid>https://mattischrome.com/posts/useful-ulysses/</guid>
       <description></description>
     </item>
     <item>
       <title>Net Loss</title>
-      <link>http://localhost:1313/posts/net-loss/</link>
+      <link>https://mattischrome.com/posts/net-loss/</link>
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/net-loss/</guid>
+      <guid>https://mattischrome.com/posts/net-loss/</guid>
       <description>&lt;p&gt;I pay to have this blog up and running. That is, I pay for the space where it is stored and I pay for the name. I have to look after all the files and plug-ins, I have to perform all the updates and optimise the database tables. All this is great fun but wouldn’t it be cheaper to slap the mattischro.me address onto a hosted WordPress.com account?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Five lessons from a year of blogging</title>
-      <link>http://localhost:1313/posts/five-lessons-from-a-year-of-blogging/</link>
+      <link>https://mattischrome.com/posts/five-lessons-from-a-year-of-blogging/</link>
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/five-lessons-from-a-year-of-blogging/</guid>
+      <guid>https://mattischrome.com/posts/five-lessons-from-a-year-of-blogging/</guid>
       <description>&lt;p&gt;I have now been writing decent length articles on this site for about a year. I have learned a lot in this time, mostly about writing but also how to express your feelings and how to marshal your ideas and passions into action. For this month’s “five on the fifth”, I would like to share  with you some of the things I have learned.&lt;/p&gt;</description>
     </item>
   </channel>
