@@ -7,3 +7,5 @@ scripts/
 resources/
 CLAUDE.md
 Theme_Publishing_Plan.md
+.DS_Store
+content/.DS_Store
