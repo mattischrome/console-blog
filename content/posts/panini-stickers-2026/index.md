@@ -10,10 +10,10 @@ Ten years ago, ahead of the 2016 European Championship, I wrote a few posts abou
 
 ### Previous posts
 
-+ In [**Euro 2016 Panini Stickers**]({{< "/posts/euro-2016-panini-stickers/" >}}), I wrote a bit about the setup of things (updated below) and showed off how you can use the Hypergeometric distribution to work out how many stickers you are going to be able to put into your album when you open a packet.
-+ Of course it's fairly obvious that you fill the album quicker if you have friends to swap stickers with. There was no maths or stats content in [**Swaptastic Part 1**]({{< "/posts/swaptastic-part-1" >}}), just some pictures of envelopes I'd received in the mail with stickers in.
-+ In [**Part 2**]({{< "/posts/swaptastic-part-2" >}}), I went into some more detail about a model I'd made for evaluating the impact of having peers to swap with. It was a rather brute force R model, but it showed that you can significantly reduce the number of packets you have to buy if you have about four or five people to swap with.
-+ For [**Part 3**]({{< "/posts/swaptastic-part-3" >}}), I built a Shiny app that lets you see the results of the swapping model interactively. It's hosted on the [Shiny Apps website](https://www.shinyapps.io) and I'm pleased to say that it still works ten years later!
++ In [**Euro 2016 Panini Stickers**]({{< ref "/posts/euro-2016-panini-stickers/" >}}), I wrote a bit about the setup of things (updated below) and showed off how you can use the Hypergeometric distribution to work out how many stickers you are going to be able to put into your album when you open a packet.
++ Of course it's fairly obvious that you fill the album quicker if you have friends to swap stickers with. There was no maths or stats content in [**Swaptastic Part 1**]({{< ref "/posts/swaptastic-part-1" >}}), just some pictures of envelopes I'd received in the mail with stickers in.
++ In [**Part 2**]({{< ref "/posts/swaptastic-part-2" >}}), I went into some more detail about a model I'd made for evaluating the impact of having peers to swap with. It was a rather brute force R model, but it showed that you can significantly reduce the number of packets you have to buy if you have about four or five people to swap with.
++ For [**Part 3**]({{< ref "/posts/swaptastic-part-3" >}}), I built a Shiny app that lets you see the results of the swapping model interactively. It's hosted on the [Shiny Apps website](https://www.shinyapps.io) and I'm pleased to say that it still works ten years later!
 
 ### What has changed since 2016
 
