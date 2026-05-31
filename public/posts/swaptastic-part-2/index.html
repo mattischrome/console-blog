@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-gb" dir="ltr">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -101,7 +101,7 @@
     <p>As a follow-up to my post about the <a href="/euro-2016-panini-stickers/">Euro 2016 Panini Stickers</a>, I&rsquo;ve now completed the collection with <a href="/swaptastic-part-1/">the help of an online swapping site</a> and by buying the last 39 stickers directly from Panini. I also managed to write a new simulator, this time with additional collectors involved.</p>
 <p>I assume that each of N collectors will buy a packet of stickers and add any new stickers to their album. Then they attempt to swap any leftovers with the rest of their friends. The intersect function in R makes this pretty easy to code up. Every collector who finishes the album stops buying stickers.</p>
 <p>Here&rsquo;s the R code for a single simulation of the swapping algorithm, with defaults for the Euro 2016 album:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>stickerswaps <span style="color:#f92672">&lt;-</span> <span style="color:#66d9ef">function</span>(number.collectors<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>, number.stickers<span style="color:#f92672">=</span><span style="color:#ae81ff">680</span>,
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>stickerswaps <span style="color:#f92672">&lt;-</span> <span style="color:#66d9ef">function</span>(number.collectors<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>, number.stickers<span style="color:#f92672">=</span><span style="color:#ae81ff">680</span>,
 </span></span><span style="display:flex;"><span>pack.size<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>, packs.purchased<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>, target.collections<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>, cutoff<span style="color:#f92672">=</span><span style="color:#ae81ff">50</span>)
 </span></span><span style="display:flex;"><span>{
 </span></span><span style="display:flex;"><span>  pack.price<span style="color:#f92672">&lt;-</span><span style="color:#ae81ff">0.5</span>
@@ -209,7 +209,7 @@
       <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--next">
         &#10142;
       </div>
-      <a href="https://mattischrome.com/posts/album-digest-june-2016/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: Album Digest, June 2016">Album Digest, June 2016</a>
+      <a href="http://localhost:1313/posts/album-digest-june-2016/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: Album Digest, June 2016">Album Digest, June 2016</a>
     </div>
     
   
@@ -218,11 +218,11 @@
       <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--prev">
         &#10142;
       </div>
-      <a href="https://mattischrome.com/posts/in-the-space-between-this-and-that/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: In the space between this and that">In the space between this and that</a>
+      <a href="http://localhost:1313/posts/in-the-space-between-this-and-that/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: In the space between this and that">In the space between this and that</a>
     </div>
     
   
-    <a href="https://mattischrome.com/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
+    <a href="http://localhost:1313/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
 </div>
 
 

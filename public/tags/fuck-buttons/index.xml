@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fuck Buttons on mattischrome</title>
-    <link>https://mattischrome.com/tags/fuck-buttons/</link>
+    <link>http://localhost:1313/tags/fuck-buttons/</link>
     <description>Recent content in Fuck Buttons on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 31 Jul 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/fuck-buttons/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fuck-buttons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Digest, July 2013</title>
-      <link>https://mattischrome.com/posts/album-digest-july-2013/</link>
+      <link>http://localhost:1313/posts/album-digest-july-2013/</link>
       <pubDate>Wed, 31 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/album-digest-july-2013/</guid>
+      <guid>http://localhost:1313/posts/album-digest-july-2013/</guid>
       <description>&lt;p&gt;Another four albums for you this month. Sometimes the problem is not finding albums to listen to but actually finding time to listen to them! Often it is not because I don&amp;rsquo;t have time but because I have already found some great albums this month and I am busy listening to those instead. As a result, a couple of these albums are ones that I have only listened to for a week or so, but they are interesting enough to write about. Here are the four albums I am going to write about this month:&lt;/p&gt;</description>
     </item>
   </channel>

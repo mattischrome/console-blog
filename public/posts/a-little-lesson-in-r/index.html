@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-gb" dir="ltr">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -93,7 +93,7 @@
 <p>I decided to use <code>dplyr</code> because I thought it would help me organise all subgroups involved. I used <a href="http://dplyr.tidyverse.org/reference/summarise_all.html"><code>mutate_at()</code></a> heavily and thought that <code>dplyr</code> was keeping everything organised. However, when I moved from the 10 samples I&rsquo;d used for testing to the 100,000 samples required by the specification of the indicator, my code moved to a crawl. Fearing that my work laptop was a little puny, I left it running overnight on my Mac and by morning R was still holding up its infuriating little stop sign.</p>
 <p>So how could I fix it? The programmer in me returned to the for loops that I&rsquo;d tried to avoid. I overhauled the code using base R and vectorised <code>sapply</code> commands. These were handy, cutting out some of the loops, though I still used a loop for each of the sites. This is not an unfamiliar approach for me: I used the same technique to run my <a href="/posts/swaptastic-part-2">sticker swapping simulations</a> last year. The original <code>dplyr</code> commands aren&rsquo;t designed for passing around so many numbers about, at least not in this particular way.</p>
 <p>In the end most of the work was done by this single line of code:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#a6e22e">sapply</span>(<span style="color:#a6e22e">sapply</span>(<span style="color:#a6e22e">rep</span>(<span style="color:#ae81ff">1</span>,num_samples), 
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#a6e22e">sapply</span>(<span style="color:#a6e22e">sapply</span>(<span style="color:#a6e22e">rep</span>(<span style="color:#ae81ff">1</span>,num_samples), 
 </span></span><span style="display:flex;"><span>               runif),
 </span></span><span style="display:flex;"><span>        qnorm,
 </span></span><span style="display:flex;"><span>        sample_mean,
@@ -137,7 +137,7 @@
       <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--next">
         &#10142;
       </div>
-      <a href="https://mattischrome.com/posts/beetroot-bolognaise/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: Beetroot Bolognaise">Beetroot Bolognaise</a>
+      <a href="http://localhost:1313/posts/beetroot-bolognaise/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: Beetroot Bolognaise">Beetroot Bolognaise</a>
     </div>
     
   
@@ -146,11 +146,11 @@
       <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--prev">
         &#10142;
       </div>
-      <a href="https://mattischrome.com/posts/suits-me/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: Suits Me">Suits Me</a>
+      <a href="http://localhost:1313/posts/suits-me/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: Suits Me">Suits Me</a>
     </div>
     
   
-    <a href="https://mattischrome.com/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
+    <a href="http://localhost:1313/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
 </div>
 
 

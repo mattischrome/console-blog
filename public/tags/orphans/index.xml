@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Orphans on mattischrome</title>
-    <link>https://mattischrome.com/tags/orphans/</link>
+    <link>http://localhost:1313/tags/orphans/</link>
     <description>Recent content in Orphans on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/orphans/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/orphans/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Orphan Project</title>
-      <link>https://mattischrome.com/posts/the-orphan-project/</link>
+      <link>http://localhost:1313/posts/the-orphan-project/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/the-orphan-project/</guid>
+      <guid>http://localhost:1313/posts/the-orphan-project/</guid>
       <description>&lt;p&gt;A nice feature I added to this blog in its recent update was a &lt;a href=&#34;https://mattischrome.com/tags/&#34;&gt;tags page&lt;/a&gt;. With the help of this &lt;a href=&#34;https://discourse.gohugo.io/t/how-to-get-a-tags-page/24213/4&#34;&gt;very useful discourse thread&lt;/a&gt; and some additional CSS tweaks, the resulting page is something that I am very happy with. It lists all of the tags that apply to any post, along with the number of posts with that tag, in alphabetical order. It&amp;rsquo;s mostly intended as a guide for you the reader, to help you see whether your preoccupations match my own.&lt;/p&gt;</description>
     </item>
   </channel>

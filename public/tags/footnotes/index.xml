@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Footnotes on mattischrome</title>
-    <link>https://mattischrome.com/tags/footnotes/</link>
+    <link>http://localhost:1313/tags/footnotes/</link>
     <description>Recent content in Footnotes on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mattischrome.com/tags/footnotes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/footnotes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TIL: footnotes in Latex captions</title>
-      <link>https://mattischrome.com/posts/til-latex-footnotes-in-captions/</link>
+      <link>http://localhost:1313/posts/til-latex-footnotes-in-captions/</link>
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://mattischrome.com/posts/til-latex-footnotes-in-captions/</guid>
+      <guid>http://localhost:1313/posts/til-latex-footnotes-in-captions/</guid>
       <description>&lt;p&gt;Today I had an interesting bug in some Latex code I am writing. Putting a footnote into a caption caused the document to fail compilation. The problem was that this document doesn&amp;rsquo;t use a table of figures at the start, so I hadn&amp;rsquo;t thought to include a short summary caption. Apparently the curly brace in the footnote command does not sit well with that, even if you aren&amp;rsquo;t using a list or table of figures in your document. The solution is simple, as long as the footnote isn&amp;rsquo;t crucial to the list of tables!&lt;/p&gt;</description>
     </item>
   </channel>

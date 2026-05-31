@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-gb" dir="ltr">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -109,14 +109,14 @@
 </ol>
 <p>So the <code>$</code> operator is a versatile tool in R for accessing and manipulating elements in data frames, lists, environments, and other objects. It is particularly useful for working with named elements or columns. And then pipes come along and change everything. At least they did for me. You that adage about how if you have a hammer everything looks like a nail? That&rsquo;s been with pipes in R for quite a long time.</p>
 <p>For those uninitiated into pipe lore, it&rsquo;s an operator in R that you follow with a function that takes an argument that, unless otherwise explicitly denoted by the user, is the previous line of code. So something like:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-R" data-lang="R"><span style="display:flex;"><span>my_processed_tibble <span style="color:#f92672">&lt;-</span> my_tibble <span style="color:#f92672">%&gt;%</span>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-R" data-lang="R"><span style="display:flex;"><span>my_processed_tibble <span style="color:#f92672">&lt;-</span> my_tibble <span style="color:#f92672">%&gt;%</span>
 </span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">select</span>(<span style="color:#a6e22e">all_of</span>(my_interesting_columns)) <span style="color:#f92672">%&gt;%</span>
 </span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">mutate</span>(interesting_column_sum <span style="color:#f92672">=</span> interesting_column_1 <span style="color:#f92672">+</span> interesting_column_2)
 </span></span></code></pre></div><p>is actually really the incredibly long and fraught (at least horizontally):</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-R" data-lang="R"><span style="display:flex;"><span>my_processed_tibble <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">mutate</span>(<span style="color:#a6e22e">select</span>(my_tibble,<span style="color:#a6e22e">all_of</span>(my_interesting_columns)), interesting_column_sum <span style="color:#f92672">=</span> interesting_column_1 <span style="color:#f92672">+</span> interesting_column_2) 
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-R" data-lang="R"><span style="display:flex;"><span>my_processed_tibble <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">mutate</span>(<span style="color:#a6e22e">select</span>(my_tibble,<span style="color:#a6e22e">all_of</span>(my_interesting_columns)), interesting_column_sum <span style="color:#f92672">=</span> interesting_column_1 <span style="color:#f92672">+</span> interesting_column_2) 
 </span></span></code></pre></div><p>It was incredibly stressful to copy and paste that together from the version with the pipes. I&rsquo;m not even sure it&rsquo;s right! The top version is a lot easier to debug, because you have the chain of functions applied in order to the original data frame. Note that I&rsquo;ve used <code>%&gt;%</code> which is the pipe function from the <code>magrittr</code> package. Version 4.1.0 of R introduced a &rsquo;native&rsquo; pipe operator, it looks like this <code>|&gt;</code>. I&rsquo;ve continued using the OG <code>magrittr</code> pipe for two reasons. The first is simple muscle memory, and the second is that it lets you use <code>.</code> as a placeholder for previous values when using functions that are not pipe-friendly (e.g. for some reason they don&rsquo;t take the data frame as the first value).</p>
 <p>By way of a short digression, one of my favourite uses of pipes is to assign them to functions so you can reuse chunks of code, e.g.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-R" data-lang="R"><span style="display:flex;"><span>group_by_sex_and_summarise <span style="color:#f92672">&lt;-</span> . <span style="color:#f92672">%&gt;%</span>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-R" data-lang="R"><span style="display:flex;"><span>group_by_sex_and_summarise <span style="color:#f92672">&lt;-</span> . <span style="color:#f92672">%&gt;%</span>
 </span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">group_by</span>(sex) <span style="color:#f92672">%&gt;%</span>
 </span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">summarise</span>(Value <span style="color:#f92672">=</span> <span style="color:#a6e22e">sum</span>(Value))
 </span></span></code></pre></div><p>But it&rsquo;s also good to not forget about slots once you know about pipes. I don&rsquo;t think pipes are to blame for me forgetting about slots, per se, just that whole &ldquo;everything&rsquo;s a nail&rdquo; outlook I mentioned above. But sometimes, you want to pick things out easily. Over the years I&rsquo;ve gotten myself into also sorts of <code>my_df %&gt;% select(my_column) %&gt;% as.vector()</code> contortions when a simple <code>my_df$my_column</code> would have sufficed.</p>
@@ -158,7 +158,7 @@
       <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--next">
         &#10142;
       </div>
-      <a href="https://mattischrome.com/posts/in-praise-of-pomme-fritz/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: In Praise of Pomme Fritz">In Praise of Pomme Fritz</a>
+      <a href="http://localhost:1313/posts/in-praise-of-pomme-fritz/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: In Praise of Pomme Fritz">In Praise of Pomme Fritz</a>
     </div>
     
   
@@ -167,11 +167,11 @@
       <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--prev">
         &#10142;
       </div>
-      <a href="https://mattischrome.com/posts/into-february/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: Into February">Into February</a>
+      <a href="http://localhost:1313/posts/into-february/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: Into February">Into February</a>
     </div>
     
   
-    <a href="https://mattischrome.com/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
+    <a href="http://localhost:1313/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
 </div>
 
 
