@@ -9,6 +9,8 @@ draft: true
 
 Ten years ago, ahead of the 2016 European Championship, I wrote a few posts about the Panini sticker album for the tournament and my efforts to fill it up. It was a nice subject to investigate with Excel and R as a little data science exercise.
 
+<!--more-->
+
 ### Previous posts
 
 + In [**Euro 2016 Panini Stickers**]({{< ref "/posts/euro-2016-panini-stickers/" >}}), I wrote a bit about the setup of things (updated below) and showed off how you can use the Hypergeometric distribution to work out how many stickers you are going to be able to put into your album when you open a packet.
@@ -19,10 +21,10 @@ Ten years ago, ahead of the 2016 European Championship, I wrote a few posts abou
 ### What has changed since 2016
 
 + EURO16 was 24 teams, WC26 is double that at a staggering 48 teams. Having boggled at the thought of seeing Iceland at an international tournament, we now get to see Curacao! Maybe they will beat England too!
-+ Fortunately (or not, depending on your avidness), there are not double the stickers to collect. There's quite a few pictures in the album that would have been stickers in previous editions, and the number of stickers per team has been reduced from 28 to 20. The album has gone from 680 stickers in total to 960.
-+ This time there are also some additional stickers that you can collect from the labels of Coca-cola bottles in a promotional tie-in. These go in the back of the album, but I'm not interested in these from a collecting or analysis point of view.
-+ Panini also say that there are some super-rare variations in stickers that occur at a rate of once in every hundreed packets. These are always an extra sticker though, so again they don't affect the analysis.
-+ To accomodate the extra size of the collection, packs now contain 7 stickers as opposed to 5 back in 2016.
++ Fortunately (or not, depending on your avidness), there are not double the stickers to collect. There's quite a few pictures in the album that would have been stickers in previous editions, and the number of stickers per team has been reduced from 28 to 20. The album has gone from 680 stickers in total to 980.
++ This time there are 12 additional stickers that you can collect from the labels of Coca-cola bottles in a promotional tie-in. These go in the back of the album, but I'm not interested in these from a collecting or analysis point of view.
++ Panini also say that there are some super-rare variations in stickers that occur at a rate of once in every hundred packets. These are always an extra sticker though (packs containing them have 8 stickers), so again they don't affect the analysis.
++ To accomodate the extra size of the collection, packs now contain 7 stickers (as opposed to 5 back in 2016).
 + Packs cost £1.25 now, a 250% increase on the 50p per pack 10 years ago.
 
 ### The Basics
@@ -82,13 +84,13 @@ Let's make a histogram of all 5000 runs:
 
 ![Histogram showing distribution of number of sticker packs required to complete the album in 2026](./images/world_cup_stickers_2026_02.png)
 
-Exporting images from R with text that you can actually read is something that I consistently fail at, so here's that subtitle text again: In 5000 simulations, the average collector needed to use 1043.8478 packets to get within 0 stickers of completing the album. The minimum number of packets was 675 and **the maximum number of packets was 2256**. Half of collectors needed more than 1014 packets and would need to pay at least £1267.5 to complete their album.
+Exporting images from R with text that you can actually read is something that I consistently fail at, so here's that subtitle text again: In 5000 simulations, the average collector needed 1021 packs to complete their album. The minimum number of packs was 655 and **the maximum number of packs was 1989**. In half of the simulations at least 990 packs were needed, meaning that collectors needed to spend a total of £1237.5 on completing their album.
 
-If that wording about "within 0 stickers" seems odd to you, then maybe you didn't spot the `end_threshold` variable earlier! In 2016 you were able to buy up to 50 specific stickers from Panini, in order to complete the collection. Assuming that it's the same deal in 2026, this does alter the complexion of that histogram:
+If that wording about "within 0 stickers" seems odd to you, then maybe you didn't spot the `end_threshold` variable earlier! In 2016 you were able to buy up to 50 specific stickers from Panini, in order to complete the collection. Assuming that it's the same deal in 2026, this alters the complexion of that histogram:
 
 ![Histogram showing distribution of number of sticker packs required to get to within 50 stickers of filling the album in 2026](./images/world_cup_stickers_2026_03.png)
 
-This time, over 5000 simulations, the average collector needs to use 414.9472 packets to get within 50 stickers of completing the album. The minimum number of packets was 350 and the maximum number of packets was 499. Half of collectors needed more than 415 packets and would need to pay at least £518.75 to complete their album. You still need to pay for the final 50 stickers, but this is a lot cheaper than doing it yourself.
+This time, across the 5000 simulations, the average collector needs 404 packs to get within 50 stickers of completing the album. The minimum number of packs needed was 347 and the maximum was 481. Half of collectors needed more than 403 packets, paying at least £503.75 to complete their album. You still need to pay for the final 50 stickers, but this is a lot cheaper than buying them all by yourself.
 
 Of course, there's another way, and that's where swapping comes into the picture.
 
@@ -96,25 +98,25 @@ Of course, there's another way, and that's where swapping comes into the picture
 
 The good news about running a swapping simulation is that you can head straight here without knowing anything about the hypergeometric distribution. You can use the sample function in R and build collections up in arrays for each collector. The bad news is that you need to come up with a mechanism for the swapping, and that involves every collector comparing their albums at every step.
 
-I went for collectors meeting after each new pack opening to exchange any mutual swaps - so each collector receives what the other can offer and vice verse. My collectors are ordered, so there's probably some bias towards the first collector (they might take from the second collector what the third collector needs etc). The code already runs quite slowly for 5 or more collectors without then adding randomisation of the collector order. Perhaps you could permute the rows of the collector array every K rounds, with K larger for more demanding runs.
+I went for collectors meeting after each new pack opening to exchange any mutual swaps - so each collector receives what the other can offer and vice versa. My collectors are ordered, so there's probably some bias towards the first collector (they might take from the second collector what the third collector needs etc). The code already runs quite slowly for 5 or more collectors without then adding randomisation of the collector order. Perhaps you could permute the rows of the collector array every K rounds, with K larger for more demanding runs.
 
-I got Claude to convert the original R code for the swapping loop into a C++ version in order to use the RCpp package. This felt a lot faster than the original and it was something I've been meaning to learn for a while, so I enjoyed that. Of course, I just parlayed all this extra speed into what scientists are called a "shit ton" of runs, because why not wait 4 hours for smoother plots.
+I got Claude to convert the original R code for the swapping loop into a C++ version in order to use the RCpp package. This felt a lot faster than the original and it was something I've been meaning to learn for a while, so I enjoyed that. Of course, I just parlayed all this extra speed into what scientists are calling a "shit ton" of runs, because why not wait 4 hours for smoother plots.
 
 #### Effect of adding friends to swap with
 
-I grouped all my runs together for all scenarios of collectors and actually completed albums. This was pretty easy using the `expand_grid` function (or the base `expand.grid`). I filtered all the scenarios produced where you get more completed collections than collectors, which would obviously never finish. 
+I grouped all my runs together for all scenarios of collectors and completed albums. This was pretty easy using the tidyverse function `expand_grid` (or `expand.grid` in base R). I filtered all the scenarios produced where you get more completed collections than collectors, which would obviously never finish. 
 
-So first up, we have an increasing number of collectors, and we look at how many pack-buying rounds the group of collectors needs to complete the whole album (i.e. my cutoff value is back down to 0). The blue curve is a slower running version of the process I described earlier - a naively implemented single collector filling a whole album. The peak of the distribution is just below 1000 packs total, though the tail stretches off to the right just like our first histogram did.
+So first up, we have an increasing number of collectors, and we look at how many pack-buying rounds the group of collectors needs in order to complete the whole album (i.e. my cutoff value is back down to 0). The blue curve is a slower running version of the process I described earlier - a naively implemented single collector filling a whole album. The peak of the distribution is just below 1000 packs total, though the tail stretches off to the right just like our first histogram did.
 
-Once we jump to two collectors, the peak of the distribution shifts left: each collector needs to be involved in about 750 rounds of pack opening for both collectors to complete their albums. Note that this 1500 total packs bought by both collectors. Again the right hand side of the distribution has that slow tapering tail imposed by the second collector completing their album: they're on their own at this point because we've insisted that all swaps must be mutal.
+Once we jump to two collectors, the peak of the distribution shifts left: each collector needs to open 750 packs for both collectors to complete their albums. Note that this is 1500 total packs bought by both collectors. Two collectors working independently could end up buying more than this each! Again the right hand side of the distribution has that slow tapering tail imposed by the second collector completing their album: they're on their own at this point because we've insisted that all swaps must be mutal.
 
 Beyond two collectors we see the same phenomenon: a left-shift of the peak and a long tapering tail to the right. As the number of collectors increases though, the tail of the distribution should get shorter. Why? Because that last lone collector responsible for the tail gets to swap stickers for longer.
 
 ![Ridge plot showing distribution of number of sticker packs required for between one and six collectors to fill the album in 2026](./images/world_cup_stickers_2026_04.png)
 
-Next, we can look at the situation when the cutoff is increased to 50. Here each collector swaps until they have fifty stickers to go. I must admit I don't track what happens to collectors who reach the cutoff that are able to swap if one of the remaining collectors finds a sticker they need: I think the swap occurs, so some collectors might not need to buy 50 more stickers at the end of the process.
+Next, we can look at the situation when the cutoff is increased to 50 stickers. Here each collector swaps until they have fifty stickers to go. I must admit I don't track what happens to collectors who reach the cutoff that are able to swap if one of the remaining collectors finds a sticker they need: I think the swap occurs, so some collectors might not need to buy 50 more stickers at the end of the process.
 
-Nevertheless, the picture is similar for this scenario: 
+Nevertheless, the picture is similar for this scenario (the scale isn't though!): 
 
 ![Ridge plot showing distribution of number of sticker packs required for between one and six collectors to get to within 50 stickers of filling the album in 2026](./images/world_cup_stickers_2026_05.png)
 
@@ -122,19 +124,24 @@ Again, going from one collector to two reduces the number of rounds by about 25%
 
 #### How long does it take each collector to complete their collection in the swapping scenario?
 
-Finally, these two plots show the experiences of each collector in a sequences of six collectors. (Note that these are not from the same runs, they are separate runs with 6 collectors collecting until J collections are complete with J running from 1 to 6.). The figures mostly illustrate the variance in experience for the later collectors in the group. 
+Finally, these two plots show the experiences of each collector in a sequences of six collectors. (Note that these are not from the same runs, they are separate runs with 6 collectors collecting until J collections are complete with J running from 1 to 6.). The figures mostly illustrate the variance in experience for the later collectors in the group.
 
-![Ridge plot showing distribution of number of sticker packs required for each of six collectors to get to within 50 stickers of filling the album in 2026](./images/world_cup_stickers_2026_06.png)
+First completing the whole album:
 
 ![Ridge plot showing distribution of number of sticker packs required for each of six collectors to get to within 0 stickers of filling the album in 2026](./images/world_cup_stickers_2026_07.png)
 
+Next, completing up to the 50 sticker cutoff:
+
+![Ridge plot showing distribution of number of sticker packs required for each of six collectors to get to within 50 stickers of filling the album in 2026](./images/world_cup_stickers_2026_06.png)
+
+
 #### Other ways of swapping
 
-Another possible way to model swapping is to use a pool. All collectors discard their duplicate stickers into a pool from which the other collectors can draw as many stickers as they still need. For fairness, and because order matters, we could say that collectors visit the pool in an order determined by how many stickers they contribute to the pool. In four years time, in 2030, it will be the last time Panini every makes a World Cup sticker album, so perhaps I will look into that next time!
+Another possible way to model swapping is to use a pool. All collectors discard their duplicate stickers into a pool from which the other collectors can draw as many stickers as they still need. For fairness, and because order matters, we could say that collectors visit the pool in an order determined by how many stickers they contribute to the pool. In four years time, in 2030, it will be the last time Panini ever makes a World Cup sticker album, so perhaps I will look into then!
 
 ### Conclusions
 
 + Swap with friends!
 + Aim to collect up to a cutoff and buy your last stickers directly.
 + Use C++ to optimise your R code if you have lots of loops going on.
-+ Ridge plots are pretty. 
++ Ridge plots are pretty. There will be another post about how I gussied them up for this post. It involves some literal cut and paste!

@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/football/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/modelling/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/panini-stickers-2026/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stats/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -180,9 +189,6 @@
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-statistics-part-2/</loc>
-    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/stats/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/meta/</loc>
@@ -1634,9 +1640,6 @@
     <loc>http://localhost:1313/posts/the-unlimited-dream-company/</loc>
     <lastmod>2016-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/football/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/swaptastic-part-3/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -1651,9 +1654,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/tegan-and-sara/</loc>
     <lastmod>2016-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/modelling/</loc>
-    <lastmod>2016-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/swaptastic-part-2/</loc>
     <lastmod>2016-06-29T00:00:00+00:00</lastmod>
