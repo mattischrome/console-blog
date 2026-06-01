@@ -7,7 +7,7 @@ tags: ["Football", "Stats", "Modelling", "Twenty Six"]
 draft: true
 ---
 
-Ten years ago, ahead of the 2016 European Championship, I wrote a few posts about the Panini sticker album for the tournament and my efforts to fill it up. It was a nice subject to investigate with Excel and R as a little data science exercise.
+Ten years ago, ahead of the 2016 European Championship, I wrote a few posts about the Panini sticker album for the tournament and my efforts to fill it up. It was a nice subject to investigate with Excel and R as a little data science exercise. This post is a little update.
 
 <!--more-->
 
@@ -70,43 +70,43 @@ while(remaining > end_threshold){
 }
 {{< /highlight >}}
 
-Each call to `rhyper()` generates a number between 0 and `packet_size` (in our case 7), based on how many stickers are remaining. That number gets deducted from the remaining number of stickers. I used an R list with the `append()` function to glue the current value of `remaining` to the existing `history` of values. The length of that list once the `while()` loop terminates ends up being the total number of packs you need in that simulation. 
+Each call to `rhyper()` generates a number between 0 and `packet_size` (in our case 7), based on how many stickers are remaining. That number gets deducted from the remaining number of stickers. I used an R list with the `append()` function to glue the current value of `remaining` to the existing `history` of values. The length of that list once the `while()` loop terminates ends up being the total number of packs you need in that simulation. Later on, I realised that I only need the interim values when plotting the individual paths. Everything else presented here just needs the length of the list, which is just as easily computed with a counter that increments during the `while()` loop.
 
-The remaining code sets up the variables and data structures for holding the results. It also generates the figures that appear in the rest of this post. 
+Of course there's a fair bit of other code to set up the variables and data structures for holding the results. Most of this machinery was handled by R's built in `replicate()` function, which was fun to rediscover. The figures that appear in the rest of this post were generated with `ggplot`. 
 
 First up, let's see how individual paths pan out. I ran 5000 simulations. There's no rationale for that number, it's a mixture of "it might enough" versus "because I can and still get the post finished". We can't really plot more than ten runs at once though, and even then it's hard to tell individuals apart. As always with these things, it's about looking at the ensemble and seeing what's happening within it:
 
 ![Figure showing individual collection paths in the sticker collection model](./images/world_cup_stickers_2026_01.png)
 
-And what's happening is that it takes a very large number of sticker packers to fill the album. Note that this chart is 10 randomly selected runs from my 5000, not the best or the worst. The last of these collectors finishes their album after opening around 1800 packets: that's a big outlay, not to mention a very tall pile of unused stickers!
+And what's happening is that it takes lots of sticker packs to fill the album. Note that this chart is 10 randomly selected runs from my 5000, not the best or the worst. The last of these collectors finishes their album after opening almost 1200 packets: that's a big outlay, not to mention a very tall pile of unused stickers: about 7,420 of them which, if each sticker is about half a millimetre thick, would be almost 4 metres tall!
 
 Let's make a histogram of all 5000 runs:
 
 ![Histogram showing distribution of number of sticker packs required to complete the album in 2026](./images/world_cup_stickers_2026_02.png)
 
-Exporting images from R with text that you can actually read is something that I consistently fail at, so here's that subtitle text again: In 5000 simulations, the average collector needed 1021 packs to complete their album. The minimum number of packs was 655 and **the maximum number of packs was 1989**. In half of the simulations at least 990 packs were needed, meaning that collectors needed to spend a total of £1237.5 on completing their album.
+Exporting images from R with text that you can actually read is something that I consistently fail at, so here's that subtitle text again: In 5000 simulations, the average collector needed 1021 packs to complete their album. The minimum number of packs was 655 and **the maximum number of packs was 1989**. In half of the simulations at least 990 packs were needed, meaning that collectors needed to spend a total of £1237.50 on completing their album.
 
 If that wording about "within 0 stickers" seems odd to you, then maybe you didn't spot the `end_threshold` variable earlier! In 2016 you were able to buy up to 50 specific stickers from Panini, in order to complete the collection. Assuming that it's the same deal in 2026, this alters the complexion of that histogram:
 
 ![Histogram showing distribution of number of sticker packs required to get to within 50 stickers of filling the album in 2026](./images/world_cup_stickers_2026_03.png)
 
-This time, across the 5000 simulations, the average collector needs 404 packs to get within 50 stickers of completing the album. The minimum number of packs needed was 347 and the maximum was 481. Half of collectors needed more than 403 packets, paying at least £503.75 to complete their album. You still need to pay for the final 50 stickers, but this is a lot cheaper than buying them all by yourself.
+This time, across the 5000 simulations, the average collector needs 404 packs to get within 50 stickers of completing the album. The minimum number of packs needed was 347 and the maximum was 481. Half of collectors needed more than 403 packets, paying at least £503.75 to complete their album. You still need to pay for the final 50 stickers, but this is a lot cheaper than buying them all by yourself. I'm not sure what Panini would charge you for the 50 stickers - but it's not going to be £700!
 
 Of course, there's another way, and that's where swapping comes into the picture.
 
 ### Got Got Need: A Sticker-swapping model
 
-The good news about running a swapping simulation is that you can head straight here without knowing anything about the hypergeometric distribution. You can use the sample function in R and build collections up in arrays for each collector. The bad news is that you need to come up with a mechanism for the swapping, and that involves every collector comparing their albums at every step.
+The good news about running a swapping simulation is that you can head straight here without knowing anything about the [hypergeometric distribution](https://en.wikipedia.org/wiki/Hypergeometric_distribution). You can use the sample function in R and build collections up in arrays for each collector. The bad news is that you need to come up with a mechanism for the swapping, and that involves every collector comparing their albums at every step.
 
-I went for collectors meeting after each new pack opening to exchange any mutual swaps - so each collector receives what the other can offer and vice versa. My collectors are ordered, so there's probably some bias towards the first collector (they might take from the second collector what the third collector needs etc). The code already runs quite slowly for 5 or more collectors without then adding randomisation of the collector order. Perhaps you could permute the rows of the collector array every K rounds, with K larger for more demanding runs.
+My approach is to have collectors meeting after each round of opening a new pack to exchange any mutual swaps. Each collector receives what the other can offer and vice versa. My collectors are ordered, so there's probably some bias towards the first collector (they might take from the second collector what the third collector needs etc). The code already runs quite slowly for 5 or more collectors without adding randomisation of the collector order. Perhaps you could permute the rows of the collector array every K rounds, with K larger for more demanding runs.
 
 I got Claude to convert the original R code for the swapping loop into a C++ version in order to use the RCpp package. This felt a lot faster than the original and it was something I've been meaning to learn for a while, so I enjoyed that. Of course, I just parlayed all this extra speed into what scientists are calling a "shit ton" of runs, because why not wait 4 hours for smoother plots.
 
 #### Effect of adding friends to swap with
 
-I grouped all my runs together for all scenarios of collectors and completed albums. This was pretty easy using the tidyverse function `expand_grid` (or `expand.grid` in base R). I filtered all the scenarios produced where you get more completed collections than collectors, which would obviously never finish. 
+I grouped all my runs together for all scenarios of collectors and completed albums. This was pretty easy using the tidyverse function `expand_grid` (or `expand.grid` in base R). This does produce scenarios where there are more completed collections than collectors, which would obviously never finish, but they are easy to filter out. Sometimes instead of working out how to produce exactly what you need, just produce more than you need and trim it back. 
 
-So first up, we have an increasing number of collectors, and we look at how many pack-buying rounds the group of collectors needs in order to complete the whole album (i.e. my cutoff value is back down to 0). The blue curve is a slower running version of the process I described earlier - a naively implemented single collector filling a whole album. The peak of the distribution is just below 1000 packs total, though the tail stretches off to the right just like our first histogram did.
+So first up, we have an increasing number of collectors, and we look at how many pack-buying rounds the group of collectors needs in order to complete the whole album (i.e. my cutoff value is back down to 0). In every group, every collector finishes their collection. The blue curve is a slower running version (in R) of the process I described earlier - a naively implemented single collector filling a whole album. The peak of the distribution is just below 1000 packs total, though the tail stretches off to the right just like our first histogram did. It's sometimes hard to spot where the tails of ridge plots end, so I've also plotted the maximum of the distribution as a big dot. 
 
 Once we jump to two collectors, the peak of the distribution shifts left: each collector needs to open 750 packs for both collectors to complete their albums. Note that this is 1500 total packs bought by both collectors. Two collectors working independently could end up buying more than this each! Again the right hand side of the distribution has that slow tapering tail imposed by the second collector completing their album: they're on their own at this point because we've insisted that all swaps must be mutal.
 
@@ -116,7 +116,7 @@ Beyond two collectors we see the same phenomenon: a left-shift of the peak and a
 
 Next, we can look at the situation when the cutoff is increased to 50 stickers. Here each collector swaps until they have fifty stickers to go. I must admit I don't track what happens to collectors who reach the cutoff that are able to swap if one of the remaining collectors finds a sticker they need: I think the swap occurs, so some collectors might not need to buy 50 more stickers at the end of the process.
 
-Nevertheless, the picture is similar for this scenario (the scale isn't though!): 
+Nevertheless, the picture is similar for this scenario (the x axis isn't though!): 
 
 ![Ridge plot showing distribution of number of sticker packs required for between one and six collectors to get to within 50 stickers of filling the album in 2026](./images/world_cup_stickers_2026_05.png)
 
@@ -141,7 +141,7 @@ Another possible way to model swapping is to use a pool. All collectors discard 
 
 ### Conclusions
 
-+ Swap with friends!
-+ Aim to collect up to a cutoff and buy your last stickers directly.
-+ Use C++ to optimise your R code if you have lots of loops going on.
-+ Ridge plots are pretty. There will be another post about how I gussied them up for this post. It involves some literal cut and paste!
++ **Swap with friends!** If you have about six friends you can swap with, you can cut the number of packs you each have to buy in half.
++ Aim to **collect up to a cutoff and buy your last stickers directly**. You were hoping to find the shiny of the Cabo Verde badge in a pack? You still will, just in a nice envelope from Italy. (Seriously, Panini's envelopes are/were great, I still have mine from 2016.)
++ **Use the RCpp package** and C++ to speed up your R code if you have lots of loops going on. I've been aware of this for generative art applications for a while and it was nice to try it out on some familiar code. It was easier than I expected.
++ **Ridge plots are pretty**. There will be another post about how I gussied them up for this post. It involved some literal cut and paste!
