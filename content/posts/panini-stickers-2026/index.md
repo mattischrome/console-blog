@@ -127,16 +127,16 @@ Finally, these two plots show the experiences of each collector in a sequences o
 
 First completing the whole album:
 
-![Ridge plot showing distribution of number of sticker packs required for each of six collectors to get to within 0 stickers of filling the album in 2026](./images/world_cup_stickers_2026_07.png)
+![Ridge plot showing distribution of number of sticker packs required for each of six collectors to get to within 0 stickers of filling the album in 2026](./images/world_cup_stickers_2026_06.png)
 
 Next, completing up to the 50 sticker cutoff:
 
-![Ridge plot showing distribution of number of sticker packs required for each of six collectors to get to within 50 stickers of filling the album in 2026](./images/world_cup_stickers_2026_06.png)
+![Ridge plot showing distribution of number of sticker packs required for each of six collectors to get to within 50 stickers of filling the album in 2026](./images/world_cup_stickers_2026_07.png)
 
 
 #### Other ways of swapping
 
-Another possible way to model swapping is to use a pool. All collectors discard their duplicate stickers into a pool from which the other collectors can draw as many stickers as they still need. For fairness, and because order matters, we could say that collectors visit the pool in an order determined by how many stickers they contribute to the pool. In four years time, in 2030, it will be the last time Panini ever makes a World Cup sticker album, so perhaps I will look into then!
+Another possible way to model swapping is to use a pool. All collectors discard their duplicate stickers into a pool from which the other collectors can draw as many stickers as they still need. For fairness, and because order matters, we could say that collectors visit the pool in an order determined by how many stickers they contribute to the pool. In four years time, in 2030, it will be the last time Panini ever makes a World Cup sticker album, so perhaps I will look into it then!
 
 ### Conclusions
 
