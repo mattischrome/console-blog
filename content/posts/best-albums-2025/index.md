@@ -37,7 +37,7 @@ With "Double Infinity" the band are down to three core members and deal with los
 
 The songs on "Double Infinity" are a lot baggier, fluffier and looser than on the previous albums, regularly padding up to the five minute mark and beyond, losing themselves in riffs and improvisations. I believe the technical term is a "loosie", a largely improvised (or improvised-feeling) tracks that pass the time sweetly. 
 
-Truth be told, if you went to one of their gigs and they played none of these songs, you wouldn't be too sore about it. The opener "Incomprehensible" is probably the most forceful thing on the record, a driving pulse underneath some affirmative lyrics about ageing. I'm exactly the right audience for these kinds of lyrics. 
+If you went to one of their gigs and they played none of these songs, you wouldn't be too sore about it. The opener "Incomprehensible" is probably the most forceful thing on the record, a driving pulse underneath some affirmative lyrics about ageing. I'm exactly the right audience for these kinds of lyrics. 
 
 While almost every song on "Dragon..." felt like a gem mined out of a rich creative seam, these just feel kind of squishy. They're fine to spend time with on a summer evening but none of these songs are going to change your life. In some ways, it feels like a liberated record because of that. 
 
