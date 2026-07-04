@@ -6,14 +6,28 @@
     <description>Recent content in posts on mattischrome</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Albums 2025</title>
+      <link>http://localhost:1313/posts/best-albums-2025/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/best-albums-2025/</guid>
+      <description>&lt;p&gt;Faced with writing about the best albums of 2025 a bit late, I figured an extra six months of perspective might help me make some decisions about which albums truly were the best of last year.&lt;/p&gt;&#xA;&lt;p&gt;Truth be told, it didn&amp;rsquo;t feel like the best of years for albums last year, but that just might be me getting much more in to the various mixes on Apple Music. While I am passionate about the album format where you get to listen to a set of songs by one artist, I do find that I am also very appreciative of mixes these days that blend together sometimes surprising choices of songs. For example, there was an excellent [Beats in Space] mix by [Paula Tape] that included an old mix of a sacred spirit track and sent me down the rabbit hole of listening to that album again.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Andrew O&#39;Hagan, Caledonian Road</title>
+      <link>http://localhost:1313/posts/caledonian-road/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/caledonian-road/</guid>
+      <description>&lt;p&gt;Caledonian Road is a novel by Andrew O&amp;rsquo;Hagan, set in London just after the Covid-19 pandemic. While the narrative centres mostly on Cambell Flynn, a disillusioned academic, the novel is a state of the nation address with a large cast of characters all peripherally connected to him. This retinue includes Russian oligarchs and their wayward sons, Polish drug dealers, grime rappers, elite London fashion houses, art world grifters, old money, new money, and student named Milo with a point to proove. If you feel like the world is spiralling into complexity and chaos, this might be the novel for you. Or maybe not.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Panini Stickers 2026</title>
       <link>http://localhost:1313/posts/panini-stickers-2026/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/panini-stickers-2026/</guid>
-      <description>&lt;p&gt;Ten years ago, ahead of the 2016 European Championship, I wrote a few posts about the Panini sticker album for the tournament and my efforts to fill it up. It was a nice subject to investigate with Excel and R as a little data science exercise.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ten years ago, ahead of the 2016 European Championship, I wrote a few posts about the Panini sticker album for the tournament and my efforts to fill it up. It was a nice subject to investigate with Excel and R as a little data science exercise. This post is a little update.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Darkmans</title>
