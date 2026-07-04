@@ -16,7 +16,7 @@ tags:
   - "Kassian"
   - "DJ Koze"
   - "Brian Dunne"
-  - "Alabaster De Plume"
+  - "Alabaster DePlume"
 tableOfContents: true
 ---
 Faced with writing about the best albums of 2025 a bit late, I figured an extra six months of perspective might help me make some decisions about which albums truly were the best of last year. 
@@ -83,7 +83,7 @@ In fact, writing this review makes me realise I need to listen to it even more. 
 
 Ora The Molecule came to my attention when Tim Sweeney included two of her songs across three successive Beats In Space mixes. When "Dance Therapy" came out, she also did [a Beats In Space mix](https://www.beatsinspace.net/djs/ora-the-molecule) that was crammed full of interesting electronic music, some of which was known to me and some of which was new and exciting.
 
-"Dance Therapy" is a concept album about an alien molecule who comes to Earth and gets changed into a woman in order to experience the many delights and pitfalls of personhood. At the risk of supplying spoilers, the plot arc is not unlike that of The Little Mermaid. The Hans Christien Anderson version: things don't end that well.
+"Dance Therapy" is a concept album about an alien molecule who comes to Earth and gets changed into a woman in order to experience the many delights and pitfalls of personhood. At the risk of supplying spoilers, the plot arc is not unlike that of The Little Mermaid. The Hans Christien Andersen version, that is: things don't end that well.
 
 While that sounds rather heavy, it's actually a fun album crammed full of danceable pop songs that is a whole heap of fun. The songs are catchy, even if they feature words like "gastroenterologist" at points. It's all quite frothy but superbly produced - a truly unique album that I'll remember for years to come, which is why it makes it on to my best of year list.
 
@@ -93,7 +93,7 @@ While that sounds rather heavy, it's actually a fun album crammed full of dancea
 
 While perhaps this self-titled album doesn't quite roar back to the heights of "Hope is Important" or ["100 Broken Windows"](https://mattischrome.com/posts/understated-classics-7/), it nonetheless represents a decent victory lap several years after disappearing following a series of rather banal self-funded albums. I admired what they tried to do, but for all their experimentation, something dropped off after their excellent "Make Another World" album in 2007. 
 
-"Idlewild" though is a belter. Ten great songs with clever lyrics filled with everything I loved about the band in the first place. The only let down, as always, is the lack of a lyric sheet. The topics seem to range from 'Roddy as ingenue' ("You said you keep coming round, of course you would / With your copy of Undermilkwood / Quoting the lines that you really wish I understood / You'd even pray that I would", "(I Can't Help) Back Then You Found Me") to 'Roddy as arch sage' ("Don't be so undecided / Because nothing's here to stay / Nothing's here to stay", "Make It Happen"). Of course, Roddy-as-sage always sounds like an ingenue, and vice verse, which is the skill of it. I think only Ben Gibbard of Death Cab For Cutie writes in this way better.
+"Idlewild" though is a belter. Ten great songs with clever lyrics filled with everything I loved about the band in the first place. The only let down, as always, is the lack of a lyric sheet. The topics seem to range from 'Roddy as ingenue' ("You said you keep coming round, of course you would / With your copy of Undermilkwood / Quoting the lines that you really wish I understood / You'd even pray that I would", "(I Can't Help) Back Then You Found Me") to 'Roddy as arch sage' ("Don't be so undecided / Because nothing's here to stay / Nothing's here to stay", "Make It Happen"). Of course, Roddy-as-sage always sounds like an ingenue, and vice versa, which is the skill of it. I think only Ben Gibbard of Death Cab For Cutie writes in this way better.
 
 You always feel seen and loved by an Idlewild song, and these are no different. A short, sharp, and sweet blast of nostalgia. If it ends up being their sign-off, it will be a good one. It even has a final song called "End With Sunrise" which feels very on the nose: "your destination lies / in the stories that don't resolve / or end with sunrise".
 
@@ -134,8 +134,8 @@ Some of the songs are devastating. "I Watched The Light Go" is about seeing cont
 
 There's definitely some salt in the sugar, but overall this is an exuberant collection of well-written earworms, that have really gotten into my head. 
 
-### 1. Alabaster De Plume, "A Blade Because a Blade is Whole"
-{{< marginfigure src="images/Alabaster-DePlume-A-Blade.jpg" alt="Cover of 'A Blade Because a Blade is Whole' by Alabaster De Plume" caption="Cover of 'A Blade Because a Blade is Whole' by Alabaster De Plume" >}}
+### 1. Alabaster DePlume, "A Blade Because a Blade is Whole"
+{{< marginfigure src="./images/Alabaster-DePlume-A-Blade.jpg" alt="Cover of 'A Blade Because a Blade is Whole' by Alabaster DePlume" caption="Cover of 'A Blade Because a Blade is Whole' by Alabaster DePlume" >}}
 
 I've learned that there are two types of people in this world: those that like jazz and those that don't. I've realised that I'm one of the types of people who does. Every now and then, a record like this comes along and I love it. 
 
