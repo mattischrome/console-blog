@@ -2,6 +2,25 @@ baseURL = 'https://mattischrome.com/'
 languageCode = 'en-gb'
 title = 'mattischrome'
 theme = 'doorman'
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 20
+  [[menus.main]]
+    name = 'Tags'
+    pageRef = '/tags'
+    weight = 30
+  [[menus.main]]
+    name = 'Search'
+    url = '/search/'
+    weight = 40
+
 [params]
   tableOfContents = false
   math = false
