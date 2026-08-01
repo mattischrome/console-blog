@@ -1,216 +1,37 @@
-<!DOCTYPE html>
-<html lang="en-gb" dir="ltr">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-
-<title>
-  Fun With Chat-GPT · mattischrome
-</title>
-
-
-<link rel="stylesheet" type="text/css" href="/css/navbar.css">
-<link rel="stylesheet" type="text/css" href="/css/colours-green.css">
-<link rel="stylesheet" type="text/css" href="/css/fonts.css">
-<link rel="stylesheet" type="text/css" href="/css/default.css">
-
-<link rel="stylesheet" type="text/css" href="/css/pygments.css">
-
-
-<link rel="stylesheet" type="text/css" href="/css/sidenotes.css">
-<link rel="stylesheet" type="text/css" href="/css/margin-figure.css">
-
-
-
-  
-</head>
-<body>
-  <div class="navbar-space">
-    <div id="navigation" class="no-print">
-    <div class="menu menu-open">
-      <a href="/" class="menu-heading menu-title">
-        Blog<br>
-        <span class="menu-subtitle">mattischrome</span>
-      </a>
-      <ul>
-        
-        <li><a href="/about/">About</a></li>
-        
-        <li><a href="/">Home</a></li>
-        
-        <li><a href="/posts/">Posts</a></li>
-        
-        <li><a href="/tags/">Tags</a></li>
-        
-        <li><a href="/search/">Search</a></li>
-        
-        
-      </ul>
-    </div>
-  </div>
-    
-    
-    
-    <div id="contents-big">
-      <p class="mini-header">Contents <a id="up-arrow" href="#">↑</a></p>
-      <nav id="TableOfContents"></nav>
-    </div>
-    
-  </div>
-  
-  <div class="text-space">
-    <div id="content">
-      
-
-
-
-<h1>Fun With Chat-GPT</h1>
-
-
-<article>
-  <p class="header">
-    
-    Posted on 2025-01-12
-    
-    
-    &thinsp;·&thinsp; <span title="257 words">2 min read</span> &thinsp;·&nbsp;
-    
-    
-    
-  <a title="All pages tagged 'Software'." href="/tags/software" rel="tag">Software</a>
-    
-    &thinsp;·&thinsp;
-  <a title="All pages tagged 'Twenty Five'." href="/tags/twenty-five" rel="tag">Twenty Five</a>
-    
-    &thinsp;·&thinsp;
-  <a title="All pages tagged 'Blogging'." href="/tags/blogging" rel="tag">Blogging</a>
-    
-    &thinsp;·&thinsp;
-  <a title="All pages tagged 'Drafts'." href="/tags/drafts" rel="tag">Drafts</a>
-    
-    &thinsp;·&thinsp;
-  <a title="All pages tagged 'Content Management'." href="/tags/content-management" rel="tag">Content Management</a>
-    
-    &thinsp;·&thinsp;
-  <a title="All pages tagged 'Meta'." href="/tags/meta" rel="tag">Meta</a>
-    
-  </p>
-  
-  <section data-pagefind-body>
-    
-    
-    <div id="contents">
-      <p class="mini-header">Contents</p>
-      <nav id="TableOfContents"></nav>
-    </div>
-    
-
-    
-    <p>I asked:</p>
-<blockquote>
-<p>For my blog I have a folder called posts. In that folder are more folders that are named for the slug of each post, as per the conventions of the Hugo static site generator. Those folders each contain a markdown file named index.md, each of which has a YAML header. Draft posts have a YAML key called draft which has the value true. Please can you write me a shell script that I can run from the directory above posts that tells me which folders in the posts folder contain draft posts?</p>
-</blockquote>
-<p>I got:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e">#!/bin/bash
-</span></span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Directory containing the posts</span>
-</span></span><span style="display:flex;"><span>POSTS_DIR<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;posts&#34;</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Check if the posts directory exists</span>
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> ! -d <span style="color:#e6db74">&#34;</span>$POSTS_DIR<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
-</span></span><span style="display:flex;"><span>  echo <span style="color:#e6db74">&#34;Error: Directory &#39;</span>$POSTS_DIR<span style="color:#e6db74">&#39; does not exist.&#34;</span>
-</span></span><span style="display:flex;"><span>  exit <span style="color:#ae81ff">1</span>
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Find and print folders containing draft posts</span>
-</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Folders with draft posts:&#34;</span>
-</span></span><span style="display:flex;"><span>find <span style="color:#e6db74">&#34;</span>$POSTS_DIR<span style="color:#e6db74">&#34;</span> -type f -name <span style="color:#e6db74">&#34;index.md&#34;</span> | <span style="color:#66d9ef">while</span> read -r file; <span style="color:#66d9ef">do</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">if</span> grep -q <span style="color:#e6db74">&#34;^draft: true&#34;</span> <span style="color:#e6db74">&#34;</span>$file<span style="color:#e6db74">&#34;</span>; <span style="color:#66d9ef">then</span>
-</span></span><span style="display:flex;"><span>    folder<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>dirname <span style="color:#e6db74">&#34;</span>$file<span style="color:#e6db74">&#34;</span><span style="color:#66d9ef">)</span>
-</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;</span>$folder<span style="color:#e6db74">&#34;</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">fi</span>
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">done</span>
-</span></span></code></pre></div><p>And these instructions:</p>
-<ol>
-<li>Save this script to a file, e.g., find_drafts.sh.</li>
-<li>Make it executable with: <code>chmod +x find_drafts.sh</code></li>
-<li>Run the script from the directory above posts: <code>./find_drafts.sh</code></li>
-</ol>
-<p>So that did everything right except for the folder location, which was trivial for me to fix. So that&rsquo;s useful and now I can look up the drafts I am working on despite the unfriendliness of Hugo&rsquo;s directory structure. Could I have thought all that up by myself? Of course, and that&rsquo;s why I am posting it here as a reminder to myself next time!</p>
-  </section>
-
-  
-  
-
-  <h3>See Also</h3>
-  <ul>
-   
-     <li><a href="/posts/dont-break-the-chain/">Don&#39;t Break The Chain</a></li>
-   
-     <li><a href="/posts/the-orphan-project/">The Orphan Project</a></li>
-   
-     <li><a href="/posts/new-look-mattischrome/">The new look mattischrome</a></li>
-   
-     <li><a href="/posts/albums-of-the-year-preview/">2023 Albums of the Year Preview</a></li>
-   
-     <li><a href="/posts/second-february-post/">A February Project</a></li>
-   
-  </ul>
-
-  
-  
-  
-  <div style="text-align:center;">
-    
-    <img class="fleuron-block" src="/images/divider.svg" style="max-width: 10cm" alt="End of post fleuron">
-    
-    
-  </div>
-  
-</article>
-<div aria-label="Browse" class="post-single__browse browse-nav">
-    
-    <div class="browse-nav__next">
-      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--next">
-        &#10142;
-      </div>
-      <a href="http://localhost:1313/posts/in-praise-of-pilates/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: In Praise of Pilates">In Praise of Pilates</a>
-    </div>
-    
-  
-    
-    <div class="browse-nav__prev">
-      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--prev">
-        &#10142;
-      </div>
-      <a href="http://localhost:1313/posts/dont-break-the-chain/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: Don&#39;t Break The Chain">Don&#39;t Break The Chain</a>
-    </div>
-    
-  
-    <a href="http://localhost:1313/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
-</div>
-
-
-    </div>
-    
-<div id="footer">
-    
-    <a id="to-top" href="#">top</a>
-    
-    
-    <a href="/index.xml" style="font-variant:small-caps">rss</a>
-    &nbsp;|&nbsp;
-    
-    
-    <a href="https://github.com/mattischrome/console-blog">Website source</a>
-    &nbsp;|&nbsp;
-    
-    
-    <a href="/about">About</a>
-    
-  </div>
-  </div>
-</body>
-</html>
+<!doctype html><html lang=en-gb dir=ltr><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Fun With Chat-GPT · mattischrome</title><link rel=stylesheet type=text/css href=/css/navbar.css><link rel=stylesheet type=text/css href=/css/colours-green.css><link rel=stylesheet type=text/css href=/css/fonts.css><link rel=stylesheet type=text/css href=/css/default.css><link rel=stylesheet type=text/css href=/css/pygments.css><link rel=stylesheet type=text/css href=/css/sidenotes.css><link rel=stylesheet type=text/css href=/css/margin-figure.css></head><body><div class=navbar-space><div id=navigation class=no-print><div class="menu menu-open"><a href=/ class="menu-heading menu-title">Blog<br><span class=menu-subtitle>mattischrome</span></a><ul><li><a href=/about/>About</a></li><li><a href=/>Home</a></li><li><a href=/posts/>Posts</a></li><li><a href=/tags/>Tags</a></li><li><a href=/search/>Search</a></li></ul></div></div><div id=contents-big><p class=mini-header>Contents <a id=up-arrow href=#>↑</a></p><nav id=TableOfContents></nav></div></div><div class=text-space><div id=content><h1>Fun With Chat-GPT</h1><article><p class=header>Posted on 2025-01-12
+&#8201;·&#8201; <span title="257 words">2 min read</span> &#8201;·&nbsp;
+<a title="All pages tagged 'Software'." href=/tags/software rel=tag>Software</a>
+&#8201;·&#8201;
+<a title="All pages tagged 'Twenty Five'." href=/tags/twenty-five rel=tag>Twenty Five</a>
+&#8201;·&#8201;
+<a title="All pages tagged 'Blogging'." href=/tags/blogging rel=tag>Blogging</a>
+&#8201;·&#8201;
+<a title="All pages tagged 'Drafts'." href=/tags/drafts rel=tag>Drafts</a>
+&#8201;·&#8201;
+<a title="All pages tagged 'Content Management'." href=/tags/content-management rel=tag>Content Management</a>
+&#8201;·&#8201;
+<a title="All pages tagged 'Meta'." href=/tags/meta rel=tag>Meta</a></p><section data-pagefind-body><div id=contents><p class=mini-header>Contents</p><nav id=TableOfContents></nav></div><p>I asked:</p><blockquote><p>For my blog I have a folder called posts. In that folder are more folders that are named for the slug of each post, as per the conventions of the Hugo static site generator. Those folders each contain a markdown file named index.md, each of which has a YAML header. Draft posts have a YAML key called draft which has the value true. Please can you write me a shell script that I can run from the directory above posts that tells me which folders in the posts folder contain draft posts?</p></blockquote><p>I got:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-bash data-lang=bash><span style=display:flex><span><span style=color:#75715e>#!/bin/bash
+</span></span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#75715e># Directory containing the posts</span>
+</span></span><span style=display:flex><span>POSTS_DIR<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;posts&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#75715e># Check if the posts directory exists</span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>if</span> <span style=color:#f92672>[[</span> ! -d <span style=color:#e6db74>&#34;</span>$POSTS_DIR<span style=color:#e6db74>&#34;</span> <span style=color:#f92672>]]</span>; <span style=color:#66d9ef>then</span>
+</span></span><span style=display:flex><span>  echo <span style=color:#e6db74>&#34;Error: Directory &#39;</span>$POSTS_DIR<span style=color:#e6db74>&#39; does not exist.&#34;</span>
+</span></span><span style=display:flex><span>  exit <span style=color:#ae81ff>1</span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>fi</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#75715e># Find and print folders containing draft posts</span>
+</span></span><span style=display:flex><span>echo <span style=color:#e6db74>&#34;Folders with draft posts:&#34;</span>
+</span></span><span style=display:flex><span>find <span style=color:#e6db74>&#34;</span>$POSTS_DIR<span style=color:#e6db74>&#34;</span> -type f -name <span style=color:#e6db74>&#34;index.md&#34;</span> | <span style=color:#66d9ef>while</span> read -r file; <span style=color:#66d9ef>do</span>
+</span></span><span style=display:flex><span>  <span style=color:#66d9ef>if</span> grep -q <span style=color:#e6db74>&#34;^draft: true&#34;</span> <span style=color:#e6db74>&#34;</span>$file<span style=color:#e6db74>&#34;</span>; <span style=color:#66d9ef>then</span>
+</span></span><span style=display:flex><span>    folder<span style=color:#f92672>=</span><span style=color:#66d9ef>$(</span>dirname <span style=color:#e6db74>&#34;</span>$file<span style=color:#e6db74>&#34;</span><span style=color:#66d9ef>)</span>
+</span></span><span style=display:flex><span>    echo <span style=color:#e6db74>&#34;</span>$folder<span style=color:#e6db74>&#34;</span>
+</span></span><span style=display:flex><span>  <span style=color:#66d9ef>fi</span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>done</span>
+</span></span></code></pre></div><p>And these instructions:</p><ol><li>Save this script to a file, e.g., find_drafts.sh.</li><li>Make it executable with: <code>chmod +x find_drafts.sh</code></li><li>Run the script from the directory above posts: <code>./find_drafts.sh</code></li></ol><p>So that did everything right except for the folder location, which was trivial for me to fix. So that&rsquo;s useful and now I can look up the drafts I am working on despite the unfriendliness of Hugo&rsquo;s directory structure. Could I have thought all that up by myself? Of course, and that&rsquo;s why I am posting it here as a reminder to myself next time!</p></section><h3>See Also</h3><ul><li><a href=/posts/dont-break-the-chain/>Don't Break The Chain</a></li><li><a href=/posts/the-orphan-project/>The Orphan Project</a></li><li><a href=/posts/new-look-mattischrome/>The new look mattischrome</a></li><li><a href=/posts/albums-of-the-year-preview/>2023 Albums of the Year Preview</a></li><li><a href=/posts/second-february-post/>A February Project</a></li></ul><div style=text-align:center><img class=fleuron-block src=/images/divider.svg style=max-width:10cm alt="End of post fleuron"></div></article><div aria-label=Browse class="post-single__browse browse-nav"><div class=browse-nav__next><div aria-hidden=true class="browse-nav__symbol browse-nav__symbol--next">&#10142;</div><a href=https://mattischrome.com/posts/in-praise-of-pilates/ class="browse-nav__link browse-nav__link--next" aria-label="Next article: In Praise of Pilates">In Praise of Pilates</a></div><div class=browse-nav__prev><div aria-hidden=true class="browse-nav__symbol browse-nav__symbol--prev">&#10142;</div><a href=https://mattischrome.com/posts/dont-break-the-chain/ class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: Don't Break The Chain">Don't Break The Chain</a></div><a href=https://mattischrome.com/ class=browse-nav__home><span aria-hidden=true>&larrb;</span> Back to home page</a></div></div><div id=footer><a id=to-top href=#>top</a>
+<a href=/index.xml style=font-variant:small-caps>rss</a>
+&nbsp;|&nbsp;
+<a href=https://github.com/mattischrome/console-blog>Website source</a>
+&nbsp;|&nbsp;
+<a href=/about>About</a></div></div></body></html>

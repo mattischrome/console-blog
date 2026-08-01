@@ -1,249 +1,80 @@
-<!DOCTYPE html>
-<html lang="en-gb" dir="ltr">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-
-<title>
-  Swaptastic Part 2 · mattischrome
-</title>
-
-
-<link rel="stylesheet" type="text/css" href="/css/navbar.css">
-<link rel="stylesheet" type="text/css" href="/css/colours-green.css">
-<link rel="stylesheet" type="text/css" href="/css/fonts.css">
-<link rel="stylesheet" type="text/css" href="/css/default.css">
-
-<link rel="stylesheet" type="text/css" href="/css/pygments.css">
-
-
-<link rel="stylesheet" type="text/css" href="/css/sidenotes.css">
-<link rel="stylesheet" type="text/css" href="/css/margin-figure.css">
-
-
-
-  
-</head>
-<body>
-  <div class="navbar-space">
-    <div id="navigation" class="no-print">
-    <div class="menu menu-open">
-      <a href="/" class="menu-heading menu-title">
-        Blog<br>
-        <span class="menu-subtitle">mattischrome</span>
-      </a>
-      <ul>
-        
-        <li><a href="/about/">About</a></li>
-        
-        <li><a href="/">Home</a></li>
-        
-        <li><a href="/posts/">Posts</a></li>
-        
-        <li><a href="/tags/">Tags</a></li>
-        
-        <li><a href="/search/">Search</a></li>
-        
-        
-      </ul>
-    </div>
-  </div>
-    
-    
-    
-  </div>
-  
-  <div class="text-space">
-    <div id="content">
-      
-
-
-
-<h1>Swaptastic Part 2</h1>
-
-
-<article>
-  <p class="header">
-    
-    Posted on 2016-06-29
-    
-    
-    &thinsp;·&thinsp; <span title="645 words">4 min read</span> &thinsp;·&nbsp;
-    
-    
-    
-  <a title="All pages tagged 'Football'." href="/tags/football" rel="tag">Football</a>
-    
-    &thinsp;·&thinsp;
-  <a title="All pages tagged 'Stats'." href="/tags/stats" rel="tag">Stats</a>
-    
-    &thinsp;·&thinsp;
-  <a title="All pages tagged 'Modelling'." href="/tags/modelling" rel="tag">Modelling</a>
-    
-    &thinsp;·&thinsp;
-  <a title="All pages tagged 'Programming'." href="/tags/programming" rel="tag">Programming</a>
-    
-    &thinsp;·&thinsp;
-  <a title="All pages tagged 'R'." href="/tags/r" rel="tag">R</a>
-    
-    &thinsp;·&thinsp;
-  <a title="All pages tagged 'Sixteen'." href="/tags/sixteen" rel="tag">Sixteen</a>
-    
-  </p>
-  
-  <section data-pagefind-body>
-    
-    
-
-    
-    <p>As a follow-up to my post about the <a href="/euro-2016-panini-stickers/">Euro 2016 Panini Stickers</a>, I&rsquo;ve now completed the collection with <a href="/swaptastic-part-1/">the help of an online swapping site</a> and by buying the last 39 stickers directly from Panini. I also managed to write a new simulator, this time with additional collectors involved.</p>
-<p>I assume that each of N collectors will buy a packet of stickers and add any new stickers to their album. Then they attempt to swap any leftovers with the rest of their friends. The intersect function in R makes this pretty easy to code up. Every collector who finishes the album stops buying stickers.</p>
-<p>Here&rsquo;s the R code for a single simulation of the swapping algorithm, with defaults for the Euro 2016 album:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>stickerswaps <span style="color:#f92672">&lt;-</span> <span style="color:#66d9ef">function</span>(number.collectors<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>, number.stickers<span style="color:#f92672">=</span><span style="color:#ae81ff">680</span>,
-</span></span><span style="display:flex;"><span>pack.size<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>, packs.purchased<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>, target.collections<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>, cutoff<span style="color:#f92672">=</span><span style="color:#ae81ff">50</span>)
-</span></span><span style="display:flex;"><span>{
-</span></span><span style="display:flex;"><span>  pack.price<span style="color:#f92672">&lt;-</span><span style="color:#ae81ff">0.5</span>
-</span></span><span style="display:flex;"><span>  collections<span style="color:#f92672">&lt;-</span><span style="color:#a6e22e">array</span>(<span style="color:#ae81ff">0</span>,<span style="color:#a6e22e">c</span>(number.collectors,number.stickers))
-</span></span><span style="display:flex;"><span>  number.complete.collections<span style="color:#f92672">&lt;-</span><span style="color:#ae81ff">0</span>
-</span></span><span style="display:flex;"><span>  total.number.swapped<span style="color:#f92672">&lt;-</span><span style="color:#ae81ff">0</span>
-</span></span><span style="display:flex;"><span>  number.rounds<span style="color:#f92672">&lt;-</span><span style="color:#ae81ff">1</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># we set a flag to once a collector has completed the album</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># later we can change this to when all but one collector has completed</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">while</span>(number.complete.collections<span style="color:#f92672">&lt;</span>target.collections)
-</span></span><span style="display:flex;"><span>  {
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span>(i <span style="color:#66d9ef">in</span> <span style="color:#ae81ff">1</span><span style="color:#f92672">:</span>number.collectors)
-</span></span><span style="display:flex;"><span>    {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">sum</span>(collections[i,]<span style="color:#f92672">!=</span><span style="color:#ae81ff">0</span>)<span style="color:#f92672">&lt;=</span>number.stickers<span style="color:#f92672">-</span>cutoff)
-</span></span><span style="display:flex;"><span>      {
-</span></span><span style="display:flex;"><span>        new.stickers<span style="color:#f92672">&lt;-</span><span style="color:#a6e22e">sample</span>(<span style="color:#ae81ff">1</span><span style="color:#f92672">:</span>number.stickers,pack.size<span style="color:#f92672">*</span>packs.purchased)
-</span></span><span style="display:flex;"><span>        collections[i,new.stickers]<span style="color:#f92672">&lt;-</span>collections[i,new.stickers]<span style="color:#ae81ff">+1</span>
-</span></span><span style="display:flex;"><span>      }
-</span></span><span style="display:flex;"><span>    }
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># After acquiring new stickers, each possible pair of collectors exchanges their swaps</span>
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> (i <span style="color:#66d9ef">in</span> <span style="color:#ae81ff">1</span><span style="color:#f92672">:</span>number.collectors<span style="color:#ae81ff">-1</span>)
-</span></span><span style="display:flex;"><span>    {
-</span></span><span style="display:flex;"><span>      potential.swappers<span style="color:#f92672">=</span>(i<span style="color:#ae81ff">+1</span>)<span style="color:#f92672">:</span>number.collectors
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">for</span> (j <span style="color:#66d9ef">in</span> potential.swappers)
-</span></span><span style="display:flex;"><span>      {
-</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># each collector works out which stickers they need</span>
-</span></span><span style="display:flex;"><span>        need.i<span style="color:#f92672">&lt;-</span><span style="color:#a6e22e">which</span>(collections[i,]<span style="color:#f92672">==</span><span style="color:#ae81ff">0</span>)
-</span></span><span style="display:flex;"><span>        need.j<span style="color:#f92672">&lt;-</span><span style="color:#a6e22e">which</span>(collections[j,]<span style="color:#f92672">==</span><span style="color:#ae81ff">0</span>)
-</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># each collector works out their swaps</span>
-</span></span><span style="display:flex;"><span>        swaps.i<span style="color:#f92672">&lt;-</span><span style="color:#a6e22e">which</span>(collections[i,]<span style="color:#f92672">&gt;</span><span style="color:#ae81ff">1</span>)
-</span></span><span style="display:flex;"><span>        swaps.j<span style="color:#f92672">&lt;-</span><span style="color:#a6e22e">which</span>(collections[j,]<span style="color:#f92672">&gt;</span><span style="color:#ae81ff">1</span>)
-</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># now work out what j has for i</span>
-</span></span><span style="display:flex;"><span>        exchange.jtoi<span style="color:#f92672">&lt;-</span><span style="color:#a6e22e">intersect</span>(swaps.j,need.i)
-</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># and what i has for j</span>
-</span></span><span style="display:flex;"><span>        exchange.itoj<span style="color:#f92672">&lt;-</span><span style="color:#a6e22e">intersect</span>(swaps.i,need.j)
-</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># how many do we swap?</span>
-</span></span><span style="display:flex;"><span>        number.swapped<span style="color:#f92672">&lt;-</span><span style="color:#a6e22e">min</span>(<span style="color:#a6e22e">c</span>(<span style="color:#a6e22e">length</span>(exchange.itoj),<span style="color:#a6e22e">length</span>(exchange.jtoi)))
-</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># update the collections and the total number swapped across all pairs</span>
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> (number.swapped<span style="color:#f92672">&gt;</span><span style="color:#ae81ff">0</span>) {
-</span></span><span style="display:flex;"><span>          total.number.swapped<span style="color:#f92672">&lt;-</span>total.number.swapped<span style="color:#f92672">+</span>number.swapped
-</span></span><span style="display:flex;"><span>          <span style="color:#75715e"># NB this assumes collectors always swap the lowest number stickers first</span>
-</span></span><span style="display:flex;"><span>          collections[i,exchange.jtoi[1<span style="color:#f92672">:</span>number.swapped]]<span style="color:#f92672">&lt;-</span>collections[i,exchange.jtoi[1<span style="color:#f92672">:</span>number.swapped]]<span style="color:#ae81ff">+1</span>
-</span></span><span style="display:flex;"><span>          collections[j,exchange.jtoi[1<span style="color:#f92672">:</span>number.swapped]]<span style="color:#f92672">&lt;-</span>collections[j,exchange.jtoi[1<span style="color:#f92672">:</span>number.swapped]]<span style="color:#ae81ff">-1</span>
-</span></span><span style="display:flex;"><span>          collections[j,exchange.itoj[1<span style="color:#f92672">:</span>number.swapped]]<span style="color:#f92672">&lt;-</span>collections[j,exchange.itoj[1<span style="color:#f92672">:</span>number.swapped]]<span style="color:#ae81ff">+1</span>
-</span></span><span style="display:flex;"><span>          collections[i,exchange.itoj[1<span style="color:#f92672">:</span>number.swapped]]<span style="color:#f92672">&lt;-</span>collections[i,exchange.itoj[1<span style="color:#f92672">:</span>number.swapped]]<span style="color:#ae81ff">-1</span>
-</span></span><span style="display:flex;"><span>        }
-</span></span><span style="display:flex;"><span>      }
-</span></span><span style="display:flex;"><span>    } <span style="color:#75715e"># end of swaps</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># increment the number of rounds</span>
-</span></span><span style="display:flex;"><span>    number.rounds<span style="color:#f92672">&lt;-</span>number.rounds<span style="color:#ae81ff">+1</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># calculate the number of complete collections</span>
-</span></span><span style="display:flex;"><span>    number.complete.collections<span style="color:#f92672">=</span><span style="color:#a6e22e">sum</span>(<span style="color:#a6e22e">rowSums</span>(collections<span style="color:#f92672">!=</span><span style="color:#ae81ff">0</span>)<span style="color:#f92672">&gt;=</span>(number.stickers<span style="color:#f92672">-</span>cutoff))
-</span></span><span style="display:flex;"><span>  } <span style="color:#75715e"># end of while loop</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span>(<span style="color:#a6e22e">c</span>(number.rounds<span style="color:#f92672">*</span>packs.purchased,total.number.swapped<span style="color:#f92672">/</span>number.collectors))
-</span></span><span style="display:flex;"><span>}
-</span></span></code></pre></div><p>What is the benefit to a collector of having a friend to swap with? The figure below compares someone collecting alone to a collector with one single friend to swap with. As I mentioned last time, the single collector has to buy about 340 packets of stickers on average. Meanwhile, someone with a sticker swapping buddy has to buy about 240 packs of stickers on average - that&rsquo;s a hundred fewer packets of stickers on average. The value of a friend is about £50!</p>
-<p><img src="../../assets/images/other/1vs2collectors.jpg" alt=""></p>
-<p>I then increased the number of collectors. As you can see from the figure below, the distribution creeps ever leftward and tightens up around the mean. The larger your friendship group, the closer you get to only having to buy enough packets of stickers to fill the album. This makes sense if the stickers are equally rare: you should be able to exchange your swaps with those belonging to your friends. Note that this shows the number of packets that the first collector has to buy.</p>
-<p><img src="../../assets/images/other/FirstCollector.jpg" alt=""></p>
-<p>Now let&rsquo;s look at a similar graph for the penultimate collector to finish. I chose the second-to-last collector because the last person has no one to swap with. You will see that these distributions overlap a lot more. The unluckiest player in the 10 collector scenario has to buy as many stickers as the luckiest players in the 3 collector scenario. As each collector finishes it becomes an N-1 collector scenario for the remaining collectors and this will involve buying more packets.</p>
-<p><img src="../../assets/images/other/PenultimateCollector.jpg" alt=""></p>
-<p>Finally, let&rsquo;s look at the distributions for how many stickers each collector has to collect when there are five of them. On average the last collector to finish has to buy about forty more packets of stickers than the first collector to finish. The final collector also has a much wider range of possible outcomes as it will depend on how close to finishing she is when her friends complete their collections.</p>
-<p><img src="../../assets/images/other/All5Collectors.jpg" alt=""></p>
-<p>Part 3 will look at what happens when the stickers are not equally rare.</p>
-  </section>
-
-  
-  
-
-  <h3>See Also</h3>
-  <ul>
-   
-     <li><a href="/posts/euro-2016-panini-stickers/">Euro 2016 Panini Stickers</a></li>
-   
-     <li><a href="/posts/swaptastic-part-1/">Swaptastic Part 1</a></li>
-   
-     <li><a href="/posts/generate-random-numbers-in-r/">How to generate random numbers in R</a></li>
-   
-     <li><a href="/posts/in-the-space-between-this-and-that/">In the space between this and that</a></li>
-   
-     <li><a href="/posts/logitech-k380-review/">Logitech K380 Review</a></li>
-   
-  </ul>
-
-  
-  
-  
-  <div style="text-align:center;">
-    
-    <img class="fleuron-block" src="/images/divider.svg" style="max-width: 10cm" alt="End of post fleuron">
-    
-    
-  </div>
-  
-</article>
-<div aria-label="Browse" class="post-single__browse browse-nav">
-    
-    <div class="browse-nav__next">
-      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--next">
-        &#10142;
-      </div>
-      <a href="http://localhost:1313/posts/album-digest-june-2016/" class="browse-nav__link browse-nav__link--next" aria-label="Next article: Album Digest, June 2016">Album Digest, June 2016</a>
-    </div>
-    
-  
-    
-    <div class="browse-nav__prev">
-      <div aria-hidden="true" class="browse-nav__symbol browse-nav__symbol--prev">
-        &#10142;
-      </div>
-      <a href="http://localhost:1313/posts/in-the-space-between-this-and-that/" class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: In the space between this and that">In the space between this and that</a>
-    </div>
-    
-  
-    <a href="http://localhost:1313/" class="browse-nav__home"><span aria-hidden="true">&larrb;</span> Back to home page</a>
-</div>
-
-
-    </div>
-    
-<div id="footer">
-    
-    <a id="to-top" href="#">top</a>
-    
-    
-    <a href="/index.xml" style="font-variant:small-caps">rss</a>
-    &nbsp;|&nbsp;
-    
-    
-    <a href="https://github.com/mattischrome/console-blog">Website source</a>
-    &nbsp;|&nbsp;
-    
-    
-    <a href="/about">About</a>
-    
-  </div>
-  </div>
-</body>
-</html>
+<!doctype html><html lang=en-gb dir=ltr><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Swaptastic Part 2 · mattischrome</title><link rel=stylesheet type=text/css href=/css/navbar.css><link rel=stylesheet type=text/css href=/css/colours-green.css><link rel=stylesheet type=text/css href=/css/fonts.css><link rel=stylesheet type=text/css href=/css/default.css><link rel=stylesheet type=text/css href=/css/pygments.css><link rel=stylesheet type=text/css href=/css/sidenotes.css><link rel=stylesheet type=text/css href=/css/margin-figure.css></head><body><div class=navbar-space><div id=navigation class=no-print><div class="menu menu-open"><a href=/ class="menu-heading menu-title">Blog<br><span class=menu-subtitle>mattischrome</span></a><ul><li><a href=/about/>About</a></li><li><a href=/>Home</a></li><li><a href=/posts/>Posts</a></li><li><a href=/tags/>Tags</a></li><li><a href=/search/>Search</a></li></ul></div></div></div><div class=text-space><div id=content><h1>Swaptastic Part 2</h1><article><p class=header>Posted on 2016-06-29
+&#8201;·&#8201; <span title="645 words">4 min read</span> &#8201;·&nbsp;
+<a title="All pages tagged 'Football'." href=/tags/football rel=tag>Football</a>
+&#8201;·&#8201;
+<a title="All pages tagged 'Stats'." href=/tags/stats rel=tag>Stats</a>
+&#8201;·&#8201;
+<a title="All pages tagged 'Modelling'." href=/tags/modelling rel=tag>Modelling</a>
+&#8201;·&#8201;
+<a title="All pages tagged 'Programming'." href=/tags/programming rel=tag>Programming</a>
+&#8201;·&#8201;
+<a title="All pages tagged 'R'." href=/tags/r rel=tag>R</a>
+&#8201;·&#8201;
+<a title="All pages tagged 'Sixteen'." href=/tags/sixteen rel=tag>Sixteen</a></p><section data-pagefind-body><p>As a follow-up to my post about the <a href=/euro-2016-panini-stickers/>Euro 2016 Panini Stickers</a>, I&rsquo;ve now completed the collection with <a href=/swaptastic-part-1/>the help of an online swapping site</a> and by buying the last 39 stickers directly from Panini. I also managed to write a new simulator, this time with additional collectors involved.</p><p>I assume that each of N collectors will buy a packet of stickers and add any new stickers to their album. Then they attempt to swap any leftovers with the rest of their friends. The intersect function in R makes this pretty easy to code up. Every collector who finishes the album stops buying stickers.</p><p>Here&rsquo;s the R code for a single simulation of the swapping algorithm, with defaults for the Euro 2016 album:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-r data-lang=r><span style=display:flex><span>stickerswaps <span style=color:#f92672>&lt;-</span> <span style=color:#66d9ef>function</span>(number.collectors<span style=color:#f92672>=</span><span style=color:#ae81ff>2</span>, number.stickers<span style=color:#f92672>=</span><span style=color:#ae81ff>680</span>,
+</span></span><span style=display:flex><span>pack.size<span style=color:#f92672>=</span><span style=color:#ae81ff>5</span>, packs.purchased<span style=color:#f92672>=</span><span style=color:#ae81ff>1</span>, target.collections<span style=color:#f92672>=</span><span style=color:#ae81ff>1</span>, cutoff<span style=color:#f92672>=</span><span style=color:#ae81ff>50</span>)
+</span></span><span style=display:flex><span>{
+</span></span><span style=display:flex><span>  pack.price<span style=color:#f92672>&lt;-</span><span style=color:#ae81ff>0.5</span>
+</span></span><span style=display:flex><span>  collections<span style=color:#f92672>&lt;-</span><span style=color:#a6e22e>array</span>(<span style=color:#ae81ff>0</span>,<span style=color:#a6e22e>c</span>(number.collectors,number.stickers))
+</span></span><span style=display:flex><span>  number.complete.collections<span style=color:#f92672>&lt;-</span><span style=color:#ae81ff>0</span>
+</span></span><span style=display:flex><span>  total.number.swapped<span style=color:#f92672>&lt;-</span><span style=color:#ae81ff>0</span>
+</span></span><span style=display:flex><span>  number.rounds<span style=color:#f92672>&lt;-</span><span style=color:#ae81ff>1</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>  <span style=color:#75715e># we set a flag to once a collector has completed the album</span>
+</span></span><span style=display:flex><span>  <span style=color:#75715e># later we can change this to when all but one collector has completed</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>  <span style=color:#66d9ef>while</span>(number.complete.collections<span style=color:#f92672>&lt;</span>target.collections)
+</span></span><span style=display:flex><span>  {
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>for</span>(i <span style=color:#66d9ef>in</span> <span style=color:#ae81ff>1</span><span style=color:#f92672>:</span>number.collectors)
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#66d9ef>if</span>(<span style=color:#a6e22e>sum</span>(collections[i,]<span style=color:#f92672>!=</span><span style=color:#ae81ff>0</span>)<span style=color:#f92672>&lt;=</span>number.stickers<span style=color:#f92672>-</span>cutoff)
+</span></span><span style=display:flex><span>      {
+</span></span><span style=display:flex><span>        new.stickers<span style=color:#f92672>&lt;-</span><span style=color:#a6e22e>sample</span>(<span style=color:#ae81ff>1</span><span style=color:#f92672>:</span>number.stickers,pack.size<span style=color:#f92672>*</span>packs.purchased)
+</span></span><span style=display:flex><span>        collections[i,new.stickers]<span style=color:#f92672>&lt;-</span>collections[i,new.stickers]<span style=color:#ae81ff>+1</span>
+</span></span><span style=display:flex><span>      }
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e># After acquiring new stickers, each possible pair of collectors exchanges their swaps</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>for</span> (i <span style=color:#66d9ef>in</span> <span style=color:#ae81ff>1</span><span style=color:#f92672>:</span>number.collectors<span style=color:#ae81ff>-1</span>)
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      potential.swappers<span style=color:#f92672>=</span>(i<span style=color:#ae81ff>+1</span>)<span style=color:#f92672>:</span>number.collectors
+</span></span><span style=display:flex><span>      <span style=color:#66d9ef>for</span> (j <span style=color:#66d9ef>in</span> potential.swappers)
+</span></span><span style=display:flex><span>      {
+</span></span><span style=display:flex><span>        <span style=color:#75715e># each collector works out which stickers they need</span>
+</span></span><span style=display:flex><span>        need.i<span style=color:#f92672>&lt;-</span><span style=color:#a6e22e>which</span>(collections[i,]<span style=color:#f92672>==</span><span style=color:#ae81ff>0</span>)
+</span></span><span style=display:flex><span>        need.j<span style=color:#f92672>&lt;-</span><span style=color:#a6e22e>which</span>(collections[j,]<span style=color:#f92672>==</span><span style=color:#ae81ff>0</span>)
+</span></span><span style=display:flex><span>        <span style=color:#75715e># each collector works out their swaps</span>
+</span></span><span style=display:flex><span>        swaps.i<span style=color:#f92672>&lt;-</span><span style=color:#a6e22e>which</span>(collections[i,]<span style=color:#f92672>&gt;</span><span style=color:#ae81ff>1</span>)
+</span></span><span style=display:flex><span>        swaps.j<span style=color:#f92672>&lt;-</span><span style=color:#a6e22e>which</span>(collections[j,]<span style=color:#f92672>&gt;</span><span style=color:#ae81ff>1</span>)
+</span></span><span style=display:flex><span>        <span style=color:#75715e># now work out what j has for i</span>
+</span></span><span style=display:flex><span>        exchange.jtoi<span style=color:#f92672>&lt;-</span><span style=color:#a6e22e>intersect</span>(swaps.j,need.i)
+</span></span><span style=display:flex><span>        <span style=color:#75715e># and what i has for j</span>
+</span></span><span style=display:flex><span>        exchange.itoj<span style=color:#f92672>&lt;-</span><span style=color:#a6e22e>intersect</span>(swaps.i,need.j)
+</span></span><span style=display:flex><span>        <span style=color:#75715e># how many do we swap?</span>
+</span></span><span style=display:flex><span>        number.swapped<span style=color:#f92672>&lt;-</span><span style=color:#a6e22e>min</span>(<span style=color:#a6e22e>c</span>(<span style=color:#a6e22e>length</span>(exchange.itoj),<span style=color:#a6e22e>length</span>(exchange.jtoi)))
+</span></span><span style=display:flex><span>        <span style=color:#75715e># update the collections and the total number swapped across all pairs</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> (number.swapped<span style=color:#f92672>&gt;</span><span style=color:#ae81ff>0</span>) {
+</span></span><span style=display:flex><span>          total.number.swapped<span style=color:#f92672>&lt;-</span>total.number.swapped<span style=color:#f92672>+</span>number.swapped
+</span></span><span style=display:flex><span>          <span style=color:#75715e># NB this assumes collectors always swap the lowest number stickers first</span>
+</span></span><span style=display:flex><span>          collections[i,exchange.jtoi[1<span style=color:#f92672>:</span>number.swapped]]<span style=color:#f92672>&lt;-</span>collections[i,exchange.jtoi[1<span style=color:#f92672>:</span>number.swapped]]<span style=color:#ae81ff>+1</span>
+</span></span><span style=display:flex><span>          collections[j,exchange.jtoi[1<span style=color:#f92672>:</span>number.swapped]]<span style=color:#f92672>&lt;-</span>collections[j,exchange.jtoi[1<span style=color:#f92672>:</span>number.swapped]]<span style=color:#ae81ff>-1</span>
+</span></span><span style=display:flex><span>          collections[j,exchange.itoj[1<span style=color:#f92672>:</span>number.swapped]]<span style=color:#f92672>&lt;-</span>collections[j,exchange.itoj[1<span style=color:#f92672>:</span>number.swapped]]<span style=color:#ae81ff>+1</span>
+</span></span><span style=display:flex><span>          collections[i,exchange.itoj[1<span style=color:#f92672>:</span>number.swapped]]<span style=color:#f92672>&lt;-</span>collections[i,exchange.itoj[1<span style=color:#f92672>:</span>number.swapped]]<span style=color:#ae81ff>-1</span>
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>      }
+</span></span><span style=display:flex><span>    } <span style=color:#75715e># end of swaps</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e># increment the number of rounds</span>
+</span></span><span style=display:flex><span>    number.rounds<span style=color:#f92672>&lt;-</span>number.rounds<span style=color:#ae81ff>+1</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e># calculate the number of complete collections</span>
+</span></span><span style=display:flex><span>    number.complete.collections<span style=color:#f92672>=</span><span style=color:#a6e22e>sum</span>(<span style=color:#a6e22e>rowSums</span>(collections<span style=color:#f92672>!=</span><span style=color:#ae81ff>0</span>)<span style=color:#f92672>&gt;=</span>(number.stickers<span style=color:#f92672>-</span>cutoff))
+</span></span><span style=display:flex><span>  } <span style=color:#75715e># end of while loop</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>  <span style=color:#66d9ef>return</span>(<span style=color:#a6e22e>c</span>(number.rounds<span style=color:#f92672>*</span>packs.purchased,total.number.swapped<span style=color:#f92672>/</span>number.collectors))
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></div><p>What is the benefit to a collector of having a friend to swap with? The figure below compares someone collecting alone to a collector with one single friend to swap with. As I mentioned last time, the single collector has to buy about 340 packets of stickers on average. Meanwhile, someone with a sticker swapping buddy has to buy about 240 packs of stickers on average - that&rsquo;s a hundred fewer packets of stickers on average. The value of a friend is about £50!</p><p><img src=../../assets/images/other/1vs2collectors.jpg alt></p><p>I then increased the number of collectors. As you can see from the figure below, the distribution creeps ever leftward and tightens up around the mean. The larger your friendship group, the closer you get to only having to buy enough packets of stickers to fill the album. This makes sense if the stickers are equally rare: you should be able to exchange your swaps with those belonging to your friends. Note that this shows the number of packets that the first collector has to buy.</p><p><img src=../../assets/images/other/FirstCollector.jpg alt></p><p>Now let&rsquo;s look at a similar graph for the penultimate collector to finish. I chose the second-to-last collector because the last person has no one to swap with. You will see that these distributions overlap a lot more. The unluckiest player in the 10 collector scenario has to buy as many stickers as the luckiest players in the 3 collector scenario. As each collector finishes it becomes an N-1 collector scenario for the remaining collectors and this will involve buying more packets.</p><p><img src=../../assets/images/other/PenultimateCollector.jpg alt></p><p>Finally, let&rsquo;s look at the distributions for how many stickers each collector has to collect when there are five of them. On average the last collector to finish has to buy about forty more packets of stickers than the first collector to finish. The final collector also has a much wider range of possible outcomes as it will depend on how close to finishing she is when her friends complete their collections.</p><p><img src=../../assets/images/other/All5Collectors.jpg alt></p><p>Part 3 will look at what happens when the stickers are not equally rare.</p></section><h3>See Also</h3><ul><li><a href=/posts/euro-2016-panini-stickers/>Euro 2016 Panini Stickers</a></li><li><a href=/posts/swaptastic-part-1/>Swaptastic Part 1</a></li><li><a href=/posts/generate-random-numbers-in-r/>How to generate random numbers in R</a></li><li><a href=/posts/in-the-space-between-this-and-that/>In the space between this and that</a></li><li><a href=/posts/logitech-k380-review/>Logitech K380 Review</a></li></ul><div style=text-align:center><img class=fleuron-block src=/images/divider.svg style=max-width:10cm alt="End of post fleuron"></div></article><div aria-label=Browse class="post-single__browse browse-nav"><div class=browse-nav__next><div aria-hidden=true class="browse-nav__symbol browse-nav__symbol--next">&#10142;</div><a href=https://mattischrome.com/posts/album-digest-june-2016/ class="browse-nav__link browse-nav__link--next" aria-label="Next article: Album Digest, June 2016">Album Digest, June 2016</a></div><div class=browse-nav__prev><div aria-hidden=true class="browse-nav__symbol browse-nav__symbol--prev">&#10142;</div><a href=https://mattischrome.com/posts/in-the-space-between-this-and-that/ class="browse-nav__link browse-nav__link--prev" aria-label="Previous article: In the space between this and that">In the space between this and that</a></div><a href=https://mattischrome.com/ class=browse-nav__home><span aria-hidden=true>&larrb;</span> Back to home page</a></div></div><div id=footer><a id=to-top href=#>top</a>
+<a href=/index.xml style=font-variant:small-caps>rss</a>
+&nbsp;|&nbsp;
+<a href=https://github.com/mattischrome/console-blog>Website source</a>
+&nbsp;|&nbsp;
+<a href=/about>About</a></div></div></body></html>
