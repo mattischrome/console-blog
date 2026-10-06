@@ -662,6 +662,41 @@ input.margin-toggle { display: none; }
 .tag-letter-group a:hover { color: var(--cat-deep); text-decoration: underline; }
 .tag-count { font-family: var(--font-meta); font-size: 0.78rem; color: var(--ink-soft); }
 
+/* Letter strip at the top of /tags/: sticker-style keys, wrapping onto as
+   many rows as the screen needs. Unused letters are shown but greyed. */
+.letter-strip { display: flex; flex-wrap: wrap; gap: 0.45rem; margin: 0 0 2.25rem; }
+.letter-strip a, .letter-strip span {
+  display: inline-grid; place-items: center;
+  min-width: 2.75rem; height: 2.75rem;          /* comfortable tap targets */
+  font: 700 1.1rem var(--font-display);
+  border-radius: 10px;
+}
+.letter-strip a {
+  color: var(--ink); text-decoration: none; background: var(--card-bg);
+  border: 2px solid var(--ink); box-shadow: 3px 3px 0 var(--cat);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.letter-strip a:hover, .letter-strip a:focus-visible { transform: translate(-1px, -1px); box-shadow: 4px 4px 0 var(--cat); color: var(--cat-deep); }
+.letter-strip span { color: var(--line); border: 2px dashed var(--line); }
+/* wide screens: smaller keys so # A–Z sit on a single row */
+@media (min-width: 64rem) {
+  .letter-strip { gap: 0.35rem; }
+  .letter-strip a, .letter-strip span { min-width: 2.3rem; height: 2.3rem; font-size: 1rem; border-radius: 8px; }
+}
+.tag-letter-group h2 { scroll-margin-top: 1rem; }
+#letters { scroll-margin-top: 1rem; }
+
+/* "Back to letters" only on narrow screens, where the list is one long column */
+.to-letters { display: none; }
+@media (max-width: 40rem) {
+  .to-letters {
+    display: inline-block; margin-top: 0.6rem;
+    font-family: var(--font-meta); font-size: 0.8rem;
+    color: var(--cat-deep); text-decoration: none;
+  }
+  .to-letters:hover { text-decoration: underline; }
+}
+
 .category-index { margin: 0; padding: 0; list-style: none; display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); }
 .category-index li {
   display: flex;

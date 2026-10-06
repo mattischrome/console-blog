@@ -2,6 +2,9 @@
   tags/terms.html — the /tags/ page.
   All tags A→Z, grouped under a letter heading, each with its post count.
   Tags that start with a digit or symbol are grouped under "#".
+  A strip of letters (# A–Z) at the top jumps to each group; letters with no
+  tags are shown greyed out. On narrow screens, where the columns collapse
+  into one long list, each group ends with a link back up to the strip.
 */ -}}
 {{ define "main" }}
   <header class="list-header">
@@ -20,10 +23,20 @@
     {{- $groups = merge $groups (dict $letter ($existing | append .)) -}}
   {{- end -}}
 
+  {{- $alphabet := slice "#" | append (split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "") -}}
+  <nav class="letter-strip" id="letters" aria-label="Jump to tags starting with">
+    {{ range $alphabet }}
+      {{- $id := cond (eq . "#") "letter-num" (printf "letter-%s" (lower .)) -}}
+      {{ if in $letters . }}<a href="#{{ $id }}"{{ if eq . "#" }} aria-label="Numbers and symbols"{{ end }}>{{ . }}</a>
+      {{ else }}<span aria-hidden="true">{{ . }}</span>{{ end }}
+    {{ end }}
+  </nav>
+
   <div class="tag-index">
     {{ range $letter := sort $letters }}
+    {{- $id := cond (eq $letter "#") "letter-num" (printf "letter-%s" (lower $letter)) -}}
     <section class="tag-letter-group">
-      <h2 id="letter-{{ $letter | urlize }}">{{ $letter }}</h2>
+      <h2 id="{{ $id }}">{{ $letter }}</h2>
       <ul>
         {{ range index $groups $letter }}
         <li>
@@ -32,6 +45,7 @@
         </li>
         {{ end }}
       </ul>
+      <a class="to-letters" href="#letters">↑ Back to letters</a>
     </section>
     {{ end }}
   </div>
