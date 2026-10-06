@@ -1,8 +1,10 @@
 ---
-category: Ideas
+categories: Ideas
 date: '2021-01-05'
 tags: ["Ideas", "Notes", "Life Experiences", "Resolutions", "Twenty One"]
 title: Some Tips For Saving Time
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Some Tips For Saving Time”"
 ---
 A non-exhaustive list of ideas for saving time:
 

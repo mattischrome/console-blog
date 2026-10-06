@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2023-12-26'
 slug: 2023-albums-06-grails-anches-en-maat
 tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Grails", "Rock"]
 title: '2023 Albums of the Year #6: Grails, Anches en Maat'
+hero: images/grails-anches-en-maat.jpeg
+hero_alt: "2023 Albums of the Year #6: Grails, Anches en Maat"
 ---
 Grails are one of those bands who always get played a lot at my house.
 {{< marginfigure src="../../assets/images/albums-2023/grails-anches-en-maat.jpeg" alt="Cover of Anches en Maat by Grails" caption="Cover of _Anches en Maat_ by Grails" >}}

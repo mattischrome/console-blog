@@ -1,8 +1,10 @@
 ---
-category: Travel
+categories: Travel
 date: '2017-10-04'
 tags: ["Trips","Europe","Iceland","Photos","Seventeen"]
 title: 'A trip to Iceland. Part 1: Reykjavík.'
+hero: images/iceland_01.jpg
+hero_alt: "A trip to Iceland. Part 1: Reykjavík."
 ---
 We arrived in Reykjavík a few days [after a monumental snowstorm](https://weather.com/news/news/reykjavik-iceland-record-snowfall-february). As such the city was still under at least six inches of snow. We collected the hire car from the airport and drove out of Keflavik. The scenery normally looks like a moonscape, but for us it was a frosty white wonderland.
 

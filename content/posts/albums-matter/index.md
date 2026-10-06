@@ -1,8 +1,10 @@
 ---
-category: Music
+categories: Music
 date: '2025-01-17'
 tags: ["Twenty Five", "Album Digest", "Apps", "Music"]
 title: Albums Matter
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Albums Matter”"
 ---
 Having recently completed my review of 2024's best albums, I've been reflecting on what a strange year it was for me in terms of the music I listened to. According to my Last.fm annual report, I listened to 51% _more_ music in 2024 compared with 2023 (and 2023 was itself a peak listening year). Moreover, I listened to 709 artists, of which 37% were new discoveries. I listened to over 2 albums a day apparently, with [Acopia](https://mattischrome.com/posts/2024-albums-03-acopia/) being the album I listened to most often. Apparently I was the 11th top listener on Last.fm of my number 1 album of the year [Letter to Yu by Bolis Pupul](https://mattischrome.com/posts/2024-albums-01-bolis-pupul-letter-to-yu/).
 

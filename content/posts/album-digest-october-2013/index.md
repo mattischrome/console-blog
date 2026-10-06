@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2013-10-31'
 tableOfContents: true
 tags: ["Album Digest", "October", "Music", "Chvrches", "Darkside", "Four Tet", "HAIM", "Thirteen"]
 title: Album Digest, October 2013
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, October 2013”"
 ---
 Four great albums this month for the last album digest in a while.
 

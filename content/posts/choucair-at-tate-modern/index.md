@@ -1,8 +1,10 @@
 ---
-category: Art
+categories: Art
 date: '2013-05-25'
 tags: ["Art", "Tate Modern", "Saloua Raouda Choucair", "Thirteen"]
 title: Choucair At Tate Modern
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Choucair At Tate Modern”"
 ---
 Yesterday I went to see the Saloua Raouda Choucair show at the Tate Modern. As it was quite small, I went to see [the Lichtenstein show](/lichtenstein-at-tate-modern/) again as well.
 

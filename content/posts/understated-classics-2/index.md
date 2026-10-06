@@ -1,10 +1,12 @@
 ---
-category: Understated Classics
+categories: Understated Classics
 date: '2010-08-12'
 slug: understated-classics-2
 tableOfContents: true
 tags: ["Understated Classics", "The Aloof", "Music", "Electronic", "Ten"]
 title: 'Understated Classics #2: Sinking by The Aloof'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Understated Classics #2: Sinking by The Aloof”"
 ---
 <!--more-->
 

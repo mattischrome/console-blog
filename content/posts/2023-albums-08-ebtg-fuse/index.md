@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2023-12-24'
 slug: 2023-albums-08-ebtg-fuse
 tags: ["Album Digest", "Music", "Twenty Three", "Albums", "EBTG", "Electronic"]
 title: '2023 Albums of the Year #8: Everything But The Girl, Fuse'
+hero: images/ebtg-fuse.jpeg
+hero_alt: "2023 Albums of the Year #8: Everything But The Girl, Fuse"
 ---
 As you get older nostalgia becomes an ever important part of listening to music.
 {{< marginfigure src="../../assets/images/albums-2023/ebtg-fuse.jpeg" alt="Cover of Fuse by Everything But The Girl" caption="Cover of _Fuse_ by Everything But The Girl" >}}

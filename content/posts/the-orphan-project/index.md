@@ -1,8 +1,10 @@
 ---
-category: Blogging
+categories: Blogging
 date: '2024-10-26'
 tags: ["Blogging", "Twenty Four", "Orphans", "Series", "Meta"]
 title: The Orphan Project
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “The Orphan Project”"
 ---
 A nice feature I added to this blog in its recent update was a [tags page](https://mattischrome.com/tags/). With the help of this [very useful discourse thread](https://discourse.gohugo.io/t/how-to-get-a-tags-page/24213/4) and some additional CSS tweaks, the resulting page is something that I am very happy with. It lists all of the tags that apply to any post, along with the number of posts with that tag, in alphabetical order. It's mostly intended as a guide for you the reader, to help you see whether your preoccupations match my own.
 

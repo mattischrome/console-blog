@@ -1,0 +1,37 @@
+{{- /*
+  card.html — one post card, used on the home page and on every category/tag
+  listing. Receives a single Page as context.
+
+  Anatomy:
+    • hero image  — ONLY the image named in the post's `hero` front-matter key
+                    (a path relative to the bundle, e.g. "images/gig.jpg").
+                    If absent, a site-wide default is used:
+                    site.Params.default_hero, else the theme's built-in SVG.
+                    The colour tint is applied in CSS (.card-hero::after).
+    • category chip, title, summary
+    • meta row    — date, reading time, tags
+  The card's category class scopes `--cat`, which drives the tint, the offset
+  shadow, and the chip colour.
+*/ -}}
+{{- $hero := "" -}}
+{{- with .Params.hero -}}
+  {{- with $.Resources.Get . -}}{{- $hero = .RelPermalink -}}{{- end -}}
+{{- end -}}
+{{- if not $hero -}}
+  {{- $hero = or site.Params.default_hero ("images/default-hero.svg" | relURL) -}}
+{{- end -}}
+<article class="card {{ partial "category-class.html" . }}">
+  <a class="card-link" href="{{ .RelPermalink }}">
+    <figure class="card-hero">
+      {{- /* aspect-ratio + object-fit:cover in CSS keep every hero at 4:3 */ -}}
+      <img src="{{ $hero }}" alt="" loading="lazy">
+    </figure>
+    {{ with partial "first-category.html" . }}<span class="chip">{{ . }}</span>{{ end }}
+    <h2 class="card-title">{{ .Title }}</h2>
+    {{- /* Photo posts stay image-first; other layouts get a text teaser */ -}}
+    {{ if ne .Layout "photo" }}<p class="card-summary">{{ .Summary | plainify | truncate 140 }}</p>{{ end }}
+  </a>
+  <footer class="card-meta">
+    {{ partial "post-meta.html" . }}
+  </footer>
+</article>

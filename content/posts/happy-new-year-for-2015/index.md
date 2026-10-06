@@ -1,8 +1,10 @@
 ---
-category: Life Experiences
+categories: Life Experiences
 date: '2015-01-01'
 tags: ["Happy New Year", "Fifteen", "Life Experiences", "Time Passing"]
 title: Happy New Year 2015!
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Happy New Year 2015!”"
 ---
 Just a brief message to wish everyone a happy new year. Getting my flat connected to the internet continues to be a trial so it's still not as easy to post as I would like. However, I have some workarounds now and I hope to write (and post) more often from now on.
 

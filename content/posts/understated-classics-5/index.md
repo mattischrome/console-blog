@@ -1,10 +1,12 @@
 ---
-category: Understated Classics
+categories: Understated Classics
 date: '2010-11-08'
 slug: understated-classics-5
 tableOfContents: true
 tags: ["Understated Classics", "Bloc Party", "Music", "Rock", "Ten"]
 title: 'Understated Classics #5: A Weekend In The City by Bloc Party'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Understated Classics #5: A Weekend In The City by Bloc Party”"
 ---
 <!--more-->
 

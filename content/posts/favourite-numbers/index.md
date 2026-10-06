@@ -1,8 +1,10 @@
 ---
-category: Mathematics
+categories: Mathematics
 date: '2011-06-22'
 tags: ["Fun", "Maths", "Eleven", "Primes", "Forty One"]
 title: Favourite Numbers
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Favourite Numbers”"
 ---
 What’s your favourite number?
 

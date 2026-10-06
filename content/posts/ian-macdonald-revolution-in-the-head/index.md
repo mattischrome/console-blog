@@ -1,8 +1,10 @@
 ---
-category: Music
+categories: Music
 date: '2025-01-24'
 tags: ["Twenty Five", "The Beatles", "Music", "Pop", "Ian MacDonald"]
 title: Ian MacDonald, Revolution in the Head
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Ian MacDonald, Revolution in the Head”"
 ---
 Ian MacDonald's "Revolution in the Head" is a book that I've read parts of dozens of times and even all the way through once or twice. I picked it up again today and thought I would write about it. It's a detailed analysis of every Beatles song ever released, along with the details and events of their recording. I own a copy of the second edition which was updated to include the anthology material. Today you can still get hold of [a 3rd edition on the Waterstones website](https://www.waterstones.com/book/revolution-in-the-head/ian-macdonald/9780099526797) (not sure that I like the new cover though).
 

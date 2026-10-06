@@ -1,8 +1,10 @@
 ---
-category: Books
+categories: Books
 date: '2012-06-25'
 tags: ["Helen Fisher", "Non Fiction", "Books", "Twelve", "Self Improvement"]
 title: Helen Fisher, Some Lessons In Love
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Helen Fisher, Some Lessons In Love”"
 ---
 As indicated by my [reading list](articles/reading-list-mid-april-2012) posted a couple of months ago (which has since been added to [here](articles/another-reading-list)), I’ve started to try to read more about the things that I felt that I did not understand so well. Most notably perhaps is this book “on love” by Helen Fisher. Lest there is any innuendo it is not a book about technique nor does it attempt to explain love to those who have never known it, instead it assumes that we have all been there. In fact, the book attempts to explain the neurological mechanisms of love (specifically romantic love) and describes how science has helped reveal these mechanisms to us.
 

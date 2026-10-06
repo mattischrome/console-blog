@@ -1,8 +1,10 @@
 ---
-category: Software
+categories: Software
 date: '2025-06-02'
 tags: ["Twenty Five", "LLM", "Software", "Crosswords", "Hype"]
 title: LLMs and Cryptic Crosswords
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “LLMs and Cryptic Crosswords”"
 ---
 At the time of writing, one way to demonstrate the illusory nature of LLM intelligence is to get one to try and answer a cryptic crossword clue.
 

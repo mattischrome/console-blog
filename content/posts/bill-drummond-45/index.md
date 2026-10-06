@@ -1,8 +1,10 @@
 ---
-category: Books
+categories: Books
 date: '2025-03-02'
 tags: ["Books", "Music", "The KLF", "Bill Drummond", "Biography", "Twenty Five"]
 title: Bill Drummond, 45
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Bill Drummond, 45”"
 ---
 _45_ is Bill Drummond's sort of memoir, albeit one with a hazy memory of the events most readers (myself included) are likely to be interested in. Drummond is/was one half of pop-pranksters The KLF, but _45_ barely mentions them at all. There's a lot about before (e.g. managing Echo and the Bunnymen in late-70s and early-80s Liverpool) and after (various shenanigans in the art world and attempting to relate to his children), some of that writing is very interesting. Nevertheless the whole lacuna of his pop heyday seems to punches a hole through the entire book.
 

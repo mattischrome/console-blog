@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2012-03-31'
 tableOfContents: true
 tags: ["Album Digest", "March", "Music", "Fanfarlo", "The Shins", "Grails", "New Build", "Scuba", "Twelve"]
 title: Album Digest, March 2012
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, March 2012”"
 ---
 Five albums for Album Digest March 2012
 

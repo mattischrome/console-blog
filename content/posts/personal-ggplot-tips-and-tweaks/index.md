@@ -1,9 +1,11 @@
 ---
-category: Programming
+categories: Programming
 date: '2017-10-05'
 tableOfContents: true
 tags: ["Programming", "R", "Seventeen"]
 title: Personal ggplot tips and tweaks
+hero: images/transparency_test.png
+hero_alt: "Personal ggplot tips and tweaks"
 ---
 I love making plots in R with `ggplot`. However, there are always a few niggles that I forget about between plots. I wrote this post so that I have somewhere to look the next time I need to tweak a few things in my plots. I intend to come back and add updates in the future as I learn more things. If I keep coming back, I might also remember a few of these too.
 

@@ -1,8 +1,10 @@
 ---
-category: Books
+categories: Books
 date: '2017-09-29'
 tags: ["Books","Non Fiction","Eric Schlosser","Seventeen"]
 title: Eric Schlosser, Command and Control
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Eric Schlosser, Command and Control”"
 ---
 "Command and Control" by Eric Schlosser is about the history of nuclear weapons and their safety. This might not seem like a thrilling subject, but it's absorbing from start to finish. I started it three years ago but only finished it more recently as the subject of nuclear weapons has become more pertinent to current affairs.{{% sidenote "sn-1" %}}Suffice to say that when I bought the book over three years ago, I would not have believed that it would be so much more relevant by the time I had finished it.{{% /sidenote %}} There are many people who would stand to gain a great deal from reading this book.{{% sidenote "sn-2" %}}The name at the top of the list rhymes with Dump.{{% /sidenote %}}
 

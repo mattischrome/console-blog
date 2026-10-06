@@ -1,9 +1,11 @@
 ---
-category: Books
+categories: Books
 date: '2011-06-21'
 tableOfContents: true
 tags: ["J. G. Ballard", "Books", "Reading Projects", "Science Fiction", "Eleven"]
 title: J. G. Ballard, Concrete Island
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “J. G. Ballard, Concrete Island”"
 ---
 <!--more-->
 

@@ -1,0 +1,3 @@
+{{- /* _default/single.html — fallback for posts without a layout key and
+       for plain pages (e.g. /about/). Rendered like a long-form post. */ -}}
+{{ define "main" }}{{ partial "single-article.html" (dict "page" . "variant" "long") }}{{ end }}

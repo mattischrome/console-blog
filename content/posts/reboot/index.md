@@ -1,8 +1,10 @@
 ---
-category: Writing
+categories: Writing
 date: '2018-06-10'
 tags: ["Writing", "Ideas", "Blogging", "Eighteen"]
 title: Reboot
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Reboot”"
 ---
 As much as I hate to write about writing, especially when I write so infrequently, I feel I need to reboot this blog. I wrote so few posts in recent months I considered giving up altogether.
 

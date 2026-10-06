@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2011-01-31'
 tableOfContents: true
 tags: ["Music", "Album Digest", "January", "The Decemberists", "Iron and Wine", "British Sea Power", "The Phoenix Foundation", "Joan As Police Woman", "Eleven"]
 title: Album Digest, January 2011
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, January 2011”"
 ---
 Here’s to 2011 and the start of a monthly album digest. I want it to be a brief trot through some of the albums I have listened to each month. Sometimes January can bring a few quiet releases by big name bands. This happens if the previous album did not do as well as the record company hoped or if it is the kind of artist who would get lost under the hype of all the Christmas releases.
 

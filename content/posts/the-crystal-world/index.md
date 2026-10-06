@@ -1,9 +1,11 @@
 ---
-category: Books
+categories: Books
 date: '2010-09-26'
 tableOfContents: true
 tags: ["Books", "J. G. Ballard", "Reading Projects", "Science Fiction", "Ten"]
 title: J. G. Ballard, The Crystal World
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “J. G. Ballard, The Crystal World”"
 ---
 
 At last, Ballard in full flow. The Crystal World (TCW) is definitely the most enjoyable of the early trio of apocalyptic novels. It takes the successful elements of the first two and embellishes them with new details and ideas. At time of writing, TCW is definitely the best Ballard novel that I have read in its entirety.

@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2017-12-07'
 tableOfContents: true
 tags: ["Album Digest","November","Music","0110100 01010100","Four Tet","James Holden","Daniele Luppi","Parquet Courts","Karen O","Fever Ray","Seventeen"]
 title: Album Digest, November 2017
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, November 2017”"
 ---
 <!--more-->
 

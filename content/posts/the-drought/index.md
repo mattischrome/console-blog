@@ -1,9 +1,11 @@
 ---
-category: Books
+categories: Books
 date: '2010-09-08'
 tableOfContents: true
 tags: ["Books", "J. G. Ballard", "Science Fiction", "Reading Projects", "Ten"]
 title: J. G. Ballard, The Drought
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “J. G. Ballard, The Drought”"
 ---
 
 On to The Drought by J. G. Ballard in [my ongoing quest to read and review all of his novels](/posts/j-g-ballard/). This is his second novel, if we assume his convention of never acknowledging “The Wind From Nowhere” as being his first novel. “The Drought” itself was renamed from “The Burning World” and additional content added later on. This was quite common practice in SF in the 50s and 60s where novels were serialised in magazines like [Amazing SF](http://philsp.com/mags/amazing_stories.html) and [Interzone](http://ttapress.com/interzone/about/). It is evidence though of Ballard finding his voice as he wrote and from The Drought it is easy to see that he is iterating his thought processes and subject matter with each novel.

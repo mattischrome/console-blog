@@ -1,8 +1,10 @@
 ---
-category: Ideas
+categories: Ideas
 date: '2015-07-19'
 tags: ["Ideas", "Self Improvement", "Fifteen", "Philosophy"]
 title: First Light, Last Light
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “First Light, Last Light”"
 ---
 I often ponder whether the joys of waking up early are greater than those of staying up late. Empirical evidence seems to bear this out: all those people who get to work before you do, super-eager to get everything done. But then all the people walking under your windows late at night, drunk and laughing, they sound like they're having a whale of a time too.
 

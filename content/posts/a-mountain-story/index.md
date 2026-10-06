@@ -1,8 +1,10 @@
 ---
-category: Short Fiction
+categories: Short Fiction
 date: '2012-11-27'
 tags: ["Ideas", "Modelling", "Short Story", "Twelve"]
 title: A Mountain Story
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “A Mountain Story”"
 ---
 A cat reaches the top of a mountain after a long climb through the snow. He is cold from the bottom of his fur to the tips of his claws. He is sodden and wet, and we all know how much a cat hates to be wet.
 

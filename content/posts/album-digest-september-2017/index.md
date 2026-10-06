@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2017-09-30'
 tableOfContents: true
 tags: ["Album Digest","September","Music","The National","Nelly Furtado","Goldfrapp","Seventeen"]
 title: Album Digest, September 2017
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, September 2017”"
 ---
 Note: Recent months have been very busy, so this album digest combines a review of the new album by The National with a couple of reviews left over from earlier in the year.
 

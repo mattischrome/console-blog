@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2012-04-30'
 tableOfContents: true
 tags: ["Music", "Album Digest", "April", "Orbital", "Battles", "Chemical Brothers", "Austin Wintory", "Twelve"]
 title: Album Digest, April 2012
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, April 2012”"
 ---
 A mostly instrumental month with a comeback from Orbital, an excellent remix collection from Battles, an amazing movie documenting a live performance by the Chemical Brothers and Austin Wintory’s soundtrack to the game _Journey_.
 

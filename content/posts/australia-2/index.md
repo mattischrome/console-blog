@@ -1,8 +1,10 @@
 ---
-category: Travel
+categories: Travel
 date: '2018-02-20'
 tags: ["Australia", "Travel", "Eighteen"]
 title: Taking It Easy In Melbourne
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Taking It Easy In Melbourne”"
 ---
 On our first full day in Melbourne we took it easy. It was warm and sunny, so different to the weather we'd left behind!
 

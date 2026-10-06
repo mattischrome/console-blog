@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2017-12-27'
 tableOfContents: true
 tags: ["Album Digest","December","Music","Bjork","Phoebe Bridgers","Watter","Neil Finn","Seventeen"]
 title: Album Digest, December 2017
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, December 2017”"
 ---
 <!--more-->
 

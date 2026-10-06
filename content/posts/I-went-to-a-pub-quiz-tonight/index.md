@@ -1,8 +1,10 @@
 ---
-category: Life Experiences
+categories: Life Experiences
 date: '2022-09-14'
 tags: ["Quiz", "Pot Luck", "Twenty Two"]
 title: I went to a pub quiz tonight
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “I went to a pub quiz tonight”"
 ---
 Ingrid and I joined our usual quiz team tonight for the residents' association pub quiz. As usual we came third. It's a fairly settled group of attendees and we know our level. We're also quite used to the quiz master and his questions, though I do wish he'd acknowledge that pop music continued to be a thing long after the sixties!
 

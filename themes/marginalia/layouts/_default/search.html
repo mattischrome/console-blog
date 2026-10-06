@@ -1,0 +1,110 @@
+{{- /*
+  search.html — the site search page, powered by pagefind
+  (https://pagefind.app). This is the one place the theme uses JavaScript.
+
+  pagefind builds its index from the FINISHED site, so it runs after Hugo:
+
+      hugo && npx pagefind --site public
+
+  To try search locally:  hugo && npx pagefind --site public --serve
+  (`hugo serve` alone has no /pagefind/ folder, so search can't load there.)
+
+  Rather than pagefind's stock widget, results use pagefind's JS API and are
+  drawn with the same markup as card.html, so they get the sticker cards,
+  category colours and 4:3 tinted heroes. Each post page passes pagefind its
+  hero (image), category, colour class (cat_class) and date via
+  data-pagefind-meta attributes in single-article.html.
+
+  Supports ?q=… links, e.g. /search/?q=wilco
+*/ -}}
+{{ define "main" }}
+  {{- $defaultHero := or site.Params.default_hero ("images/default-hero.svg" | relURL) -}}
+  <header class="list-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div class="list-intro">{{ . }}</div>{{ end }}
+  </header>
+
+  <div class="search-wrap">
+    <form class="search-form" role="search" onsubmit="return false">
+      <label for="search-input" class="visually-hidden">Search the blog</label>
+      <input id="search-input" class="search-input" type="search"
+             placeholder="Search posts, tags, albums, cats…" autocomplete="off" spellcheck="false">
+    </form>
+    <p class="search-status" id="search-status" aria-live="polite"></p>
+    <section class="card-grid search-results" id="search-results" aria-label="Search results"></section>
+    <p class="search-more-wrap"><button type="button" class="search-more" id="search-more" hidden>More results</button></p>
+    <noscript><p>Search needs JavaScript, sorry. Try the <a href="{{ "tags/" | relURL }}">tags page</a> instead.</p></noscript>
+  </div>
+
+  <script type="module">
+    const DEFAULT_HERO = {{ $defaultHero }};
+    const PAGE_SIZE = 12;
+    const input = document.getElementById("search-input");
+    const grid = document.getElementById("search-results");
+    const status = document.getElementById("search-status");
+    const moreBtn = document.getElementById("search-more");
+
+    const esc = (s) => String(s ?? "").replace(/[&<>"']/g,
+      (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+    let pagefind;
+    try {
+      pagefind = await import({{ "pagefind/pagefind.js" | relURL }});
+      await pagefind.options({ excerptLength: 26 });
+    } catch (e) {
+      status.textContent = "Search isn't built yet: run `hugo && npx pagefind --site public`.";
+      input.disabled = true;
+    }
+
+    // One result → the same markup as partials/card.html
+    function card(r) {
+      const m = r.meta || {};
+      const cls = /^cat-[a-z0-9-]+$/.test(m.cat_class || "") ? m.cat_class : "cat-default";
+      const img = m.image || DEFAULT_HERO;
+      return `
+        <article class="card ${cls}">
+          <a class="card-link" href="${esc(r.url)}">
+            <figure class="card-hero"><img src="${esc(img)}" alt="" loading="lazy"></figure>
+            ${m.category ? `<span class="chip">${esc(m.category)}</span>` : ""}
+            <h2 class="card-title">${esc(m.title || r.url)}</h2>
+            <p class="card-summary">${r.excerpt}</p>
+          </a>
+          ${m.date ? `<footer class="card-meta"><div class="post-meta"><time>${esc(m.date)}</time></div></footer>` : ""}
+        </article>`;
+    }
+
+    let results = [], shown = 0, run = 0;
+
+    async function showMore() {
+      const mine = run;
+      const batch = await Promise.all(results.slice(shown, shown + PAGE_SIZE).map((r) => r.data()));
+      if (mine !== run) return;                    // a newer search has started
+      grid.insertAdjacentHTML("beforeend", batch.map(card).join(""));
+      shown += batch.length;
+      moreBtn.hidden = shown >= results.length;
+    }
+
+    async function search(q) {
+      const mine = ++run;
+      const url = new URL(location.href);
+      q ? url.searchParams.set("q", q) : url.searchParams.delete("q");
+      history.replaceState(null, "", url);
+      if (!q.trim()) { grid.innerHTML = ""; status.textContent = ""; moreBtn.hidden = true; return; }
+      const found = await pagefind.debouncedSearch(q, {}, 200);
+      if (found === null || mine !== run) return;  // superseded by later typing
+      results = found.results; shown = 0; grid.innerHTML = "";
+      status.textContent = results.length
+        ? `${results.length} post${results.length === 1 ? "" : "s"} found`
+        : `Nothing found for “${q}”. Try a tag or an album name.`;
+      await showMore();
+    }
+
+    if (pagefind) {
+      input.addEventListener("input", () => search(input.value));
+      moreBtn.addEventListener("click", showMore);
+      const q = new URLSearchParams(location.search).get("q");
+      if (q) { input.value = q; search(q); }
+      input.focus();
+    }
+  </script>
+{{ end }}

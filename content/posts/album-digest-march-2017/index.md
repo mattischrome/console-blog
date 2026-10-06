@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2017-03-31'
 tableOfContents: true
 tags: ["Album Digest", "March", "Music", "Blanck Mass", "The Shins", "Rolling Blackouts CF", "JFDR", "Seventeen"]
 title: Album Digest, March 2017
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, March 2017”"
 ---
 <!--more-->
 

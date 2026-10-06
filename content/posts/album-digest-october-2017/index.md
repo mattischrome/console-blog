@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2017-10-31'
 tableOfContents: true
 tags: ["Album Digest", "October", "Music", "Mary Epworth", "Kaitlyn Aurelia Smith", "Four Tet", "Rival Consoles", "Seventeen"]
 title: Album Digest, October 2017
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, October 2017”"
 ---
 <!--more-->
 

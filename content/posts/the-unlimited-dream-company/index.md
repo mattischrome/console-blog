@@ -1,8 +1,10 @@
 ---
-category: Books
+categories: Books
 date: '2016-07-14'
 tags: ["Books", "J. G. Ballard", "Fiction", "Reading Projects", "Sixteen"]
 title: J. G. Ballard, The Unlimited Dream Company
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “J. G. Ballard, The Unlimited Dream Company”"
 ---
 [I last wrote about a JG Ballard novel nearly three years ago](/high-rise/). That one - "High-Rise" - [has since been made into a film](https://www.theguardian.com/film/2016/mar/20/high-rise-review-ben-wheatley-jg-ballard-tom-hiddleston). The subject of this post is "The Unlimited Dream Company", my favourite among his novels: a silly romp through suburban sexual repression that glitters with sinister wit. Even after many read-throughs I still can't work out whether it is a crazy masterpiece or something light that we're meant to throw away after reading.
 

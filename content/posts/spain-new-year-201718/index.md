@@ -1,9 +1,11 @@
 ---
-category: Travel
+categories: Travel
 date: '2018-01-12'
 tableOfContents: true
 tags: ["Happy New Year", "Europe", "Spain", "Photos", "Seventeen", "Eighteen"]
 title: Spain, New Year 2017/18
+hero: images/Spain01.jpg
+hero_alt: "Spain, New Year 2017/18"
 ---
 For new year Ingrid and I met up with Ingrid's friend Ros at Barcelona airport. We went from there to Cadaqués on the Costa Brava. A winding drive over steep hills leads you down to a cute bay with the typical white houses and terracotta roofs. All the window frames were painted just the right shade of blue.
 

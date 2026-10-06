@@ -1,0 +1,23 @@
+{{- /*
+  term.html — a single tag page (/tags/foo/) or category page
+  (/categories/music/). Both are the same card grid as the home page,
+  paginated the same way. On category pages the page heading itself takes
+  the category colour (via the body class set in baseof.html).
+*/ -}}
+{{ define "main" }}
+  <header class="list-header">
+    <h1>
+      {{ if eq .Data.Plural "tags" }}#{{ end }}{{ .Title }}
+    </h1>
+    <p class="list-count">{{ len .Pages }} {{ if eq (len .Pages) 1 }}post{{ else }}posts{{ end }}</p>
+  </header>
+
+  {{ $pag := .Paginate .Pages }}
+  <section class="card-grid">
+    {{ range $pag.Pages }}
+      {{ partial "card.html" . }}
+    {{ end }}
+  </section>
+
+  {{ partial "pagination.html" $pag }}
+{{ end }}

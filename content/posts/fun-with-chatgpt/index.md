@@ -1,9 +1,11 @@
 ---
-category: Software
+categories: Software
 date: "2025-01-12"
 tableOfContents: true
 tags: ["Software", "Twenty Five", "Blogging", "Drafts", "Content Management", "Meta"]
 title: Fun With Chat-GPT
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Fun With Chat-GPT”"
 ---
 I asked:
 

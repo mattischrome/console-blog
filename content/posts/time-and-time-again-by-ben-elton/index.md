@@ -1,8 +1,10 @@
 ---
-category: Books
+categories: Books
 date: '2015-09-29'
 tags: ["Ben Elton", "Books", "Novels", "Fifteen"]
 title: Ben Elton, Time and Time Again
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Ben Elton, Time and Time Again”"
 ---
 Time and Time Again is a ridiculously stupid novel by Ben Elton. A shadowy sect (established by Isaac Newton no less!) recruits a soldier to go back in time and prevent Franz Ferdinand's assassination in Sarajevo in August 1914. I wonder if it all goes to plan and everyone lives happily ever after with no weird timey-wimey after-effects?
 

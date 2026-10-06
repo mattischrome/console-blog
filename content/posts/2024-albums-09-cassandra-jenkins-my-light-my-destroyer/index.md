@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2025-01-02'
 tableOfContents: true
 tags: ["Twenty Four", "Cassandra Jenkins", "Female vocalist", "Indie", "Rock"]
 title: '2024 Albums of the Year #9: Cassandra Jenkins, My Light, My Destroyer'
+hero: images/cassandra-jenkins-destroyer.jpg
+hero_alt: "2024 Albums of the Year #9: Cassandra Jenkins, My Light, My Destroyer"
 ---
 The first time I listened to this album, I was still off work sick with Covid, but well enough to go out for a walk on what was too hot a day to stay inside the house. I remember it well, recovering from illness does tend to make these things more vivid, but more because I thought it was brilliant, but all out of order. I was, of course, completely wrong.
 

@@ -1,8 +1,10 @@
 ---
-category: Music
+categories: Music
 date: '2016-03-12'
 tags: ["Music", "The Orb", "Sixteen", "Electronic"]
 title: The Orb - Alpine EP
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “The Orb - Alpine EP”"
 ---
 The Orb return with a new EP on the [Kompakt label](www.kompakt.fm) called "Alpine".
 

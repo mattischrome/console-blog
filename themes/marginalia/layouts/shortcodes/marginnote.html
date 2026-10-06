@@ -1,0 +1,13 @@
+{{- /*
+  marginnote — like sidenote but without a number; for asides that aren't
+  anchored to a precise point in the sentence.
+
+  Usage:
+    {{< marginnote >}}A loose thought that belongs nearby.{{< /marginnote >}}
+
+  On narrow screens the ⊕ symbol toggles the note inline (no JavaScript).
+*/ -}}
+{{- $id := printf "mn-%s-%d" (.Page.File.ContentBaseName | urlize) .Ordinal -}}
+<label for="{{ $id }}" class="margin-toggle" aria-hidden="true">&#8853;</label>
+<input type="checkbox" id="{{ $id }}" class="margin-toggle">
+<span class="marginnote">{{ .Inner | .Page.RenderString }}</span>

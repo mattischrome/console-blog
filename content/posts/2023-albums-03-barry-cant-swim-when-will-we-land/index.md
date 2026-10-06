@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2023-12-29'
 slug: 2023-albums-03-barry-cant-swim-when-will-we-land
 tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Barry Can't Swim", "Electronic"]
 title: '2023 Albums of the Year #3: Barry Can''t Swim, When Will We Land?'
+hero: images/barry-cant-swim-when-will-we-land.jpeg
+hero_alt: "2023 Albums of the Year #3: Barry Can't Swim, When Will We Land?"
 ---
 Some albums you come to one way: a good review on a blog you respect,
 {{< marginfigure src="../../assets/images/albums-2023/barry-cant-swim-when-will-we-land.jpeg" alt="Cover of _When Will We Land_ by Barry Can't Swim" caption="Cover of _When Will We Land_ by Barry Can't Swim" >}}

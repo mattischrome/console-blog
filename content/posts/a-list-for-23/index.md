@@ -1,8 +1,10 @@
 ---
-category: Life Experience
+categories: Life Experience
 date: '2023-04-09'
 tags: ["Rules", "Thoughts", "Life Experiences", "Twenty Three"]
 title: A list for '23
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “A list for '23”"
 ---
 A set of rules for living from now on (in no particular order):
 

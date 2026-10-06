@@ -1,9 +1,11 @@
 ---
-category: Ideas
+categories: Ideas
 date: '2015-04-11'
 tableOfContents: true
 tags: ["Ideas", "The Simpsons", "Fifteen"]
 title: Consider the Donut
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Consider the Donut”"
 ---
 <!--more-->
 

@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2025-01-01'
 tableOfContents: true
 tags: ["Twenty Four", "Albums", "Indie", "Postmodern", "Yard Act"]
 title: '2024 Albums of the Year #10: Yard Act, Where''s My Utopia?'
+hero: images/yard-act-utopia.jpg
+hero_alt: "2024 Albums of the Year #10: Yard Act, Where's My Utopia?"
 ---
 Yard Act are a post-punk band from Leeds. "Where's My Utopia?" is their second album. I first encountered Yard Act in a review of this album, which sent me to look at the excellent video to their non-album single "The Trenchcoat Museum". I enjoyed the metatextual references both in the video and the song, so I eagerly added "Where's My Utopia?" to my library.
 

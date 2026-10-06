@@ -1,8 +1,10 @@
 ---
-category: Life Experiences
+categories: Life Experiences
 date: '2021-01-04'
 tags: ["Life Experiences", "Facebook", "Internet", "DIY", "Twenty One"]
 title: The Forever Now
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “The Forever Now”"
 ---
 Writing this post came about from  frustration with blogging. Specifically the tools I am using. Often it feels like a new language or paradigm comes along that shifts one or two of the pain points of blogging. The biggest are:
 

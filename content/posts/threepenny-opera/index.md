@@ -1,8 +1,10 @@
 ---
-category: Theatre
+categories: Theatre
 date: '2016-09-24'
 tags: ["Theatre", "Brecht", "Sixteen", "London"]
 title: The Threepenny Opera
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “The Threepenny Opera”"
 ---
 A few weeks ago, Ingrid and I went to see The Threepenny Opera at the National Theatre.
 

@@ -1,8 +1,10 @@
 ---
-category: Books
+categories: Books
 date: '2013-10-05'
 tags: ["J. G. Ballard", "Books", "Science Fiction", "Novel", "Reading Projects", "Thirteen"]
 title: J. G. Ballard, High-Rise
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “J. G. Ballard, High-Rise”"
 ---
 After a few false starts I managed to finish "High-Rise", the next in [my collection of JG Ballard novels](j-g-ballard). For a book that I had trouble getting into, it turned out to be a pretty good read - even if it was also a pretty unpleasant one. Published in 1975, "High-Rise" is perhaps ahead of its time in exploring the effects of social breakdown in stylised and artificial situations where people are in close contact. You might think the plot, about a luxury high-rise that goes to hell, is in some way political or sociological but it really isn't. It's just a big playground in which Ballard throws around some of his most twisted ideas, all the while remarking on the very artifice of the situation.
 

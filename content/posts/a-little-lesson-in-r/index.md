@@ -1,8 +1,10 @@
 ---
-category: Programming
+categories: Programming
 date: '2017-11-04'
 tags: ["Programming","R","Seventeen"]
 title: A Little Lesson in R
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “A Little Lesson in R”"
 ---
 I had to compute an indicator this week. It had confidence intervals that relied on taking 100,000 samples from the indicator's approximate distribution. I had to repeat this over multiple GP practices and for twelve different demographic groups.
 

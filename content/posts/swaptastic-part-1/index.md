@@ -1,8 +1,10 @@
 ---
-category: Football
+categories: Football
 date: '2016-06-14'
 tags: ["Photos", "Football", "Fun", "Sixteen"]
 title: Swaptastic Part 1
+hero: images/StickersInThePost.jpg
+hero_alt: "Swaptastic Part 1"
 ---
 ![Envelopes containing swaps that have arrived in the post in recent days.](../../assets/images/other/StickersInThePost.jpg)
 

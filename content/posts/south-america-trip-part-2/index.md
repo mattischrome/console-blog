@@ -1,9 +1,11 @@
 ---
-category: Travel
+categories: Travel
 date: '2013-12-02'
 tableOfContents: true
 tags: ["South America", "Ecuador", "Amazon", "Thirteen"]
 title: South America, Part 2
+hero: images/01.jpg
+hero_alt: "South America, Part 2"
 ---
 <!--more-->
 

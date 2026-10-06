@@ -1,9 +1,11 @@
 ---
-category: Mathematics
+categories: Mathematics
 date: '2014-09-25'
 tableOfContents: true
 tags: ["Maths", "Stats", "R", "Fourteen"]
 title: How to generate random numbers in R
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “How to generate random numbers in R”"
 ---
 This post deals with how to generate random numbers in R. It is good to know how to generate random numbers with a particular language or software package for at least one of the following three reasons:
 

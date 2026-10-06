@@ -1,9 +1,11 @@
 ---
-category: Coding
+categories: Coding
 date: "2024-01-07"
 slug: git-instructions-for-future-matt
 tags: ["Coding","Twenty Four","Blogging","Hugo","git"]
 title: Some Git Instructions for Future Matt
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Some Git Instructions for Future Matt”"
 ---
 Dear Future Matt,
 

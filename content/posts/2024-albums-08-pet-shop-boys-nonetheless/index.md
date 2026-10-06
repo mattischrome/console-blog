@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2025-01-03'
 tableOfContents: true
 tags: ["Twenty Four", "Pet Shop Boys", "Pop", "Dance"]
 title: '2024 Albums of the Year #8: Pet Shop Boys Nonetheless'
+hero: images/psb-nonetheless.jpg
+hero_alt: "2024 Albums of the Year #8: Pet Shop Boys Nonetheless"
 ---
 Nonetheless is the fifteenth album by the Pet Shop Boys. As seems to be a common theme with this top 10 so far, it's an album that initially underwhelmed me. Well, perhaps "underwhelmed" is a little unfair, it was more that it didn't seem to have much to it to distinguish it from their previous albums, and there have been some palpable duds in the previous fourteen.
 

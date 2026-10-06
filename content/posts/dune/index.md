@@ -1,8 +1,10 @@
 ---
-category: Books
+categories: Books
 date: '2011-09-09'
 tags: ["Books", "Frank Herbert", "Science Fiction", "Dune", "Eleven"]
 title: Frank Herbert, Dune
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Frank Herbert, Dune”"
 ---
 A week or so ago, I finished reading _Dune_ by Frank Herbert. It tells the story of a revolution within a Galactic Empire that takes place on a harsh and unforgiving desert planet called Arrakis. One central theme is how destinies can be shaped despite being intertwined around many axes. Another is the importance of adaptation in the fight for survival.
 

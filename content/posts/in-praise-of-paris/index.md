@@ -1,8 +1,10 @@
 ---
-category: Travel
+categories: Travel
 date: '2025-01-27'
 tags: ["Twenty Five", "Twenty Four", "Paris", "Travel", "France", "Rodin"]
 title: In Praise of Paris
+hero: images/Paris-01.jpg
+hero_alt: "In Praise of Paris"
 ---
 This time last year, Ingrid and I were on the Eurostar to Paris for four days. We did so much in our time there that I couldn't write about it at the time. Here's a little summary with a few photos.
 

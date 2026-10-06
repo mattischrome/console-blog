@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2016-02-01'
 tableOfContents: true
 tags: ["Music", "Album Digest", "David Bowie", "Sixteen"]
 title: Album Digest, David Bowie RIP
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, David Bowie RIP”"
 ---
 I thought I'd add three of my favourite David Bowie albums to my review of Blackstar to a form an album digest tribute. Also among my favourites but not included here is "Outside", which will be included in the understated classics (currently it's number 66) at some point. I thought about bumping "Outside" up the running order but I'd like to be objective about it when its turn comes.
 

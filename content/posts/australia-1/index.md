@@ -1,8 +1,10 @@
 ---
-category: Travel
+categories: Travel
 date: '2018-02-19'
 tags: ["Australia", "Travel", "Eighteen"]
 title: A Day in the Air
+hero: images/australia_1_01.jpg
+hero_alt: "A Day in the Air"
 ---
 ![The Plane](../../assets/images/australia_1/australia_1_01.jpg)
 

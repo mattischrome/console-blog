@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2015-03-01'
 tableOfContents: true
 tags: ["Music", "Album Digest", "February", "Aphex Twin", "The Orb", "Susanne Sundfør", "Fifteen"]
 title: Album Digest, February 2015
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, February 2015”"
 ---
 <!--more-->
 

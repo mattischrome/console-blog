@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2023-12-27'
 slug: 2023-albums-05-nation-of-language-strange-disciple
 tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Nation of Language", "Electronic", "Indie"]
 title: '2023 Albums of the Year #5: Nation of Language, Strange Disciple'
+hero: images/nation-of-language-strange-disciple.jpeg
+hero_alt: "2023 Albums of the Year #5: Nation of Language, Strange Disciple"
 ---
 It would be remiss of me to claim that this is a placeholder for any number 
 {{< marginfigure src="../../assets/images/albums-2023/nation-of-language-strange-disciple.jpeg" alt="Cover of Strange Disciple by Nation of Language" caption="Cover of _Strange Disciple_ by Nation of Language" >}}

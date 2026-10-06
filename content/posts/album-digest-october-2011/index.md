@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2011-10-31'
 tableOfContents: true
 tags: ["Music", "Album Digest", "October", "Bjork", "Coldplay", "M83", "Radiohead", "Eleven"]
 title: Album Digest, October 2011
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, October 2011”"
 ---
 This month we have albums by Björk, Coldplay, M83, and Radiohead.
 

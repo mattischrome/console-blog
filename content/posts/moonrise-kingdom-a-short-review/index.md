@@ -1,8 +1,10 @@
 ---
-category: Films
+categories: Films
 date: '2012-06-16'
 tags: ["Films", "Wes Anderson", "Twelve", "Moonrise Kingdom"]
 title: 'Moonrise Kingdom: A Short Review'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Moonrise Kingdom: A Short Review”"
 ---
 Tonight I avoided the first half of the football along with my friend Albert Jan and we went to watch “Moonrise Kingdom” at the wonderful Everyman cinema in Hampstead. It was a real treat in every sense. To start with, the Everyman is a lovely cinema. It is quite expensive but you do get what you pay for: a comfortable seat in a great theatre and the chance to watch more than just the latest blockbusters (though it shows those too). I think it was the only cinema in my area that was showing _Moonrise Kingdom_, though it has been out for a while now.
 

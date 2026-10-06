@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2014-08-31'
 tableOfContents: true
 tags: ["Music", "Album Digest", "August", "Karl Hyde", "Underworld", "Brian Eno", "Lone", "FKA twigs", "Mogwai", "Fourteen"]
 title: Album Digest, August 2014
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, August 2014”"
 ---
 The album digest returns with five albums by four artists.
 

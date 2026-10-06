@@ -1,8 +1,10 @@
 ---
-category: Books
+categories: Books
 date: '2012-06-25'
 tags: ["Books", "Lists", "Photos", "June", "Twelve"]
 title: Another Reading List
+hero: images/June-2012-Bookstack.jpg
+hero_alt: "Another Reading List"
 ---
 ![More books to add to the “University of life” course list](../../assets/images/other/June-2012-Bookstack.jpg)
 

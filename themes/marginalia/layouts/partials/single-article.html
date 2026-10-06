@@ -1,0 +1,79 @@
+{{- /*
+  single-article.html — the shared skeleton for all single-post layouts
+  (long, short, photo). The differences between layouts are handled by:
+    • the `layout-long / layout-short / layout-photo` class on <body>
+      (set in baseof.html) driving CSS variations, and
+    • the `variant` key passed in here for small structural switches.
+
+  Context: a dict of (page: the Page, variant: "long"|"short"|"photo").
+
+  Page structure:
+    <article>            title, meta, optional hero, optional TOC, content
+    <nav .post-pager>    newer / older links within the posts section
+    <aside .sidebars>    recent + related side boxes (see sidebars.html)
+
+  data-pagefind-body marks the content that the pagefind search indexes.
+*/ -}}
+{{- $p := .page -}}
+{{- $variant := .variant -}}
+
+<div class="post-wrap">
+  <article class="post" data-pagefind-body>
+    {{- /* Search metadata for pagefind: the colour class and date travel with
+           each result so search.html can draw it as a proper card. */ -}}
+    <span hidden data-pagefind-meta="cat_class:{{ partial "category-class.html" $p }}"></span>
+    <span hidden data-pagefind-meta="date:{{ $p.Date.Format "2 Jan 2006" }}"></span>
+    <header class="post-header">
+      {{ with partial "first-category.html" $p }}
+      <a class="chip" data-pagefind-meta="category" data-pagefind-ignore href="{{ printf "/categories/%s/" (. | urlize) | relURL }}">{{ . }}</a>
+      {{ end }}
+      <h1>{{ $p.Title }}</h1>
+      {{- /* kept out of the search index so excerpts start with the post
+             itself; the tags are re-added, hidden, after the content */ -}}
+      <div data-pagefind-ignore>{{ partial "post-meta.html" $p }}</div>
+    </header>
+
+    {{- /* Hero image on the single page: full colour, no tint (brief). For
+           the photo layout it is the star; for others it tops the post. */ -}}
+    {{ with $p.Params.hero }}
+      {{ with $p.Resources.Get . }}
+      <figure class="post-hero{{ if eq $variant "photo" }} post-hero-photo{{ end }}">
+        <img src="{{ .RelPermalink }}" alt="{{ $p.Params.hero_alt | default $p.Title }}" data-pagefind-meta="image[src], image_alt[alt]">
+        {{ with $p.Params.hero_caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+      </figure>
+      {{ end }}
+    {{ end }}
+
+    <div class="post-content">
+      {{- /* Table of contents, opt-in via `toc: true` (or the older
+             `tableOfContents: true`, set by scripts/toc_script.py) front matter.
+             It sits as the FIRST CHILD of .post-content so it floats into
+             the margin with exactly the same geometry as sidenotes on wide
+             screens, and simply appears ahead of the content on narrow
+             ones — exactly what the brief asks for. */ -}}
+      {{ if and (or $p.Params.toc $p.Params.tableOfContents) $p.TableOfContents }}
+      <nav class="toc" aria-label="Table of contents">
+        <h2 class="toc-title">Contents</h2>
+        {{ $p.TableOfContents }}
+      </nav>
+      {{ end }}
+      {{ $p.Content }}
+      {{ with $p.Params.tags }}<p class="visually-hidden" aria-hidden="true">{{ delimit . ", " }}</p>{{ end }}
+    </div>
+  </article>
+
+  {{- /* Previous / next post in the section. Hugo's Next = the newer post,
+         Prev = the older one, so the labels say what they mean. */ -}}
+  {{ if or $p.NextInSection $p.PrevInSection }}
+  <nav class="post-pager" aria-label="More posts">
+    {{ with $p.NextInSection }}
+    <a class="pager-newer" href="{{ .RelPermalink }}" rel="prev">&larr; <span>{{ .Title }}</span></a>
+    {{ end }}
+    {{ with $p.PrevInSection }}
+    <a class="pager-older" href="{{ .RelPermalink }}" rel="next"><span>{{ .Title }}</span> &rarr;</a>
+    {{ end }}
+  </nav>
+  {{ end }}
+
+  {{ partial "sidebars.html" $p }}
+</div>

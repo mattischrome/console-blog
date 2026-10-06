@@ -1,8 +1,10 @@
 ---
-category: Writing
+categories: Writing
 date: '2020-06-01'
 tags: ["Blogging", "Writing", "Jekyll", "Software", "Liquid", "Rake", "zsh", "Twenty"]
 title: Sprucing up the Blog
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Sprucing up the Blog”"
 ---
 This post explains some of the modifications I made to a minimal Jekyll theme to get this blog as I wanted it. This blog (currently) uses the excellent [Sidey theme](https://sidey-jekyll.netlify.app/about) by [Ronalds Vilciņš](https://www.ronaldsvilcins.com). His site looks eerily similar to this one, at least at time of writing.
 

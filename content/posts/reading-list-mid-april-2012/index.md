@@ -1,8 +1,10 @@
 ---
-category: Books
+categories: Books
 date: '2012-04-20'
 tags: ["Books", "Photos", "April", "Lists", "Twelve"]
 title: Reading list, mid-April 2012
+hero: images/April-2012-Bookstack.jpg
+hero_alt: "Reading list, mid-April 2012"
 ---
 ![A hefty reading list that should keep me occupied into the summer.](../../assets/images/other/April-2012-Bookstack.jpg)
 

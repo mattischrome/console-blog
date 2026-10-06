@@ -7,6 +7,8 @@ tags:
   - "Posting"
   - "Routine"
 categories: Writing
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Back in the Saddle”"
 ---
 
 I did that thing I sometimes do and that is _really think about what I'd like my blog to look like_ instead of actually getting on and writing some posts. 

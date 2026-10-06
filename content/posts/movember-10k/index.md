@@ -1,8 +1,10 @@
 ---
-category: Life Experiences
+categories: Life Experiences
 date: '2010-11-14'
 tags: ["Self Improvement", "Running", "Life Experiences", "Photos", "Ten"]
 title: Movember 10K
+hero: images/movember01.jpg
+hero_alt: "Movember 10K"
 ---
 So, Saturday. Finally. The big day. Would I a) be able to get to Greenwich in time for the registration? and b) be able to make it all the way around the course without collapsing and crying?
 

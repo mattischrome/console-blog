@@ -1,8 +1,10 @@
 ---
-category: Books
+categories: Books
 date: '2022-02-26'
 tags: ["Books", "Non Fiction", "Autobiography", "Writing", "Wrestling", "Twenty Two"]
 title: John Irving, The Imaginary Girlfriend
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “John Irving, The Imaginary Girlfriend”"
 ---
 *The Imaginary Girlfriend* is a short autobiography by American author John Irving. In it, he explains the interwoven roles of writing and wrestling in his life.
 

@@ -1,10 +1,12 @@
 ---
-category: Understated Classics
+categories: Understated Classics
 date: '2010-09-11'
 slug: understated-classics-4
 tableOfContents: true
 tags: ["Understated Classics","Music","Biosphere","Electronic","Ten"]
 title: 'Understated Classics #4: Substrata by Biosphere'
+hero: images/UC4add1.jpg
+hero_alt: "Understated Classics #4: Substrata by Biosphere"
 ---
 I bought this album in the summer between my two years at college. I remember listening to this music under skies glowering with clouds so 1997 must have been a poor summer. I’d just bought a book of photography too, which placed photos from the north and south poles on opposite pages. I bought it mainly for the penguins that were, of course, on pretty much every other page. The pictures of 
 snow and ice soon became the ideal companions to this album.

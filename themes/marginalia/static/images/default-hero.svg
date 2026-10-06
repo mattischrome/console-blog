@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="">
+  <!-- Default hero for posts without one of their own: a scatter of doodles
+       in the theme's category colours. Replace by setting default_hero in
+       your site config. -->
+  <rect width="800" height="600" fill="#f2f1ea"/>
+  <g fill="none" stroke-width="10" stroke-linecap="round">
+    <path d="M110 140 q40 -70 80 0 t80 0" stroke="#e5399e"/>
+    <path d="M560 110 q60 40 20 90 q-50 40 -90 -10" stroke="#1e88e5"/>
+    <circle cx="200" cy="430" r="52" stroke="#f4a700"/>
+    <path d="M420 300 l60 60 m0 -60 l-60 60" stroke="#6f42c1"/>
+    <path d="M600 420 q-10 -80 60 -80 q60 10 30 80 q-40 60 -90 0z" stroke="#3ba84c"/>
+    <path d="M120 300 h120" stroke="#12b0a0"/>
+    <path d="M360 480 q40 40 90 8" stroke="#e5399e"/>
+    <circle cx="680" cy="220" r="14" fill="#f4a700" stroke="none"/>
+    <circle cx="330" cy="150" r="10" fill="#3ba84c" stroke="none"/>
+    <circle cx="480" cy="520" r="12" fill="#1e88e5" stroke="none"/>
+  </g>
+</svg>

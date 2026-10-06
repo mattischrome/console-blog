@@ -1,10 +1,12 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2023-12-28'
 slug: 2023-albums-04-the-national-frankenstein-laugh-track
 tags: ["Album Digest", "Music", "Twenty Three", "Albums", "The National", "Rock", "Indie"]
 title: '2023 Albums of the Year #4: The National, "First Two Pages of Frankenstein"
   and "Laugh Track"'
+hero: images/the-national-first-two-pages.jpeg
+hero_alt: "2023 Albums of the Year #4: The National, \"First Two Pages of Frankenstein\" and \"Laugh Track\""
 ---
 It's probably no surprise that as we reach the top four (or five if you like) we also 
 {{< marginfigure src="../../assets/images/albums-2023/the-national-first-two-pages.jpeg" alt="Cover of First Two Pages of Frankenstein by The National" caption="Cover of _First Two Pages of Frankenstein_ by The National" >}}

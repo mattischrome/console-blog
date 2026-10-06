@@ -1,8 +1,10 @@
 ---
-category: Blogging
+categories: Blogging
 date: '2025-02-01'
 tags: ["Blogging", "Writing", "Streak", "Twenty Five", "Hugo"]
 title: Into February
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Into February”"
 ---
 Having made it to one post per day in January, we now move into February: that graveyard of good habits for the new year. What is it about flipping over the calendar to a new month that does away with our resolve to continue with our resolutions? My office calendar has a lovely picture of a German steam train in the snow, in case you were wondering. 
 

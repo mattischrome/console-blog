@@ -1,8 +1,10 @@
 ---
-category: Films
+categories: Films
 date: '2012-11-03'
 tags: ["Films", "Twelve", "James Bond"]
 title: 'Skyfall: A Short Review'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Skyfall: A Short Review”"
 ---
 I went to see "Skyfall" last night and I really enjoyed it. I knew nothing about the plot, mostly because I had avoided all discussion of the plot with people who had already seen it and I even avoided reviews as so many these days seem to just rattle off plot points, instead of discussing what makes the movie any good. With that in mind I will obviously try not to give away any of the plot in this brief review.
 

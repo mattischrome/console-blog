@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2025-01-05'
 tableOfContents: true
 tags: ["Twenty Four", "Music", "Total Blue", "Electronic", "Jazz", "Ambient"]
 title: '2024 Albums of the Year #6: Total Blue, Total Blue'
+hero: images/total-blue.jpg
+hero_alt: "2024 Albums of the Year #6: Total Blue, Total Blue"
 ---
 What do you think of when you think of the colour blue? The sea? Perhaps the sky? Maybe it makes you think of blue stones like sapphires, or flowers such as forget-me-nots? Maybe the colour blue is the glow of a phone screen on someone's face (maybe yours) in the dark? Blue gathers at the edges of the harsh white LED light that has come to dominate our night time existence.
 

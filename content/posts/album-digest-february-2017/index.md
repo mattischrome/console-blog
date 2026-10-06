@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2017-02-28'
 tableOfContents: true
 tags: ["Album Digest", "February", "Music", "Grails", "Elbow", "Dreadzone", "Seventeen"]
 title: Album Digest, February 2017
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, February 2017”"
 ---
 <!--more-->
 

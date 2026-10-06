@@ -1,9 +1,11 @@
 ---
-category: Life Experiences
+categories: Life Experiences
 date: '2013-08-14'
 tableOfContents: true
 tags: ["Life Experiences", "Work", "Thirteen"]
 title: The Truth About Work
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “The Truth About Work”"
 ---
 <!--more-->
 

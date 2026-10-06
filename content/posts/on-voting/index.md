@@ -1,8 +1,10 @@
 ---
-category: Politics and Beliefs
+categories: Politics and Beliefs
 date: '2015-02-04'
 tags: ["News", "Politics", "Fifteen"]
 title: On Voting
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “On Voting”"
 ---
 We hear a lot about our rights but these are given to us in return for fulfilling our responsibilities. One of these is engagement in the democratic process, and in particular voting. You should register to vote, that’s a no brainer. You should take an interest in what politics means for you locally, nationally, and internationally. On the day you to get to the polling station and cast your vote. Then you need to hold you representative accountable afterwards, even if he or she isn’t the person you voted for.
 

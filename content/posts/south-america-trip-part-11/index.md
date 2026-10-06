@@ -1,9 +1,11 @@
 ---
-category: Travel
+categories: Travel
 date: '2015-09-14'
 tableOfContents: true
 tags: ["South America", "Bolivia", "Photos", "Fifteen", "Fourteen"]
 title: South America, Part 11
+hero: images/01.jpg
+hero_alt: "South America, Part 11"
 ---
 <!--more-->
 

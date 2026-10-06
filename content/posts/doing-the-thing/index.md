@@ -1,8 +1,10 @@
 ---
-category: Life Experiences
+categories: Life Experiences
 date: '2022-03-03'
 tags: ["Motivation", "Ideas", "Mood", "Twenty Two"]
 title: Doing the thing
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Doing the thing”"
 ---
 I find it hard to get started on projects. This may have always been the case. I definitely remember instances of complex plans for school projects that I'd barely have time to finish. I once got up at 6AM to finish making a calendar in French—I thought it was going to be this outstanding piece of work that would genuinely replace my teacher's calendar! Reality didn't quite match the idea though.
 

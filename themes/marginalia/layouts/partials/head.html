@@ -1,0 +1,27 @@
+{{- /*
+  head.html — everything inside <head>.
+  CSS is built through Hugo Pipes from assets/css/main.css so it gets
+  fingerprinted in production builds (good cache behaviour).
+*/ -}}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+{{ with or .Description .Summary site.Params.description }}<meta name="description" content="{{ . | plainify | truncate 160 }}">{{ end }}
+{{ with .Permalink }}<link rel="canonical" href="{{ . }}">{{ end }}
+
+{{- /* RSS feed discovery */ -}}
+{{ with .OutputFormats.Get "rss" }}
+<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ .Permalink }}">
+{{ end }}
+
+{{- /* Main stylesheet, minified + fingerprinted when building for production */ -}}
+{{ $css := resources.Get "css/main.css" }}
+{{ if hugo.IsProduction }}{{ $css = $css | minify | fingerprint }}{{ end }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}"{{ if hugo.IsProduction }} integrity="{{ $css.Data.Integrity }}"{{ end }}>
+
+{{- /* Maths: pages with `math: true` get KaTeX (partials/katex.html, in the
+       site's own layouts folder). */ -}}
+{{ if and (.Param "math") (templates.Exists "partials/katex.html") }}{{ partial "katex.html" . }}{{ end }}
+
+{{- /* Simple favicon: a coloured dot in the site accent. Replace at will. */ -}}
+<link rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><circle cx="8" cy="8" r="7" fill="%2312b0a0"/></svg>'>

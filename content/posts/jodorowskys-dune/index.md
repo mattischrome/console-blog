@@ -1,8 +1,10 @@
 ---
-category: Films
+categories: Films
 date: '2015-03-27'
 tags: ["Films", "Documentary", "Frank Herbert", "Fifteen", "Science Fiction", "Books"]
 title: Jodorowsky's Dune
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Jodorowsky's Dune”"
 ---
 [Jodorowsky's Dune](http://www.imdb.com/title/tt1935156/?ref_=fn_al_tt_1) is a documentary about outlandish Chilean director [Alejandro Jodorosky's](http://en.wikipedia.org/wiki/Alejandro_Jodorowsky) attempt at a film adaptation of [Frank Herbert's Dune](/dune/) in the 1970s. As a big fan of the novel and of science fiction in general, I was very interested in this film. It does not disappoint. It gives a great insight into the mind of a little known (if slightly batty) director and shows even an artistic failure can lead to shock waves that can be felt in later work by others.
 

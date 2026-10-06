@@ -1,11 +1,13 @@
 ---
-category: Understated Classics
+categories: Understated Classics
 date: '2012-03-21'
 slug: understated-classics-16
 tableOfContents: true
 tags: ["Understated Classics", "Howard Budd", "Brian Eno", "Music", "Twelve", "Electronic"]
 title: 'Understated Classics #16: Ambient 2 / The Plateaux Of Mirror by Howard Budd
   and Brian Eno'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Understated Classics #16: Ambient 2 / The Plateaux Of Mirror by Howard Budd and Brian Eno”"
 ---
 <!--more-->
 

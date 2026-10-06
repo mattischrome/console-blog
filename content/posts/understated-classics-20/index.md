@@ -1,10 +1,12 @@
 ---
-category: Understated Classics,
+categories: Understated Classics
 date: '2012-09-19'
 slug: understated-classics-20
 tableOfContents: true
 tags: ["Music", "Understated Classics", "Nelly Furtado", "Twelve", "Pop"]
 title: 'Understated Classics #20: Folklore by Nelly Furtado'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Understated Classics #20: Folklore by Nelly Furtado”"
 ---
 It’s rather spooky but shortly after deciding to write about Nelly Furtado’s “Folklore” as the next [understated classic](understated-classics), I found out that she has a new album out this week. As a result, I have been listening to a lot of her music while writing this post, and I’ve been enjoying it too.
 

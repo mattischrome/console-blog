@@ -1,8 +1,10 @@
 ---
-category: Movies
+categories: Movies
 date: '2023-05-31'
 tags: ["Movies", "South Korea", "Detective Story", "Twenty Three"]
 title: Decision to Leave
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Decision to Leave”"
 ---
 I gave up writing reviews of movies because:
 

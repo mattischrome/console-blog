@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2025-01-10'
 tableOfContents: true
 tags: ["Twenty Four", "Album", "Electronic", "Bolis Pupul"]
 title: '2024 Albums of the Year #1: Bolis Pupul, Letter To Yu'
+hero: images/bolis-pupul-letter-to-yu.jpg
+hero_alt: "2024 Albums of the Year #1: Bolis Pupul, Letter To Yu"
 ---
 [Bolis Pupul](https://bolispupul.bandcamp.com) (the stage name of Boris Zeebroek) is an artist on [Soulwax's Deewee label](https://deew.ee/catalogue). ["Letter to Yu"](https://deew.ee/catalogue/074) is his debut album, inspired by a trip to Hong Kong to investigate his family history. It investigates themes of place, family, and identity. We are exposed to everywhere all at once but we're also all *from* somewhere, even if it's somewhere we might not recommend or understand.
 

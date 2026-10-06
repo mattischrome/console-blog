@@ -1,0 +1,9 @@
+{{- /* _default/list.html — generic section list (e.g. /posts/): card grid. */ -}}
+{{ define "main" }}
+  <header class="list-header"><h1>{{ .Title }}</h1></header>
+  {{ $pag := .Paginate .RegularPages }}
+  <section class="card-grid">
+    {{ range $pag.Pages }}{{ partial "card.html" . }}{{ end }}
+  </section>
+  {{ partial "pagination.html" $pag }}
+{{ end }}

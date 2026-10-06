@@ -1,6 +1,6 @@
 ---
 title: "Andrew O'Hagan, Caledonian Road"
-category: Books
+categories: Books
 date: '2026-06-03'
 tags: ["Twenty Six", "Books", "Andrew O'Hagan", "Fiction"]
 tableOfContents: true

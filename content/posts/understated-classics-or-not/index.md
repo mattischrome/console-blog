@@ -1,8 +1,10 @@
 ---
-category: Understated Classics
+categories: Understated Classics
 date: '2022-01-01'
 tags: ["Understated Classics", "Music", "Rock", "Electronic", "Dance", "Pop", "Twenty Two"]
 title: Understated Classics Or Not?
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Understated Classics Or Not?”"
 ---
 At the new year, thoughts and spare time for writing point me toward writing some new posts for my understated classics series. Expect some new ones soon.
 

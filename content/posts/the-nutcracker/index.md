@@ -1,8 +1,10 @@
 ---
-category: Theatre
+categories: Theatre
 date: '2016-01-29'
 tags: ["Theatre", "Ballet", "Sixteen"]
 title: The Nutcracker
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “The Nutcracker”"
 ---
 For Ingrid's birthday, we went to see [The Nutcracker performed by the Moscow City Ballet](http://moscowcityballet.com/en/repertoire/ballet/1) at [The King's Theatre in Southsea](http://kingsportsmouth.co.uk).
 

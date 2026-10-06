@@ -1,0 +1,29 @@
+{{- /*
+  category-class.html — returns a CSS class ("cat-music", "cat-travel", …)
+  for the page passed in. The classes are defined in assets/css/main.css,
+  where each one sets the `--cat` custom property to that category's colour.
+
+  Works for:
+    • ordinary posts       → first entry in the `categories` front-matter list
+    • category term pages  → the term itself (so /categories/music/ is pink)
+  Anything unrecognised falls back to "cat-default".
+
+  To add a category colour: add its lowercased name to $known here AND a
+  matching `.cat-<name>` rule in main.css.
+*/ -}}
+{{- $known := slice
+      "music" "podcasts" "books" "understated-classics" "ideas"
+      "life-experiences" "life-experience" "travel" "album-digest" "albums"
+      "writing" "short-fiction" "poems" "films" "movies"
+      "art" "theatre" "creativity" "food"
+      "programming" "coding" "software" "technology" "gadgets" "latex" "r"
+      "blogging" "blog" "meta" "politics-and-beliefs" "civ" "games" "football"
+      "mathematics" "maths" "science" "photo" "photography" "cats" "garden" -}}
+{{- $cat := "" -}}
+{{- if and (eq .Kind "term") (eq .Data.Plural "categories") -}}
+  {{- $cat = .Data.Term -}}
+{{- else -}}
+  {{- $cat = partial "first-category.html" . -}}
+{{- end -}}
+{{- $slug := $cat | lower | urlize -}}
+{{- if in $known $slug -}}cat-{{ $slug }}{{- else -}}cat-default{{- end -}}

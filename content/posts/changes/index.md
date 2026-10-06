@@ -1,9 +1,11 @@
 ---
-category: Life Experiences
+categories: Life Experiences
 date: '2017-04-11'
 tableOfContents: true
 tags: ["Writing","Blogging","Software","Seventeen"]
 title: Changes
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Changes”"
 ---
 <!--more-->
 

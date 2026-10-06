@@ -1,0 +1,19 @@
+{{- /*
+  first-category.html — returns the page's first category name, or "".
+
+  Exists because front matter can legitimately arrive two ways:
+      categories: [Music, Travel]   ← a list
+      categories: Music             ← a bare string
+  and Go templates treat `index <string> 0` as byte access (so "Albums"
+  would render as 65, the character code of "A"). This partial normalises
+  both shapes; use it anywhere the theme needs "the" category of a post.
+*/ -}}
+{{- $out := "" -}}
+{{- with .Params.categories -}}
+  {{- if reflect.IsSlice . -}}
+    {{- with index . 0 -}}{{- $out = printf "%v" . -}}{{- end -}}
+  {{- else -}}
+    {{- $out = printf "%v" . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

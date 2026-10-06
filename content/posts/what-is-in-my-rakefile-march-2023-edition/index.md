@@ -1,8 +1,11 @@
 ---
 date: '2023-03-15'
 tableOfContents: true
+categories: Programming
 tags: ["Blogging", "Writing", "Jekyll", "Rake", "Housekeeping", "Twenty Three"]
 title: What is in my Rakefile? (March 2023 edition)
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “What is in my Rakefile? (March 2023 edition)”"
 ---
 Because I am bored of forgetting what's in my website's Rakefile, I thought I'd write a list. Also, as I'm probably going to move over to a node based approach soon, it's a handy wish list for my `package.json` file when the time comes.
 

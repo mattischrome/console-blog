@@ -1,10 +1,12 @@
 ---
-category: Understated Classics
+categories: Understated Classics
 date: '2011-09-09'
 slug: understated-classics-13
 tableOfContents: true
 tags: ["Understated Classics", "The Orb", "Music", "Electronic", "Eleven"]
 title: 'Understated Classics #13: U.F.Orb by The Orb'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Understated Classics #13: U.F.Orb by The Orb”"
 ---
 **FUN FACT:** It was because of the artwork to this album that I obsessively scrawled onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome on my pencil case at school. I also had a very passable u.f.orb logo drawn on it too.
 

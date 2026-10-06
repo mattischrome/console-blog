@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2013-04-30'
 tableOfContents: true
 tags: ["Album Digest", "April", "Music", "The Flaming Lips", "Wire", "James Blake", "The Knife", "Thirteen"]
 title: Album Digest, April 2013
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, April 2013”"
 ---
 Some great albums this month!
 

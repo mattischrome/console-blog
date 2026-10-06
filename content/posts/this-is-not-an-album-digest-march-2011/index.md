@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2011-03-31'
 tableOfContents: true
 tags: ["Music", "Album Digest", "March", "Eleven", "Ramadanman", "Nicolas Jaar", "Julianna Barwick", "Yeasayer", "Saint Etienne", "LCD Soundsystem", "Salva"]
 title: Album Digest, March 2011
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, March 2011”"
 ---
 <!--more-->
 

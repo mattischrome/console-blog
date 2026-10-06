@@ -1,8 +1,10 @@
 ---
-category: Music
+categories: Music
 date: '2025-01-15'
 tags: ["Album Revisit","Parquet Courts","Music","Rock","Indie","Twenty Five"]
 title: Parquet Courts, Sympathy For Life
+hero: images/parquet-courts-sympathy-for-life.jpg
+hero_alt: "Parquet Courts, Sympathy For Life"
 ---
 Getting back to my occasional album revisits, I'd like to consider the 2021 Parquet Courts album "Sympathy For Life". This is partly because I own it on vinyl and put it on the other day while I was doing some rather humdrum data downloading at work. It's that kind of album, quite loose and jam-based.
 

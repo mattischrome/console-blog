@@ -1,7 +1,9 @@
 ---
+categories: Books
 title: 'Darkmans'
 date: '2026-02-11'
 tags: ["Twenty Six","Books","Nicola Barker","Darkmans","Reading Projects"]
+hero: images/nicola-barker-darkmans.jpg
 ---
 
 About eighteen years ago, I got a copy of Nicola Barker's "Darkmans" for Christmas. It's a hefty novel, one of those small runs where the 'hardback' is actually a paperback. I have the first edition and it's ginormous. I read it at home because I couldn't really take it anywhere. 

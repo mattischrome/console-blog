@@ -1,7 +1,10 @@
 ---
 date: '2023-06-01'
+categories: Blogging
 tags: ["June", "Time passing", "Organisation", "Twenty Three"]
 title: Oh heck it's June
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Oh heck it's June”"
 ---
 White rabbits and all that. 
 

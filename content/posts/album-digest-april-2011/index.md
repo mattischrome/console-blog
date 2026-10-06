@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2011-04-30'
 tableOfContents: true
 tags: ["Music","Album Digest","April","Jamie Woon","Young Knives","Katy B","Elbow","Fabric","Eleven"]
 title: Album Digest, April 2011
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, April 2011”"
 ---
 <!--more-->
 

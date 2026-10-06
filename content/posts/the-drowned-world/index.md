@@ -1,9 +1,11 @@
 ---
-category: Books
+categories: Books
 date: '2010-08-14'
 tableOfContents: true
 tags: ["J. G. Ballard", "Reading Projects", "Science Fiction", "Books", "Ten"]
 title: J. G. Ballard, The Drowned World
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “J. G. Ballard, The Drowned World”"
 ---
 <!--more-->
 

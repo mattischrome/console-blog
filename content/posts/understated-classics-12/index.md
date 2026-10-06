@@ -1,10 +1,12 @@
 ---
-category: Understated Classics
+categories: Understated Classics
 date: '2011-08-16'
 slug: understated-classics-12
 tableOfContents: true
 tags: ["Understated Classics", "Roxette", "Music", "Pop", "Eleven"]
 title: 'Understated Classics #12: Look Sharp! by Roxette'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Understated Classics #12: Look Sharp! by Roxette”"
 ---
 <!--more-->
 

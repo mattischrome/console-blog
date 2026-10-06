@@ -1,8 +1,10 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2025-01-23'
 tags: ["Twenty Five","Album","Dance","Electronic","Underworld"]
 title: Underworld, Strawberrry Hotel
+hero: images/underworld-strawberry-hotel.jpg
+hero_alt: "Underworld, Strawberrry Hotel"
 ---
 An album that arrived a bit too late to be considered in the best of the year list, _Strawberry Hotel_ by Underworld is a solid effort. Their 11th album, it remarks their return to the format after five years after the _Drift_ series in 2019.
 

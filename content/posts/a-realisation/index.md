@@ -1,8 +1,10 @@
 ---
-category: Coding
+categories: Coding
 date: '2025-01-16'
 tags: ["Coding", "Software", "Twenty Five", "Ideas"]
 title: A Realisation
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “A Realisation”"
 ---
 One of the best pieces of advice I have ever been given about how to tackle programming problems is to treat your code as comments that describe your program to the computer, whilst the comments that are there for humans to read should tell them how the program is supposed to work.
 

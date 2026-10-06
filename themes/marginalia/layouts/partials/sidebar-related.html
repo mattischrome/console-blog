@@ -1,0 +1,19 @@
+{{- /*
+  sidebar-related.html — posts sharing tags with this one.
+  Uses Hugo's related-content engine; the theme's hugo.toml tells it to
+  index the `tags` front-matter field.
+*/ -}}
+{{- $related := first 5 (site.RegularPages.Related .) -}}
+{{- with $related }}
+<section class="sidebar-box">
+  <h2>Similar posts</h2>
+  <ul>
+    {{ range . }}
+    <li class="{{ partial "category-class.html" . }}">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan" }}</time>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}

@@ -1,9 +1,11 @@
 ---
-category: Food
+categories: Food
 date: '2017-11-05'
 tableOfContents: true
 tags: ["Recipe", "Tomato Free", "Food", "Seventeen"]
 title: Beetroot Bolognaise
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Beetroot Bolognaise”"
 ---
 We cook this version of bolognaise with beetroot due to Ingrid's tomato allergy. This recipe is an attempt to capture what we do on the fly. The key to it is using the wine, the Worcestershire sauce and the herbs to even out the sweetness of the beetroot. If you can manage that, it's super tasty. The sauce usually ends up being an unusual but pleasing pink/purple colour, as you will see from the pictures.
 

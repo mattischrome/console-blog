@@ -1,0 +1,16 @@
+{{- /* sidebar-recent.html — five most recent posts, skipping the current one. */ -}}
+{{- $recent := where site.RegularPages "Section" "posts" -}}
+{{- $recent = first 5 (where $recent "Permalink" "ne" .Permalink) -}}
+{{- with $recent }}
+<section class="sidebar-box">
+  <h2>Recent posts</h2>
+  <ul>
+    {{ range . }}
+    <li class="{{ partial "category-class.html" . }}">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan" }}</time>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}

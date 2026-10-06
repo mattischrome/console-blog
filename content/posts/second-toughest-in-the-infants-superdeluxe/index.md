@@ -1,8 +1,10 @@
 ---
-category: Music
+categories: Music
 date: '2015-11-26'
 tags: ["Underworld", "Music", "Fifteen", "Electronic"]
 title: Underworld, Second Toughest in the Infants (Superdeluxe edition)
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Underworld, Second Toughest in the Infants (Superdeluxe edition)”"
 ---
 Last week Underworld reissued their excellent second album “Second Toughest In The Infants” in various formats including a four disc super deluxe edition. I wrote about this album in my understated classics series and I want to share some thoughts on the reissue. I love this album so I was excited to hear the remaster and the additional material.
 

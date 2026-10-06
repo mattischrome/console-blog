@@ -1,8 +1,10 @@
 ---
-category: Travel
+categories: Travel
 date: '2017-12-17'
 tags: ["Trips", "Europe", "Iceland", "Photos", "Seventeen"]
 title: 'A trip to Iceland. Part 3: Flu∂ir to Vík.'
+hero: images/iceland_17.jpg
+hero_alt: "A trip to Iceland. Part 3: Flu∂ir to Vík."
 ---
 [We left Gulfoss](/posts/iceland-part-two) and drove through the countryside to Flu&eth;ir where our next hotel stay would be. The hotel had cute little cabins arranged around a central square and the room itself was comfy and warm. Our dinner was nice enough, although we had a bit of a Fawlty Towers moment with Ingrid’s chicken salad. First it went back because they didn’t leave the BBQ sauce off. Then it came back *with* tomatoes. And then back again with more BBQ sauce. Fourth time lucky.
 

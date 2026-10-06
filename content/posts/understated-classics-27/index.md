@@ -1,10 +1,12 @@
 ---
-category: Understated Classics
+categories: Understated Classics
 date: '2014-08-19'
 slug: understated-classics-27
 tableOfContents: true
 tags: ["Understated Classics", "Music", "Wilco", "Fourteen", "Rock"]
 title: 'Understated Classics #27: A Ghost Is Born by Wilco'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Understated Classics #27: A Ghost Is Born by Wilco”"
 ---
 [I have already given some of the personal background to why I love this album](/posts/whatever-happened-to-that-hat/) and now it’s time to give a bit of love to the music itself so I’ll stick to giving a track by track account of “A Ghost Is Born”.
 

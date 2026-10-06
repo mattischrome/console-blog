@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2012-05-31'
 tableOfContents: true
 tags: ["Music", "Album Digest", "May", "Jack White", "One Little Plane", "Beach House", "Oxia", "Twelve"]
 title: Album Digest, May 2012
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, May 2012”"
 ---
 Four albums for Album Digest May 2012:
 

@@ -1,8 +1,9 @@
 ---
-category: Films
+categories: Films
 date: '2015-07-09'
 tags: ["Films", "Animation", "Fifteen", "Fun"]
 title: 'Minions: A Short Review'
+hero: images/hero.jpg
 ---
 The Minions got their own movie, just as I predicted in [my review of Despicable Me 2](/despicable-me-2-a-short-review/). I went to see it this week and I enjoyed it a lot. Here's a short review. Don't worry, there are no spoilers here that aren't in the trailer.
 

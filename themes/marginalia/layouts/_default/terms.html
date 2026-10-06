@@ -1,0 +1,18 @@
+{{- /*
+  _default/terms.html — the /categories/ page (tags has its own template).
+  Each category is shown as a coloured "sticker" in its own colour, with a
+  post count. New categories fall back to the default teal automatically.
+*/ -}}
+{{ define "main" }}
+  <header class="list-header">
+    <h1>{{ .Title }}</h1>
+  </header>
+  <ul class="category-index">
+    {{ range .Data.Terms.Alphabetical }}
+    <li class="{{ partial "category-class.html" .Page }}">
+      <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+      <span class="tag-count">{{ .Count }} {{ if eq .Count 1 }}post{{ else }}posts{{ end }}</span>
+    </li>
+    {{ end }}
+  </ul>
+{{ end }}

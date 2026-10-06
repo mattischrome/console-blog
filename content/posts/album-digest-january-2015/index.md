@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2015-01-31'
 tableOfContents: true
 tags: ["Album Digest", "January", "Music", "Sleater-Kinney", "Azealia Banks", "Museum Of Love", "Parquet Courts", "Flying Lotus", "Royksopp", "Fifteen"]
 title: Album Digest, January 2015
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, January 2015”"
 ---
 Album Digest January 2015 rounds up a few albums from the tail end of 2014 that I didn't get much time to write about. The only one of these six to be released this month is the excellent "No Cities To Love" by Sleater-Kinney.
 

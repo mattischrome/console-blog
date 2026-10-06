@@ -1,0 +1,39 @@
+# Example site configuration for the marginalia theme.
+# Copy the relevant bits into your own site's hugo.toml.
+
+baseURL = "https://example.org/"
+languageCode = "en-gb"
+title = "Odds & Endpapers"
+theme = "marginalia"
+
+# 20 posts per page on the home page and on list pages, as per the design.
+[pagination]
+  pagerSize = 20
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# The persistent site menu. "Categories", "Tags" and "Search" point at pages
+# the theme generates; add your own entries (e.g. an About page) alongside.
+[menus]
+  [[menus.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+  [[menus.main]]
+    name = "Categories"
+    pageRef = "/categories"
+    weight = 20
+  [[menus.main]]
+    name = "Tags"
+    pageRef = "/tags"
+    weight = 30
+  [[menus.main]]
+    name = "Search"
+    pageRef = "/search"
+    weight = 40
+  [[menus.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 50

@@ -1,0 +1,19 @@
+{{- /*
+  sidebars.html — the stack of side boxes shown next to single posts and
+  pages (below the content on narrow screens). Context: the Page.
+
+  Two boxes ship with the theme:
+    • sidebar-recent.html   — the five most recent posts
+    • sidebar-related.html  — posts sharing tags (Hugo related content,
+                              configured in the theme's hugo.toml)
+
+  ADDING YOUR OWN (e.g. blogroll, last.fm scrobbles):
+    1. Create layouts/partials/sidebar-<name>.html in your site (not the
+       theme), following the same <section class="sidebar-box"> pattern.
+    2. Add a line for it below, in the order you want it to appear.
+  Site-level partials override / sit alongside theme ones automatically.
+*/ -}}
+<aside class="sidebars">
+  {{ partial "sidebar-recent.html" . }}
+  {{ partial "sidebar-related.html" . }}
+</aside>

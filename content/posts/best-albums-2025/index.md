@@ -1,7 +1,7 @@
 ---
 title: 'Best Albums 2025'
 date: '2026-07-04'
-category: "Music"
+categories: "Music"
 tags: 
   - "Twenty Five"
   - "Twenty Six"
@@ -18,6 +18,7 @@ tags:
   - "Brian Dunne"
   - "Alabaster DePlume"
 tableOfContents: true
+hero: images/ba25hero.jpg
 ---
 Faced with writing about the best albums of 2025 a bit late, I figured an extra six months of perspective might help me make some decisions about which albums truly were the best of last year. 
 

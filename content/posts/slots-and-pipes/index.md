@@ -1,8 +1,10 @@
 ---
-category: Programming
+categories: Programming
 date: '2025-02-02'
 tags: ["R", "Twenty Five", "Programming", "Functional Programming", "Tidyverse"]
 title: Slots and Pipes
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Slots and Pipes”"
 ---
 Recent explorations in R have reminded me about two ways of thinking about how you refer to objects or (parts of objects) in the language.
 

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+{{- /*
+  baseof.html — the skeleton every page is poured into.
+  Blocks that child templates can override:
+    "main"  — the page content (required)
+  The category colour class is computed once here and applied to <body>,
+  so every element on the page can use the `--cat` custom property.
+*/ -}}
+<html lang="{{ or site.Language.Locale site.Language.Lang "en" }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+{{- /* cat-… class puts the right --cat colour in scope for the whole page */ -}}
+<body class="{{ partial "category-class.html" . }} kind-{{ .Kind }}{{ with .Layout }} layout-{{ . }}{{ end }}">
+  <a class="skip-link" href="#main">Skip to content</a>
+  {{ partial "site-header.html" . }}
+  <main id="main">
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ partial "site-footer.html" . }}
+</body>
+</html>

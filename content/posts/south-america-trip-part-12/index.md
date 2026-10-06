@@ -1,9 +1,11 @@
 ---
-category: Travel
+categories: Travel
 date: '2016-07-19'
 tableOfContents: true
 tags: ["South America", "Bolivia", "Argentina", "Chile", "Photos", "Sixteen", "Fourteen"]
 title: South America, Part 12
+hero: images/01-Red-hills-of-Tupiza.jpg
+hero_alt: "South America, Part 12"
 ---
 <!--more-->
 

@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2011-12-29'
 tableOfContents: true
 tags: ["Music", "Album Digest", "December", "Radio Slave", "Pinch and Shackleton", "Emika", "Eleven"]
 title: Album Digest, December 2011
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, December 2011”"
 ---
 Some rather brief pen pictures of this month’s albums. I’ve been a bit busy!
 

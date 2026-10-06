@@ -1,9 +1,11 @@
 ---
-category: Books
+categories: Books
 date: '2011-03-18'
 tableOfContents: true
 tags: ["Books", "Reading Projects", "Eleven"]
 title: More Books
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “More Books”"
 ---
 <!--more-->
 

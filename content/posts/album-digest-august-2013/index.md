@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2013-08-31'
 tableOfContents: true
 tags: ["Music", "Album Digest", "August", "Washed Out", "Bonobo", "Atoms For Peace", "Thirteen"]
 title: Album Digest, August 2013
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, August 2013”"
 ---
 For reasons that will become apparent, there will be a short period soon where I will not be writing album digests. Until then, I'm clearing a backlog of some albums that I've been listening to but haven't had enough time or motivation to write about. Only one of this month's albums was released this month, something that's not that uncommon at this time of the year as it is not the best time to release things. Here's the list:
 

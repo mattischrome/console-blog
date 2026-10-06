@@ -1,9 +1,11 @@
 ---
-category: Food
+categories: Food
 date: '2019-04-22'
 tableOfContents: true
 tags: ["Books", "Recipe", "Food", "Nineteen"]
 title: Four Recipe Book Recommendations
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Four Recipe Book Recommendations”"
 ---
 
 Here are some recipe book recommendations. A good set of recipes can provide you with many a project for a rainy day.

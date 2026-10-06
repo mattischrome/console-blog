@@ -1,8 +1,10 @@
 ---
-category: Writing
+categories: Writing
 date: '2025-01-20'
 tags: ["Diary", "Writing", "Notebooks", "Twenty Five"]
 title: In Praise of Putting Pen to Paper
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “In Praise of Putting Pen to Paper”"
 ---
 Around this time last year, I wrote in praise of writing a diary. I also rather misanthropically referred to it as a ["negativity casket"](https://mattischrome.com/posts/the-negativity-casket/) because I found that I was pouring a lot of negative feelings into the notebook. It's not really a diary as such because I don't write everyday and I also make other non-diaristic notes, but it does appear to have been something of a process that has helped me to work through my negative feelings.
 

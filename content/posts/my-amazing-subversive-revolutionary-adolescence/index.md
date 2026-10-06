@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2014-07-22'
 tableOfContents: true
 tags: ["Music", "The Orb", "Fourteen", "Electronic"]
 title: My Amazing Subversive Revolutionary Adolescence
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “My Amazing Subversive Revolutionary Adolescence”"
 ---
 <!--more-->
 

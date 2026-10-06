@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2023-12-31'
 slug: 2023-albums-01-sofia-kourtesis-madres
 tags: ['Album Digest','Music','Twenty Three','Albums','Sofia Kourtesis','Electronic']
 title: '2023 Albums of the Year #1: Sofia Kourtesis, Madres'
+hero: images/sofia-kourtesis-madres.jpeg
+hero_alt: "2023 Albums of the Year #1: Sofia Kourtesis, Madres"
 ---
 Sofia Kourtesis is a Berlin-based Peruvian dance producer, "Madres" is her debut album which follows on from a 2021 EP "Fresia Magdalena".
 {{< marginfigure src="../../assets/images/albums-2023/sofia-kourtesis-madres.jpeg" alt="Cover of Madres by Sofia Kourtesis" caption="Cover of _Madres_ by Sofia Kourtesis" >}}

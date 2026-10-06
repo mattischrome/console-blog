@@ -1,8 +1,10 @@
 ---
-category: Music
+categories: Music
 date: '2013-03-31'
 tags: ["Album Digest", "March", "Music", "David Bowie", "Thirteen"]
 title: Album Digest, March 2013
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, March 2013”"
 ---
 Just the David Bowie album this month as it’s pretty much the only new music that I’ve listened to.
 

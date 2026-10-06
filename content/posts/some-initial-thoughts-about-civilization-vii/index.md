@@ -1,9 +1,11 @@
 ---
-category: Software
+categories: Software
 date: '2025-02-11'
 tableOfContents: true
 tags: ["Twenty Five", "Civ VII", "Games", "Software"]
 title: Some Initial Thoughts About Civilization VII
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Some Initial Thoughts About Civilization VII”"
 ---
 Sid Meier's Civilization VII is out today to much fanfare. After spending what top scientists are calling "far too long" playing Civ VI and a couple of run-throughs of the new game during the early access period, here are some thoughts on the new instalment.
 

@@ -1,9 +1,10 @@
 ---
 title: 'Panini Stickers 2026'
-category: Football
+categories: Football
 date: '2026-05-25'
 tableOfContents: true
 tags: ["Football", "Stats", "Modelling", "Twenty Six"]
+hero: images/StickersCover3.jpg
 ---
 
 Ten years ago, ahead of the 2016 European Championship, I wrote a few posts about the Panini sticker album for the tournament and my efforts to fill it up. It was a nice subject to investigate with Excel and R as a little data science exercise. This post is a little update.

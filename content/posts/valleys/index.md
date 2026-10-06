@@ -1,8 +1,10 @@
 ---
-category: Ideas
+categories: Ideas
 date: '2017-07-17'
 tags: ["Writing", "Ideas", "Blogging", "Seventeen"]
 title: Valleys
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Valleys”"
 ---
 In my last post, I wrote about hills. I tried to use them as a metaphor to explain nagging sense of incompletion when you single out one activity over another. The feeling that there's always a more exciting hill off in the distance to go climb, instead of the one you're on.
 

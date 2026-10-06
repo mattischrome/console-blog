@@ -1,9 +1,11 @@
 ---
-category: Writing
+categories: Writing
 date: '2014-08-21'
 tableOfContents: true
 tags: ["Writing","Software","Blogging","Fourteen"]
 title: Useful Ulysses
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Useful Ulysses”"
 ---
 <!--more-->
 

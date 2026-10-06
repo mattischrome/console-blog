@@ -1,9 +1,11 @@
 ---
-category: Life Experiences
+categories: Life Experiences
 date: '2010-12-24'
 tableOfContents: true
 tags: ["Life Experiences", "Christmas", "Birds", "Photos", "Ten"]
 title: Tales From Home
+hero: images/Waxwing1.jpg
+hero_alt: "Tales From Home"
 ---
 <!--more-->
 

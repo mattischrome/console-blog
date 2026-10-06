@@ -1,8 +1,10 @@
 ---
-category: Books
+categories: Books
 date: '2017-11-11'
 tags: ["Books", "Matt Haig", "Non Fiction", "Seventeen"]
 title: Matt Haig, Reasons to Stay Alive
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Matt Haig, Reasons to Stay Alive”"
 ---
 After I read ["Hello America"](hello-america) and ["Like a Mule Bringing Ice Cream to the Sun"](like-a-mule-ice-cream-sun-manyika) to Ingrid, it was her turn to read something to me. We settled on [Matt Haig's memoir of anxiety and depression "Reasons to Stay Alive"](http://www.matthaig.com/reasons-to-stay-alive/), which is as uplifting and life-affirming as its title suggests.
 

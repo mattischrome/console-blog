@@ -1,8 +1,10 @@
 ---
-category: Ideas
+categories: Ideas
 date: '2011-07-25'
 tags: ["News", "Ideas", "Eleven"]
 title: The News
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “The News”"
 ---
 > “I read the news today, oh boy”  (The Beatles, _A Day In The Life_.)
 

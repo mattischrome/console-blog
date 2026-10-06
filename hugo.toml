@@ -1,17 +1,13 @@
 baseURL = 'https://mattischrome.com/'
-languageCode = 'en-gb'
+locale = 'en-gb'
 title = 'mattischrome'
-theme = 'doorman'
+theme = 'marginalia'
 
 [menus]
   [[menus.main]]
     name = 'Home'
     pageRef = '/'
     weight = 10
-  [[menus.main]]
-    name = 'Posts'
-    pageRef = '/posts'
-    weight = 20
   [[menus.main]]
     name = 'Tags'
     pageRef = '/tags'
@@ -20,6 +16,11 @@ theme = 'doorman'
     name = 'Search'
     url = '/search/'
     weight = 40
+
+# Posts per page on the home page and on category/tag listings
+# (Hugo's own setting; the default is 10).
+[pagination]
+  pagerSize = 12
 
 [params]
   tableOfContents = false
@@ -30,11 +31,7 @@ theme = 'doorman'
   fleuron_image = '/images/divider.svg'
   rss = true
   source_url = 'https://github.com/mattischrome/console-blog'
-  [params.posts]
-    paginate = 12
 
-  [params.photos]
-    paginate = 12
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -43,5 +40,5 @@ theme = 'doorman'
       [markup.goldmark.extensions.passthrough]
         enable = true
         [markup.goldmark.extensions.passthrough.delimiters]
-          block = [['\[', '\]'], ['$$', '$$']]
+          block = [['$$', '$$']]
           inline = [['\(', '\)']]

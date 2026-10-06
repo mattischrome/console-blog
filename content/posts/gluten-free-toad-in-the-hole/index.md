@@ -1,9 +1,11 @@
 ---
-category: Food
+categories: Food
 date: '2025-01-14'
 tableOfContents: true
 tags: ["Recipe","Gluten Free","Twenty Five","Food"]
 title: Gluten Free Toad In The Hole
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Gluten Free Toad In The Hole”"
 ---
 
 This is a weekly lifter of spirits during the winter months!

@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2020-12-31'
 tableOfContents: true
 tags: ["Album Digest", "Music", "Twenty"]
 title: Album Digest 2020
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest 2020”"
 ---
 I’ve listened to music in slightly different ways to normal in the last nine months, but it’s still been a decent year for music. When I checked out my Spotify Unwrapped and my Last.fm reports, I had listened to more 2020 music than I thought.
 

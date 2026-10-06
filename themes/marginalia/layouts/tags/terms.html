@@ -1,0 +1,38 @@
+{{- /*
+  tags/terms.html — the /tags/ page.
+  All tags A→Z, grouped under a letter heading, each with its post count.
+  Tags that start with a digit or symbol are grouped under "#".
+*/ -}}
+{{ define "main" }}
+  <header class="list-header">
+    <h1>{{ .Title }}</h1>
+  </header>
+
+  {{- /* Build a map of first-letter → list of term pages, plus a sorted
+         slice of the letters actually in use */ -}}
+  {{- $groups := dict -}}
+  {{- $letters := slice -}}
+  {{- range .Data.Terms.Alphabetical -}}
+    {{- $letter := substr (upper .Name) 0 1 -}}
+    {{- if not (findRE `^[A-Z]$` $letter) }}{{ $letter = "#" }}{{ end -}}
+    {{- if not (in $letters $letter) }}{{ $letters = $letters | append $letter }}{{ end -}}
+    {{- $existing := index $groups $letter | default slice -}}
+    {{- $groups = merge $groups (dict $letter ($existing | append .)) -}}
+  {{- end -}}
+
+  <div class="tag-index">
+    {{ range $letter := sort $letters }}
+    <section class="tag-letter-group">
+      <h2 id="letter-{{ $letter | urlize }}">{{ $letter }}</h2>
+      <ul>
+        {{ range index $groups $letter }}
+        <li>
+          <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+          <span class="tag-count">{{ .Count }}</span>
+        </li>
+        {{ end }}
+      </ul>
+    </section>
+    {{ end }}
+  </div>
+{{ end }}

@@ -1,10 +1,12 @@
 ---
-category: Understated Classics
+categories: Understated Classics
 date: '2010-08-17'
 slug: understated-classics-3
 tableOfContents: true
 tags: ["Understated Classics", "Red Box", "Music", "Pop", "Ten"]
 title: 'Understated Classics #3: The Circle & The Square by Red Box'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Understated Classics #3: The Circle & The Square by Red Box”"
 ---
 
 The next entry in the understated classics series is "The Circle & The Square" by Red Box.

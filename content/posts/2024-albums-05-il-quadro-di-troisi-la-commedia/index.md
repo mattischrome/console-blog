@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2025-01-06'
 tableOfContents: true
 tags: ["Twenty Four", "Album", "Italy", "Il Quadro di Troisi", "Electronic"]
 title: '2024 Albums of the Year #5: Il Quadro di Troisi, La Commedia'
+hero: images/iqdt-la-commedia.jpg
+hero_alt: "2024 Albums of the Year #5: Il Quadro di Troisi, La Commedia"
 ---
 It's interesting that an album sung entirely in Italian ended up being one of my favourites of the year, but perhaps not surprising given well written and arranged these songs are. They're just the right side of electro-pop but also with an air of sophistication.
 

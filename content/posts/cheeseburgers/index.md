@@ -1,8 +1,10 @@
 ---
-category: Life Experiences
+categories: Life Experiences
 date: '2023-04-04'
 tags: ["Life Experiences", "Advice", "Work", "Thoughts", "Quotes", "Twenty Three"]
 title: Cheeseburgers 🍔
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Cheeseburgers 🍔”"
 ---
 I think there's a sense of safety when putting energy into something that's latent and/or hidden as it immediately makes it low stakes. Other more open routes to success contain fear of failure, but also a fear of going after something that won't give you the same buzz or edge. There's a thrill seeking element but it's also about containing and confining it to a success zone. Keeping this success zone private also means that there's no risk that someone might try and take it away from you. There's so much risk in putting any kind of desire or chance for failure out into the public domain. 
 

@@ -1,8 +1,10 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2023-12-21'
 tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Blogging", "Meta"]
 title: 2023 Albums of the Year Preview
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “2023 Albums of the Year Preview”"
 ---
 Another year (nearly) over and so starting from tomorrow, I'm going to count down my top 10 albums of 2023. The rules are:
 

@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2023-12-23'
 slug: 2023-albums-09-fever-ray-radical-romantics
 tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Fever Ray", "Electronic"]
 title: '2023 Albums of the Year #9: Fever Ray, Radical Romantics'
+hero: images/fever-ray-radical-romantics.jpeg
+hero_alt: "2023 Albums of the Year #9: Fever Ray, Radical Romantics"
 ---
 Radical Romantics, the third album by Fever Ray was released in April. I bought a copy on red vinyl which is a beautiful sight to behold.{{< marginfigure src="../../assets/images/albums-2023/fever-ray-radical-romantics.jpeg" alt="Cover of Radical Romantics by Fever Ray" caption="Cover of _Radical Romantics_ by Fever Ray" caption="Cover of Radical Romantics by Fever Ray" caption="Cover of _Radical Romantics_ by Fever Ray" >}} I listened to a lot when it was released but eased up a bit until listening to it a couple more times while writing this list. It's a great collection of songs, probably better than their second album "Plunge". The cover art is just as scary though. 
 

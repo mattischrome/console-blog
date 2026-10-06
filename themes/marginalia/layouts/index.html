@@ -1,0 +1,19 @@
+{{- /*
+  index.html — the home page.
+  A card grid of the 20 most recent posts (pagination.pagerSize = 20 in the
+  theme config), laid out with CSS Grid Lanes where supported and a regular
+  auto-fill grid elsewhere — see .card-grid in main.css.
+  Older posts flow onto /page/2/, /page/3/… via the paginator.
+*/ -}}
+{{ define "main" }}
+  {{ $posts := where site.RegularPages "Section" "posts" }}
+  {{ $pag := .Paginate $posts }}
+
+  <section class="card-grid" aria-label="Recent posts">
+    {{ range $pag.Pages }}
+      {{ partial "card.html" . }}
+    {{ end }}
+  </section>
+
+  {{ partial "pagination.html" $pag }}
+{{ end }}

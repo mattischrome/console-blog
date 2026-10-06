@@ -1,9 +1,11 @@
 ---
-category: Life Experiences
+categories: Life Experiences
 date: '2024-01-02'
 tableOfContents: true
 tags: ["Twenty Four", "Life Experiences", "Writing", "Blogging", "Travel"]
 title: Reflections on 2023
+hero: images/cologne-proof.jpeg
+hero_alt: "Reflections on 2023"
 ---
 Here are some reflections on 2023.
 

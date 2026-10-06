@@ -1,9 +1,11 @@
 ---
-category: Life Experiences
+categories: Life Experiences
 date: "2024-01-12"
 slug: the-negativity-casket
 tags: ["Twenty Four", "Writing", "Emotions", "Diary", "Life Experiences"]
 title: The Negativity Casket
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “The Negativity Casket”"
 ---
 One of the things that people tend to start around this time of year is a diary. They usually get filled for as long as your new year's resolutions last.
 

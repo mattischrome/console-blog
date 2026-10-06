@@ -1,8 +1,10 @@
 ---
-category: Technology
+categories: Technology
 date: '2020-05-30'
 tags: ["Links", "Technology", "Music", "News", "Ideas", "Twenty"]
 title: Holiday Tabs
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Holiday Tabs”"
 ---
 Over the course of a week on holiday, I started reading many interesting articles. In lockdown there isn't much to do but read articles, but I still find myself not that good at finishing them. My phone has lots of tabs open and has become a Rolodex of shame. This post is to confess my sins.
 

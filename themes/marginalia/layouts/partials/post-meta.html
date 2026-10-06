@@ -1,0 +1,17 @@
+{{- /*
+  post-meta.html — date, reading time and tags for a post.
+  Used both inside cards and in the header of single posts, so the same
+  information appears in both places (as the brief requires).
+*/ -}}
+<div class="post-meta">
+  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+  {{ if gt .WordCount 0 }}<span class="meta-sep" aria-hidden="true">·</span>
+  <span>{{ .ReadingTime }} min read</span>{{ end }}
+  {{ with .Params.tags }}
+  <ul class="tag-list">
+    {{ range . }}
+    <li><a href="{{ (site.GetPage (printf "/tags/%s" (. | urlize))).RelPermalink | default (printf "/tags/%s/" (. | urlize) | relURL) }}">#{{ . }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</div>

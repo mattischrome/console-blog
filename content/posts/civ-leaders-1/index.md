@@ -1,10 +1,12 @@
 ---
-category: Civ
+categories: Civ
 date: '2019-05-06'
 slug: civ-leaders-1
 tableOfContents: true
 tags: ["Fun", "Civ", "Nineteen", "Leaders"]
 title: 'Civ Leaders #1: Hojo Tokimune of Japan'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Civ Leaders #1: Hojo Tokimune of Japan”"
 ---
 
 Let's write a guide for all the leaders in Civ 6! It's a nice writing project and I seem to have plenty of time on my hands. For playing Civ VI that is, writing a post for every leader might be another matter...

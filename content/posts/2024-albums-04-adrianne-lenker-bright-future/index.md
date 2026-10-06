@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2025-01-07'
 tableOfContents: true
 tags: ["Twenty Four","Album","Indie","Rock","Country","Big Thief","Adrianne Lenker"]
 title: '2024 Albums of the Year #4: Adrianne Lenker, Bright Future'
+hero: images/adrianne-lenker-bright-future.jpg
+hero_alt: "2024 Albums of the Year #4: Adrianne Lenker, Bright Future"
 ---
 One album that's lurking in the periphery of my [understated classics series]() is "Dragon New Warm Mountain I Believe In You" by Big Thief. "Bright Future" is the latest solo album by Big Thief singer-songwriter Adrianne Lenker and it is just as good. Intimate and intricate, it draws the listener in as Adrianne sings live with a very small band. At times you can hear breaths drawn and the sound feels like a small space that you are cocooned in: this could be sound engineering (spatial audio would have us believe anything is possible) but it's most likely equipment set up intelligently in a cosy studio.
 

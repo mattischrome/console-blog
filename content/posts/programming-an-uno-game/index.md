@@ -1,9 +1,11 @@
 ---
-category: Programming
+categories: Programming
 date: '2010-12-28'
 tableOfContents: true
 tags: ["Programming", "Projects", "Games", "Ten", "Fun"]
 title: Programming an UNO game
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Programming an UNO game”"
 ---
 <!--more-->
 

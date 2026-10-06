@@ -1,5 +1,5 @@
 ---
-category: Poems
+categories: Poems
 date: '2012-04-10'
 tag:
 - Poem
@@ -8,6 +8,8 @@ tag:
 - Twelve
 - Birthday
 title: Ted Hughes, April Birthday
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Ted Hughes, April Birthday”"
 ---
 When your birthday brings the world under your window  
 And the [song-thrush](http://www.rspb.org.uk/wildlife/birdguide/name/s/songthrush/index.aspx) sings wet-throated in the dew  

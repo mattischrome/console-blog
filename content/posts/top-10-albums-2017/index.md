@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2017-12-31'
 tableOfContents: true
 tags: ["Music", "Lists", "Seventeen"]
 title: Top 10 Albums 2017
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Top 10 Albums 2017”"
 ---
 <!--more-->
 

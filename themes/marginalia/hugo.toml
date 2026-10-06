@@ -1,0 +1,25 @@
+# marginalia theme configuration (merged into the site's own hugo.toml).
+# Anything here can be overridden in the site config.
+
+[params]
+  # Site-wide fallback hero image for posts with no `hero` in front matter.
+  # Override in your site config to use your own, e.g. "/images/me.jpg"
+  # (put the file in your site's static/images/ folder).
+  default_hero = "/images/default-hero.svg"
+
+# "Similar posts" sidebar: tell Hugo's related-content engine to match on tags.
+[related]
+  includeNewer = true
+  threshold = 10
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name = "categories"
+    weight = 40
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3

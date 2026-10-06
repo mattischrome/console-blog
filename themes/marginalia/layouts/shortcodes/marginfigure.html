@@ -1,0 +1,20 @@
+{{- /*
+  marginfigure — a small figure in the margin, Tufte style.
+
+  Usage (src is relative to the post bundle, images live in images/):
+    {{< marginfigure src="images/sketch.jpg" alt="A pencil sketch" caption="Drawn on the train." >}}
+
+  On narrow screens the ⊕ symbol toggles the figure inline.
+*/ -}}
+{{- $id := printf "mf-%s-%d" (.Page.File.ContentBaseName | urlize) .Ordinal -}}
+{{- $img := .Page.Resources.Get (.Get "src") -}}
+<label for="{{ $id }}" class="margin-toggle" aria-hidden="true">&#8853;</label>
+<input type="checkbox" id="{{ $id }}" class="margin-toggle">
+<span class="marginnote margin-figure">
+  {{- if $img -}}
+  <img src="{{ $img.RelPermalink }}" alt="{{ .Get "alt" | default "" }}" loading="lazy">
+  {{- else -}}
+  <em>Image not found: {{ .Get "src" }}</em>
+  {{- end -}}
+  {{ with .Get "caption" }}<span class="margin-caption">{{ . | markdownify }}</span>{{ end }}
+</span>

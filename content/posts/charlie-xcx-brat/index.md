@@ -1,8 +1,10 @@
 ---
-category: Music
+categories: Music
 date: '2025-01-30'
 tags: ["Twenty Five","Album Revisit","Pop","Dance","Charlie XCX"]
 title: Charlie XCX, Brat
+hero: images/charlie_xcx_brat.jpg
+hero_alt: "Charlie XCX, Brat"
 ---
 When making my albums of the year posts at the start of the month, I realised that compared to many other critics lists, there was no sign of _Brat_ by Charlie XCX. And when it came up again on my album shuffle the other day, I  thought I should re-evaluate the album and whether it should have made my list.
 

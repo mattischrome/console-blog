@@ -1,9 +1,11 @@
 ---
-category: Programming
+categories: Programming
 date: '2011-02-02'
 tableOfContents: true
 tags: ["Programming", "Projects", "Games", "Fun", "Eleven"]
 title: Programming an UNO game, part 2
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Programming an UNO game, part 2”"
 ---
 It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.
 

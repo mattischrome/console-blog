@@ -1,11 +1,13 @@
 ---
-category: Ideas
+categories: Ideas
 date: '2025-02-10'
 params:
   math: true
 tableOfContents: true
 tags: ["Twenty Five", "Twenty Four", "Twenty Eighty", "Calendar", "Ideas", "Bargains"]
 title: In Praise of Playing the Long Game
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “In Praise of Playing the Long Game”"
 ---
 I bought a Barbara Hepworth calendar in the sale at the Tate Modern shop that I thought was a steal until I realised it was a 2024 calendar, not a 2025 one! However, the joke's on them because I only have to wait until 2029 for the next year that starts with a Monday.
 
@@ -23,7 +25,7 @@ In finding out just how poor a bargain my calendar was, I came across something 
 
 It looks like this for the Gregorian calendar:
 
-\[ h = \left(q + \left\lfloor \frac{13(m+1)}{5} \right\rfloor + K + \left\lfloor \frac{K}{4} \right\rfloor + \left\lfloor \frac{J}{4} \right\rfloor + 5J \right) \mod 7 \]
+$$ h = \left(q + \left\lfloor \frac{13(m+1)}{5} \right\rfloor + K + \left\lfloor \frac{K}{4} \right\rfloor + \left\lfloor \frac{J}{4} \right\rfloor + 5J \right) \mod 7 $$
 
 Where:
 

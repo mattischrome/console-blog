@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2025-01-04'
 tableOfContents: true
 tags: ["Twenty Four", "MGMT", "Rock", "Indie"]
 title: '2024 Albums of the Year #7: MGMT, Loss Of Life'
+hero: images/mgmt-loss-of-life.jpg
+hero_alt: "2024 Albums of the Year #7: MGMT, Loss Of Life"
 ---
 I don't know very much about MGMT these days. I haven't read any interviews about their albums. The video to the single "Nothing to Declare" was brought to my attention by the YouTube channel Justin Hawkins Rides Again. In it he points out how melodically interesting the song is. To be honest I was more than a little bit in love with the video. 
 

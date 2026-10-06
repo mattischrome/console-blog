@@ -1,8 +1,10 @@
 ---
-category: Programming
+categories: Programming
 date: '2022-02-03'
 tags: ["Ruby","FFI","Programming","Learning new things","Twenty Two"]
 title: What is FFI anyway?
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “What is FFI anyway?”"
 ---
 At the moment I can’t compile this blog locally because my `ruby-ffi` install is somehow wrong and is preventing Jekyll from running on my recently upgraded Mac system. Fortunately the site still compiles on Netlify, or else you wouldn’t be reading this!
 

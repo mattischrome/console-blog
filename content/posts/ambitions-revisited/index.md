@@ -1,9 +1,11 @@
 ---
-category: Ideas
+categories: Ideas
 date: '2019-04-23'
 tableOfContents: true
 tags: ["Ideas", "Time Passing", "Writing", "Blogging", "Nineteen", "Update"]
 title: Ambitions Revisited
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Ambitions Revisited”"
 ---
 Back in 2012 [I wrote a post](/ambitions) listing my ambitions for the future. Well it's the future now isn't it? Almost. After all, [I’m a whole new person now](https://www.quora.com/How-long-does-it-take-for-most-of-the-atoms-in-your-body-to-be-replaced-by-others). Anyway it's probably time to take stock. Have I achieved any of them? Have any of my ambitions changed? What's replaced the things that I've decided not to worry about? What has come after the things I managed to do?
 

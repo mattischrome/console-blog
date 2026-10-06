@@ -1,9 +1,11 @@
 ---
-category: Life Experiences
+categories: Life Experiences
 date: '2013-10-16'
 tableOfContents: true
 tags: ["Life Experiences", "Self Improvement", "Work", "Thirteen"]
 title: The Reset Button
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “The Reset Button”"
 ---
 <!--more-->
 

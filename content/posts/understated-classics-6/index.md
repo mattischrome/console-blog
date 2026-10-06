@@ -1,10 +1,12 @@
 ---
-category: Understated Classics
+categories: Understated Classics
 date: '2010-12-03'
 slug: understated-classics-6
 tableOfContents: true
 tags: ["Understated Classics", "Music", "The Shamen", "Electronic", "Ten"]
 title: 'Understated Classics #6: Arbor Bona Arbor Mala by The Shamen'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Understated Classics #6: Arbor Bona Arbor Mala by The Shamen”"
 ---
 <!--more-->
 

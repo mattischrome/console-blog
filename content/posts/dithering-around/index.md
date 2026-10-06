@@ -1,8 +1,10 @@
 ---
-category: Blogging
+categories: Blogging
 date: '2025-01-31'
 tags: ["Twenty Five", "Imagemagick", "Paris", "Photos", "Blogging", "Software"]
 title: Dithering Around
+hero: images/Paris-01_dith_d.jpg
+hero_alt: "Dithering Around"
 ---
 While off sick and under the weather I decided to play around with presenting the photos on this blog in a fashion more in keeping with the current Hugo theme.
 

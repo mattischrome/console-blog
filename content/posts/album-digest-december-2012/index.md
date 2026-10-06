@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2012-12-31'
 tableOfContents: true
 tags: ["Album Digest", "December", "Music", "Tracey Thorn", "Woob", "Tim Hecker", "Daniel Lopatin", "Burial", "Twelve"]
 title: Album Digest, December 2012
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, December 2012”"
 ---
 Three albums (one very Christmassey one!) and an EP this month.
 

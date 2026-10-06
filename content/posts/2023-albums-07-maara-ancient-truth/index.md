@@ -1,9 +1,11 @@
 ---
-category: Album Digest
+categories: Album Digest
 date: '2023-12-25'
 slug: 2023-albums-07-maara-ancient-truth
 tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Maara", "Electronic"]
 title: '2023 Albums of the Year #7: Maara, The Ancient Truth'
+hero: images/maara-ancient-truth.jpeg
+hero_alt: "2023 Albums of the Year #7: Maara, The Ancient Truth"
 ---
 There isn't a great deal I can write about The Ancient Truth without sounding vague and anodyne.
 {{< marginfigure src="../../assets/images/albums-2023/maara-ancient-truth.jpeg" alt="Cover of The Ancient Truth by Maara" caption="Cover of _The Ancient Truth_ by Maara" >}}

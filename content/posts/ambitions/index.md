@@ -1,8 +1,10 @@
 ---
-category: Ideas
+categories: Ideas
 date: '2012-11-10'
 tags: ["Ideas", "Lists", "Self Improvement", "Twelve"]
 title: Ambitions
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Ambitions”"
 ---
 Sometimes, when I am feeling a bit down, I like to write down some of my ambitions. As you can see from this list they are mostly pretty humble but they are also a bit cheesy and embarassing, so I have put them after the fold!
 

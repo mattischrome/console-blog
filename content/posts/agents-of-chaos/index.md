@@ -1,9 +1,11 @@
 ---
-category: Cats
+categories: Cats
 date: "2024-01-08"
 slug: agents-of-chaos
 tags: ["Twenty Four", "Photo", "Cats", "Life Experiences"]
 title: Agents of Chaos (2024 edition)
+hero: images/cat-chaos-2024.jpeg
+hero_alt: "Agents of Chaos (2024 edition)"
 ---
 The cats broke their new resolution not to knock stuff over in my office. Oh, who am I kidding? They never had such a resolution! If you can see a sheet of saturated paper, that was my to do list! Oh well. 
 

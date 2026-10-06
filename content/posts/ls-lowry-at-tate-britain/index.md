@@ -1,8 +1,10 @@
 ---
-category: Art
+categories: Art
 date: '2013-10-18'
 tags: ["Art", "L. S. Lowry", "Tate Britain", "Thirteen"]
 title: LS Lowry At Tate Britain
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “LS Lowry At Tate Britain”"
 ---
 I have mixed feelings about this show. On the one hand, I like that there are depictions of working class Britain on display and I feel that it is right that these paintings are considered part of the British cultural canon. I also like that a lot of these paintings represent large gatherings of people, which are absent from a lot of what we might call the mainstream of art.
 

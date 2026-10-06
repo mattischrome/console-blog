@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2017-01-31'
 tableOfContents: true
 tags: ["Music","Album Digest","January","Mike Oldfield","Bonobo","The xx","Seventeen"]
 title: Album Digest, January 2017
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, January 2017”"
 ---
 <!--more-->
 

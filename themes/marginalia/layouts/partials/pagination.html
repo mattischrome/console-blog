@@ -1,0 +1,46 @@
+{{- /*
+  pagination.html — page chooser for list pages. Context: a Paginator.
+
+  Rules from the brief:
+    • 5 pages or fewer → list them all.
+    • more than 5      → show first + last, plus the current page with two
+                         pages either side; gaps shown as ellipses.
+  Prev/Next arrows appear whenever they exist.
+*/ -}}
+{{- $pag := . -}}
+{{- if gt $pag.TotalPages 1 }}
+<nav class="pagination" aria-label="Pages">
+  <ul>
+    {{ if $pag.HasPrev }}
+    <li><a class="page-arrow" href="{{ $pag.Prev.URL }}" rel="prev" aria-label="Previous page">&larr;</a></li>
+    {{ end }}
+
+    {{- $cur := $pag.PageNumber -}}
+    {{- $total := $pag.TotalPages -}}
+    {{- $prevShown := 0 -}}
+    {{- range $pag.Pagers -}}
+      {{- $n := .PageNumber -}}
+      {{- /* keep: first, last, and current ± 2 (all pages when total ≤ 5) */ -}}
+      {{- $keep := or (le $total 5) (eq $n 1) (eq $n $total) (and (ge $n (sub $cur 2)) (le $n (add $cur 2))) -}}
+      {{- if $keep -}}
+        {{- /* a jump in the sequence means pages were skipped → ellipsis */ -}}
+        {{- if gt $n (add $prevShown 1) -}}
+        <li class="page-ellipsis" aria-hidden="true">…</li>
+        {{- end -}}
+        <li>
+          {{- if eq $n $cur -}}
+          <span class="page-num" aria-current="page">{{ $n }}</span>
+          {{- else -}}
+          <a class="page-num" href="{{ .URL }}">{{ $n }}</a>
+          {{- end -}}
+        </li>
+        {{- $prevShown = $n -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{ if $pag.HasNext }}
+    <li><a class="page-arrow" href="{{ $pag.Next.URL }}" rel="next" aria-label="Next page">&rarr;</a></li>
+    {{ end }}
+  </ul>
+</nav>
+{{- end }}

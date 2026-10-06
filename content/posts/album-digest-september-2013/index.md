@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2013-09-30'
 tableOfContents: true
 tags: ["Album Digest", "September", "Music", "Arctic Monkeys", "BT", "Goldfrapp", "Janelle Monae", "Thirteen"]
 title: Album Digest, September 2013
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, September 2013”"
 ---
 A nice diverse selection of albums this month:
 

@@ -1,9 +1,11 @@
 ---
-category: Music
+categories: Music
 date: '2013-05-31'
 tableOfContents: true
 tags: ["Album Digest", "May", "Music", "Lilacs and Champagne", "The Phoenix Foundation", "The National", "Vampire Weekend", "Thirteen"]
 title: Album Digest, May 2013
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Album Digest, May 2013”"
 ---
 <!--more-->
 

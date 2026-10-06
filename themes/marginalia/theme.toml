@@ -1,0 +1,7 @@
+name = "Marginalia"
+license = "MIT"
+description = "A quirky, readable personal-blog theme: sticker cards, Tufte sidenotes, bright category colours."
+homepage = ""
+tags = ["blog", "personal", "tufte", "cards", "pagefind"]
+features = ["card grid", "grid lanes", "sidenotes", "toc", "search", "taxonomies"]
+min_version = "0.128.0"

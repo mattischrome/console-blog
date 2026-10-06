@@ -1,8 +1,10 @@
 ---
-category: Films
+categories: Films
 date: '2012-11-05'
 tags: ["Films", "French", "Marion Cotillard", "Thriller", "Twelve"]
 title: 'Rust And Bone: A Short Review'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Rust And Bone: A Short Review”"
 ---
 So, two short reviews in a row. I had the day off work and went to see “Rust And Bone” this afternooon. It’s the new film by Jacques Audiard, who directed “A Prophet” – one of my favourite films of the last five years.
 

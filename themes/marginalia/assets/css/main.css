@@ -1,0 +1,743 @@
+/* ==========================================================================
+   marginalia — theme stylesheet
+   ==========================================================================
+   Map of this file:
+     1. Design tokens (colours, fonts, sizes)
+     2. Category colours              ← add new categories here
+     3. Base / reset / typography
+     4. Header, menu, footer
+     5. Home page card grid (CSS Grid Lanes + fallback) and cards
+     6. Pagination (truncated pager)
+     7. Single posts: layout grid, header, hero, content
+     8. Tufte sidenotes, margin notes, margin figures, floating TOC
+     9. Sidebars
+    10. Post prev/next pager
+    11. Tags A–Z page, categories page
+    12. Search (pagefind) styling
+    13. Accessibility & reduced motion
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. DESIGN TOKENS
+   -------------------------------------------------------------------------- */
+:root {
+  /* Colours */
+  --paper: #fbfbf8;        /* page background — cool near-white            */
+  --paper-2: #f2f1ea;      /* slightly deeper paper for code, wells        */
+  --ink: #22242b;          /* main text                                    */
+  --ink-soft: #5a5d68;     /* secondary text (metadata, captions)          */
+  --line: #d9d8cf;         /* hairlines                                    */
+  --card-bg: #ffffff;
+
+  /* Fonts — system stacks only, no webfont downloads.
+     display: rounded sans (SF Rounded on Apple, friendly fallbacks)
+     body:    Charter/Georgia — a comfortable transitional serif
+     meta:    monospace, for dates/tags/counters (zine-ish)               */
+  --font-display: ui-rounded, "Hiragino Maru Gothic ProN", Quicksand,
+                  Comfortaa, Manjari, "Arial Rounded MT",
+                  "Arial Rounded MT Bold", Calibri, sans-serif;
+  --font-body: Charter, "Bitstream Charter", "Sitka Text", Cambria,
+               Georgia, serif;
+  --font-meta: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo,
+               Consolas, "DejaVu Sans Mono", monospace;
+
+  /* Single-post metrics (the Tufte layout depends on these three):
+     content column + gutter + margin column = article width               */
+  --content-w: 42rem;      /* measure of the running text                  */
+  --margin-w: 15rem;       /* width of the sidenote margin                 */
+  --margin-gap: 2.5rem;    /* gutter between text and margin               */
+
+  /* The default category colour (used when no category matches below).
+     --cat drives decorations (shadows, tints, chips);
+     --cat-deep is a darker twin used for TEXT so links stay readable.     */
+  --cat: #12b0a0;
+  --cat-deep: #0b6e64;
+}
+
+/* --------------------------------------------------------------------------
+   2. CATEGORY COLOURS
+   --------------------------------------------------------------------------
+   These classes are applied to <body> (single pages), to each .card, and to
+   sidebar list items, by the category-class.html partial.
+   TO ADD A CATEGORY: add `.cat-<lowercased-name>` here AND add the name to
+   the $known list in layouts/partials/category-class.html.                 */
+/* Comma-separated selectors give near-duplicate categories the same
+   colour (e.g. Coding and Programming) without editing any front matter.
+   Every --cat-deep passes WCAG AA (4.5:1) on white, paper and chips.     */
+.cat-music, .cat-podcasts
+  { --cat: #e5399e; --cat-deep: #a91464; }  /* hot magenta  */
+.cat-books
+  { --cat: #f4a700; --cat-deep: #8f6400; }  /* amber        */
+.cat-understated-classics
+  { --cat: #5c7c99; --cat-deep: #3e566d; }  /* dusty blue   */
+.cat-ideas
+  { --cat: #00a3c4; --cat-deep: #006a80; }  /* cyan         */
+.cat-life-experiences, .cat-life-experience
+  { --cat: #ff7a59; --cat-deep: #a8381d; }  /* coral        */
+.cat-travel
+  { --cat: #1e88e5; --cat-deep: #135d9e; }  /* clear azure  */
+.cat-album-digest, .cat-albums
+  { --cat: #d7263d; --cat-deep: #9b1528; }  /* crimson      */
+.cat-writing, .cat-short-fiction, .cat-poems
+  { --cat: #6f42c1; --cat-deep: #53309e; }  /* violet       */
+.cat-films, .cat-movies
+  { --cat: #8d5524; --cat-deep: #6b3f17; }  /* sepia        */
+.cat-art, .cat-theatre, .cat-creativity
+  { --cat: #b04bd6; --cat-deep: #7b2a99; }  /* orchid       */
+.cat-food
+  { --cat: #f57c00; --cat-deep: #9a4a00; }  /* tangerine    */
+.cat-programming, .cat-coding, .cat-software, .cat-technology,
+.cat-gadgets, .cat-latex, .cat-r
+  { --cat: #3f51b5; --cat-deep: #2c3a8c; }  /* indigo       */
+.cat-blogging, .cat-blog, .cat-meta
+  { --cat: #8fbf26; --cat-deep: #4f6d14; }  /* lime         */
+.cat-politics-and-beliefs
+  { --cat: #808f1f; --cat-deep: #525c12; }  /* olive        */
+.cat-civ, .cat-games
+  { --cat: #e0b400; --cat-deep: #735c00; }  /* gold         */
+.cat-football
+  { --cat: #2a4bd7; --cat-deep: #1e3799; }  /* royal blue   */
+.cat-mathematics, .cat-maths, .cat-science
+  { --cat: #ec6a8c; --cat-deep: #a12f52; }  /* rose         */
+.cat-photo, .cat-photography
+  { --cat: #6b7280; --cat-deep: #474d57; }  /* graphite     */
+.cat-cats
+  { --cat: #2b2b2b; --cat-deep: #2b2b2b; }  /* black, obviously */
+.cat-garden
+  { --cat: #3ba84c; --cat-deep: #23703b; }  /* leaf green   */
+.cat-default
+  { --cat: #12b0a0; --cat-deep: #0b6e64; }  /* teal (Random, uncategorised) */
+
+/* --------------------------------------------------------------------------
+   3. BASE
+   -------------------------------------------------------------------------- */
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 1.0625rem;           /* ≈17px */
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+a { color: var(--cat-deep); text-decoration-color: var(--cat); text-decoration-thickness: 2px; text-underline-offset: 2px; }
+a:hover { color: var(--cat); }
+
+img { max-width: 100%; height: auto; display: block; }
+
+code, pre, kbd { font-family: var(--font-meta); font-size: 0.9em; }
+pre {
+  background: var(--paper-2);
+  border: 1.5px solid var(--line);
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  overflow-x: auto;
+}
+:not(pre) > code { background: var(--paper-2); padding: 0.1em 0.35em; border-radius: 5px; }
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 0.25rem 0 0.25rem 1.25rem;
+  border-left: 4px solid var(--cat);
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+hr { border: 0; border-top: 2px dashed var(--line); margin: 2.5rem 0; }
+
+/* Shared page-width container behaviour */
+.site-header, .site-footer, main {
+  width: min(100% - 3rem, 76rem);
+  margin-inline: auto;
+}
+
+/* --------------------------------------------------------------------------
+   4. HEADER, MENU, FOOTER
+   -------------------------------------------------------------------------- */
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem 2rem;
+  padding: 1.75rem 0 1.25rem;
+  border-bottom: 2px solid var(--ink);
+  margin-bottom: 2.25rem;
+}
+
+.site-title {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: var(--ink);
+  text-decoration: none;
+}
+/* a little coloured full stop after the title — cheap and cheerful */
+.site-title::after { content: "."; color: var(--cat); }
+
+.site-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.site-nav a {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 3px solid transparent;
+  padding-bottom: 2px;
+}
+.site-nav a:hover,
+.site-nav a[aria-current="page"] { border-bottom-color: var(--cat); }
+
+.site-footer {
+  margin-top: 4rem;
+  padding: 1.5rem 0 2.5rem;
+  border-top: 2px solid var(--line);
+  color: var(--ink-soft);
+  font-family: var(--font-meta);
+  font-size: 0.8rem;
+}
+
+/* --------------------------------------------------------------------------
+   5. HOME PAGE — CARD GRID + STICKER CARDS
+   --------------------------------------------------------------------------
+   Layout: CSS Grid Lanes (native masonry; `display: grid-lanes`, Safari 26+,
+   others behind flags as of mid-2026). Browsers without it get a plain
+   auto-fill grid via the base rule — same markup, tidy rows, no gaps logic.
+   The @supports block upgrades to lanes when available.                    */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+  gap: 2.25rem;
+  align-items: start;   /* fallback grid: stop cards stretching to row height */
+}
+@supports (display: grid-lanes) {
+  .card-grid { display: grid-lanes; }
+}
+
+/* The sticker card — the theme's signature. Ink outline, hard offset shadow
+   in the category colour, and a tiny alternating tilt for scrapbook charm. */
+.card {
+  position: relative;
+  background: var(--card-bg);
+  border: 2px solid var(--ink);
+  border-radius: 14px;
+  box-shadow: 6px 6px 0 var(--cat);
+  transition: transform 150ms ease, box-shadow 150ms ease;
+}
+.card:nth-child(4n+1) { transform: rotate(-0.6deg); }
+.card:nth-child(4n+3) { transform: rotate(0.5deg); }
+.card:hover {
+  transform: translate(-2px, -2px) rotate(0deg);
+  box-shadow: 9px 9px 0 var(--cat);
+}
+/* keep focus visible when tabbing through cards */
+.card:focus-within { outline: 3px solid var(--cat); outline-offset: 3px; }
+
+.card-link { display: block; color: inherit; text-decoration: none; }
+
+/* Hero: forced to 4:3 with aspect-ratio + object-fit, and subtly tinted to
+   the category colour with a multiply overlay (cards only — single pages
+   show the image untinted).                                                */
+.card-hero {
+  margin: 0;
+  position: relative;
+  aspect-ratio: 4 / 3;
+  border-bottom: 2px solid var(--ink);
+  border-radius: 12px 12px 0 0;
+  overflow: hidden;
+}
+.card-hero img { width: 100%; height: 100%; object-fit: cover; }
+.card-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--cat);
+  opacity: 0.22;
+  mix-blend-mode: multiply;
+  pointer-events: none;
+}
+
+/* Category chip — soft wash of the category colour with readable ink text */
+.chip {
+  display: inline-block;
+  font-family: var(--font-meta);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--cat-deep);
+  background: color-mix(in srgb, var(--cat) 16%, white);
+  border: 1.5px solid var(--cat);
+  border-radius: 999px;
+  padding: 0.15em 0.7em;
+  margin: 0.9rem 1rem 0;
+  text-decoration: none;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  margin: 0.5rem 1rem 0.4rem;
+}
+.card-summary {
+  margin: 0 1rem 0.75rem;
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+}
+.card-meta {
+  border-top: 1.5px dashed var(--line);
+  padding: 0.6rem 1rem 0.8rem;
+}
+
+/* Metadata row (shared with single posts) */
+.post-meta {
+  font-family: var(--font-meta);
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 0.5rem;
+}
+.post-meta .tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.6rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.post-meta .tag-list a { color: var(--cat-deep); text-decoration: none; }
+.post-meta .tag-list a:hover { text-decoration: underline; }
+
+/* Headers for list pages (tag / category / section listings) */
+.list-header { margin-bottom: 2rem; }
+.list-header h1 { font-size: 2.2rem; margin: 0 0 0.25rem; }
+.list-header h1::after { content: ""; display: block; width: 4.5rem; height: 0.4rem; border-radius: 999px; background: var(--cat); margin-top: 0.5rem; }
+.list-count { font-family: var(--font-meta); color: var(--ink-soft); font-size: 0.85rem; margin: 0; }
+
+/* --------------------------------------------------------------------------
+   6. PAGINATION (truncated pager — see partials/pagination.html)
+   -------------------------------------------------------------------------- */
+.pagination { margin: 3rem 0 1rem; }
+.pagination ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: var(--font-display);
+}
+.pagination a, .pagination span.page-num {
+  display: grid;
+  place-items: center;
+  min-width: 2.4rem;
+  height: 2.4rem;
+  padding: 0 0.5rem;
+  border: 2px solid var(--ink);
+  border-radius: 10px;
+  background: var(--card-bg);
+  box-shadow: 3px 3px 0 var(--cat);
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration: none;
+  transition: transform 120ms ease, box-shadow 120ms ease;
+}
+.pagination a:hover { transform: translate(-1px, -1px); box-shadow: 4px 4px 0 var(--cat); }
+.pagination span.page-num[aria-current="page"] { background: var(--cat); color: #fff; box-shadow: 3px 3px 0 var(--ink); }
+.pagination .page-ellipsis { align-self: end; padding: 0 0.15rem; color: var(--ink-soft); }
+
+/* --------------------------------------------------------------------------
+   7. SINGLE POSTS — LAYOUT GRID, HEADER, HERO, CONTENT
+   --------------------------------------------------------------------------
+   Structure (see partials/single-article.html):
+     .post-wrap  — grid: article column + (on wide screens) sidebar rail
+     .post       — the article; its text is constrained to --content-w and
+                   the space to the right of the text is the Tufte margin.  */
+.post-wrap {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 2.5rem;
+}
+
+.post { max-width: calc(var(--content-w) + var(--margin-gap) + var(--margin-w)); }
+
+/* Running text is narrower than the article; the difference is the margin
+   where sidenotes, margin figures and the TOC live.
+   IMPORTANT: the width cap sits on .post-content ITSELF (not its children).
+   Inline sidenotes float from their paragraph's edge and standalone
+   marginnotes/marginfigures/TOC float from .post-content's edge — capping
+   the container makes those two edges the same 42rem line, so every margin
+   element lands in the same lane and never strays under the sidebars.     */
+.post-header,
+.post-content {
+  max-width: var(--content-w);
+}
+
+.post-header h1 { font-size: 2.4rem; margin: 0.4rem 0 0.5rem; }
+.post-header .chip { margin: 0 0 0.25rem; }
+.post-header { margin-bottom: 1.75rem; }
+
+.post-hero { margin: 0 0 2rem; max-width: var(--content-w); }
+.post-hero img { border: 2px solid var(--ink); border-radius: 14px; }
+.post-hero figcaption,
+figcaption {
+  font-family: var(--font-meta);
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  margin-top: 0.5rem;
+}
+
+.post-content { counter-reset: sidenote-counter; }
+.post-content h2 { font-size: 1.6rem; margin-top: 2.5rem; }
+.post-content h3 { font-size: 1.25rem; margin-top: 2rem; }
+.post-content figure { margin: 2rem 0; }
+.post-content figure img { border: 1.5px solid var(--line); border-radius: 10px; }
+
+/* Layout variants ---------------------------------------------------------
+   short — a cosier, slightly larger single column
+   photo — the image is the star; text takes a back seat                    */
+.layout-short .post-content { font-size: 1.15rem; }
+
+.layout-photo .post-hero-photo { max-width: none; margin: 0 0 1.5rem; }
+.layout-photo .post-hero-photo img {
+  width: 100%;
+  max-height: 82vh;
+  object-fit: contain;      /* never crop the photograph itself */
+  background: var(--paper-2);
+}
+.layout-photo .post-content { font-size: 1.1rem; color: var(--ink-soft); }
+
+/* --------------------------------------------------------------------------
+   8. TUFTE SIDENOTES, MARGIN NOTES, MARGIN FIGURES, FLOATING TOC
+   --------------------------------------------------------------------------
+   Wide screens (≥ 72rem): notes float right out of the text column into the
+   margin. Narrow screens: notes hide behind a toggle (checkbox + label, no
+   JavaScript) and open inline. The pattern follows tufte-css.              */
+
+/* the checkbox itself is never visible */
+input.margin-toggle { display: none; }
+
+/* numbering: the in-text label increments the counter and shows it…        */
+.sidenote-number { counter-increment: sidenote-counter; }
+.sidenote-number::after {
+  content: counter(sidenote-counter);
+  font-family: var(--font-meta);
+  font-size: 0.7em;
+  vertical-align: super;
+  color: var(--cat-deep);
+  padding-left: 0.1em;
+}
+/* …and the note repeats it in the margin */
+.sidenote::before {
+  content: counter(sidenote-counter) " ";
+  font-family: var(--font-meta);
+  font-size: 0.75rem;
+  color: var(--cat-deep);
+}
+
+.sidenote, .marginnote {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--ink-soft);
+}
+
+.margin-figure img { border: 1.5px solid var(--line); border-radius: 8px; }
+.margin-caption { display: block; font-family: var(--font-meta); font-size: 0.72rem; margin-top: 0.35rem; }
+
+/* ---- wide screens: float into the margin -------------------------------- */
+@media (min-width: 72rem) {
+  /* the ⊕ toggle label is only for narrow screens */
+  label.margin-toggle:not(.sidenote-number) { display: none; }
+
+  .sidenote, .marginnote, .margin-figure {
+    float: right;
+    clear: right;
+    /* literal values first as a safety net, then the token-driven versions —
+       if a custom property ever goes missing (site overrides, future edits)
+       the notes still land in the margin instead of collapsing into the
+       text column at full width                                            */
+    width: 15rem;
+    width: var(--margin-w, 15rem);
+    margin-right: -17.5rem;
+    margin-right: calc(-1 * (var(--margin-w, 15rem) + var(--margin-gap, 2.5rem)));
+    margin-top: 0.2rem;
+    margin-bottom: 0.8rem;
+  }
+
+  /* any image inside a margin element fills the margin column exactly —
+     never its own (potentially enormous) intrinsic width                   */
+  .sidenote img, .marginnote img, .margin-figure img { width: 100%; }
+
+  /* The TOC floats in the margin exactly like the notes do. It's rendered
+     as the first child of .post-content (see single-article.html), so it
+     shares the same 42rem containing block and the same push-out distance —
+     on narrow screens the same element simply sits ahead of the text.      */
+  .toc {
+    float: right;
+    clear: right;
+    width: var(--margin-w);
+    margin-right: calc(-1 * (var(--margin-w) + var(--margin-gap)));
+    margin-left: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  /* the float has to happen from inside the full-width article, so undo the
+     content-width cap that .post-content > * applies, then re-cap the text */
+  .post-content { position: relative; }
+}
+
+/* the TOC box itself (both placements) */
+.toc {
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  border: 2px solid var(--ink);
+  border-radius: 12px;
+  box-shadow: 4px 4px 0 var(--cat);
+  background: var(--card-bg);
+  padding: 0.9rem 1.1rem;
+  max-width: var(--content-w);
+}
+/* .toc .toc-title (not just .toc-title): the TOC lives inside .post-content,
+   so its h2 also matches the `.post-content h2` heading rules — the extra
+   selector weight here overrides those (no big font, no 2.5rem top margin) */
+.toc .toc-title {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 0 0 0.4rem;
+  color: var(--cat-deep);
+}
+.toc ul { margin: 0; padding-left: 1.1rem; }
+.toc li { margin: 0.25rem 0; }
+.toc a { color: var(--ink); text-decoration: none; }
+.toc a:hover { color: var(--cat-deep); text-decoration: underline; }
+
+/* narrow-screen TOC spacing */
+@media (max-width: 71.99rem) {
+  .toc { margin: 0 0 2rem; }
+}
+
+/* ---- narrow screens: toggle the notes inline ----------------------------- */
+@media (max-width: 71.99rem) {
+  label.margin-toggle:not(.sidenote-number) {
+    display: inline;
+    cursor: pointer;
+    color: var(--cat-deep);
+  }
+  label.sidenote-number { cursor: pointer; }
+
+  .sidenote, .marginnote, .margin-figure { display: none; }
+  .margin-toggle:checked + .sidenote,
+  .margin-toggle:checked + .marginnote,
+  .margin-toggle:checked + .margin-figure {
+    display: block;
+    float: none;
+    width: auto;
+    margin: 0.8rem 0 0.8rem 1.5rem;
+    padding-left: 1rem;
+    border-left: 3px solid var(--cat);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   9. SIDEBARS (recent posts, similar posts, and any you add later)
+   -------------------------------------------------------------------------- */
+.sidebars { display: grid; gap: 1.75rem; align-content: start; }
+
+.sidebar-box {
+  border: 2px solid var(--ink);
+  border-radius: 14px;
+  background: var(--card-bg);
+  box-shadow: 5px 5px 0 var(--cat);
+  padding: 1rem 1.2rem 1.1rem;
+}
+.sidebar-box h2 {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 0 0 0.6rem;
+}
+.sidebar-box ul { margin: 0; padding: 0; list-style: none; }
+.sidebar-box li {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.35rem 0;
+  font-size: 0.9rem;
+}
+/* each item carries its own category class, so the dot takes that colour */
+.sidebar-box li::before {
+  content: "";
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 999px;
+  background: var(--cat);
+  border: 1.5px solid var(--ink);
+  translate: 0 -1px;
+}
+.sidebar-box li a { color: var(--ink); text-decoration: none; }
+.sidebar-box li a:hover { color: var(--cat-deep); text-decoration: underline; }
+.sidebar-box li time { font-family: var(--font-meta); font-size: 0.72rem; color: var(--ink-soft); }
+
+/* On wide screens the sidebars become a sticky right-hand rail.
+   (Below this width they stack under the post — still present, just not
+   beside it.) 96rem ≈ article (59.5rem) + gap + rail (16rem) + page pad.   */
+@media (min-width: 96rem) {
+  .post-wrap {
+    grid-template-columns: minmax(0, calc(var(--content-w) + var(--margin-gap) + var(--margin-w))) 16rem;
+    column-gap: 3rem;
+    align-items: start;
+  }
+  .post { grid-column: 1; }
+  .post-pager { grid-column: 1; grid-row: 2; }
+  .sidebars { grid-column: 2; grid-row: 1 / span 2; position: sticky; top: 2rem; }
+}
+
+/* --------------------------------------------------------------------------
+   10. POST PREV/NEXT PAGER
+   -------------------------------------------------------------------------- */
+.post-pager {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1rem;
+  /* aligned with the body text column, not the full article-plus-margin */
+  max-width: var(--content-w);
+  font-family: var(--font-display);
+}
+.post-pager a {
+  display: inline-block;
+  max-width: 20rem;
+  border: 2px solid var(--ink);
+  border-radius: 12px;
+  background: var(--card-bg);
+  box-shadow: 4px 4px 0 var(--cat);
+  padding: 0.6rem 1rem;
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration: none;
+  transition: transform 120ms ease, box-shadow 120ms ease;
+}
+.post-pager a:hover { transform: translate(-1px, -1px); box-shadow: 6px 6px 0 var(--cat); }
+.post-pager .pager-older { margin-left: auto; text-align: right; }
+
+/* --------------------------------------------------------------------------
+   11. TAGS A–Z PAGE + CATEGORIES PAGE
+   -------------------------------------------------------------------------- */
+.tag-index {
+  columns: 16rem;          /* simple responsive multi-column list           */
+  column-gap: 3rem;
+}
+.tag-letter-group { break-inside: avoid; margin-bottom: 1.75rem; }
+.tag-letter-group h2 {
+  font-size: 1.9rem;
+  color: var(--cat);
+  margin: 0 0 0.3rem;
+  border-bottom: 2px solid var(--line);
+}
+.tag-letter-group ul { margin: 0; padding: 0; list-style: none; }
+.tag-letter-group li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.2rem 0; }
+.tag-letter-group a { color: var(--ink); text-decoration: none; }
+.tag-letter-group a:hover { color: var(--cat-deep); text-decoration: underline; }
+.tag-count { font-family: var(--font-meta); font-size: 0.78rem; color: var(--ink-soft); }
+
+.category-index { margin: 0; padding: 0; list-style: none; display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); }
+.category-index li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  border: 2px solid var(--ink);
+  border-radius: 12px;
+  background: var(--card-bg);
+  box-shadow: 4px 4px 0 var(--cat);
+  padding: 0.7rem 1rem;
+}
+.category-index a { font-family: var(--font-display); font-weight: 700; color: var(--ink); text-decoration: none; }
+.category-index a:hover { color: var(--cat-deep); }
+
+/* --------------------------------------------------------------------------
+   12. SEARCH (results are drawn as ordinary .card stickers by search.html)
+   -------------------------------------------------------------------------- */
+.search-wrap { margin-top: -0.5rem; }
+.search-input {
+  width: 100%;
+  font: 600 1.15rem/1.4 var(--font-display);
+  color: var(--ink);
+  background: var(--card-bg);
+  border: 2px solid var(--ink);
+  border-radius: 12px;
+  padding: 0.75rem 1rem;
+  box-shadow: 4px 4px 0 var(--cat);
+  transition: box-shadow 0.15s, transform 0.15s;
+}
+.search-input:focus { outline: none; transform: translate(-1px, -1px); box-shadow: 6px 6px 0 var(--cat); }
+.search-input::placeholder { color: var(--ink-soft); font-weight: 400; }
+.search-status { font-family: var(--font-meta); font-size: 0.85rem; color: var(--ink-soft); min-height: 1.4em; margin: 0.9rem 0 0; }
+.search-results { margin-top: 1.25rem; }
+/* each card's own --cat colours its highlighted matches */
+.search-results mark { background: color-mix(in srgb, var(--cat) 30%, white); color: inherit; padding: 0 0.1em; border-radius: 3px; }
+.search-more-wrap { text-align: center; margin: 2rem 0 0; }
+.search-more {
+  font: 600 1rem var(--font-display);
+  color: var(--ink);
+  background: var(--card-bg);
+  border: 2px solid var(--ink);
+  border-radius: 999px;
+  padding: 0.5rem 1.4rem;
+  box-shadow: 3px 3px 0 var(--cat);
+  cursor: pointer;
+  transition: box-shadow 0.15s, transform 0.15s;
+}
+.search-more:hover { transform: translate(-1px, -1px); box-shadow: 4px 4px 0 var(--cat); }
+.visually-hidden {
+  position: absolute !important; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap;
+}
+
+/* Maths (KaTeX): long display equations scroll rather than overflow */
+.katex-display { overflow-x: auto; overflow-y: hidden; padding: 0.25rem 0; }
+
+/* --------------------------------------------------------------------------
+   13. ACCESSIBILITY & REDUCED MOTION
+   -------------------------------------------------------------------------- */
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background: var(--ink);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 0 0 10px 0;
+  z-index: 10;
+}
+.skip-link:focus { left: 0; }
+
+:focus-visible { outline: 3px solid var(--cat); outline-offset: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  * { transition: none !important; }
+  .card:nth-child(4n+1), .card:nth-child(4n+3) { transform: none; }
+}

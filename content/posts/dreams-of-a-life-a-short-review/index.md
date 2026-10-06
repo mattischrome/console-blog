@@ -1,8 +1,10 @@
 ---
-category: Films
+categories: Films
 date: '2012-01-05'
 tags: ["Films", "Documentary", "London", "Self Improvement", "Twelve"]
 title: 'Dreams Of A Life: A Short Review'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Dreams Of A Life: A Short Review”"
 ---
 _Dreams Of A Life_ is a documentary about Joyce Vincent, a woman who was found in her flat three years after her death surrounded by wrapped christmas presents and with the TV still on. £2400 in arrears on her rent, she was discovered by bailiffs who forced the door down. The film attempts to work out happened to Joyce by interviewing people who knew her. In two other strands that unfold in parallel, various events from her life are re-enacted along with the clearing of her flat by forensics officers.
 

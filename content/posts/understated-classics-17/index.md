@@ -1,9 +1,11 @@
 ---
-category: Understated Classics
+categories: Understated Classics
 date: '2012-04-19'
 slug: understated-classics-17
 tags: ["Music", "Understated Classics", "Tricky", "Nearly God", "Twelve", "Electronic"]
 title: 'Understated Classics #17: Nearly God by Nearly God (Tricky)'
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Understated Classics #17: Nearly God by Nearly God (Tricky)”"
 ---
 > Sit back and let it happen, / Let us take your time away.
 
