@@ -774,5 +774,5 @@ input.margin-toggle { display: none; }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   * { transition: none !important; }
-  .card:nth-child(4n+1), .card:nth-child(4n+3) { transform: none; }
+  /* the card tilt is static, not motion, so it stays */
 }

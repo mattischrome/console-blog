@@ -3,6 +3,15 @@ locale = 'en-gb'
 title = 'mattischrome'
 theme = 'marginalia'
 
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+
+  [[module.mounts]]
+    source = "drafts"
+    target = "content/posts"
+
 [menus]
   [[menus.main]]
     name = 'Home'
