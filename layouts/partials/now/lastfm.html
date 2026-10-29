@@ -1,0 +1,68 @@
+{{- /*
+  Albums from Last.fm (user.getTopAlbums), fetched at build time.
+  Expects: dict "page" <Page> "shelf" <map from front matter>
+  API key comes from the HUGO_LASTFM_API_KEY environment variable.
+  If the key is missing or the call fails, the section is skipped with a warning,
+  so a build never breaks because Last.fm is down.
+*/ -}}
+{{- $s := .shelf }}
+{{- $key := os.Getenv "HUGO_LASTFM_API_KEY" }}
+{{- $albums := slice }}
+
+{{- if not $key }}
+  {{- warnf "now: HUGO_LASTFM_API_KEY not set, skipping %q" $s.heading }}
+{{- else }}
+  {{- $q := querify
+      "method" "user.gettopalbums"
+      "user" $s.user
+      "period" ($s.period | default "1month")
+      "limit" (add ($s.limit | default 6) 4)
+      "api_key" $key
+      "format" "json" }}
+  {{- $url := printf "https://ws.audioscrobbler.com/2.0/?%s" $q }}
+  {{- with try (resources.GetRemote $url) }}
+    {{- with .Err }}
+      {{- warnf "now: Last.fm request failed: %s" . }}
+    {{- else with .Value }}
+      {{- $data := . | transform.Unmarshal }}
+      {{- with $data.error }}
+        {{- warnf "now: Last.fm error %v: %s" . $data.message }}
+      {{- end }}
+      {{- range $data.topalbums.album }}
+        {{- /* Last.fm lists image sizes small..extralarge; take the largest */}}
+        {{- $art := index (index (last 1 .image) 0) "#text" }}
+        {{- /* skip albums without real artwork (empty, or Last.fm's grey star placeholder) */}}
+        {{- if and $art (not (strings.Contains $art "2a96cbd8b46e442fc41c2b86b821562f")) }}
+          {{- $albums = $albums | append (dict "name" .name "artist" .artist.name "url" .url "art" $art) }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- with first ($s.limit | default 6) $albums }}
+<section class="now-shelf" id="{{ $s.heading | urlize }}">
+  <h2>{{ $s.heading }}</h2>
+  <ul class="now-grid">
+    {{- range . }}
+      {{- /* Download and resize the cover so the page doesn't hotlink Last.fm's CDN */}}
+      {{- $src := .art }}{{ $w := 300 }}{{ $h := 300 }}
+      {{- with try (resources.GetRemote .art) }}
+        {{- with .Value }}
+          {{- with .Fill "300x300 webp q80" }}{{ $src = .RelPermalink }}{{ end }}
+        {{- end }}
+      {{- end }}
+      <li class="now-item">
+        <a href="{{ .url }}">
+          <img src="{{ $src }}" width="{{ $w }}" height="{{ $h }}"
+               alt="{{ .name }} by {{ .artist }}" loading="lazy">
+        </a>
+        <p class="now-caption">
+          <span class="now-title">{{ .name }}</span>
+          <span class="now-by">{{ .artist }}</span>
+        </p>
+      </li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}

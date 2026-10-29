@@ -24,6 +24,10 @@ theme = 'marginalia'
   [[menus.main]]
     name = 'Search'
     url = '/search/'
+    weight = 50
+  [[menus.main]]
+    name = "Now"
+    pageRef = "/now"
     weight = 40
 
 # Posts per page on the home page and on category/tag listings

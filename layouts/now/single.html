@@ -1,0 +1,36 @@
+{{ define "main" }}
+{{- with resources.Get "css/now.css" }}
+  {{- $css := . | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{- end }}
+
+{{- /* "Updated" date = newest date prefix found on any cover filename */}}
+{{- $latest := "" }}
+{{- range .Params.shelves }}
+  {{- if eq .source "folder" }}
+    {{- range $.Resources.Match (printf "%s/*" .dir) }}
+      {{- $d := index (findRE `^\d{4}-\d{2}-\d{2}` (path.Base .Name)) 0 | default "" }}
+      {{- if gt $d $latest }}{{ $latest = $d }}{{ end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+<article class="now">
+  <header>
+    <h1>{{ .Title }}</h1>
+    {{- with $latest }}
+    <p class="now-updated">Last updated <time datetime="{{ . }}">{{ time.Format "2 January 2006" . }}</time></p>
+    {{- end }}
+  </header>
+
+  {{ .Content }}
+
+  {{- range .Params.shelves }}
+    {{- if eq .source "lastfm" }}
+      {{- partial "now/lastfm.html" (dict "page" $ "shelf" .) }}
+    {{- else }}
+      {{- partial "now/shelf.html" (dict "page" $ "shelf" .) }}
+    {{- end }}
+  {{- end }}
+</article>
+{{ end }}

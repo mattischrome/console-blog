@@ -1,0 +1,37 @@
+{{- /*
+  A shelf of covers from a subfolder of the page bundle.
+  Expects: dict "page" <Page> "shelf" <map from front matter>
+  Files sort by name, descending, so YYYY-MM-DD- prefixes put the newest first.
+*/ -}}
+{{- $page := .page }}
+{{- $s := .shelf }}
+{{- $size := $s.size | default "300x450" }}
+{{- $imgs := where ($page.Resources.Match (printf "%s/*" $s.dir)) "ResourceType" "image" }}
+{{- $imgs = sort $imgs "Name" "desc" }}
+{{- $imgs = first ($s.limit | default 6) $imgs }}
+
+{{- with $imgs }}
+<section class="now-shelf" id="{{ $s.heading | urlize }}">
+  <h2>{{ $s.heading }}</h2>
+  <ul class="now-grid">
+    {{- range . }}
+      {{- /* Title: front matter `resources` title if set, otherwise derived from the filename */}}
+      {{- $stem := path.Base .Name | strings.TrimSuffix (path.Ext .Name) }}
+      {{- $stem = replaceRE `^\d{4}-\d{2}-\d{2}-?` "" $stem }}
+      {{- $title := cond (ne .Title .Name) .Title (replace $stem "-" " " | title) }}
+      {{- $by := .Params.by }}
+      {{- $img := .Fill (printf "%s Smart webp q80" $size) }}
+      <li class="now-item">
+        {{- with .Params.link }}<a href="{{ . }}">{{ end }}
+        <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}"
+             alt="{{ $title }}{{ with $by }} by {{ . }}{{ end }}" loading="lazy">
+        {{- with .Params.link }}</a>{{ end }}
+        <p class="now-caption">
+          <span class="now-title">{{ $title }}</span>
+          {{- with $by }}<span class="now-by">{{ . }}</span>{{ end }}
+        </p>
+      </li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}
