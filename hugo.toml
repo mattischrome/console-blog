@@ -45,6 +45,9 @@ theme = 'marginalia'
   rss = true
   source_url = 'https://github.com/mattischrome/console-blog'
 
+[caches.getresource]
+  maxAge = "6h"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
