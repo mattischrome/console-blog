@@ -45,18 +45,10 @@
     {{ end }}
 
     <div class="post-content">
-      {{- /* Table of contents, opt-in via `toc: true` (or the older
-             `tableOfContents: true`, set by scripts/toc_script.py) front matter.
-             It sits as the FIRST CHILD of .post-content so it floats into
-             the margin with exactly the same geometry as sidenotes on wide
-             screens, and simply appears ahead of the content on narrow
-             ones — exactly what the brief asks for. */ -}}
-      {{ if and (or $p.Params.toc $p.Params.tableOfContents) $p.TableOfContents }}
-      <nav class="toc" aria-label="Table of contents">
-        <h2 class="toc-title">Contents</h2>
-        {{ $p.TableOfContents }}
-      </nav>
-      {{ end }}
+      {{- /* Table of contents (see toc.html): this inline copy shows below the
+             hero whenever the sidebars sit after the content; on wide
+             screens a second copy heads the sidebar rail instead. */ -}}
+      {{ partial "toc.html" (dict "page" $p "placement" "inline") }}
       {{ $p.Content }}
       {{ with $p.Params.tags }}<p class="visually-hidden" aria-hidden="true">{{ delimit . ", " }}</p>{{ end }}
     </div>

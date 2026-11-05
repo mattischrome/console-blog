@@ -428,7 +428,7 @@ figcaption {
 .layout-photo .post-content { font-size: 1.1rem; color: var(--ink-soft); }
 
 /* --------------------------------------------------------------------------
-   8. TUFTE SIDENOTES, MARGIN NOTES, MARGIN FIGURES, FLOATING TOC
+   8. TUFTE SIDENOTES, MARGIN NOTES, MARGIN FIGURES, TOC
    --------------------------------------------------------------------------
    Wide screens (≥ 72rem): notes float right out of the text column into the
    margin. Narrow screens: notes hide behind a toggle (checkbox + label, no
@@ -488,20 +488,6 @@ input.margin-toggle { display: none; }
      never its own (potentially enormous) intrinsic width                   */
   .sidenote img, .marginnote img, .margin-figure img { width: 100%; }
 
-  /* The TOC floats in the margin exactly like the notes do. It's rendered
-     as the first child of .post-content (see single-article.html), so it
-     shares the same 42rem containing block and the same push-out distance —
-     on narrow screens the same element simply sits ahead of the text.      */
-  .toc {
-    float: right;
-    clear: right;
-    width: var(--margin-w);
-    margin-right: calc(-1 * (var(--margin-w) + var(--margin-gap)));
-    margin-left: 1rem;
-    margin-bottom: 1.5rem;
-  }
-  /* the float has to happen from inside the full-width article, so undo the
-     content-width cap that .post-content > * applies, then re-cap the text */
   .post-content { position: relative; }
 }
 
@@ -516,7 +502,7 @@ input.margin-toggle { display: none; }
   padding: 0.9rem 1.1rem;
   max-width: var(--content-w);
 }
-/* .toc .toc-title (not just .toc-title): the TOC lives inside .post-content,
+/* .toc .toc-title (not just .toc-title): the inline TOC lives inside .post-content,
    so its h2 also matches the `.post-content h2` heading rules — the extra
    selector weight here overrides those (no big font, no 2.5rem top margin) */
 .toc .toc-title {
@@ -531,9 +517,45 @@ input.margin-toggle { display: none; }
 .toc a { color: var(--ink); text-decoration: none; }
 .toc a:hover { color: var(--cat-deep); text-decoration: underline; }
 
-/* narrow-screen TOC spacing */
-@media (max-width: 71.99rem) {
-  .toc { margin: 0 0 2rem; }
+/* "back to top" arrows on headings of posts with a TOC
+   (see _default/_markup/render-heading.html)                              */
+.back-to-top {
+  display: inline-block;
+  margin-left: 0.4em;
+  font-family: var(--font-meta);
+  font-size: 0.6em;
+  font-weight: 400;
+  vertical-align: middle;
+  color: var(--ink-soft);
+  text-decoration: none;
+  opacity: 0.55;
+  transition: opacity 120ms ease, color 120ms ease, transform 120ms ease;
+}
+h2:hover .back-to-top,
+h3:hover .back-to-top,
+.back-to-top:focus-visible { opacity: 1; }
+.back-to-top:hover { color: var(--cat-deep); transform: translateY(-2px); }
+
+/* Which copy shows (see partials/toc.html): the inline one sits below the
+   hero whenever the sidebars are stacked after the content; once the
+   sidebars become a right-hand rail (≥ 96rem, section 9) the rail copy
+   heads that stack instead, ahead of Recent / Similar posts.             */
+.toc-inline { margin: 0 0 2rem; }
+.toc-rail { display: none; }
+@media (min-width: 96rem) {
+  .toc-inline { display: none; }
+  .toc-rail {
+    display: block;
+    max-width: none;
+    /* match the other sidebar boxes */
+    border-radius: 14px;
+    box-shadow: 5px 5px 0 var(--cat);
+    padding: 1rem 1.2rem 1.1rem;
+    /* the rail is sticky, so a long TOC scrolls within itself rather than
+       pushing Recent / Similar posts off the bottom of the screen          */
+    max-height: 55vh;
+    overflow-y: auto;
+  }
 }
 
 /* ---- narrow screens: toggle the notes inline ----------------------------- */

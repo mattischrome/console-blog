@@ -1,0 +1,21 @@
+{{- /*
+  toc.html — the post's table of contents. Context: a dict of
+  (page: the Page, placement: "inline"|"rail").
+
+  It is rendered in TWO places and CSS shows exactly one of them:
+    • "inline" — first thing in .post-content, i.e. just below the hero.
+                 Shown whenever the sidebars sit after the content
+                 (below 96rem).
+    • "rail"   — top of the sidebar rail, ahead of Recent / Similar posts.
+                 Shown when the sidebars are a right-hand rail (≥ 96rem).
+  Opt-in via `toc: true` (or the older `tableOfContents: true` set by
+  scripts/toc_script.py). Hugo's TOC carries id="TableOfContents"; the rail
+  copy drops it so the page never has a duplicate id.
+*/ -}}
+{{- $p := .page -}}
+{{- if and (or $p.Params.toc $p.Params.tableOfContents) $p.TableOfContents -}}
+<nav class="toc toc-{{ .placement }}" aria-label="Table of contents" data-pagefind-ignore>
+  <h2 class="toc-title">Contents</h2>
+  {{ if eq .placement "rail" }}{{ $p.TableOfContents | replaceRE `\sid="TableOfContents"` "" | safeHTML }}{{ else }}{{ $p.TableOfContents }}{{ end }}
+</nav>
+{{- end -}}

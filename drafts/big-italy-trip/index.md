@@ -61,7 +61,9 @@ Returning to the minibus and another loo stop, the rain began to come down full 
 
 ## Catacombs
 
+Checking out of the airbnb by 10, we plopped our luggage into the lockers near the station and headed up towards the ampitheatre. We saw the interesting modern cathedral but walked on past. It was one of those hot days where the sun stings you and you feel like you are melting. It was probably quite tame compared to most of mainland Europe this summer, probably about 32C. Anyway, we ended up at the catacombs instead of the amphitheatre, and going underground seemed like the cooler option.
 
+After a rather gratuituous VR intro that would probably have been better as a video, we were ushered as a huge group down into the catacombs. It was an interesting tour but it wasn't always easy to hear what our guide was saying because there were so many other people.
 
 ## Night train to Milan
 

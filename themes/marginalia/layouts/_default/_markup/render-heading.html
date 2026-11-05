@@ -1,0 +1,16 @@
+{{- /*
+  render-heading.html — Markdown heading render hook.
+  On posts with a table of contents (`toc: true` or `tableOfContents: true`),
+  headings at the levels the TOC lists (h2–h3: see [markup.tableOfContents]
+  in hugo.toml) get a small ↑ link back to the top of the page. `#top` is
+  the HTML-standard "top of the document" fragment, so no target id is
+  needed. Other pages render headings exactly as Hugo normally would.
+*/ -}}
+{{- $p := .Page -}}
+{{- $arrow := and (or $p.Params.toc $p.Params.tableOfContents) (ge .Level 2) (le .Level 3) -}}
+<h{{ .Level }} id="{{ .Anchor }}"
+  {{- range $k, $v := .Attributes }}{{ if ne $k "id" }} {{ $k }}="{{ $v }}"{{ end }}{{ end }}>
+  {{- .Text -}}
+  {{- if $arrow }} <a class="back-to-top" href="#top" aria-label="Back to top" title="Back to top" data-pagefind-ignore>&uarr;</a>{{ end -}}
+</h{{ .Level }}>
+{{- /* newline */}}
