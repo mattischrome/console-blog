@@ -20,7 +20,7 @@ I love a bit of shouty punky guitar music so "No Cities To Love" is perfect for 
  
 ## Azealia Banks "Broke With Expensive Taste"
 
- Delayed [multiple times](http://www.vibe.com/article/azealia-banks-broke-expensive-taste-debut-delayed-again) for three years and [then suddenly released with no warning and a shrug of the shoulders](http://pitchfork.com/news/57348-surprise-azealia-banks-long-delayed-broke-with-expensive-taste-is-coming-out-tomorrow/), Azealia Banks' delayed debut does not disappoint. It's infectious, raucous and very very rude. Exactly what you need for the winter months, even if you can't help but think it should have been released in the summer… about three years ago.
+ Delayed [multiple times](https://www.vibe.com/music/music-news/azealia-banks-broke-expensive-taste-debut-delayed-again-200873/) for three years and [then suddenly released with no warning and a shrug of the shoulders](https://web.archive.org/web/20150120173142/http://pitchfork.com:80/news/57348-surprise-azealia-banks-long-delayed-broke-with-expensive-taste-is-coming-out-tomorrow/), Azealia Banks' delayed debut does not disappoint. It's infectious, raucous and very very rude. Exactly what you need for the winter months, even if you can't help but think it should have been released in the summer… about three years ago.
 
 Why did the record company sit on it for so long? It's such a good album. The fact that it doesn't sound dated despite the delay is testament to Azealia's savvy choice of collaborators, the sterling work of those collaborators, and her talent for weaving her flow around those sinuous beat constructions. She can also sing pretty well, and raps and sings in both English and Spanish. She covers Ariel Pink. It's heady stuff.
 
@@ -30,7 +30,7 @@ I think it will be very interesting to see how Azealia Banks follows up this alb
 
 ## Museum of Love "Museum of Love"
 
- Following on from Nancy Whang's stellar turn as part of The Juan Maclean ([see here](/album-digest-september-2014/)), the set of bands germinating from or out of LCD Soundsystem continues with Museum Of Love, whose main man Pat Mahoney was the live drummer for LCD Soundsystem. (Museum of Love are a duo and prior to taking on the name they remixed Battles' collaboration with Gary Numan "My Machines" for [the Dross Glop remix album](/album-digest-april-2012/). They also share a third member with The Juan Maclean.)
+ Following on from Nancy Whang's stellar turn as part of The Juan Maclean ([see here](/posts/album-digest-september-2014/)), the set of bands germinating from or out of LCD Soundsystem continues with Museum Of Love, whose main man Pat Mahoney was the live drummer for LCD Soundsystem. (Museum of Love are a duo and prior to taking on the name they remixed Battles' collaboration with Gary Numan "My Machines" for [the Dross Glop remix album](/posts/album-digest-april-2012/). They also share a third member with The Juan Maclean.)
 
 Their self-titled album attempts to be as arch as LCD were, though I'm not entirely convinced that are genuinely clever or are perhaps just trying too hard. Some of the song titles are a hoot, viz "Learned Helplessness in Rats (Disco Drummer)" and "The Who's Who Of Who Cares". I like some of the lyrics a lot, particularly the moments where obvious rhymes are implied and then under cut with something else entirely. 
 
@@ -40,7 +40,7 @@ So we will have to see. This is a good start, some solid songs and some good mus
 
 ## Parkay Quarts "Content Nausea"
 
- Parkay Quarts is an alter ego sub-band side project of two members of Parquet Courts, whose "Sunbathing Animal" was, for me, [one of the best albums of 2014](/album-digest-june-2014/). "Content Nausea" is a brief album stuffed with little instrumentals, some loose songs built on jams, an odd cover of "These Boots Were Made For Walking", some spoken word tracks, and about an EP's worth of fully fleshed out songs. 
+ Parkay Quarts is an alter ego sub-band side project of two members of Parquet Courts, whose "Sunbathing Animal" was, for me, [one of the best albums of 2014](/posts/album-digest-june-2014/). "Content Nausea" is a brief album stuffed with little instrumentals, some loose songs built on jams, an odd cover of "These Boots Were Made For Walking", some spoken word tracks, and about an EP's worth of fully fleshed out songs. 
 
 This might make "Content Nausea" seem like a distant second to "Sunbathing Animal" but despite its slapdash construction, it's a worthy companion piece. For one thing it has a pretty concept keeping everything together, one that asks why it is that we are constantly buying things we don't need and ignoring the world around us. The two spoken tracks, the title track and the wonderfully wry "The Map", both offer a sly dig at modern life. Other songs like "The Slide Machine" (about a machine for scraping roadkill off motorways) and "Uncast Shadow of a Southern Myth" explore similar ideas from darker tangents.
 
@@ -60,7 +60,7 @@ As a whole "You're Dead" is a dense and interesting album, one that I don't real
 
 On "The Inevitable End" they seem a bit bored and seem to have forgone the idea of curating an album altogether. It's not so much an album as a dump of MP3s. Long stretches involve similar sounding songs with the same collaborators and you get the feeling that if they were still trying, they'd have picked one out of the four dreary collaborations with Jamie McDermott and/or Ryan James (the best is "Here She Comes Again"), ditched "Save Me" in favour of "Running To The Sea", and perhaps written a few more interesting instrumentals. 
 
-I'm being snarky because I love Röyksopp and it's disappointing that this isn't another album as good as "Junior". The opening track "Skulls" is as good as anything they've ever done, the remake of "Monument" works really well ([no noodly trumpet this time around](/album-digest-may-2014/)) and "Running To The Sea" is a great song in keeping with tracks like "What Else Is There?". 
+I'm being snarky because I love Röyksopp and it's disappointing that this isn't another album as good as "Junior". The opening track "Skulls" is as good as anything they've ever done, the remake of "Monument" works really well ([no noodly trumpet this time around](/posts/album-digest-may-2014/)) and "Running To The Sea" is a great song in keeping with tracks like "What Else Is There?". 
 
 It's clear that "The Inevitable End" highlights Royksopp's own misgivings about the future of the album format. Why should spend time perfecting a song and then embargo it until you've completed nine or ten others for an album? Why prevent yourself from remixing and innovating your music in order to meet record company schedules? If songs are now digital and ephemeral, why make albums at all? Why not just pump out a track a month on your soundcloud feed or release individual tracks on limited edition vinyl?
 

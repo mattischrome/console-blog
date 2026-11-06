@@ -7,7 +7,7 @@ title: Album Digest, February 2013
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, February 2013”"
 ---
-Most Februaries are quite quiet when it comes to albums (though this was not the case [back in 2011](album-digest-february-2011)) and although only the Foals album is a major release, I was quite surprised to find myself with four decent albums to write about. They are:
+Most Februaries are quite quiet when it comes to albums (though this was not the case [back in 2011](/posts/album-digest-february-2011/)) and although only the Foals album is a major release, I was quite surprised to find myself with four decent albums to write about. They are:
 
 <!--more-->
 1. Darkstar "News From Nowhere"
@@ -35,7 +35,7 @@ I was unnaturally excited for "Holy Fire" when I found out that it was coming bu
 
 "Holy Fire" isn't quite as good as "Total Love Forever", though like "News From Nowhere" it's an album that I am warming to more as I repeatedly listen to it. The good news is that their facility at writing pop songs is undiminished: "Inhaler" and "My Number" (2013's best pop song so far) are as good as "Blue Blood" (not really a pop song), "Balloons", and "Mathletics". More importantly I think they probably have a wider appeal than their earlier songs. Be sure to check out the Hot Chip remix of "My Number" too, it's a real ear worm.
 
-Also good news is that some of their attempts to expand their sound work really well: the opening instrumental "Prelude" is great fun and sounds like something off CAN's ["Lost Tapes" box set](can-the-lost-tapes), "Bad Habit" intelligently takes their sound and builds in tropes from dance music, while the closing track "Moon" has some great eerie synth noises that would grace the fx track of a sci-fi flick.
+Also good news is that some of their attempts to expand their sound work really well: the opening instrumental "Prelude" is great fun and sounds like something off CAN's ["Lost Tapes" box set](/posts/can-the-lost-tapes/), "Bad Habit" intelligently takes their sound and builds in tropes from dance music, while the closing track "Moon" has some great eerie synth noises that would grace the fx track of a sci-fi flick.
 
 To get to the other positive aspect of "Holy Fire", we have to first discuss the bad news:  "Holy Fire" is a break-up album. Ouch. It could be worse, it could have been about how shit it is to always be on tour. To be fair only "Late Night" really pushes this aspect of the album too far (oh and "Stepson", which wins the dubious accolade of worst Foals song ever) with its morose leanings. Other songs like "My Number" and "Bad Habit" deal with it maturely (sadly miles now from the exuberant lovestruck joy of "Miami" and "Total Love Forever" though), while the songs about coming out the other side are pretty good: "Out Of The Woods" may have a gauchely obvious title but it's a beautiful slight song about feeling better.
 
@@ -61,7 +61,7 @@ I was happy to leave it at three albums this month, but then I came across this 
 
 This is not a full album by Apparat, at least not one as complete as "Walls", which is the other of his that I own. Instead it's a soundtrack to a theatre play, presumably an adaptation of "War And Peace" if my use of Google translate is to be believed. As such, the album is comprised of tracks that are very soundtrack like and alternate versions that I guess are later rewordings of the same material for fun. For example the opening track "44" (the piece that my housemate called sad) is followed up by "44 (Noise Version)" in which all the original's strings are torn away and the track retooled as a ringing wall of noise that Tim Hecker or Fennesz would be proud of.
 
-It makes for a very good night time listen and it has quite the success rate in making me fall asleep, [which, as I've said before, is a good thing](uc21). It's not all drone lullabies and sad strings though, there are a couple of songs throughout that are simpler than those on "Walls" (i.e. just a repeated phrase over the music, like "Lighton") but are no worse for it.
+It makes for a very good night time listen and it has quite the success rate in making me fall asleep, [which, as I've said before, is a good thing](/posts/understated-classics-21/). It's not all drone lullabies and sad strings though, there are a couple of songs throughout that are simpler than those on "Walls" (i.e. just a repeated phrase over the music, like "Lighton") but are no worse for it.
 
 In summary: Apparat released an album called "The Devil's Walk" back in 2011 that I missed because I had too much else to listen to at the time. "Krieg und Frieden" has convinced me that I shall have to go back and check it out at some point, even if this album is a deliberate exercise in the more atmospheric aspects of his work.
 

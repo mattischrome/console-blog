@@ -19,7 +19,7 @@ We left La Paz, this time ascending the rim of steep hills around the city in a 
 
 ![](../../assets/images/south_america/part_11/03.jpg)
 
-We set off to Potosi through strange towns with weird monuments (see the pictures) and [Oruro where great festivals happen around Ash Wednesday each year](http://www.lonelyplanet.com/bolivia/the-southwest/oruro/travel-tips-and-articles/76305) that are famous throughout the continent.
+We set off to Potosi through strange towns with weird monuments (see the pictures) and [Oruro where great festivals happen around Ash Wednesday each year](https://web.archive.org/web/20150928174033/http://www.lonelyplanet.com/bolivia/the-southwest/oruro/travel-tips-and-articles/76305) that are famous throughout the continent.
 
 We had lunch by the side of the road just after Oruro. We had a strange fruit from La Paz for dessert: I have a picture of the outside but I can no longer remember their names. Inside, the fruit had red flesh and quite a few pips. It didn't taste particularly sweet, it was a bit tart but not too bad.
 
@@ -53,7 +53,7 @@ After insisting on a quick coffee and a lemon pie, we set out to find the famous
 
 ![](../../assets/images/south_america/part_11/10.jpg)
 
-The next day we headed out for Uyuni and its salt flats. We made it in good time as the Bolivian government have invested in new roads for the area as it now hosts one of the legs of the [Dakar rally](http://www.dakar.com/index_DAKus.html). The trans-continental race was moved to South America a few years ago under the threat of terrorism and now thrives there. No longer intercontinental, it takes a different route each year through two or three different countries. The 2014 route was from Rosario to Salta (both in Argentina) to Valparaiso (in Chile). The section through Uyuni was only for bikes and quads, the participating cars and trucks had to make do with Salta (more on which in Part 12). Nevertheless the Dakar rally brand was everywhere in Uyuni, just one more bit of merchandise for the hawkers. (And apparently the reason for there being no internet, they were upgrading the cable ahead of the race... apparently)
+The next day we headed out for Uyuni and its salt flats. We made it in good time as the Bolivian government have invested in new roads for the area as it now hosts one of the legs of the [Dakar rally](https://www.dakar.com/fr). The trans-continental race was moved to South America a few years ago under the threat of terrorism and now thrives there. No longer intercontinental, it takes a different route each year through two or three different countries. The 2014 route was from Rosario to Salta (both in Argentina) to Valparaiso (in Chile). The section through Uyuni was only for bikes and quads, the participating cars and trucks had to make do with Salta (more on which in Part 12). Nevertheless the Dakar rally brand was everywhere in Uyuni, just one more bit of merchandise for the hawkers. (And apparently the reason for there being no internet, they were upgrading the cable ahead of the race... apparently)
 
 ![](../../assets/images/south_america/part_11/11.jpg)
 

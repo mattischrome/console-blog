@@ -11,7 +11,7 @@ hero_alt: "Illustration for the post “More Books”"
 
 ## Never mind the Ballards
 
-I have been writing about books by [J.G. Ballard](j-g-ballard) pretty much to the exclusion of all others. Gradually the posts have tricked out about four novels and ground to a halt. I’ve got a fair way through two other books but I am getting very tired of reading his novels all the time, much as I love them. The mistake I made was that I hadn’t read enough of them in the first place. The project for the site was get the books, read them and then write something. In terms of writing regular posts, this was a bad idea!
+I have been writing about books by [J.G. Ballard](/posts/j-g-ballard/) pretty much to the exclusion of all others. Gradually the posts have tricked out about four novels and ground to a halt. I’ve got a fair way through two other books but I am getting very tired of reading his novels all the time, much as I love them. The mistake I made was that I hadn’t read enough of them in the first place. The project for the site was get the books, read them and then write something. In terms of writing regular posts, this was a bad idea!
 
 Moving the remainder of my stuff out of my parents’ place recently has presented me with the oppurtunity to write another series of posts based on books that I have already read and loved. I’ve been reacquainted with the remainder of my beloved Iain M. Banks novels, which I read voraciously between the ages of 15 and 21. I still pick up the odd one now and then, the most recent being _Matter_. I am also looking forward to reading _Surface Detail_ once it is out in paperback (I’m really not a fan of either hardbacks or of reading fiction on the Kindle).
 

@@ -7,7 +7,7 @@ title: Album Digest, August 2012
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, August 2012”"
 ---
-Album Digest August 2012 is also from the stack of albums that I [mentioned last month](album-digest-july-2012). I chose this selection (along with the Passion Pit album) because the colours looked good together in the mosaic of covers that I make each month. Last month’s digest was about the right amount of detail so this will be another briefer digest. These are all good albums but not ones that will change your life, they'll just happily sit alongside it. They are:
+Album Digest August 2012 is also from the stack of albums that I [mentioned last month](/posts/album-digest-july-2012/). I chose this selection (along with the Passion Pit album) because the colours looked good together in the mosaic of covers that I make each month. Last month’s digest was about the right amount of detail so this will be another briefer digest. These are all good albums but not ones that will change your life, they'll just happily sit alongside it. They are:
 
 <!--more-->
 1. Laurel Halo _Quarantine_
@@ -39,7 +39,7 @@ Overall "Visions" is a fabulous maze of an album. It's full of little of dead en
 
 ## Auntie Flo “Future Rhythm Machine”
 
- One joy of the [CAN “Lost Tapes” box set](can-the-lost-tapes) is a little track called _E.F.S. 108_. The acronym stands for “Ethnological Forgery Series”, a knowing nod to the creation of exotic-sounding but nonetheless fake ‘ethnic’ music for a western audience. Whether music constructed in this fashion is more or less authentic than music that appropriates existing recordings via sampling is a debate for another day. (One that will in fact be sparked by a forthcoming understated classic, believe it or not.)
+ One joy of the [CAN “Lost Tapes” box set](/posts/can-the-lost-tapes/) is a little track called _E.F.S. 108_. The acronym stands for “Ethnological Forgery Series”, a knowing nod to the creation of exotic-sounding but nonetheless fake ‘ethnic’ music for a western audience. Whether music constructed in this fashion is more or less authentic than music that appropriates existing recordings via sampling is a debate for another day. (One that will in fact be sparked by a forthcoming understated classic, believe it or not.)
 
 Obviously I say all this because “Future Rhythm Machine” also seems subject to this debate. The main features of the album are a set of world-straddling driving beats spannning the distance from London to Rio and then back over to Africa. I feel embarrassed that I don’t know more about afrobeat to be more precise with the geography. It also has a similarly diverse set of vocals. Exceptionally, it is also really concise despite its breadth of influences and underlying energy. I often write in these digests that I like an album that fits entirely in to my walk to work. The album is thirty five minutes long, a party that makes you happy and doesn’t over stay its welcome. Perfect for that walk to work.
 

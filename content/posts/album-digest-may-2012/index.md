@@ -15,7 +15,7 @@ Four albums for Album Digest May 2012:
 3. Beach House _Bloom_
 4. Oxia _Tides Of Mind_
 
-The [April album digest](album-digest-april-2012) was rather short on songs, so this month I decided to look for albums that were more based around songs not tracks. Electronic music is relatively easy to write about: the music is often simple (but not always), there are recognisable structures and genres (but not always), and there are conventions that are adhered to (but not always). The repetition of those parenthetical “not always” means that while the writing is easy, it is also often quite fun.
+The [April album digest](/posts/album-digest-april-2012/) was rather short on songs, so this month I decided to look for albums that were more based around songs not tracks. Electronic music is relatively easy to write about: the music is often simple (but not always), there are recognisable structures and genres (but not always), and there are conventions that are adhered to (but not always). The repetition of those parenthetical “not always” means that while the writing is easy, it is also often quite fun.
 
 Examining songs and nailing down their qualities is a trickier task, or at least in my experience it is. Often you aren’t adding much more than the lyrics and, of course, electronic music often comes with lyrics too. Nevertheless songs are important, part of whatever campfire and/or churchy tradition that your culture may have. Everyone sings and though it may seem a trivial action, it is part of a deeper, innate neurological function within us. Anyway, I am getting the run on myself it would seem, so let’s meet those albums instead!
 

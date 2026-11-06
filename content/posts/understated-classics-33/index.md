@@ -18,6 +18,6 @@ One of my favourites is "Drowndeep:Hula" because it steps back from the groove a
 
 "Arroz con pollo" is a short brassy instrumental that feels a bit like intermission music, albeit funky intermission music. It sets up a rather strange second half of the record. "Know These Things: Shouldn't You" has a really strange air of condemnation and mystery, which feels out of place on an album that's been focussed almost entirely on the sheets so far. Still the variety is welcome and the string arrangement is killer.
 
-"Submerge: Til We Become the Sun" and "Gravity: Pushing to Pull" keep up the groove, "Embrya" is a pretty consistent album in that regard, one that you can allow to flow over you. Like other albums in my understated classics series ([this one](/uc16/), and [this one](/uc21/)) this is a collection of songs that will lull you to sleep in a good way.
+"Submerge: Til We Become the Sun" and "Gravity: Pushing to Pull" keep up the groove, "Embrya" is a pretty consistent album in that regard, one that you can allow to flow over you. Like other albums in my understated classics series ([this one](/posts/understated-classics-16/), and [this one](/posts/understated-classics-21/)) this is a collection of songs that will lull you to sleep in a good way.
 
 The album closes with the title track which reverses the opening one, so you can put the whole thing on repeat all and listen to it go round and round all night.

@@ -13,15 +13,15 @@ hero_alt: "Illustration for the post “Understated Classics #16: Ambient 2 / Th
 
 ## Among Fields of Crystal / Wind in Lonely Fences
 
-I have written about a [fair](uc4) [number of](uc6) [ambient](uc13) albums in this series (and there are at least two more to come!) but perhaps none are as unobtrusive as this one by Howard Budd and Brian Eno. It’s a subtle collection of music that sits at the margins of your consciousness: for a long time it was the music that I turned to when I could not sleep but I could just as easily imagine it as (ahem!) romantic background music as I could something to work to. I actually bought it in 2006 to listen to on an overnight flight back from the US.
+I have written about a [fair](/posts/understated-classics-4/) [number of](/posts/understated-classics-6/) [ambient](/posts/understated-classics-13/) albums in this series (and there are at least two more to come!) but perhaps none are as unobtrusive as this one by Howard Budd and Brian Eno. It’s a subtle collection of music that sits at the margins of your consciousness: for a long time it was the music that I turned to when I could not sleep but I could just as easily imagine it as (ahem!) romantic background music as I could something to work to. I actually bought it in 2006 to listen to on an overnight flight back from the US.
 
 The pieces are composites of Budd’s piano motifs and the electronics and drones that Eno drapes around them. These days that might lead in all sorts of directions but back in 1980 with the technology not so advanced, the intervention of the synthesizers has to be more subtle. The opening track _First Light_ is almost all piano until a small synth motif comes in at about a minute before the end.
 
-The rest of the album does not really deviate from this template. Sometimes it is necessary for an album just to be a series of meditations where you can find your own thoughts and feelings. The music here is delicate and fragile, sometimes vanishing into moments of silence. It could almost be a soundtrack to J.G. Ballard’s [Crystal World](the-crystal-world)!
+The rest of the album does not really deviate from this template. Sometimes it is necessary for an album just to be a series of meditations where you can find your own thoughts and feelings. The music here is delicate and fragile, sometimes vanishing into moments of silence. It could almost be a soundtrack to J.G. Ballard’s [Crystal World](/posts/the-crystal-world/)!
 
 This [short article](http://en.wikipedia.org/wiki/The_Plateaux_of_Mirror) about the album from wikipedia explains a bit more about how the album came into being and a bit more about the roles of each musician in creating the finished record.
 
-Because there is not a great deal to discuss about _The Plateaux Of Mirror_, here are some pen pictures (or pen _echoes_) of the other three entries in the _Ambient_ series. I’ll briefly mention that I considered _Small Craft On A Milk Sea_ to be [one of my favourite albums in 2010](2010-in-review) and I discussed _Drums Between The Bells_ back in [July last year](album-digest-july-2011): both are collaborations like _Ambient 2_.
+Because there is not a great deal to discuss about _The Plateaux Of Mirror_, here are some pen pictures (or pen _echoes_) of the other three entries in the _Ambient_ series. I’ll briefly mention that I considered _Small Craft On A Milk Sea_ to be [one of my favourite albums in 2010](2010-in-review) and I discussed _Drums Between The Bells_ back in [July last year](/posts/album-digest-july-2011/): both are collaborations like _Ambient 2_.
 
 ## Ambient 1/Music for Airports (1978)
 
@@ -41,4 +41,4 @@ Ambient 4 is much darker in tone and - perhaps unsurprisingly as the last entry 
 
 ## The Series in General
 
-[A longer article about the entire series (and beyond) from 2004](http://www.stylusmagazine.com/articles/weekly_article/brian-eno-and-the-ambient-series.htm).
+[A longer article about the entire series (and beyond) from 2004](https://web.archive.org/web/20120309152058/http://www.stylusmagazine.com/articles/weekly_article/brian-eno-and-the-ambient-series.htm).

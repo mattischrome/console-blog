@@ -57,7 +57,7 @@ If it is that creepy and I didn’t buy it, why do I mention it? Well, in parts 
 
 ## FabricLive 61 mixed by Pinch
 
- This mix brings together two tracks from the [December 2011 album digest](album-digest-december-2011) - one by Pinch & Shackleton (_Rooms Within A Room_) and one by Emika (Pinch’s remix of _Double Edge_ - the track of hers that I really should have put on my 50 Songs from 2011 playlist.) - and a whole lot more besides.
+ This mix brings together two tracks from the [December 2011 album digest](/posts/album-digest-december-2011/) - one by Pinch & Shackleton (_Rooms Within A Room_) and one by Emika (Pinch’s remix of _Double Edge_ - the track of hers that I really should have put on my 50 Songs from 2011 playlist.) - and a whole lot more besides.
 
 I said in the December 2011 digest that I would go back to Shackleton’s fabric mix and to be honest it was fine enough but perhaps about fifteen minutes too long - though my patience was probably worn a little thin by the fact that I was listening to it while on a two mile walk through some rather permeating drizzle.
 

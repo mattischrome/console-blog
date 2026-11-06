@@ -27,7 +27,7 @@ Just as before, Discover Weekly has gone and recommended the best song, but ther
 
 ## Watter *History of the Future*
 
-Watter are a "supergroup" featuring at least one member of Grails, whose "Chalice Hymnal" is one of my favourite and most played albums this year.{{% sidenote "sn-1" %}}For more information, there's a top 10 post coming before the end of the year.{{% /sidenote %}} I enjoyed Watter's first album "This World", which was released back in 2014 and was one of my favourite albums of that year. I reviewed it [in an album digest in June](album-digest-june-2014).
+Watter are a "supergroup" featuring at least one member of Grails, whose "Chalice Hymnal" is one of my favourite and most played albums this year.{{% sidenote "sn-1" %}}For more information, there's a top 10 post coming before the end of the year.{{% /sidenote %}} I enjoyed Watter's first album "This World", which was released back in 2014 and was one of my favourite albums of that year. I reviewed it [in an album digest in June](/posts/album-digest-june-2014/).
 
 "This World" was full of slow burning guitar tracks and "History of the Future" provides more of the same. This bunch feels a bit more Grails-y and that's not a problem for me. It's an enjoyable sequel, though I do wonder what else this music for apart from watching the world go by. 
 

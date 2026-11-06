@@ -6,14 +6,14 @@ title: 'The Martian: A Short Review'
 hero: images/the_martian_xkcd.png
 hero_alt: "The Martian: A Short Review"
 ---
-[In my review of the book](/the-martian-by-andy-weir/) I mentioned that a film adaptation of The Martian was on the way. I'm not sure why but it got released earlier than any of the dates that I'd seen and so on Saturday I found myself watching The Martian on the big screen. Could the film version deliver the same level of entertainment as the novel? Could Mark Watney (Matt Damon) get off Mars alive?
+[In my review of the book](/posts/the-martian-by-andy-weir/) I mentioned that a film adaptation of The Martian was on the way. I'm not sure why but it got released earlier than any of the dates that I'd seen and so on Saturday I found myself watching The Martian on the big screen. Could the film version deliver the same level of entertainment as the novel? Could Mark Watney (Matt Damon) get off Mars alive?
 
 <!--more-->
 The short answers are (spoiler alert!) yes and yes. The Martian is at least as enjoyable as a film as it is a novel. The change in medium has both pros and cons, but overall it's great fun whether you've read the book already or not.
 
 In my blog post about the novel, I wrote about what I perceived to be the filmic qualities of the writing about the Martian surface and the computer generated shots of the landscape are stunning. What's more the film also looks fantastic at the "suit level", there's great attention to detail in the structure of the habitat module [and the space suits](http://news.yahoo.com/inside-martian-movies-sleek-spacesuits-explained-183716716.html). It's almost a shame that this convincing detail almost gets overlooked by the need to propel the film along, I'd love to have luxuriated in the world building of the film. I bet there'll be a stack of extras with the Blu-ray in a few months time.
 
-It's a long film, not that a great deal of it feels extraneous or forced. One of the weaknesses of novel is that the story unfolding back on earth and on the Hermes ship felt a little forced and underwritten compared to the experiences of Mark Watney on Mars. I think that the film goes a little way to address these issues and that pads out the run time. There are some good supporting performances from Jeff Daniels, Sean Bean, Kirsten Whig, and Mackenzie Davis (it took me a good few hours for me to realise that I'd recognised her from the excellent TV show ["Halt and Catch Fire"](http://www.amc.com/shows/halt-and-catch-fire)). As an ensemble piece, it's solid rather than spectacular.
+It's a long film, not that a great deal of it feels extraneous or forced. One of the weaknesses of novel is that the story unfolding back on earth and on the Hermes ship felt a little forced and underwritten compared to the experiences of Mark Watney on Mars. I think that the film goes a little way to address these issues and that pads out the run time. There are some good supporting performances from Jeff Daniels, Sean Bean, Kirsten Whig, and Mackenzie Davis (it took me a good few hours for me to realise that I'd recognised her from the excellent TV show ["Halt and Catch Fire"](https://web.archive.org/web/20151019195403/http://www.amc.com/shows/halt-and-catch-fire)). As an ensemble piece, it's solid rather than spectacular.
 
 ![](../../assets/images/other/the_martian_xkcd.png)
 

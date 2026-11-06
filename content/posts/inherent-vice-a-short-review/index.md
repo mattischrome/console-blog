@@ -28,7 +28,7 @@ It's not an easy movie to understand but its pleasures are many, provided you ca
 As ever, read the book the first. If you enjoyed the book, you'll love this. And even if you didn't, you might still like this if you love Magnolia (a little less harebrained) or There Will Be Blood (though this is mostly lighter). Failing that, go dig out the soundtrack - you'll thank me for that at least.
 
 Previous appearances:
-* [Thomas Pynchon](/on-pynchon/)
-* [CAN](/can-the-lost-tapes/)
+* [Thomas Pynchon](/posts/on-pynchon/)
+* [CAN](/posts/can-the-lost-tapes/)
 
 Trivia: Inherent Vice is a legal term for something contains its own source of destruction, like eggs breaking. It's used particularly in situations of high risk, often something cannot be insured because of it.

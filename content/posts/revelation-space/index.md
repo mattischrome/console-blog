@@ -6,7 +6,7 @@ title: Alistair Reynolds, Revelation Space
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Alistair Reynolds, Revelation Space”"
 ---
-[Alistair Reynolds'](http://approachingpavonis.blogspot.co.uk) 2000 novel "Revelation Space" has long been in orbit of my science fiction "to read" list, but it wasn't until one sleepless night (post ["Command and Control"](/posts/command-and-control/)) that I came across it in Ingrid's audiobooks. I was instantly drawn in as I listened to the opening scene about an archaeological dig facing evacuation ahead of an imminent 'razor storm'. 
+[Alistair Reynolds'](http://approachingpavonis.blogspot.com/) 2000 novel "Revelation Space" has long been in orbit of my science fiction "to read" list, but it wasn't until one sleepless night (post ["Command and Control"](/posts/command-and-control/)) that I came across it in Ingrid's audiobooks. I was instantly drawn in as I listened to the opening scene about an archaeological dig facing evacuation ahead of an imminent 'razor storm'. 
 
 <!--more-->
 "Revelation Space" is [hard sci-fi](http://www.sf-encyclopedia.com/entry/hard_sf) set in a universe where the speed of light cannot be exceeded. Most of the action takes place in the 26th century, with the narrative also recounting earlier events as the story progresses. Humanity has expanded to five or six systems beyond our current solar system, using huge colony ships that travel at 99.9% of the speed of light. This means that [relativistic effects](http://science.howstuffworks.com/science-vs-myth/everyday-myths/relativity10.htm) play an important role in the narrative. A lot is made of the difference between sleeping away the decades between star systems and subjectively experiencing them.

@@ -6,10 +6,10 @@ title: The Orb - Alpine EP
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The Orb - Alpine EP”"
 ---
-The Orb return with a new EP on the [Kompakt label](www.kompakt.fm) called "Alpine".
+The Orb return with a new EP on the [Kompakt label](https://www.kompakt.fm) called "Alpine".
 
 <!--more-->
-"Alpine" is split in to three tracks "Morning", "Evening" and "Dawn". The third of these was included on the 2016 edition of Kompakt's annual "Pop Ambient" compilation, a gently drifting track with plenty of bells and yodels. A diversion from the sounds of [Moonbuilding 2703 AD](/album-digest-june-2015/) (and its presumably ongoing remixed companion EPs), but it sat nicely with the other tracks.
+"Alpine" is split in to three tracks "Morning", "Evening" and "Dawn". The third of these was included on the 2016 edition of Kompakt's annual "Pop Ambient" compilation, a gently drifting track with plenty of bells and yodels. A diversion from the sounds of [Moonbuilding 2703 AD](/posts/album-digest-june-2015/) (and its presumably ongoing remixed companion EPs), but it sat nicely with the other tracks.
 
 "Alpine Dawn" sounds pretty much how you'd expect an Orb track with this title to sound. It's pleasant and doesn't go anywhere in particular. It's a bit trippy. The other tracks on this EP, as you'd guess from their titles, do not add a great deal more to the mix. "Morning" evolves out of the same blissed out atmospheres as "Dawn" but churns into something a little more awake halfway through - probably in reaction to that cheesy yodel sample.
 

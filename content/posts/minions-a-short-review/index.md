@@ -5,7 +5,7 @@ tags: ["Films", "Animation", "Fifteen", "Fun"]
 title: 'Minions: A Short Review'
 hero: images/hero.jpg
 ---
-The Minions got their own movie, just as I predicted in [my review of Despicable Me 2](/despicable-me-2-a-short-review/). I went to see it this week and I enjoyed it a lot. Here's a short review. Don't worry, there are no spoilers here that aren't in the trailer.
+The Minions got their own movie, just as I predicted in [my review of Despicable Me 2](/posts/despicable-me-2-a-short-review/). I went to see it this week and I enjoyed it a lot. Here's a short review. Don't worry, there are no spoilers here that aren't in the trailer.
 
 <!--more-->
 It's very funny. Right from the opening credits you get the minions and their anarchic fun-loving slapstick humour. There's always been something delightful about they way in which they innocently bumble around. Their penchant for evil bosses is inexplicable but incredibly amusing.
@@ -24,7 +24,7 @@ It really strains against its U certificate. In the trailer you see the minions 
 
 There are chase sequences that go to extraordinary lengths to avoid the level of violence you'd probably see in "normal" movies. They end up funnier as result, but there are also moments that gloss over extreme violence involving guns, axes, knives and explosions.
 
-I was also uncomfortable with a scene involving a torture chamber, in particular a noose. Call me a prude if you like but I don't think a gallows has any place in a U certificate movie. A PG certificate would hardly be a disaster anyway, it's a nice minion-friendly yellow. [The BBFC judgement](http://www.bbfc.co.uk/releases/minions-film-0#bbfcinsight) states "There is a comic scene in which a man threatens to torture the minions in his medieval style torture chamber. The minions are stretched on a rack and hung on a noose but neither of these things harm the minions at all." Well that's alright then...
+I was also uncomfortable with a scene involving a torture chamber, in particular a noose. Call me a prude if you like but I don't think a gallows has any place in a U certificate movie. A PG certificate would hardly be a disaster anyway, it's a nice minion-friendly yellow. [The BBFC judgement](https://web.archive.org/web/20150627082017/http://www.bbfc.co.uk/releases/minions-film-0) states "There is a comic scene in which a man threatens to torture the minions in his medieval style torture chamber. The minions are stretched on a rack and hung on a noose but neither of these things harm the minions at all." Well that's alright then...
 
 I could be wrong though. After all, I didn't mind that I'd spotted an Alien reference in Despicable Me 2.
 

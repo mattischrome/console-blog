@@ -10,7 +10,7 @@ hero_alt: "Illustration for the post “Top 10 Songs 2017”"
 <!--more-->
 
 ## 10. Rolling Blackouts CF "Julie's Place"
-Sometimes you just want a simple pop song about going out somewhere. I enjoyed the Rolling Blackouts' EP "The French Press". It contains many catchy tunes [as I noted in my review](album-digest-march-2017). "Julie's Place" is the best, speaking of a need to be somewhere or a promise that you will go there. Given that I often listen to music between places, it's nice to have a song or two like that on my playlist.
+Sometimes you just want a simple pop song about going out somewhere. I enjoyed the Rolling Blackouts' EP "The French Press". It contains many catchy tunes [as I noted in my review](/posts/album-digest-march-2017/). "Julie's Place" is the best, speaking of a need to be somewhere or a promise that you will go there. Given that I often listen to music between places, it's nice to have a song or two like that on my playlist.
 
 ## 9. Blanck Mass "Rhesus Negative"
 "Rhesus Negative" is the coarsest, most aggressive track on Blanck Mass's album "World Eater". I described it as about ten tracks mashed together at car crash speed. It's long enough to live-tweet your response to each "movement". However, it's not ideal if you have a migraine. I'm not that sure what this kind of music is *for* per se, only that it sounds amazing if you are in the right mood.

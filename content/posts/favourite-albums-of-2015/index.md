@@ -22,7 +22,7 @@ Overall, the album is a solid collection of Blur songs that add to their already
 
 ## 9. The Martian Original Score by Harry Gregson-Williams
 
-This is [my review of the movie version of "The Martian"](/the-martian-a-short-review/) and this is [my review of the book](/the-martian-by-andy-weir/).
+This is [my review of the movie version of "The Martian"](/posts/the-martian-a-short-review/) and this is [my review of the book](/posts/the-martian-by-andy-weir/).
 
 This is my favourite soundtrack of the year. I don't have a great deal to say about it except that for a film as tense as "The Martian", its soundtrack is surprisingly chilled out. Even the music meant to evoke dust storms is fairly calm, perhaps because its job in the film is to focus you on the astronauts' actions in response to the storm. It's more of a soundtrack to an orderly attempt to evacuate than a raging storm. Elsewhere, the score does more work in scenes where Watney totes around Mars looking at pretty red landscapes.
 
@@ -36,7 +36,7 @@ The great thing about Spotify playlists is that any additions get pushed out to 
 
 I love a bit of shouty punky guitar music so "No Cities To Love" is perfect for me. It's really well produced and the songs are beautifully constructed with thoughtful lyrics. Now that I have a walk to work each morning once more, it's nice to find something amazing to listen to. My favourite songs are the title track (I start my morning walk with it and put the rest of the album on shuffle), "Fangless", and "Bury Our Friends". Magnificent stuff!
 
-(This review first appeared in [January's Album Digest](/album-digest-january-2015/).)
+(This review first appeared in [January's Album Digest](/posts/album-digest-january-2015/).)
 
 ## 7. Every Open Eye by Chvrches
 
@@ -72,13 +72,13 @@ First off “Darlings” swells into a wonderful bittersweet song (the first lin
 
 From there the quality remains high, even if the lyrical conceit of “Kamikaze” is a little gauche: you get everything you need to know about the song from the title. Following that, “Memorial” is a ten minute miniature masterpiece of murder and loss in collaboration with M83 (they previously collaborated on M83’s soundtrack to “Oblivion” - [the movie where Tom Cruise takes on aliens WHO BLEW UP THE MOON](/oblivion-a-short-review/)). The best bit is when it takes about six minutes off in the middle to explore a miniature classical piece. Throughout the whole album every element of each song sounds amazing and was, apart from three songs, produced by Susanne on her own. “Ten Love Songs” is the work of a major talent.
 
-“Delirious” and “Slowly” are both amazing pop songs. The first begins slowly, perhaps attempting to follow “Memorial” somehow, before it bursts into a playful double-entendre lyric about BDSM. Meanwhile “Slowly” revisits the same territory as “Fade Away” with an 80s vibe that one won’t make you cringe - her vocals are a hair’s breadth of those of Nina Persson on this song, bringing back memories of [The Cardigans’ excellent “Long Gone Before Daylight” album](/understated-classics-25-long-gone-before-daylight-cardigans/).
+“Delirious” and “Slowly” are both amazing pop songs. The first begins slowly, perhaps attempting to follow “Memorial” somehow, before it bursts into a playful double-entendre lyric about BDSM. Meanwhile “Slowly” revisits the same territory as “Fade Away” with an 80s vibe that one won’t make you cringe - her vocals are a hair’s breadth of those of Nina Persson on this song, bringing back memories of [The Cardigans’ excellent “Long Gone Before Daylight” album](/posts/understated-classics-25/).
 
 The last two of the ten love songs are “Trust Me” - a slow burning torch song that makes you want to do anything but trust its narrator - and “Insects”, a song in which a swarm of synths tries to overwhelm a lyric about keeping a clandestine sexual relationship a secret. The two combine to create a creepy end to the album, in particular the way that “Trust Me” slows things right down only for “Insects” to pick up the pace again and end the album on the wrong foot. It makes you want to play it all over again. I have done this. Repeatedly.
 
 The only bad thing about “Ten Love Songs” is that there are only ten. It’s one of those rare albums where an artists throws everything on to tape and it all manages to stick and congeal into something fascinating.
 
-(This review first appeared in [February's Album Digest](/album-digest-february-2015/).)
+(This review first appeared in [February's Album Digest](/posts/album-digest-february-2015/).)
 
 ## 4. Music Complete by New Order
 
@@ -112,7 +112,7 @@ It's not easy to describe the opening song "Anecdotes". I think it is about a ch
 
 The next song is a little more obvious, at least if you have the lyrics (and Wikipedia) to hand. "Sapokanikan" is the Lenape name for the area of Manhattan now known as the Meatpacking District. The song is about how the citizens of the modern city now forget and obscure the ruins and memory of Sapokanikan. Newsom connects Tamanent (Chief of the Lenape tribe) to Ozymandias (aka Rameses II) via Shelley's sonnet of the same name, interpolating the famous line "look on my works, ye Mighty, and despair!" into the lyrics. The irony is that we know more (in a cultural sense) about Ozymandias' kingdom than we do about the Lenape native americans. You need the lyric booklet to discern all this though.
 
-(It is no surprise to see Newsom acting in Paul Thomas Anderson's recent adaptation of ["Inherent Vice"](/inherent-vice-a-short-review/). Thomas Pynchon's novels are famous for sprawling over many hundreds of pages stuffed with arcane references and counterfactual histories. [I love them](/on-pynchon/). Each of his novels have wikis that are almost as rewarding to read as the novels themselves. Newsom's albums might benefit from something similar, collated from the many contributions about her songs to the various song meaning websites out there on t'internet.)
+(It is no surprise to see Newsom acting in Paul Thomas Anderson's recent adaptation of ["Inherent Vice"](/posts/inherent-vice-a-short-review/). Thomas Pynchon's novels are famous for sprawling over many hundreds of pages stuffed with arcane references and counterfactual histories. [I love them](/posts/on-pynchon/). Each of his novels have wikis that are almost as rewarding to read as the novels themselves. Newsom's albums might benefit from something similar, collated from the many contributions about her songs to the various song meaning websites out there on t'internet.)
 
 I am aware that I have not discussed the music. With just the lyrics in front of you, it would be difficult to set them to a tune in your head. Newsom contorts her lyrics around the music. Sometimes the phrasing of a line in the booklet can break in "odd" places compared to the music. The lines in the lyrics don't always correspond with bars in the music in the ways you might expect in pop songs. This makes it tricky to remember the songs for quite a few listens. This is another reason why paying attention is important while listening to "Divers". Because the lyric doesn't always go the way that the music leads, it is easy to get lost.
 
@@ -126,7 +126,7 @@ This is an album that could teach robots to love. It's excellent. It features pr
 
 Holly is a musician and sound artist, and her compositions on "Platform" skip along that boundary between recognisable music and something other, something we might instead choose to call art.
 
-At points it makes me think of [Laurie Spiegel's experiments in how to create electronic music in the first place](/album-digest-october-2012/), the experiments of Glass, Reich, and others in making a modern classical music, and then the simple visceral pleasures of techno's throbs and thuds.
+At points it makes me think of [Laurie Spiegel's experiments in how to create electronic music in the first place](/posts/album-digest-october-2012/), the experiments of Glass, Reich, and others in making a modern classical music, and then the simple visceral pleasures of techno's throbs and thuds.
 
 Elsewhere there are tracks that make me think of Prince, James Blake, Grimes, and [Laurie Andersen](https://en.wikipedia.org/wiki/Laurie_Anderson). Most of it though just sounds utterly unique: all those comparisons are just me clutching at straws.
 
@@ -140,7 +140,7 @@ My favourite though is "Locker Leak", which is part sung, part spoken, and all c
 
 Seriously. Even if you end up hating it, you need to check out this album at least once on your preferred streaming service. (It might be better if you give it more than one try, it takes some getting used to but it's worth the effort.)
 
-(This review first appeared in [June's Album Digest](/album-digest-june-2015/).)
+(This review first appeared in [June's Album Digest](/posts/album-digest-june-2015/).)
 
 ## 1. Art Angels by Grimes
 

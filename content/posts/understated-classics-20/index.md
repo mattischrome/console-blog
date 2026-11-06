@@ -8,7 +8,7 @@ title: 'Understated Classics #20: Folklore by Nelly Furtado'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #20: Folklore by Nelly Furtado”"
 ---
-It’s rather spooky but shortly after deciding to write about Nelly Furtado’s “Folklore” as the next [understated classic](understated-classics), I found out that she has a new album out this week. As a result, I have been listening to a lot of her music while writing this post, and I’ve been enjoying it too.
+It’s rather spooky but shortly after deciding to write about Nelly Furtado’s “Folklore” as the next [understated classic](/categories/understated-classics/), I found out that she has a new album out this week. As a result, I have been listening to a lot of her music while writing this post, and I’ve been enjoying it too.
 
 <!--more-->
 As always with these choices of mine, “Folklore” is a record that I can link to particular events and emotions in my life and so I guess my perception of it is coloured by that. Nevertheless while re-listening to the album I tried to examine whether my feelings for it were _entirely_ centred on those memories and emotional responses. I think the answer is not a simple one, because in recent weeks I’ve felt very unsettled in many aspects of my life and so I probably have found it difficult to tell.

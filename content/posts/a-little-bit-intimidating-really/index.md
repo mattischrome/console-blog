@@ -6,7 +6,7 @@ title: A Little Bit Intimidating Really
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “A Little Bit Intimidating Really”"
 ---
-There is so much good writing out there. All you have to do is fire up [the guardian website](http://www.theguardian.com/uk/), or download the [medium app to your smartphone](https://medium.com/m/app), or visit [my friend Barrie's site](http://xianity.me/), or [Lee's](https://narami.wordpress.com/), and so on and so on.
+There is so much good writing out there. All you have to do is fire up [the guardian website](http://www.theguardian.com/uk/), or download the [medium app to your smartphone](https://medium.com/m/app), or visit [my friend Barrie's site](https://web.archive.org/web/20150115015249/http://xianity.me:80/?), or [Lee's](https://narami.wordpress.com/), and so on and so on.
 
 <!--more-->
 When it comes to my little whisper into this great choir, it's easy to feel a bit intimidated. How do I add my voice? How do I feel distinct? How do I do it as well as all these other wonderful writers?

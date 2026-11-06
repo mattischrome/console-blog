@@ -19,7 +19,7 @@ Of the package that has come today for you
 <!--more-->
 Lambs bounce out and stand astonished  
 [Puss willow](http://en.wikipedia.org/wiki/Pussy_willow) pushes among bare branches  
-Sooty [hawthorns](http://www.british-trees.com/treeguide/hawthorns/nbnsys0000003430) shiver into emerald  
+Sooty [hawthorns](https://web.archive.org/web/20120424192643/http://www.british-trees.com:80/treeguide/hawthorns/nbnsys0000003430) shiver into emerald  
   
 And a new air  
 Nuzzles the sugary  

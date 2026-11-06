@@ -6,7 +6,7 @@ title: Richard Powers, The Overstory
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Richard Powers, The Overstory”"
 ---
-"The Overstory" by Richard Powers piqued my interest among the novels shortlisted for the Booker Prize. And [once again](satin-island-tom-mccarthy-review) the book that interested me most did not win. One year I will succeed in my prediction!
+"The Overstory" by Richard Powers piqued my interest among the novels shortlisted for the Booker Prize. And [once again](/posts/satin-island-tom-mccarthy-review/) the book that interested me most did not win. One year I will succeed in my prediction!
 
 <!--more-->
 I found "The Overstory" an enjoyable read. Its accessibility surprised me. Often people view Booker nominated novels as stuffy or over-intellectual. This novel however is a genuine page turner, full of emotion and heartbreak, not to mention plenty of science and awe of the natural world. Perhaps in another year it may have won.

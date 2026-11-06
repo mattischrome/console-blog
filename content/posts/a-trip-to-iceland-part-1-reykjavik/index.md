@@ -25,7 +25,7 @@ The next day we did our best to eat as much as we could at breakfast.{{% sidenot
 
 ![](../../assets/images/iceland/iceland_05.jpg)
 
-We wandered in to down town Reykjavík and up the hill to the [Hallgrimskirkja](http://en.hallgrimskirkja.is), a beautiful modern(-ish) church. It's currently being restored and you can see the battering that the exterior has taken over the years. When you walk in there's a magnificent tranquillity, even with a guy pounding away at his organ as we went in. We did the tourist thing and queued for the lift to the top. We were rewarded with some fine views of Reykjavík in the sunshine and the snow.
+We wandered in to down town Reykjavík and up the hill to the [Hallgrimskirkja](https://web.archive.org/web/20171007071023/http://en.hallgrimskirkja.is:80/), a beautiful modern(-ish) church. It's currently being restored and you can see the battering that the exterior has taken over the years. When you walk in there's a magnificent tranquillity, even with a guy pounding away at his organ as we went in. We did the tourist thing and queued for the lift to the top. We were rewarded with some fine views of Reykjavík in the sunshine and the snow.
 
 ![](../../assets/images/iceland/iceland_06.jpg)
 

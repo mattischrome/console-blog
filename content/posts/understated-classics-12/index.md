@@ -32,7 +32,7 @@ All over the record killer choruses abound and even if it mostly feels disposabl
 
 ## From killer choruses to deeper things
 
-I think that the most memorable songs that I heard as a child were the ones that woke me up to the reality of an adult world that lies beyond childhood. I have touched upon this before with [Red Box](uc3) and these are another two such songs. We are not just talking about sex and love here as being things that you don’t know much about when you are kid but also other things. Like for instance who you would turn to if the people around you whom you loved were no longer there or how to take your own place in the world when that day comes and you have to do things for yourself.
+I think that the most memorable songs that I heard as a child were the ones that woke me up to the reality of an adult world that lies beyond childhood. I have touched upon this before with [Red Box](/posts/understated-classics-3/) and these are another two such songs. We are not just talking about sex and love here as being things that you don’t know much about when you are kid but also other things. Like for instance who you would turn to if the people around you whom you loved were no longer there or how to take your own place in the world when that day comes and you have to do things for yourself.
 
 Listening to it now, _Chances_ is perhaps just a standard pop song that tells its story well by pushing certain buttons: “No hunk will usurp you / No monsters will hurt you / Do you any harm” (Five points for using “usurp” in your second language Mr Gessle!). The whole theme of romance being linked to protecting someone from dark forces has stayed with me ever since.
 

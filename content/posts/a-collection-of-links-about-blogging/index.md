@@ -15,7 +15,7 @@ This is a very simple introduction to making websites that Pixel Shannon wrote f
 
 By way of motivation, this is a good post by Andy about why it is good to keep blogging even if you don't get any feedback that many people people are reading what you write:
 
-[Why Blog If Nobody Reads It?](https://andysblog.uk/why-blog-if-nobody-reads-it/)
+[Why Blog If Nobody Reads It?](https://web.archive.org/web/20250213013705/https://andysblog.uk/why-blog-if-nobody-reads-it/)
 
 For me, [Hugo](https://gohugo.io/) is currently the best tool for blogging with. It's a [static site generator](https://en.wikipedia.org/wiki/Static_site_generator) and another website has a pretty good [comparison table of the main ones](https://jamstack.org/generators/) with 300+ and counting. The link I most want to share though is the Hugo documentation because it's really good and helps you fix problems and extend functionality. I used the docs just the other day [when I suddenly had to put some equations in a post I writing](/posts/in-praise-of-playing-the-long-game/)! 
 

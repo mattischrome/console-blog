@@ -6,10 +6,10 @@ title: Sarah Ladipo Manyika, Like a Mule Bringing Ice Cream to the Sun
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Sarah Ladipo Manyika, Like a Mule Bringing Ice Cream to the Sun”"
 ---
-"Like a Mule Bringing Ice Cream to the Sun" is a novella by [Sarah Ladipo Manyika](http://www.sarahladipomanyika.com). Of all the books nominated for the 2016 Goldsmiths Prize, this looked like the most interesting to my eyes. I've enjoyed previous Goldsmiths nominated novels including [Acts of the Assassins](acts-of-the-assassins-richard-beard) and [Satin Island](satin-island-tom-mccarthy-review). 
+"Like a Mule Bringing Ice Cream to the Sun" is a novella by [Sarah Ladipo Manyika](http://www.sarahladipomanyika.com). Of all the books nominated for the 2016 Goldsmiths Prize, this looked like the most interesting to my eyes. I've enjoyed previous Goldsmiths nominated novels including [Acts of the Assassins](/posts/acts-of-the-assassins/) and [Satin Island](/posts/satin-island-tom-mccarthy-review/). 
 
 <!--more-->
-The title comes from a poem by [Mary Ruefle](https://www.poets.org/poetsorg/poet/mary-ruefle) called "Donkey On". You can read it [here](http://thegreatnothingof1987.blogspot.co.uk/2014/02/donkey-on-by-mary-ruefle.html).
+The title comes from a poem by [Mary Ruefle](https://poets.org/poet/mary-ruefle) called "Donkey On". You can read it [here](http://thegreatnothingof1987.blogspot.com/2014/02/donkey-on-by-mary-ruefle.html).
 
 "Like a Mule..." is set in contemporary San Francisco and takes the form of multiple first person narratives, centred around Dr. Morayo da Silva, an elderly Nigerian woman who is approaching her 75th birthday. The novel explores old age, memory, and how we use those things as a filter through which we perceive ourselves and others.
 

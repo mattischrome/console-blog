@@ -11,7 +11,7 @@ Over the course of a week on holiday, I started reading many interesting article
 <!--more-->
 I'm trying to re-familiarise myself with Python. As with all modern software development, Python now seems atomised and hyper-complicated. As a result, this series of posts from Claudio Jolowitz was useful. He cuts through lots of the complications and explains why they are there. Someone should ask him to write a book.
 
-[Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+[Hypermodern Python](http://blog.claudiojolowicz.com/posts/hypermodern-python-01-setup/)
 
 While discussing [pyenv](https://github.com/pyenv/pyenv) in the previous series of posts, the setup is for the Bash shell. But having started afresh with my Mac I'm now on the zsh shell that ships with MacOS as of Catalina. I've spent some time this holiday getting to know zsh and read about how to do fantastic things with it. I've even put most of them into practice. This GitHub repo features a pyenv plugin for zsh, so I'm hoping that will help me use pyenv more often in my Python projects and follow the Hypermodern Python post further.
 
@@ -19,7 +19,7 @@ While discussing [pyenv](https://github.com/pyenv/pyenv) in the previous series 
 
 The problem with choosing the programming language that you want to devote your time to is that you often read a piece saying that such-and-such other language is *way* better. Lo-and-behold, I read this article discussing whether Julia or Python is better for data science. I was familiar with most of the differences as I have dabbled with Julia before and this post makes an interesting case for monitoring Julia at least.
 
-[Julia vs. Python: Which is best for data science?](https://www.infoworld.com/article/3241107/julia-vs-python-which-is-best-for-data-science.html)
+[Julia vs. Python: Which is best for data science?](https://www.infoworld.com/article/2260353/julia-vs-python-which-is-best-for-data-science.html)
 
 Having refreshed the look of the blog, this post about SVG favicons looks interesting. I used to spend a lot of time going after this kind of thing, often so that the vanity tile on my phone and tablet looks nice (it’s the little things). This time I've gone for a 32x32 PNG file because life's too short. But this piece makes an excellent case for SVG files (which are, in the main, very useful) so I am saving the link here to find it again later.
 

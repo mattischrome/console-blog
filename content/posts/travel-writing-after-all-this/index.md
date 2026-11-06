@@ -6,7 +6,7 @@ title: Travel Writing After All This
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Travel Writing After All This”"
 ---
-While sprucing up this blog a bit during lockdown, I fell into reading my old posts about [South America](/tag/south%20america/). I enjoyed it, mostly for the memories, but also because the current lockdown is warping my sense of time and space. Hours feel like weeks, but then I blink and a month's gone by. I find myself traipsing similar orbits each day around the house, and then perhaps over to the supermarket or the park. There's a palpable escapism to be had in reminiscing about South America and other places.
+While sprucing up this blog a bit during lockdown, I fell into reading my old posts about [South America](/tags/south-america/). I enjoyed it, mostly for the memories, but also because the current lockdown is warping my sense of time and space. Hours feel like weeks, but then I blink and a month's gone by. I find myself traipsing similar orbits each day around the house, and then perhaps over to the supermarket or the park. There's a palpable escapism to be had in reminiscing about South America and other places.
 
 <!--more-->
 But the comfort of looking through old posts and thinking about what happened on my travels brought it home to me that travel will be vastly different when the lockdowns are over. Whole economies will now spend probably upwards of a decade readjusting to this new normal, there will be many things that people will not be able to do in the short term. Tourism as we knew it will be not be the same as before, especially if Covid-19 turns out to be something that we cannot effectively vaccinate against.

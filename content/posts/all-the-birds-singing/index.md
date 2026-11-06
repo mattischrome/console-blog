@@ -21,4 +21,4 @@ Good novels tend to have a big idea at their core. In _All The Birds, Singing_ t
 ## Links to other reviews of _All The Birds, Singing_
 
 1. [Tim Lewis for The Observer](http://www.theguardian.com/books/2013/jun/30/evie-wyld-birds-singing-review).
-2. [Jeff Vendermeer on Ecstatic Days](http://www.jeffvandermeer.com/2014/07/02/review-all-the-birds-singing-by-evie-wyld/).
+2. [Jeff Vendermeer on Ecstatic Days](https://web.archive.org/web/20140912054745/http://www.jeffvandermeer.com/2014/07/02/review-all-the-birds-singing-by-evie-wyld/).

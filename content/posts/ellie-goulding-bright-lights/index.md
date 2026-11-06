@@ -6,7 +6,7 @@ title: Ellie Goulding - Bright Lights
 hero: images/ellie-goulding-bright-lights.jpg
 hero_alt: "Ellie Goulding - Bright Lights"
 ---
-So today [my random album script](/how-random-should-things-be/) picked out "Bright Lights" by Ellie Goulding, an album I wasn't sure I've ever listened to. I looked in my music library and there it was! As a result this is not so much an [album revisit](/tag/album%20revisit/) as an album _visit_.
+So today [my random album script](/posts/how-random-should-things-be/) picked out "Bright Lights" by Ellie Goulding, an album I wasn't sure I've ever listened to. I looked in my music library and there it was! As a result this is not so much an [album revisit](/tags/album-revisit/) as an album _visit_.
 
 <!--more-->
 Anyway, this album was released in 2010 and did quite well. {{< marginfigure src="../../assets/images/album-revisits/ellie-goulding-bright-lights.jpg" alt="Cover of Bright Lights by Ellie Goulding" caption="Cover of _Bright Lights_ by Ellie Goulding" >}} In fact, "Bright Lights" is a reissue of an album that was originally released as "Lights" (February 2010). This version adds seven extra tracks, which explains why it's an exhausting seventeen tracks long. "Lights" was a successful debut and a few of the singles went top 20, which is what led to its re-release with all those extra songs in November of the same year. (I think this is why it is in my collection, I think I bought it for my mum or for a sibling as part of a Christmas present, and ripped the CD out of curiosity...)

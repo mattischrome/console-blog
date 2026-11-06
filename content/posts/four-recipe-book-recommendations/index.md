@@ -22,7 +22,7 @@ For more practical yet still somewhat decadent recipes I often turn to this gem 
 
 As with The A-Z of Cooking the chapters are gathered around particular ingredients. The many different chicken recipes are very delicious, particularly the lemon and thyme roast chicken legs. Nigel can always be relied on to produce a recipe for something boozy and garlicky, great for entertaining on Sunday lunchtimes.
 
-Another great recipe is the Chocolate Espresso Cake, which [I’ve copied out on this blog before](/chocolate-cake-recipe). We regularly make this as a gluten free cake because it’s very tolerant of gluten free flour, probably on account of all the eggs, butter and chocolate that make up the bulk of the ingredients. We even used this recipe for our wedding cake.
+Another great recipe is the Chocolate Espresso Cake, which [I’ve copied out on this blog before](/posts/chocolate-cake-recipe/). We regularly make this as a gluten free cake because it’s very tolerant of gluten free flour, probably on account of all the eggs, butter and chocolate that make up the bulk of the ingredients. We even used this recipe for our wedding cake.
 
 ## Foolproof Cooking by Mary Berry
 Another book that does exactly what it says on the cover. Most of the recipes in here are tasty and many of them are easy to make as well. In particular, from this book we’ve learned how to make barbecue chicken wings without using tomatoes and an amazing sausage cassoulet that you can live on through the winter (watch your waist though!).

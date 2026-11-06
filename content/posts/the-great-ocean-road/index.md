@@ -6,7 +6,7 @@ title: The Great Ocean Road
 hero: images/great_ocean_road_01.jpg
 hero_alt: "The Great Ocean Road"
 ---
-As a [wedding present](articles/the-same-yet-different), Ingrid's Mum Maria kindly took us for a trip along [The Great Ocean Road](https://en.wikipedia.org/wiki/Great_Ocean_Road), the longest war memorial in the world.
+As a [wedding present](/posts/the-same-yet-different/), Ingrid's Mum Maria kindly took us for a trip along [The Great Ocean Road](https://en.wikipedia.org/wiki/Great_Ocean_Road), the longest war memorial in the world.
 
 <!--more-->
 Stretching 151 miles from Torquay (not that one!) to Allansford, the road was deliberately built as a tourist attraction as a means of providing meaningful work for troops returning home from the First World War. Regarded as one of the world's greatest scenic roads, it certainly holds it own against things like the roads I experienced in Chile and Bolivia when I travelled over the Andes.

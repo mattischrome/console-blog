@@ -18,5 +18,5 @@ In fact, I'd argue that 'Hounds of Love' is more odd and uncompromising than 'Th
 [1]:	https://wilhelmreichmuseum.org/about/biography-of-wilhelm-reich/
 [2]:	https://en.wikipedia.org/wiki/Orgone
 [3]:	https://www.cultofweird.com/medical/radium-girls/
-[4]:	https://mattischrome.com/understated-classics-19
-[5]:	https://mattischrome.com/tag/understated%20classics/
+[4]:	/posts/understated-classics-19/
+[5]:	/categories/understated-classics/

@@ -11,7 +11,7 @@ hero_alt: "Illustration for the post “Album Digest, May 2013”"
 
 ## Lilacs & Champagne _Danish & Blue_
 
-You might remember that last year [I reviewed the first Lilacs & Champagne album](album-digest-february-2012) and I liked it a lot. This album sees them back with more of the same: taking the approach that if it ain't broke, don't fix it. There are very few changes to the formula apart from the fact that the spoken word samples are not quite as good this time and there's a bit more Grails-like guitar solo action.
+You might remember that last year [I reviewed the first Lilacs & Champagne album](/posts/album-digest-february-2012/) and I liked it a lot. This album sees them back with more of the same: taking the approach that if it ain't broke, don't fix it. There are very few changes to the formula apart from the fact that the spoken word samples are not quite as good this time and there's a bit more Grails-like guitar solo action.
 
 The action is bookended by two tracks "Metaphysical Transitions" and "Metaphysical Transitions II" that feature an ageing hippy singer pronouncing how "this album" features songs that come from him 'getting his shit together'. In between I don't think this is quite as good an album as the first one. Some of the tracks, like "Sour/Sweet", are a bit on the sketchy side - it's a great idea but it's too short and doesn't go anywhere.
 
@@ -19,7 +19,7 @@ Of the longer tracks I really like "Le Grand", which sounds like something that 
 
 ## The Phoenix Foundation _Fandango_
 
-I've written an album digest on the last of each month since [January 2011](album-digest-january-2011) and in that first set of reviews, I wrote about The Phoenix Foundation's excellent album "Buffalo". That album busted the band out of their homeland isolation (they're from New Zealand) and moved them on to the international scene. "Fandango" is the follow-up.
+I've written an album digest on the last of each month since [January 2011](/posts/album-digest-january-2011/) and in that first set of reviews, I wrote about The Phoenix Foundation's excellent album "Buffalo". That album busted the band out of their homeland isolation (they're from New Zealand) and moved them on to the international scene. "Fandango" is the follow-up.
 
 Whereas "Buffalo" was essentially smooth and languid pop record, "Fandango" cuts loose with the instrumentation a little more and is a messier longer album. This is something that I actually wanted from "Buffalo" but I think "Fandango" is a bit shorter on quality tunes - certainly only opening track "Black Mould" is the only track that really comes close to replicating the joyous rush of "Buffalo"'s title track or the brilliantly weird "Apple and Mango".
 

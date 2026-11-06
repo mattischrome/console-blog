@@ -25,7 +25,7 @@ Little wonder then that most days I just put a good old-fashioned record on inst
 
 [1]:	https://www.theverge.com/2021/11/23/22798338/spotify-netflix-hub-exclusive-audio-extras
 [2]:	https://www.bbc.co.uk/news/entertainment-arts-59365019
-[3]:	https://www.timetoplayfair.com/timeline/
+[3]:	https://web.archive.org/web/20211223090547/https://www.timetoplayfair.com/timeline/
 [4]:	https://wccftech.com/spotify-blocks-songshift-from-allowing-song-transfers-to-other-services-like-apple-music/
 [5]:	https://appleinsider.com/articles/21/08/05/itunes-match-is-not-working-for-a-growing-number-of-users
 [6]:	https://en.wikipedia.org/wiki/Luddite "Wikipedia entry about the luddites"

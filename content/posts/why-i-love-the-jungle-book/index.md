@@ -6,7 +6,7 @@ tags: ["Lists", "Films", "The Jungle Book", "Animation", "Eleven"]
 title: Why I Love The Jungle Book
 hero: images/hero.jpg
 ---
-Just as with the [understated classics](understated-classics) I want to set out my stall early on that good movies are good enough. Both [_Betty Blue_](why-i-love-betty-blue) and today’s choice _The Jungle Book_ are never going to win any sort of consensus prize for the best movies ever made but they are really good. They also have a personal history attached that makes them worth writing about.
+Just as with the [understated classics](/categories/understated-classics/) I want to set out my stall early on that good movies are good enough. Both [_Betty Blue_](/posts/why-i-love-betty-blue/) and today’s choice _The Jungle Book_ are never going to win any sort of consensus prize for the best movies ever made but they are really good. They also have a personal history attached that makes them worth writing about.
 
 <!--more-->
 When I was younger both my sisters would be given VHS copies of Disney movies at a rate of about two a year, one for Christmas and one at their birthday. It seems strange today to think of that pace of movie acquisition, never mind the clunky VHS cassettes and how they would warp over time. I didn’t really ever get any of the Disney movies myself but I would inevitably find myself watching them with my sisters who would watch them repeatedly. With just four TV channels back then, who could blame us.

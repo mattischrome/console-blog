@@ -7,7 +7,7 @@ title: Album Digest, June 2015
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, June 2015”"
 ---
-To reboot this series, Album Digest June 2015 features five fantastic albums from Hot Chip, Jamie xx, Blanck Mass, Holly Herndon, and The Orb. I could pick loads more as I've listened to a lot of albums since [February](/album-digest-february-2015/) but I decided to focus on the more electronic material. This means that I have no excuses for not continuing next month with a rockier theme.
+To reboot this series, Album Digest June 2015 features five fantastic albums from Hot Chip, Jamie xx, Blanck Mass, Holly Herndon, and The Orb. I could pick loads more as I've listened to a lot of albums since [February](/posts/album-digest-february-2015/) but I decided to focus on the more electronic material. This means that I have no excuses for not continuing next month with a rockier theme.
 
 <!--more-->
 ## Hot Chip "Why Make Sense?"
@@ -56,7 +56,7 @@ This is an album that could teach robots to love. It's excellent. It features pr
 
 Holly is a musician and sound artist, and her compositions on "Platform" skip along that boundary between recognisable music and something other, something we might instead choose to call art.
 
-At points it makes me think of [Laurie Spiegel's experiments in how to create electronic music in the first place](/album-digest-october-2012/), the experiments of Glass, Reich, and others in making a modern classical music, and then the simple visceral pleasures of techno's throbs and thuds.
+At points it makes me think of [Laurie Spiegel's experiments in how to create electronic music in the first place](/posts/album-digest-october-2012/), the experiments of Glass, Reich, and others in making a modern classical music, and then the simple visceral pleasures of techno's throbs and thuds.
 
 Elsewhere there are tracks that make me think of Prince, James Blake, Grimes, and [Laurie Andersen](https://en.wikipedia.org/wiki/Laurie_Anderson). Most of it though just sounds utterly unique: all those comparisons are just me clutching at straws.
 

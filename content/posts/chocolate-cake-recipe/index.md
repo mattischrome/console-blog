@@ -6,11 +6,11 @@ title: The Only Chocolate Cake Recipe You’ll Ever Need
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The Only Chocolate Cake Recipe You’ll Ever Need”"
 ---
-As I mentioned [in a previous post](/the-reset-button/), I baked a chocolate cake the other day and it was a great success. Here is the recipe, which is a trivial modification of one that appears in Nigel Slater's "Real Food" (Amazon links: [UK](http://www.amazon.co.uk/Real-Food-Nigel-Slater/dp/1841151440/ref=sr_1_1?ie=UTF8&qid=1382362805&sr=8-1&keywords=nigel+slater+real+food), [US](http://www.amazon.com/Real-Food-Nigel-Slater/dp/1841151440/ref=sr_1_1?ie=UTF8&qid=1382362827&sr=8-1&keywords=nigel+slater+real+food)). "Real Food" is a cookbook that I genuinely treasure. The modification I have made for this recipe is to omit the espresso but I will point out where it should be added, in case you want to give that a try.
+As I mentioned [in a previous post](/posts/the-reset-button/), I baked a chocolate cake the other day and it was a great success. Here is the recipe, which is a trivial modification of one that appears in Nigel Slater's "Real Food" (Amazon links: [UK](http://www.amazon.co.uk/Real-Food-Nigel-Slater/dp/1841151440/ref=sr_1_1?ie=UTF8&qid=1382362805&sr=8-1&keywords=nigel+slater+real+food), [US](http://www.amazon.com/Real-Food-Nigel-Slater/dp/1841151440/ref=sr_1_1?ie=UTF8&qid=1382362827&sr=8-1&keywords=nigel+slater+real+food)). "Real Food" is a cookbook that I genuinely treasure. The modification I have made for this recipe is to omit the espresso but I will point out where it should be added, in case you want to give that a try.
 
 <!--more-->
 Ingredients:
-- 180g fine dark chocolate, chopped. (Do not skimp on this in any way! I use [Nestlé's Menier Dark Cooking Chocolate](http://www.ocado.com/webshop/product/Menier-Dark-Chocolate/10805011).)
+- 180g fine dark chocolate, chopped. (Do not skimp on this in any way! I use [Nestlé's Menier Dark Cooking Chocolate](https://www.ocado.com/products/Menier-Dark-Chocolate/10805011).)
 - 140g butter, diced.
 - 5 free range eggs, separated. (I hate this bit!)
 - 200g golden caster sugar.

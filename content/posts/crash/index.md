@@ -11,7 +11,7 @@ hero_alt: "Illustration for the post “J. G. Ballard, Crash”"
 
 ### Form and function, deformation and dysfunction
 
-I think we should get one thing out of the way first. For me, there is nothing erotic about a car or a motorway. The place in popular culture of the car in particular as sexual icon has always bemused me. In fact, I’m really rather ambivalent about cars. This matters when discussing _Crash_, the 1973 novel by JG Ballard that resumes this strand of posts about his novels. (You can read about _The Drowned World_ [here](/the-drowned-world/), _The Drought_ [here](/the-drought/) and _The Crystal World_ [here](/the-crystal-world/)).
+I think we should get one thing out of the way first. For me, there is nothing erotic about a car or a motorway. The place in popular culture of the car in particular as sexual icon has always bemused me. In fact, I’m really rather ambivalent about cars. This matters when discussing _Crash_, the 1973 novel by JG Ballard that resumes this strand of posts about his novels. (You can read about _The Drowned World_ [here](/posts/the-drowned-world/), _The Drought_ [here](/posts/the-drought/) and _The Crystal World_ [here](/posts/the-crystal-world/)).
 
 The genius of _Crash_ is that premise of people deriving sexual gratification from cars and car crashes. Anyone you talk to about it will give a response in between one of “oh that’s weird” and “oh that’s gross”. My own response was something like that too, a sort of morbid curiosity (it was the first Ballard novel that I read) and the true art of the novel is how the writing really draws you in.
 

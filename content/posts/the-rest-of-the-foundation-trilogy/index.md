@@ -7,13 +7,13 @@ title: Isaac Asimov, Foundation and Empire, Second Foundation
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Isaac Asimov, Foundation and Empire, Second Foundation”"
 ---
-I managed to read all of the foundation novels since I [wrote about the first one](/foundation). In this post, I’ll write about the next two, which covers the original trilogy of ‘novels’ created from the original short stories. I’ve tried to avoid spoilers.
+I managed to read all of the foundation novels since I [wrote about the first one](/posts/foundation/). In this post, I’ll write about the next two, which covers the original trilogy of ‘novels’ created from the original short stories. I’ve tried to avoid spoilers.
 
 <!--more-->
 
 ## Foundation and Empire
 
-Foundation and Empire comprises two novella length stories. The first story (“The General”) picks up from shortly after where the last of the five short stories in [Foundation](/foundation) left off. While the Foundation has expanded its influence by using its monopoly on technology to control trade, the once great Empire begins to notice. One particular person who notices is a brilliant young General who is determined to crush the Foundation and restore the former power of the Empire.
+Foundation and Empire comprises two novella length stories. The first story (“The General”) picks up from shortly after where the last of the five short stories in [Foundation](/posts/foundation/) left off. While the Foundation has expanded its influence by using its monopoly on technology to control trade, the once great Empire begins to notice. One particular person who notices is a brilliant young General who is determined to crush the Foundation and restore the former power of the Empire.
 
 The Foundation side of the story is told from the point of view of Lathan Devers, sent by the Foundation to infiltrate Riose’s military operation, however things don’t quite go according to plan… except of course they do: the Seldon Plan takes care of events once more. There’s something of a road movie feel to this half of F&E and the writing is again the precise, well-honed text of the first book’s short stories but given freer reign in a longer format. 
 

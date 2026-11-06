@@ -14,7 +14,7 @@ The two big releases this month were _The King Is Dead_ by **The Decemberists** 
 
 As usual, there are also the Fabric mixes to consider. _FabricLive 55_ sees **DJ Marky** deliver a kinetic drum-n-bass mix. I don’t tend to buy d-n-b but I do like it when one comes along in the Fabric series. It’s perfect for genre daytrippers like me, I thought it was pretty good and may even get some repeat listens when I fancy something frenetic. Meanwhile, _Fabric 55_ was another of their occasional single artist affairs, this time by **Shackleton**. I found it washed over me a little too easily, though there was a really spooky scripture-quoting track toward the end that I really liked.
 
-I also wanted to listen to the new **White Lies** album _Ritual_ because it has been getting hilariously bad reviews (e.g. [here](http://thequietus.com/articles/05510-white-lies-ritual-review)) but I’ve given up on Spotify now as I was not using it enough.
+I also wanted to listen to the new **White Lies** album _Ritual_ because it has been getting hilariously bad reviews (e.g. [here](https://thequietus.com/quietus-reviews/white-lies-ritual-review/)) but I’ve given up on Spotify now as I was not using it enough.
 
 Are you sitting comfortably? Are your musical antennae all a-twitch? Then let us begin!
 

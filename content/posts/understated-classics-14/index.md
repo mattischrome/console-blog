@@ -10,7 +10,7 @@ hero_alt: "Illustration for the post “Understated Classics #14: Clear by Bomb 
 > I think it’s time to discuss your philosophy of drug use as it relates to artistic endeavour…
 
 <!--more-->
-That quote is from the movie “The Naked Lunch” directed by David Cronenburg (see also [this](/crash/)) and it also opens “Bug Powder Dust” by Bomb The Bass, the five star single that opens “Clear”. A rollicking piece of rock rap dripping with pop culture references that runs for four and half minutes and does not stop until another quote from “The Naked Lunch”, it is probably one of my favourite songs of the 90s. That churning guitar line sends me right back.
+That quote is from the movie “The Naked Lunch” directed by David Cronenburg (see also [this](/posts/crash/)) and it also opens “Bug Powder Dust” by Bomb The Bass, the five star single that opens “Clear”. A rollicking piece of rock rap dripping with pop culture references that runs for four and half minutes and does not stop until another quote from “The Naked Lunch”, it is probably one of my favourite songs of the 90s. That churning guitar line sends me right back.
 
 Most of the rest of the album proceeds in more straightforward fashion. Second song “Sleepyhead” is all dub rhythms and fuzzy guitar, the sort of record I used to dream of making for myself. I used to write a lot of songs around this time and I reckon most of them sounded like “Sleepyhead” inside my head, even if it is a pretty standard bit of 90’s R&B made interesting by that dub baseline.
 

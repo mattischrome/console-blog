@@ -11,7 +11,7 @@ hero_alt: "Illustration for the post “Album Digest, March 2011”"
 
 ## This is not an Album Digest March 2011
 
-Well as I said at the end of [last month’s album digest post](/album-digest-february-2011/), I took a bit of a break from pursuing new music quite as closely as I have been. As promised, I sidestepped the new R.E.M. and Elbow albums - although I had been promised the latter as a birthday present it is yet to show up, maybe I will look at in April.
+Well as I said at the end of [last month’s album digest post](/posts/album-digest-february-2011/), I took a bit of a break from pursuing new music quite as closely as I have been. As promised, I sidestepped the new R.E.M. and Elbow albums - although I had been promised the latter as a birthday present it is yet to show up, maybe I will look at in April.
 
 Originally, I’d intended to dig into the more obscure albums that have been recommended in recent months but it turns out that try to respond to music just because it has been well received critically is actually quite difficult. I often wonder if I just like albums because I am told to but I think this month’s experiments have proved that you do have to do a bit of research and think through your emotional responses to stuff, particularly if you have not heard anything before in that genre or by that artist.
 

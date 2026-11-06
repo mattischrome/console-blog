@@ -9,7 +9,7 @@ title: Heavyweight Podcast
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Heavyweight Podcast”"
 ---
-[Heavyweight](https://gimletmedia.com/show/heavyweight/about/) is a podcast about “heavyweight” issues, in the sense of burdens on the soul, rather than the burning issues of the day. It’s presented by Jonathan Goldstein, who was the host of the WireTap podcast. Each week he helps someone resolve an issue from their past. These include resolving family feuds and understanding mid-life depression.
+[Heavyweight](https://web.archive.org/web/20160918111802/https://gimletmedia.com/show/heavyweight/about/) is a podcast about “heavyweight” issues, in the sense of burdens on the soul, rather than the burning issues of the day. It’s presented by Jonathan Goldstein, who was the host of the WireTap podcast. Each week he helps someone resolve an issue from their past. These include resolving family feuds and understanding mid-life depression.
 
 <!--more-->
 I am a generalist who often takes a broader view of things. Heavyweight reminds me that the emotions of individuals are as important as the wider trends that affect groups. It’s helped reinforce my recent thinking that one leads to the other and that it’s more of a causal relationship than we might think. Despite my interest in the general, I’m a microeconomist at heart.
@@ -28,4 +28,4 @@ It’s interesting this episode's named for the girl in the video though it actu
 
 The third episode made me a believer but it also intrigued me as to what the podcast's really about. Whose experiences do we listen to? Perhaps the experience is our experience of listening to it? Sometimes it feels clunky: the third episode has obvious “thinking music” that plays as Jonathan interjects. The conversation that you’re more interested in feels paused underneath these intrusions. I don’t listen to a lot of podcasts but perhaps these represent experiments in the form? Or maybe he’s cribbing from other podcasts? I mainly listen to discussion-type podcasts so it’s good to hear something new. I’ve never listened to WireTap but it ran for eleven years, so they must know what they're doing.
 
-That’s where I’ve got to. When this post goes up, episode four goes out the next day. I look forward to it. I recommend the Heavyweight podcast, it’s available through [iTunes](https://itunes.apple.com/us/podcast/id1150800298) and [Soundcloud](https://soundcloud.com/heavyweightpodcast).
+That’s where I’ve got to. When this post goes up, episode four goes out the next day. I look forward to it. I recommend the Heavyweight podcast, it’s available through [iTunes](https://podcasts.apple.com/us/podcast/heavyweight/id1150800298) and [Soundcloud](https://soundcloud.com/heavyweightpodcast).

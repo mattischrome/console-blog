@@ -6,7 +6,7 @@ title: J. D. Vance, Hillbilly Elegy
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “J. D. Vance, Hillbilly Elegy”"
 ---
-["Hillbilly Elegy"](https://www.goodreads.com/book/show/27161156-hillbilly-elegy) is the autobiography of JD Vance, a self-professed hillbilly made good who graduated from Yale Law School. I read it because reviews touted it as illustrating the economic conditions leading to Brexit and the implausible election of Donald Trump. As [I wrote in an earlier post](space-between-this-and-that), I'm keen to learn about why Brexit happened. However, I think this book fails to provide an explanation. 
+["Hillbilly Elegy"](https://www.goodreads.com/book/show/27161156-hillbilly-elegy) is the autobiography of JD Vance, a self-professed hillbilly made good who graduated from Yale Law School. I read it because reviews touted it as illustrating the economic conditions leading to Brexit and the implausible election of Donald Trump. As [I wrote in an earlier post](/posts/in-the-space-between-this-and-that/), I'm keen to learn about why Brexit happened. However, I think this book fails to provide an explanation. 
 
 <!--more-->
 Nevertheless, I enjoyed the book. It gave me plenty to think about. The story Vance tells is entertaining, but falls short of presenting a meaningful social and economic analysis of the plight of the white working classes.

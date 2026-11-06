@@ -11,7 +11,7 @@ It can be a struggle to keep writing. I've found this happened a lot since I mov
 <!--more-->
 Then there seemed to be a lot more barriers to writing than previously. We can say what we like about the machinery that WordPress runs on, it does make it easy to write regularly. It also provides a lot of tools for making writing fun and for learning things as you go. I still have access to those things but it's a little different now.
 
-And of course, with it coming up for a year of living with [Ingrid](http://www.sustainabilityingrid.com/ingystravelog/) it just so happens that my creative outlets are a little different now. *Our* creative outlets. And  they haven't changed that much anyway. We cook. We visit places. We talk about culture and politics. It just seems more fun to do than to reflect. As I said, a different form of creativity.
+And of course, with it coming up for a year of living with Ingrid it just so happens that my creative outlets are a little different now. *Our* creative outlets. And  they haven't changed that much anyway. We cook. We visit places. We talk about culture and politics. It just seems more fun to do than to reflect. As I said, a different form of creativity.
 
 And then it also goes without saying that the world continues apace, producing all sorts of interesting, strange, and terrible happenings. Things that I don't feel that confident writing about. It can be quite hard to put a pin in it and not write about certain events. I know I'm not qualified to offer opinions on most things, but one of the reasons that I write is to understand what's going on in and around me. 
 

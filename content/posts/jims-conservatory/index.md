@@ -19,7 +19,7 @@ Jim has an income that was comfortably managing to pay his debts but now his deb
 
 Naturally we assume that Jim can't simply default.
 
-We'll assume that Jim is already in an optimal and legal tax situation, that [he can't earn more simply by withholding it from others who are due](http://www.theguardian.com/business/2015/feb/08/hsbc-files-expose-swiss-bank-clients-dodge-taxes-hide-millions) - after all, [this is little more than default by another name](http://www.demos.org/data-byte/federal-revenue-lost-tax-evasion).
+We'll assume that Jim is already in an optimal and legal tax situation, that [he can't earn more simply by withholding it from others who are due](http://www.theguardian.com/business/2015/feb/08/hsbc-files-expose-swiss-bank-clients-dodge-taxes-hide-millions) - after all, [this is little more than default by another name](https://web.archive.org/web/20150525/http://www.demos.org/data-byte/federal-revenue-lost-tax-evasion).
 
 Jim's best chance at paying off the debt is to increase his income. He’d [better do it sooner rather than later](http://www.theguardian.com/commentisfree/2014/may/30/britain-feasting-on-credit-crunch-hit-2016), as he has little idea of which way the economy will turn. He has some options for quick wins - he considers withdrawing from his pension scheme until the debt is paid. He could also [cancel his home insurance](http://scraptrident.org) (at least for a little while). [He can ask for a raise](http://www.theguardian.com/society/2014/aug/15/voters-tax-fund-nhs-poll) but not for too much or he’ll simply be out on his ear and earning nothing.
 

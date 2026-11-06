@@ -13,7 +13,7 @@ Album Digest June 2016 is a poppy batch of albums. We have the return of my long
 
 ## Roxette "Good Karma"
 
-I've loved [Roxette](http://www.roxette.se) since I was about ten years old. The first album I ever owned was "Look Sharp!" ([Understated Classic #12](/uc12/)) and although my interest waxes and wanes, I usually check in on them when they release new stuff.
+I've loved [Roxette](https://web.archive.org/web/20160624165239/http://www.roxette.se:80/) since I was about ten years old. The first album I ever owned was "Look Sharp!" ([Understated Classic #12](/posts/understated-classics-12/)) and although my interest waxes and wanes, I usually check in on them when they release new stuff.
 
 This album is pretty much what you'd expect from a pop band that's been going for over thirty years - they're having fun and they want you to have fun. It's nowhere near as good as their best stuff, but Marie can't sing as much as she used to due to previous health problems. When she does contribute it lifts everything, although in some places it sounds like she's been sampled off old records. Whether or not this is really the case I don't know, but it would be typically self-referential if they were. Whatever the circumstances there aren't many songs here that you'd put on the next nostalgic hits compilation they release.
 
@@ -47,7 +47,7 @@ The most interesting tracks are the instrumental vignettes. In particular "Wall 
 
 ## Islands "Should I Remain Here At Sea?"
 
-I don't have much to say about the new [Islands](http://islandsareforever.com) album "Should I Remain Here At Sea?" at the moment, save to say that I've listened to it through a couple of times and enjoyed it. It's one of two albums recently released by the band. [Both were crowdfunded](http://www.pledgemusic.com/projects/islands). This one is meant to be a sequel in spirit to their debut "Return To Sea" and it's very straightforward and rocky. I'll be reviewing the other album "Taste" next month. It's meant to be more electronic but I haven't listened to it all yet.
+I don't have much to say about the new [Islands](http://islandsareforever.com) album "Should I Remain Here At Sea?" at the moment, save to say that I've listened to it through a couple of times and enjoyed it. It's one of two albums recently released by the band. Both were crowdfunded. This one is meant to be a sequel in spirit to their debut "Return To Sea" and it's very straightforward and rocky. I'll be reviewing the other album "Taste" next month. It's meant to be more electronic but I haven't listened to it all yet.
 
 I remember "Return To Sea" as being more tricky and complex than anything on "Shall I Remain Here At Sea?". A case in point is the opening track on each album. "Return To Sea" begins with "Swans", which stretches over nine and a half minutes while twisting and turning over itself multiple times. "Shall I Remain Here At Sea?" begins with a three minute song called "Back Into It" that does pretty much what it says on the tin: it reintroduces you to a more straightforward version of the Islands sound in order to get you back into it.
 

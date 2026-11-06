@@ -6,7 +6,7 @@ title: Favourite Culture Ship Names
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Favourite Culture Ship Names”"
 ---
-As I mentioned before [I am re-reading the novels of Iain Banks](more-books) and this weekend I managed to finish _Consider Phlebas_. A little post about it will be coming up soon. One of my favourite things about the Culture novels is how the ships are named and having found [a list on Wikipedia](http://en.wikipedia.org/wiki/List_of_ships_(The_Culture)), I thought I would share ten of my favourites with you!
+As I mentioned before [I am re-reading the novels of Iain Banks](/posts/more-books/) and this weekend I managed to finish _Consider Phlebas_. A little post about it will be coming up soon. One of my favourite things about the Culture novels is how the ships are named and having found [a list on Wikipedia](https://en.wikipedia.org/wiki/List_of_spacecraft_in_the_Culture_series), I thought I would share ten of my favourites with you!
   
 <!--more-->
 1. _You’ll Clean That Up Before You Leave_  

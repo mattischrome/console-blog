@@ -6,7 +6,7 @@ title: Album Digest, November 2011
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, November 2011”"
 ---
-Just three albums this month as I’ve been listening to a lot of Brian Eno records ready for an upcoming understated classic. First up is _50 Words For Snow_ by **Kate Bush**, the second album that she has released this year. [Back in May](album-digest-may-2011) I wrote about _Director’s Cut_, which presented re-recorded and re-mastered versions of songs from her albums _The Sensual World_ and _The Red Shoes_. This time around it is an album of brand new material, the first since _Aerial_ in 2006.
+Just three albums this month as I’ve been listening to a lot of Brian Eno records ready for an upcoming understated classic. First up is _50 Words For Snow_ by **Kate Bush**, the second album that she has released this year. [Back in May](/posts/album-digest-may-2011/) I wrote about _Director’s Cut_, which presented re-recorded and re-mastered versions of songs from her albums _The Sensual World_ and _The Red Shoes_. This time around it is an album of brand new material, the first since _Aerial_ in 2006.
 
 <!--more-->
 Ariel was divided into two discs and _50 Words For Snow_ is similar to both _A Sea Of Honey_ (discrete songs) and _A Sky Of Honey_ (a thematically linked suite of songs). It’s a smart move to release such a wintry album just as the weather starts to get really cold. Listening to the opening track _Snowflake_ while walking home in the dark and cold mist the other night was a surreal and beautiful experience.
@@ -23,7 +23,7 @@ Nevertheless the track listing is dominated by songs from the middle of his care
 
 Other tracks disappoint though, _OVO_ is forgotten for a reason and _Digging In The Dirt_ was never the most interesting song on _Us_: it certainly isn’t with the guitars stripped away and a rather poor version of the vocal. Meanwhile _Darkness_ is exposed as a fragmented mess (as pretty much any song off _Up_ would have been, save perhaps for _The Drop_ or _Sky Blue_) and made all the worse by what sounds like a poor Tom Waits impersonation.
 
-**Tom Waits** you say? I managed to forget about _Real Gone_ [last month](album-digest-october-2011). This was because I hadn’t had much time to listen to it at the time (mainly because I bought the Coldplay album and hadn’t expected to). Getting to know it a bit more, I can say that I really like it. I don’t think it is the best album that he has ever produced but it is better than _Real Gone_, it’s shorter, more direct and for the large part sweeter. I think you could probably live without the last two tracks but that would make for a very short album indeed.
+**Tom Waits** you say? I managed to forget about _Real Gone_ [last month](/posts/album-digest-october-2011/). This was because I hadn’t had much time to listen to it at the time (mainly because I bought the Coldplay album and hadn’t expected to). Getting to know it a bit more, I can say that I really like it. I don’t think it is the best album that he has ever produced but it is better than _Real Gone_, it’s shorter, more direct and for the large part sweeter. I think you could probably live without the last two tracks but that would make for a very short album indeed.
 
 For me, the highlights are _Talking At The Same Time_, _Back In The Crowd_ (though I originally thought it was rather morbid, having heard the chorus as “put me back in the ground”), the title track and _Satisfied_.
 

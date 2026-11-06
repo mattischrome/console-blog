@@ -39,7 +39,7 @@ Wire should be better known to everyone everywhere. The fact that they aren't ma
 
 ## James Blake _Overgrown_
 
-James Blake's eponymous debut album really blew me away back in [February 2011](album-digest-february-2011) but I did wonder at the time  whether my interest would be maintained over time. True enough, that album did fade into the periphery and so I wasn't too excited at the prospect of _Overgrown_. However, I think that he has done a good job here and that this album takes what made the first so unusual and adds in a few more conventional song tropes to make a record that feels much more tangible and interesting than that debut does now, two years on.
+James Blake's eponymous debut album really blew me away back in [February 2011](/posts/album-digest-february-2011/) but I did wonder at the time  whether my interest would be maintained over time. True enough, that album did fade into the periphery and so I wasn't too excited at the prospect of _Overgrown_. However, I think that he has done a good job here and that this album takes what made the first so unusual and adds in a few more conventional song tropes to make a record that feels much more tangible and interesting than that debut does now, two years on.
 
 It's apparent immediately on the title track (the first and best song on the album) that there is a better match of his beatmaking skills and his beautiful voice, it's much more soulful. Whereas previous tracks like _The Wilhelm Scream_ delighted in contorting his voice into weird shapes and others like _I Never Learned To Share_ seemed to almost goad the listener with how spartan their musical arrangements were, on _Overgrown_ everything seems more focussed on content and emotion.
 

@@ -36,7 +36,7 @@ Because of this blog's current theme I am often using [the `ggthemes` package](h
 
 This week I also came across [the `hrbrthemes` package](https://hrbrmstr.github.io/hrbrthemes/), which also has a neat style using Google's ubiquitous Roboto Sans font. As an added bonus the package also includes a spellchecker that makes sure you've spelt your titles and labels correctly. Check out the examples, they look pretty smart.
 
-Other fun theme packages worth investigating include [`gg_sci`](https://ggsci.net) (themes based on science journals and science fiction shows) and [`gg_tech`](https://github.com/ricardo-bion/ggtech) (themes based on tech companies such as Airbnb). The latter package's Twitter theme fits well with the colour scheme of the council's official slide deck so I might use it at work in future.
+Other fun theme packages worth investigating include [`gg_sci`](https://web.archive.org/web/20171016112316/https://ggsci.net/) (themes based on science journals and science fiction shows) and [`gg_tech`](https://github.com/ricardo-bion/ggtech) (themes based on tech companies such as Airbnb). The latter package's Twitter theme fits well with the colour scheme of the council's official slide deck so I might use it at work in future.
 
 ## Exporting transparent graphics.
 I think that exporting graphs with coloured backgrounds to match this website is a reasonable workaround but the best approach is to export `png` files with transparent backgrounds. A quick search of stackoverflow [brings up the following commands](https://stackoverflow.com/questions/7455046/how-to-make-graphics-with-transparent-background-in-r-using-ggplot2#7455481):

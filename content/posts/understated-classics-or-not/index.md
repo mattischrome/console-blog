@@ -23,10 +23,10 @@ People always scoff somewhat at my choice of [*Tubular Bells 2*][6] as an unders
 
 Unfortunately, when you listen to *Tubular Bells 2* on Apple Music, the service swaps out the stunning eight-minute version of Sentinel for the 'Early Stages' demo version (which in itself is *fine* but definitely not the glorious beast that Sentinel became). Which again leads me back to [sighing heavily about streaming][7]…
 
-[1]:	https://mattischrome.com/a-pox-on-both-their-houses
-[2]:	https://mattischrome.com/understated-classics-09
+[1]:	/posts/a-pox-on-both-their-houses/
+[2]:	/posts/understated-classics-9/
 [3]:	https://todoist.com/productivity-methods/pomodoro-technique
-[4]:	https://mattischrome.com/understated-classics-28
+[4]:	/posts/understated-classics-28/
 [5]:	https://www.theguardian.com/music/2021/nov/24/its-repulsive-to-me-the-bitter-feud-of-indie-rockers-the-wrens
-[6]:	https://mattischrome.com/understated-classics-10
-[7]:	https://mattischrome.com/a-pox-on-both-their-houses
+[6]:	/posts/understated-classics-10/
+[7]:	/posts/a-pox-on-both-their-houses/

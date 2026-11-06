@@ -7,7 +7,7 @@ title: Ambitions Revisited
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Ambitions Revisited”"
 ---
-Back in 2012 [I wrote a post](/ambitions) listing my ambitions for the future. Well it's the future now isn't it? Almost. After all, [I’m a whole new person now](https://www.quora.com/How-long-does-it-take-for-most-of-the-atoms-in-your-body-to-be-replaced-by-others). Anyway it's probably time to take stock. Have I achieved any of them? Have any of my ambitions changed? What's replaced the things that I've decided not to worry about? What has come after the things I managed to do?
+Back in 2012 [I wrote a post](/posts/ambitions/) listing my ambitions for the future. Well it's the future now isn't it? Almost. After all, [I’m a whole new person now](https://www.quora.com/How-long-does-it-take-for-most-of-the-atoms-in-your-body-to-be-replaced-by-others). Anyway it's probably time to take stock. Have I achieved any of them? Have any of my ambitions changed? What's replaced the things that I've decided not to worry about? What has come after the things I managed to do?
 
 <!--more-->
 First off, here's my justification for writing the list in the original post:
@@ -50,13 +50,13 @@ And this is the original list:
 
 So how have I done?
 
-1, 2 and 3. I hope that I am always whole-hearted, cheerful, and sincere. Creativity obviously comes in many forms, but I like to think I continue to explore new ways of doing things. The many many changes in appearance of this blog are a testament to that. I have travelled *a lot* since 2012, getting most of the way around [South America](/south-america-trip-part-1/) in 2013/14 and visiting [Australia](/australia-1) in 2018. One of the ambitions that should have been on the original list was to visit Iceland (it’s a subset of number 19 I guess) and I did that too. As for listening to voices, well my work has started to incorporate much more of that since 2012.
+1, 2 and 3. I hope that I am always whole-hearted, cheerful, and sincere. Creativity obviously comes in many forms, but I like to think I continue to explore new ways of doing things. The many many changes in appearance of this blog are a testament to that. I have travelled *a lot* since 2012, getting most of the way around [South America](/posts/south-america-trip-part-1/) in 2013/14 and visiting [Australia](/posts/australia-1/) in 2018. One of the ambitions that should have been on the original list was to visit Iceland (it’s a subset of number 19 I guess) and I did that too. As for listening to voices, well my work has started to incorporate much more of that since 2012.
 
-4 and 5. I still try and explore new recipes. If you’re working you can’t help needing to quickly bash out a familiar (and/or comforting recipe from time to time). [The A-Z of Cooking by Felicity Cloake](/four-recipe-book-recommendations) has been a useful aid, not to mention Ingrid (see number 9!). Despite all this experimentation, I still hate cucumbers and Ingrid’s allergic to tomatoes so there’s been little progress there either!
+4 and 5. I still try and explore new recipes. If you’re working you can’t help needing to quickly bash out a familiar (and/or comforting recipe from time to time). [The A-Z of Cooking by Felicity Cloake](/posts/four-recipe-book-recommendations/) has been a useful aid, not to mention Ingrid (see number 9!). Despite all this experimentation, I still hate cucumbers and Ingrid’s allergic to tomatoes so there’s been little progress there either!
 
 6 to 8. I do try. I promise.
 
-9 and 10. I think [getting married](/the-same-but-different) satisfies the first of these. I don’t plan to become a parent though. Ambition number 9 can’t really be completed: being married sets up new challenges and rewards. While on the one hand, married life is a permanent sleepover with your best friend, you also have to figure out how to graciously stake out your own autonomy and/or trade it for something better. I’m not going to update my ambitions but number 9 would definitely become “Look after someone special and try to do it better each day”.
+9 and 10. I think [getting married](/posts/the-same-yet-different/) satisfies the first of these. I don’t plan to become a parent though. Ambition number 9 can’t really be completed: being married sets up new challenges and rewards. While on the one hand, married life is a permanent sleepover with your best friend, you also have to figure out how to graciously stake out your own autonomy and/or trade it for something better. I’m not going to update my ambitions but number 9 would definitely become “Look after someone special and try to do it better each day”.
 
 11 to 13. Yeah so these are bit odd. Still working on them, still need to. But the fact that I need to work on this doesn’t bother me quite as much as it once did.
 
@@ -70,13 +70,13 @@ Fifteen. I’m getting there. Note to self: must write more posts about art beca
 
 21 to 24. Another bundle of neuroses. I have disengaged from social networks somewhat and intend to go further. I haven’t taken up meditation at all because the inside of my head is way too noisy. What I did do (at Ingrid’s suggestion) is take up Pilates: I swear by it now. It’s not quite the same as meditation but I’ve found the improvements to my core strength to be quite useful for my mental health.
 
-Twenty five. Again, [working on it](/any-sugar).
+Twenty five. Again, [working on it](/posts/some-sugar/).
 
 Twenty six. Dear 2012-Matt. It’s me, 2019-Matt, again. Isn’t this just the same as number 21? OK, one’s figurative and one’s literal. I get it. Well don’t worry mate, you are going to move house several times (spoiler alert) and every time you do you are going to realise you have failed this one repeatedly. Never mind!
 
 27 and 28. Well, Ingrid looks after the garden. I do the bins. As for writing people letters, I have enough trouble with this blog. Give me a break people!
 
-29 to 31. Reading [The Overstory](/the-overstory) has helped a bit with identifying the trees (number 29), but I must try harder. I am getting better at number 30 all the time. I hope. Well I try to hope. And as for number 31, I have masted the art of those sticky velcro tab things for now.
+29 to 31. Reading [The Overstory](/posts/the-overstory/) has helped a bit with identifying the trees (number 29), but I must try harder. I am getting better at number 30 all the time. I hope. Well I try to hope. And as for number 31, I have masted the art of those sticky velcro tab things for now.
 
 ## Conclusions
 As time passes you tend to favour good memories over bad, and you also feel less pressure to attain life goals. I'm not saying my life goals no longer exist, it's more that I now realise that a set of ideals is something to try to optimise rather than flat out achieve. The process of checking the box is as important as the box getting checked. 

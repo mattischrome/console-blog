@@ -12,7 +12,7 @@ Arequipa and Cusco -- the two cities that are the subject of this post -- are pr
 <!--more-->
 ![](../../assets/images/south_america/part_8/01.jpg)
 
-The drive from [Puerto Inca](south-america-trip-part-7) to Arequipa was long and involved — those Andes aren't going away any time soon and despite some pretty good roads, it takes a long time to get up, through, and down again. Fortunately once you've gone up, Arequipa isn't all the way down again. The views from the truck's cab were stunning. By 11am we'd said goodbye to the Pacific ocean — the last time we would see it until February.
+The drive from [Puerto Inca](/posts/south-america-trip-part-7/) to Arequipa was long and involved — those Andes aren't going away any time soon and despite some pretty good roads, it takes a long time to get up, through, and down again. Fortunately once you've gone up, Arequipa isn't all the way down again. The views from the truck's cab were stunning. By 11am we'd said goodbye to the Pacific ocean — the last time we would see it until February.
 
 Eventually Arequipa emerged from out of the horizon. Before this trip I tended to think of mountains as rather up and down affairs but the Andes is a range and so you have plateaus to cross as well. These are often barren featureless places populated only by scrub plants, the odd llama, and a couple of lonely stray dogs.
 

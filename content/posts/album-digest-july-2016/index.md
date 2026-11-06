@@ -38,7 +38,7 @@ Talking of long hiatuses, it appears that Aphex Twin is well and truly back. Thi
 
 As a result the "Cheetah EP" lets us see two things: another example of just how talented Richard D. James is at programming his kit and an EP that has a uniform sound. It's very much an Aphex Twin EP too, not an AFX one. But unlike "Computer Controlled Instruments Pt2" and despite the name, the focus is very much seems to be on the tunes rather than how or on what instruments they were made.
 
-> "This affordable Digital Wave Sequencing Synthesiser had ... the honour of being one of the most unfathomable instruments ever made - it was mind numbingly confusing to program..." ([GForce Software](http://www.gforcesoftware.com/extras/syntharchive/cheetah-ms800))
+> "This affordable Digital Wave Sequencing Synthesiser had ... the honour of being one of the most unfathomable instruments ever made - it was mind numbingly confusing to program..." ([GForce Software](https://web.archive.org/web/20160725140032/http://www.gforcesoftware.com:80/extras/syntharchive/cheetah-ms800))
 
 I can't tell you what it is about the synth in question or why that makes "Cheetah" a pleasant EP to listen to. All I can tell you is that the rumbling low bass lines and awkward melodies on these tracks don't sound altogether different from others he's released since his return. I particularly like the longer tracks like "CIRKLON3 (Kolkhoznaya mix)" and "CIRKLON1". The EP as a whole is very accessible, probably even more so than "SYRO".
 
@@ -78,4 +78,4 @@ I think there is one great album that you could shake out of these two Islands a
 
 ## Next month
 
-Not sure what's coming next month. I'm definitely going to write about the Prins Thomas album "Principe del Norte" which I've only just discovered (It was released in February 2016). I've not seen much else due out that I fancy reviewing so I may go back and pick up a few more releases from earlier in the year. There's also a new Orb EP out, but that will get a separate post like the other two (["Sin In Space Pt. 1"](/the-orb-sin-in-space-pt-1/) and ["Alpine EP"](/orb-alpine-ep/)) did.
+Not sure what's coming next month. I'm definitely going to write about the Prins Thomas album "Principe del Norte" which I've only just discovered (It was released in February 2016). I've not seen much else due out that I fancy reviewing so I may go back and pick up a few more releases from earlier in the year. There's also a new Orb EP out, but that will get a separate post like the other two (["Sin In Space Pt. 1"](/the-orb-sin-in-space-pt-1/) and ["Alpine EP"](/posts/orb-alpine-ep/)) did.

@@ -6,7 +6,7 @@ title: Choucair At Tate Modern
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Choucair At Tate Modern”"
 ---
-Yesterday I went to see the Saloua Raouda Choucair show at the Tate Modern. As it was quite small, I went to see [the Lichtenstein show](/lichtenstein-at-tate-modern/) again as well.
+Yesterday I went to see the Saloua Raouda Choucair show at the Tate Modern. As it was quite small, I went to see [the Lichtenstein show](/posts/lichtenstein-at-tate-modern/) again as well.
 
 <!--more-->
 Choucair is an underrated Lebanese artist and many of the paintings and sculptures shown were created in the fifties and sixties. Her sculptures in particular are amazing.

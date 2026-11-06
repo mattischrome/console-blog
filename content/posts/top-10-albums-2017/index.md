@@ -25,7 +25,7 @@ My favourite track is called Rebecca. It’s a beautiful and folky tune, the sor
 
 To conclude this is another interesting and compelling album from Grails. It would serve as a good introduction if you’ve never heard their music before. If you have heard them before then you’ll know what to expect and I think you will like what you find.
 
-[(February)](album-digest-february-2017)
+[(February)](/posts/album-digest-february-2017/)
 
 ## 9. Shinichi Atobe "From The Heart It's A Start It's A Work Of Art"
 
@@ -37,7 +37,7 @@ A lot of the tracks seemed to be named after songs and albums in the New Order d
 
 "There are phrases and sections that make me shiver. Other parts will make you think of rain drops tracking their way down window panes. Others are strong and bold and confident, all shiny with winter sunshine. It’s a beautiful melancholic experience with a radiant happy ending."
 
-[(January)](album-digest-january-2017)
+[(January)](/posts/album-digest-january-2017/)
 
 ## 7. Forest Swords "Compassion"
 
@@ -47,7 +47,7 @@ I'd looked forward to pointing out how similar and different this album was comp
 
 "I really like this album. It’s short and coherent. It builds to its ending but each individual song stands alone despite being a component of a larger whole. I’d love to hear remixers get to grips with some of them. I’ll also be looking forward keenly to new songs."
 
-[(March)](album-digest-march-2017)
+[(March)](/posts/album-digest-march-2017/)
 
 ## 5. Wire "Silver/Lead"
 
@@ -59,13 +59,13 @@ If there's a better love song on any of these ten albums than "Forever and a Day
 
 "This short album is a collaboration between composer Daniele Luppi, the New York band Parquet Courts and Yeah Yeah Yeahs singer Karen O. Luppi is a composer of film music and he’s the lead artist on Milano, a concept album about Milan in the 1980s. It’s a collection of tales about models, hustlers and artists. Adding Karen O’s voice and Luppi’s delicate arrangements to the muscle of Parquet Courts is an inspired choice. While I can’t say that the music itself evokes Milan for me, it is nonetheless an entertaining collection of songs."
 
-[(November)](album-digest-november-2017)
+[(November)](/posts/album-digest-november-2017/)
 
 ## 3. Four Tet "New Energy"
 
 "There are some really decent tracks here and I can’t wait to hear what remixers make of tracks like *Scientists* or *Lush*."
 
-[(October)](album-digest-october-2017)
+[(October)](/posts/album-digest-october-2017/)
 
 Also, in something of a crossover, Four Tet also provided a great remix of a track from album number two on this list.
 
@@ -73,8 +73,8 @@ Also, in something of a crossover, Four Tet also provided a great remix of a tra
 
 "The overwhelming sensation on *The Kid* is joy. I love the way that *In The World, But Not Of The World* totters just at the edge of control. The way that the pulses and strange animal-like noises of *Who I Am & Why I Am Where I Am* slowly speed up as the track progresses are a delight. It’s wonderful to discover an experimental album that is so celebratory."
 
-[(October)](album-digest-october-2017)
+[(October)](/posts/album-digest-october-2017/)
 
 ## 1. The Mysterons "Meandering"
 
-This album by young Dutch band [The Mysterons](http://themysterons.nl) is, quite simply, magnificent. It's a collection of nine weird and fabulous songs, each of which is a majestic piece of story telling. The lyrics are so good I have to marvel that they're writing in their second language. Indulge me as I list a few favourites. "Metamorphosis" leans heavily on the plot of teen movie "The Faculty" and unleashes a spectaclarly creepy riff in the middle 8 at a critical point in the story. "Binary Code" might borrow some of its plot from that kooky Star Trek TNG episode "10010101" but at heart it's an anti-nuclear parable. "Turkish Delight" might simply be a song about Turkish Delight but listen again and you may find a sinister hidden meaning. Then there's the gentle ephemeral closer "Bug Powder Dust" (cool title aside, it's completely unrelated to the [Bomb The Bass track](uc14) which jinks and jitters matters to a cool close. I love this album and was tempted to instantly give it the [understated classics](understated-classics) treatment. I hope there will be many more great albums in 2018.
+This album by young Dutch band [The Mysterons](http://themysterons.nl) is, quite simply, magnificent. It's a collection of nine weird and fabulous songs, each of which is a majestic piece of story telling. The lyrics are so good I have to marvel that they're writing in their second language. Indulge me as I list a few favourites. "Metamorphosis" leans heavily on the plot of teen movie "The Faculty" and unleashes a spectaclarly creepy riff in the middle 8 at a critical point in the story. "Binary Code" might borrow some of its plot from that kooky Star Trek TNG episode "10010101" but at heart it's an anti-nuclear parable. "Turkish Delight" might simply be a song about Turkish Delight but listen again and you may find a sinister hidden meaning. Then there's the gentle ephemeral closer "Bug Powder Dust" (cool title aside, it's completely unrelated to the [Bomb The Bass track](/posts/understated-classics-14/) which jinks and jitters matters to a cool close. I love this album and was tempted to instantly give it the [understated classics](/categories/understated-classics/) treatment. I hope there will be many more great albums in 2018.
