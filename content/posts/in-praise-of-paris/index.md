@@ -21,7 +21,7 @@ Later we did the very Parisian of thing of going shopping. I found myself drawn 
 
 ![](./images/Paris-03.jpg)
 
-The next day, we went to the Musee Rodin - here's "The Thinker" in the gorgeous winter sunshine. I've put some another picture from this visit up [in the photos section](/photos/paris-0/) already.
+The next day, we went to the Musee Rodin - here's "The Thinker" in the gorgeous winter sunshine.
 
 ![](./images/Paris-04.jpg)
 

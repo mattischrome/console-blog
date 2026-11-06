@@ -17,7 +17,7 @@ As I mentioned in yesterday's post, I allowed Spotify to pick some new albums fo
 
 ## Prins Thomas "Principe del Norte"
 
- [Prins Thomas recently remixed the Orb's "Alpine EP"](/orb-alpine-diskomiks-sin-in-space-pt-2/) so I'm not surprised that Spotify included one of his tracks on my Discover Weekly playlist. The connection was obviously waiting to be made. "Principe del Norte" was released back in March and features 9 tracks over almost 90 minutes. Each track title is a single letter, save the first two which are labelled A1 and A2. I think it was B that caught my attention, a proper old school ambient tune but one with some teeth.
+ Prins Thomas recently remixed the Orb's "Alpine EP" so I'm not surprised that Spotify included one of his tracks on my Discover Weekly playlist. The connection was obviously waiting to be made. "Principe del Norte" was released back in March and features 9 tracks over almost 90 minutes. Each track title is a single letter, save the first two which are labelled A1 and A2. I think it was B that caught my attention, a proper old school ambient tune but one with some teeth.
 
 But let's go back to the beginning. A1 and A2 each unfurl slowly with rippling synth lines. Both tracks feel like cousins of one another. A2 is the darker, meatier underside of the two. I must confess about half the times I have listened to this album, I have fallen asleep by the end of these two. This is not to say that they are soporific, just pretty hypnotic.
 

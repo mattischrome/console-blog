@@ -78,4 +78,4 @@ I think there is one great album that you could shake out of these two Islands a
 
 ## Next month
 
-Not sure what's coming next month. I'm definitely going to write about the Prins Thomas album "Principe del Norte" which I've only just discovered (It was released in February 2016). I've not seen much else due out that I fancy reviewing so I may go back and pick up a few more releases from earlier in the year. There's also a new Orb EP out, but that will get a separate post like the other two (["Sin In Space Pt. 1"](/the-orb-sin-in-space-pt-1/) and ["Alpine EP"](/posts/orb-alpine-ep/)) did.
+Not sure what's coming next month. I'm definitely going to write about the Prins Thomas album "Principe del Norte" which I've only just discovered (It was released in February 2016). I've not seen much else due out that I fancy reviewing so I may go back and pick up a few more releases from earlier in the year. There's also a new Orb EP out, but that will get a separate post like the ["Alpine EP"](/posts/orb-alpine-ep/)) did.

@@ -7,7 +7,7 @@ title: Album Digest, May 2014
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, May 2014”"
 ---
-This month was strange. I didn’t listen to much new music and after [last month’s bumper digest](/album-digest-april-2014/) there’s probably a reason for that. Not to mention that Spotify gives you more reasons to look backwards than forwards. Nevertheless, this brief post features new albums by Little Dragon and Coldplay, along with the mini-album collaboration between Röyskopp and Robyn.
+This month was strange. I didn’t listen to much new music and after last month’s bumper digest (now removed from the site) there’s probably a reason for that. Not to mention that Spotify gives you more reasons to look backwards than forwards. Nevertheless, this brief post features new albums by Little Dragon and Coldplay, along with the mini-album collaboration between Röyskopp and Robyn.
 
 <!--more-->
 ## Little Dragon “Nabuma Rubberband”
@@ -26,7 +26,7 @@ Maybe I need to go back to “Mylo Xyloto" though because the new album “Ghost
 
 ## Röyksopp & Robyn “Do It Again”
 
-[The first time I ever wrote an album digest on this blog](/album-digest-september-2010/) I included a Robyn EP and Röyksopp's slightly underwhelming album "Senior". This EP, just 5 tracks and 35 minutes of it, represents a collaboration between two of my favourite artists. Robyn's last album "Body Talk" was my favourite album of 2010 and Röyksopp's "Junior" (2009) is on my list of upcoming [understated classics](/tags#understated-classics/) posts. They have each featured in collaborations on both of those albums: "Body Talk" features the low-key trance skulk of "None Of Dem" and "Junior" has the excellent single "The Girl and The Robot". I guess that's another reason for calling it "Do It Again".
+The first time I ever wrote an album digest on this blog I included a Robyn EP and Röyksopp's slightly underwhelming album "Senior". That post has since been deleted. This EP, just 5 tracks and 35 minutes of it, represents a collaboration between two of my favourite artists. Robyn's last album "Body Talk" was my favourite album of 2010 and Röyksopp's "Junior" (2009) is on my list of upcoming [understated classics](/tags#understated-classics/) posts. They have each featured in collaborations on both of those albums: "Body Talk" features the low-key trance skulk of "None Of Dem" and "Junior" has the excellent single "The Girl and The Robot". I guess that's another reason for calling it "Do It Again".
 
 At first 5 tracks and just 35 minutes seems disappointing but it's longer than at least two of the albums from last month's album digest and in this case it's all killer and no filler. It even manages to sound like a full length album by virtue of being varied and variegated throughout. First track "Monument" is long and lazy, it seems to be about the singularity or some such. It starts with pulses and beats, then a digitized saxophone appears (definitely the best sax on a record since Röyksopp's own "She's So" back on "Melody AM") that becomes more and more "real" (as in acoustic-sounding) as the track progresses. Coupled to Robyn's elegiac and moody vocal it's a very stately opener.
 

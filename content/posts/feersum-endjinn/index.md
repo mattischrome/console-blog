@@ -15,7 +15,7 @@ The other standout feature of Feersum Endjinn is the compelling setting of the S
 
 I think Feersum Endjinn would make for a decent film or mini-series. If it were made as a film, I'd try to compress each of its forty sections into roughly four minute pieces - though that would leave you with a near to three hour film that chops between four main strands which might be a bit difficult to follow. Certainly there's nothing in the novel that can't be rendered with CGI and there's enough intrigue and action for it to be exciting.
 
-To conclude, Feersum Endjinn is an enjoyable and uncomplicated sci-fi novel. If the idea of that appeals and you're put off the Culture novels for whatever reason, you could do worse than give this one a go. For more thrills and spills try [Against A Dark Background](/against-a-dark-background/) (Feersum Endjinn is the better novel overall though). However, the best of Banks' non-Culture novels is "The Algebraist" and I'll write about that in the near future.
+To conclude, Feersum Endjinn is an enjoyable and uncomplicated sci-fi novel. If the idea of that appeals and you're put off the Culture novels for whatever reason, you could do worse than give this one a go. For more thrills and spills try "Against A Dark Background" (Feersum Endjinn is the better novel overall though). However, the best of Banks' non-Culture novels is "The Algebraist" and I'll write about that in the near future.
 
 Don't just take my word for it, here are some additional reviews:
 

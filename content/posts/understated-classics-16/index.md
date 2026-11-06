@@ -21,7 +21,7 @@ The rest of the album does not really deviate from this template. Sometimes it i
 
 This [short article](http://en.wikipedia.org/wiki/The_Plateaux_of_Mirror) about the album from wikipedia explains a bit more about how the album came into being and a bit more about the roles of each musician in creating the finished record.
 
-Because there is not a great deal to discuss about _The Plateaux Of Mirror_, here are some pen pictures (or pen _echoes_) of the other three entries in the _Ambient_ series. I’ll briefly mention that I considered _Small Craft On A Milk Sea_ to be [one of my favourite albums in 2010](2010-in-review) and I discussed _Drums Between The Bells_ back in [July last year](/posts/album-digest-july-2011/): both are collaborations like _Ambient 2_.
+Because there is not a great deal to discuss about _The Plateaux Of Mirror_, here are some pen pictures (or pen _echoes_) of the other three entries in the _Ambient_ series. I’ll briefly mention that I considered _Small Craft On A Milk Sea_ to be one of my favourite albums in 2010 and I discussed _Drums Between The Bells_ back in [July last year](/posts/album-digest-july-2011/): both are collaborations like _Ambient 2_.
 
 ## Ambient 1/Music for Airports (1978)
 

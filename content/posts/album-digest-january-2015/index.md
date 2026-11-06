@@ -56,7 +56,7 @@ As a whole "You're Dead" is a dense and interesting album, one that I don't real
 
 ## Röyksopp "The Inevitable End"
 
- And so, for Röyksopp, "The Inevitable End". The boys say that this will be their last album in the traditional format. I think it's been coming. [Their last album "Senior"](/album-digest-september-2010/) was an ill-advised instrumental accompaniment to career-peak "Junior", an idea that must have seemed like a good one at the time - two sides of the same coin, yin and yang, etc etc - but just fizzled out when it came to the execution.
+ And so, for Röyksopp, "The Inevitable End". The boys say that this will be their last album in the traditional format. I think it's been coming. Their last album "Senior" was an ill-advised instrumental accompaniment to career-peak "Junior", an idea that must have seemed like a good one at the time - two sides of the same coin, yin and yang, etc etc - but just fizzled out when it came to the execution.
 
 On "The Inevitable End" they seem a bit bored and seem to have forgone the idea of curating an album altogether. It's not so much an album as a dump of MP3s. Long stretches involve similar sounding songs with the same collaborators and you get the feeling that if they were still trying, they'd have picked one out of the four dreary collaborations with Jamie McDermott and/or Ryan James (the best is "Here She Comes Again"), ditched "Save Me" in favour of "Running To The Sea", and perhaps written a few more interesting instrumentals. 
 

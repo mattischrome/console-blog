@@ -30,7 +30,7 @@ Personally, I don't find "Tomorrow's Harvest" any more disturbing than a Radiohe
 
 ## Jon Hopkins _Immunity_
 
- Since 2008's "Insides" (not to be confused with Orbital's 1996 album "In Sides"), Jon Hopkins has contributed to Coldplay's albums "Viva La Vida" and ["Mylo Xyloto"](/posts/album-digest-october-2011/), and [collaborated with Brian Eno and Leo Abrahams on "Small Craft On A Milk Sea", which was one of my favourite albums of 2010](2010-in-review) (and of course [I love a bit of Eno](/posts/understated-classics-16/) [now and then](/posts/album-digest-november-2012/)). He's also released an album with King Creosote, who also guests on the title track of "Immunity".
+ Since 2008's "Insides" (not to be confused with Orbital's 1996 album "In Sides"), Jon Hopkins has contributed to Coldplay's albums "Viva La Vida" and ["Mylo Xyloto"](/posts/album-digest-october-2011/), and collaborated with Brian Eno and Leo Abrahams on "Small Craft On A Milk Sea", which was one of my favourite albums of 2010 (and of course [I love a bit of Eno](/posts/understated-classics-16/) [now and then](/posts/album-digest-november-2012/)). He's also released an album with King Creosote, who also guests on the title track of "Immunity".
 
 I describe "Insides" to people as being "an ambient album with the shark attacks left in". I was given a copy by a friend and first listened to it on a cold Easter in 2010, happily listening to the celtic strains that introduce "The Wider Sun" and the gentle atmospherics of "Vessel" (with the chiming bits that Coldplay borrowed) before being shocked by the breakbeats bursting in. It's a delightfully heterogeneous album as a whole, though long sections are perfectly twinkly and ambient while the noisy interludes are satisfyingly crunchy.
 
