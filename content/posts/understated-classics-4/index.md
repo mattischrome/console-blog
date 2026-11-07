@@ -13,7 +13,7 @@ snow and ice soon became the ideal companions to this album.
 
 <!--more-->
 
-![](../../assets/images/other/UC4add1.jpg)
+![](images/UC4add1.jpg)
 
 In 1997, I was still finding my feet in terms of taste, so when I bought Substrata I knew that it would be aligned to my emerging thirst for all things ambient and electronic, but it was nonetheless something of a risk. This was before you could stream something off the internet, a time when you bought music out of curiosity because you thought you might like it, not out of guilt after you’ve pirated it because it turns out that you do.
 
@@ -25,7 +25,7 @@ Mentioning found sound helps in the discussion of the music on the album, becaus
 
 It is largely foreboding and darkness that looms over the initial tracks: “Chukhung” evolves over a strange corkscrew rhythm that seems to suggest looming grey clouds pregnant with snow; “The Things I Tell You” iterates over a sparse synth line that seems to emulate a mountain ridge, alternately bathed in light and obscured by mist; “Times When I Know You’ll Be Sad” seems to be a paean to seasonal affective disorder, though with jokey vocals and tongue firmly in cheek. The latter is perhaps the closest that Substrata gets to a song, but this is definitely an album of moods and impressions rather than a collection of songs.
 
-![](../../assets/images/other/UC4add2.jpg)
+![](images/UC4add2.jpg)
 
 Throughout the album, tracks are built upon synth lines that pan left to right and back again, creating the impression of large flat circular landscapes. This minimalism is perfect for evoking polar scenery in the mind’s eye - one definitely imagines snowy wastes, ice sheets and dark pine forests, even if these are somewhat stereotypical ‘film stock’ images.
 
@@ -39,4 +39,4 @@ The first sample features in the track “Hyperborea” and is from “Twin Peak
 
 The rest of the album drifts off into the snow and ice quite beautifully, though the final track “Silene” is of particular note. Found sound appears again and the track ends with some disturbing sounds of ice being broken up, melting, and cracking. It is difficult to tell whether it is a small amount of ice breaking up with a lot of force, or a whole vista of the stuff melting and slowly cracking up without any intervention at all. Either way it is a weird and fitting end to the album, indicating the release of the listener from the album’s icy grip.
 
-![](../../assets/images/other/UC4add3.jpg)
+![](images/UC4add3.jpg)

@@ -8,7 +8,7 @@ hero: images/barry-cant-swim-when-will-we-land.jpeg
 hero_alt: "2023 Albums of the Year #3: Barry Can't Swim, When Will We Land?"
 ---
 Some albums you come to one way: a good review on a blog you respect,
-{{< marginfigure src="../../assets/images/albums-2023/barry-cant-swim-when-will-we-land.jpeg" alt="Cover of _When Will We Land_ by Barry Can't Swim" caption="Cover of _When Will We Land_ by Barry Can't Swim" >}}
+{{< marginfigure src="images/barry-cant-swim-when-will-we-land.jpeg" alt="Cover of _When Will We Land_ by Barry Can't Swim" caption="Cover of _When Will We Land_ by Barry Can't Swim" >}}
 a track appearing on a playlist by someone whose taste you trust, etc and so on. And sometimes you get directed to something multiple times. This is what happened to me this year with the irrepressible “When Will We Land?” by Barry Can’t Swim. Anyway, tracks by "Barry" appeared in mixes a lot this year and the album kept popping up in eagerly anticipated lists.
 
 I've listened to this album a lot but I still have questions. Like is "can't swim" his last name? Was he not made to learn in detention at lunchtime in the school's outdoor pool in an English April like yours truly?! 

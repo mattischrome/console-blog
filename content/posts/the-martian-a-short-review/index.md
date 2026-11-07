@@ -15,7 +15,7 @@ In my blog post about the novel, I wrote about what I perceived to be the filmic
 
 It's a long film, not that a great deal of it feels extraneous or forced. One of the weaknesses of novel is that the story unfolding back on earth and on the Hermes ship felt a little forced and underwritten compared to the experiences of Mark Watney on Mars. I think that the film goes a little way to address these issues and that pads out the run time. There are some good supporting performances from Jeff Daniels, Sean Bean, Kirsten Whig, and Mackenzie Davis (it took me a good few hours for me to realise that I'd recognised her from the excellent TV show ["Halt and Catch Fire"](https://web.archive.org/web/20151019195403/http://www.amc.com/shows/halt-and-catch-fire)). As an ensemble piece, it's solid rather than spectacular.
 
-![](../../assets/images/other/the_martian_xkcd.png)
+![](images/the_martian_xkcd.png)
 
 Matt Damon does a good job as Mark Watney, though I think the film presents Watney as more of an action hero than the book does. Plenty of the charm and wit comes through, with a large amount of the diary entries of the novel taken verbatim and presented in a video diary format. There are a few awkward moments where I noticed the camera work and found that it was breaking my belief that he was alone: in space no one can hear you scream except the camera crew.
 

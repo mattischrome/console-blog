@@ -25,4 +25,4 @@ Without a bag to unpack, I decided I couldn't sleep until I'd investigated the h
 
 Five years is an arbitrary length of time. It seems like ancient history and yesterday, all in one. Would I do it again? In a heartbeat. Could I do it again? Not now, not really. The pleasing thing is that I don't need to. When I think of how muddled and unhappy I was, I am glad I did it. Sure, my planning could and should have been better, but, come to think of it, who in their right mind *plans* an adventure?
 
-![](../../assets/images/south_america/part_1/04.jpg)
+![](images/04.jpg)

@@ -27,4 +27,4 @@ On our way home on our way home on our way home on our way home on our way home 
 
 [1]:	/posts/understated-classics-13/
 [2]:	https://www.violetavicci.com
-[3]:	../../assets/images/other/Orb-1.jpg "Orb, Brighton Concord 2, 28.10.22"
+[3]:	images/Orb-1.jpg "Orb, Brighton Concord 2, 28.10.22"

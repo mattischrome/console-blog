@@ -80,18 +80,18 @@ pack.size=5, packs.purchased=1, target.collections=1, cutoff=50)
 
 What is the benefit to a collector of having a friend to swap with? The figure below compares someone collecting alone to a collector with one single friend to swap with. As I mentioned last time, the single collector has to buy about 340 packets of stickers on average. Meanwhile, someone with a sticker swapping buddy has to buy about 240 packs of stickers on average - that's a hundred fewer packets of stickers on average. The value of a friend is about £50!
 
-![](../../assets/images/other/1vs2collectors.jpg)
+![](images/1vs2collectors.jpg)
 
 I then increased the number of collectors. As you can see from the figure below, the distribution creeps ever leftward and tightens up around the mean. The larger your friendship group, the closer you get to only having to buy enough packets of stickers to fill the album. This makes sense if the stickers are equally rare: you should be able to exchange your swaps with those belonging to your friends. Note that this shows the number of packets that the first collector has to buy.
 
-![](../../assets/images/other/FirstCollector.jpg)
+![](images/FirstCollector.jpg)
 
 Now let's look at a similar graph for the penultimate collector to finish. I chose the second-to-last collector because the last person has no one to swap with. You will see that these distributions overlap a lot more. The unluckiest player in the 10 collector scenario has to buy as many stickers as the luckiest players in the 3 collector scenario. As each collector finishes it becomes an N-1 collector scenario for the remaining collectors and this will involve buying more packets.
 
-![](../../assets/images/other/PenultimateCollector.jpg)
+![](images/PenultimateCollector.jpg)
 
 Finally, let's look at the distributions for how many stickers each collector has to collect when there are five of them. On average the last collector to finish has to buy about forty more packets of stickers than the first collector to finish. The final collector also has a much wider range of possible outcomes as it will depend on how close to finishing she is when her friends complete their collections.
 
-![](../../assets/images/other/All5Collectors.jpg)
+![](images/All5Collectors.jpg)
 
 Part 3 will look at what happens when the stickers are not equally rare.

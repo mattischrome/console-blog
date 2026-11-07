@@ -11,26 +11,26 @@ As a [wedding present](/posts/the-same-yet-different/), Ingrid's Mum Maria kindl
 <!--more-->
 Stretching 151 miles from Torquay (not that one!) to Allansford, the road was deliberately built as a tourist attraction as a means of providing meaningful work for troops returning home from the First World War. Regarded as one of the world's greatest scenic roads, it certainly holds it own against things like the roads I experienced in Chile and Bolivia when I travelled over the Andes.
 
-![](../../assets/images/great_ocean_road/great_ocean_road_01.jpg)
+![](images/great_ocean_road_01.jpg)
 
-![](../../assets/images/great_ocean_road/great_ocean_road_02.jpg)
+![](images/great_ocean_road_02.jpg)
 
-![](../../assets/images/great_ocean_road/great_ocean_road_03.jpg)
+![](images/great_ocean_road_03.jpg)
 
-![](../../assets/images/great_ocean_road/great_ocean_road_04.jpg)
+![](images/great_ocean_road_04.jpg)
 
-![](../../assets/images/great_ocean_road/great_ocean_road_05.jpg)
+![](images/great_ocean_road_05.jpg)
 
-![](../../assets/images/great_ocean_road/great_ocean_road_06.jpg)
+![](images/great_ocean_road_06.jpg)
 
 On the first day we travelled from Lara to Port Campbell, taking in many breathtaking stops along the way. These included [the twelve apostles](https://en.wikipedia.org/wiki/The_Twelve_Apostles_(Victoria)), which are very popular with tourists even though there are only eight left, and [Loch Ard Gorge](https://en.wikipedia.org/wiki/Loch_Ard_Gorge), which has a fanciful tale of a shipwreck to entertain vistors. Other highlights were a stroll along the beach and later on a walk around a fern gully. 
 
-![](../../assets/images/great_ocean_road/great_ocean_road_07.jpg)
+![](images/great_ocean_road_07.jpg)
 
-![](../../assets/images/great_ocean_road/great_ocean_road_08.jpg)
+![](images/great_ocean_road_08.jpg)
 
-![](../../assets/images/great_ocean_road/great_ocean_road_09.jpg)
+![](images/great_ocean_road_09.jpg)
 
-![Panorama at Port Fairey](../../assets/images/great_ocean_road/great_ocean_road_10.jpg)
+![Panorama at Port Fairey](images/great_ocean_road_10.jpg)
 
 On the second day we finished the section that we would be travelling, up to Port Fairey. Our drive back to Melbourne took an inland route. I was interested in just how much space there is in between places in Australia and of course in relative terms the journey was minuscule.

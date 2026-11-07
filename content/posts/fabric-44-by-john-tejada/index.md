@@ -10,7 +10,7 @@ This is one of my more played Fabric mix CDs so I decided to go for it when my r
 
 <!--more-->
 
-However, mixes {{< marginfigure src="../../assets/images/album-revisits/john-tejada-fabric-44.jpg" alt="Cover of Fabric 44, mixed by John Tejada" caption="Cover of _Fabric 44_, mixed by John Tejada" >}} are a little different to albums in that one of the fun things about them is that they are in fact a sort of "meta-track", a single entity much like that  _huge ever-growing pulsating brain that rules from the centre of the ultraworld_ by the Orb. And this is definitely more of that genre.
+However, mixes {{< marginfigure src="images/john-tejada-fabric-44.jpg" alt="Cover of Fabric 44, mixed by John Tejada" caption="Cover of _Fabric 44_, mixed by John Tejada" >}} are a little different to albums in that one of the fun things about them is that they are in fact a sort of "meta-track", a single entity much like that  _huge ever-growing pulsating brain that rules from the centre of the ultraworld_ by the Orb. And this is definitely more of that genre.
 
 I started to write the review based on the track-listing, which led to sentences like the following: "_Let's Do It_ by Dave Hughes is nice stompy techno intro that goes surprisingly chill and housy half way through." Unfortunately, there were a few problems with this approach:
 

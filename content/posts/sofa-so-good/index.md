@@ -16,12 +16,12 @@ Anyway, this claw-sharpening sound from *inside* the sofa drove us both a bit ba
 
 This one:
 
-![](../../assets/images/2024/rest-of-owl-meme.jpeg)
+![](images/rest-of-owl-meme.jpeg)
 
 Anyway, by way of an update, the fabric is off the bottom and some of the original staples have been pulled out. Ingrid did the staple tugging, while I read bits of Ali Smith's "Winter" to her. DIY-wise I'm only useful as a sort of posh bootleg Audible at this point.
 
 Photographic evidence (of sofa progress, with a glimpse of my attempts at pivoting to audiobooks):
 
-![](../../assets/images/2024/sofa-evidence.jpeg)
+![](images/sofa-evidence.jpeg)
 
 Next steps: Staple the new fabric to the bottom of the sofa. I have a feeling this will take a while. I may even have to do something more useful like hold the fabric tight. We may need actual audiobooks to play my existing role.

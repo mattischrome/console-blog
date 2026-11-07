@@ -55,4 +55,4 @@ ggsave(p, filename = "tr_tst2.png",  bg = "transparent")
 
 where `p` is a previously created `ggplot`. This approach sees the `theme()` function ride to the rescue again.
 
-![](../../assets/images/other/transparency_test.png)
+![](images/transparency_test.png)

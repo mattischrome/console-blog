@@ -21,13 +21,13 @@ The more mundane Telstra store we were looking for faced on to the tower. I exam
 
 The laneways bristle with graffiti and small restaurants and cafes. At lunchtime they bustle with people grabbing a bite to eat: locals and tourists alike. We found our recommendation, ordered some coffee then settled on tempura cauliflower and chorizo on a bed of kale. I should have instagrammed it. Interesting dance music played, I longed to know what it was. Next to us a pile of second hand books lined the shelves below the till. Through a tiny porthole I could see the Japanese chef turning out each small order in double-quick time. A fish swam, disinterested, in an aquarium on a shelf next to the kitchen door.
 
-![Laneways](../../assets/images/more_melbourne/more_melbourne_01.jpg)
+![Laneways](images/more_melbourne_01.jpg)
 
 We left the bustle of the lanes and took ourselves down to Flinders Street. We examined tourist tat in a shop dedicated to tourist tat. I yearned for an "outback dunny" fridge magnet, but we bought postcards instead. Sometimes we're too sensible.
 
 We crossed the road and ate an ice cream in Fed Square. School kids slouched around. My eyes took in the zany architecture and we walked down to the river, taking selfies under what we called the Miss Fisher Bridge. Then we looped back into Flinders Street station and found the platform for the train back to Moonee Ponds. And as beautiful as the unseen spaces between stations are, this time I people-watched: I probably stared at the other passengers as I wondered about their lives.
 
-![Posing under the Miss Fisher bridge](../../assets/images/more_melbourne/more_melbourne_02.jpg)
+![Posing under the Miss Fisher bridge](images/more_melbourne_02.jpg)
 
 Back in Moonee Ponds we packed bags for the next few days and waited for Maria and Gary to pick us up. They drove us over to their house in Lara, a pleasant town outside Melbourne. Or was it yet another suburb? Or a suburb of the neighbouring city of Geelong? It all kind of sprawls, but in the nicest possible way. Lara itself could almost be the imaginary Erinsborough of all those episodes of Neighbours watched just before dinner in my youth: pretty houses arranged into suburban drives, community pools, utes, etc.
 

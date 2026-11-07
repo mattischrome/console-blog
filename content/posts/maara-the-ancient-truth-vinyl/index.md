@@ -12,4 +12,4 @@ When [I wrote about Maara's "The Ancient Truth"](/posts/2023-albums-07-maara-anc
 <!--more-->
 Photographic evidence:
 
-![A copy of the album The Ancient Truth by Maara on top of my turntable watched over by pot plants.](../../assets/images/2024/maara-ancient-truth-vinyl.jpeg)
+![A copy of the album The Ancient Truth by Maara on top of my turntable watched over by pot plants.](images/maara-ancient-truth-vinyl.jpeg)

@@ -13,14 +13,14 @@ We'd like to thank everyone who nonetheless sent cards and gifts, and to all of 
 
 Our marriage, like most, is an affirmation of the fact we get along well. We're a team that enjoys life together in the ways that suit us best. So when people ask how married life is, I say that it is wonderful. Not in a sarcastic way, but simply because it was wonderful to share my life with Ingrid before we got 'hitched'. So it feels the same. The same, but different.
 
-![](../../assets/images/wedding/wedding_1.jpg)
+![](images/wedding_1.jpg)
 
-![](../../assets/images/wedding/wedding_2.jpg)
+![](images/wedding_2.jpg)
 
-![](../../assets/images/wedding/wedding_3.jpg)
+![](images/wedding_3.jpg)
 
-![](../../assets/images/wedding/wedding_4.jpg)
+![](images/wedding_4.jpg)
 
-![](../../assets/images/wedding/wedding_5.jpg)
+![](images/wedding_5.jpg)
 
-![](../../assets/images/wedding/wedding_6.jpg)
+![](images/wedding_6.jpg)

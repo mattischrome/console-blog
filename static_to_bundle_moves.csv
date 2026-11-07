@@ -1,0 +1,355 @@
+old_url,new_file,new_url,action,bundles_using_it
+/assets/images/2023/berlin-proof.jpeg,content/posts/reflections-2023/images/berlin-proof.jpeg,/posts/reflections-2023/images/berlin-proof.jpeg,moved,1
+/assets/images/2023/cologne-proof.jpeg,content/posts/reflections-2023/images/cologne-proof.jpeg,/posts/reflections-2023/images/cologne-proof.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/2023/gilbert-white-proof.jpeg,content/posts/reflections-2023/images/gilbert-white-proof.jpeg,/posts/reflections-2023/images/gilbert-white-proof.jpeg,moved,1
+/assets/images/2023/isle-of-wight-proof.jpeg,content/posts/reflections-2023/images/isle-of-wight-proof.jpeg,/posts/reflections-2023/images/isle-of-wight-proof.jpeg,moved,1
+/assets/images/2024/cat-chaos-2024.jpeg,content/posts/agents-of-chaos/images/cat-chaos-2024.jpeg,/posts/agents-of-chaos/images/cat-chaos-2024.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/2024/maara-ancient-truth-vinyl.jpeg,content/posts/maara-the-ancient-truth-vinyl/images/maara-ancient-truth-vinyl.jpeg,/posts/maara-the-ancient-truth-vinyl/images/maara-ancient-truth-vinyl.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/2024/rest-of-owl-meme.jpeg,content/posts/sofa-so-good/images/rest-of-owl-meme.jpeg,/posts/sofa-so-good/images/rest-of-owl-meme.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/2024/sofa-evidence.jpeg,content/posts/sofa-so-good/images/sofa-evidence.jpeg,/posts/sofa-so-good/images/sofa-evidence.jpeg,moved,1
+/assets/images/album-revisits/ellie-goulding-bright-lights.jpg,content/posts/ellie-goulding-bright-lights/images/ellie-goulding-bright-lights.jpg,/posts/ellie-goulding-bright-lights/images/ellie-goulding-bright-lights.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/album-revisits/goldfrapp-black-cherry.jpg,content/posts/goldfrapp-black-cherry/images/goldfrapp-black-cherry.jpg,/posts/goldfrapp-black-cherry/images/goldfrapp-black-cherry.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/album-revisits/john-tejada-fabric-44.jpg,content/posts/fabric-44-by-john-tejada/images/john-tejada-fabric-44.jpg,/posts/fabric-44-by-john-tejada/images/john-tejada-fabric-44.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/albums-2023/barry-cant-swim-when-will-we-land.jpeg,content/posts/2023-albums-03-barry-cant-swim-when-will-we-land/images/barry-cant-swim-when-will-we-land.jpeg,/posts/2023-albums-03-barry-cant-swim-when-will-we-land/images/barry-cant-swim-when-will-we-land.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/albums-2023/ebtg-fuse.jpeg,content/posts/2023-albums-08-ebtg-fuse/images/ebtg-fuse.jpeg,/posts/2023-albums-08-ebtg-fuse/images/ebtg-fuse.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/albums-2023/fever-ray-radical-romantics.jpeg,content/posts/2023-albums-09-fever-ray-radical-romantics/images/fever-ray-radical-romantics.jpeg,/posts/2023-albums-09-fever-ray-radical-romantics/images/fever-ray-radical-romantics.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/albums-2023/grails-anches-en-maat.jpeg,content/posts/2023-albums-06-grails-anches-en-maat/images/grails-anches-en-maat.jpeg,/posts/2023-albums-06-grails-anches-en-maat/images/grails-anches-en-maat.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/albums-2023/james-holden-imagine.jpeg,content/posts/2023-albums-02-james-holden-imagine/images/james-holden-imagine.jpeg,/posts/2023-albums-02-james-holden-imagine/images/james-holden-imagine.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/albums-2023/maara-ancient-truth.jpeg,content/posts/2023-albums-07-maara-ancient-truth/images/maara-ancient-truth.jpeg,/posts/2023-albums-07-maara-ancient-truth/images/maara-ancient-truth.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/albums-2023/nation-of-language-strange-disciple.jpeg,content/posts/2023-albums-05-nation-of-language-strange-disciple/images/nation-of-language-strange-disciple.jpeg,/posts/2023-albums-05-nation-of-language-strange-disciple/images/nation-of-language-strange-disciple.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/albums-2023/sofia-kourtesis-madres.jpeg,content/posts/2023-albums-01-sofia-kourtesis-madres/images/sofia-kourtesis-madres.jpeg,/posts/2023-albums-01-sofia-kourtesis-madres/images/sofia-kourtesis-madres.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/albums-2023/the-national-first-two-pages.jpeg,content/posts/2023-albums-04-the-national-frankenstein-laugh-track/images/the-national-first-two-pages.jpeg,/posts/2023-albums-04-the-national-frankenstein-laugh-track/images/the-national-first-two-pages.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/albums-2023/the-national-laugh-track.jpeg,content/posts/2023-albums-04-the-national-frankenstein-laugh-track/images/the-national-laugh-track.jpeg,/posts/2023-albums-04-the-national-frankenstein-laugh-track/images/the-national-laugh-track.jpeg,moved,1
+/assets/images/albums-2023/wata-igarashi-agartha.jpeg,content/posts/2023-albums-10-wata-igarashi-agartha/images/wata-igarashi-agartha.jpeg,/posts/2023-albums-10-wata-igarashi-agartha/images/wata-igarashi-agartha.jpeg,deduplicated (bundle already had identical copy),1
+/assets/images/australia_1/australia_1_01.jpg,content/posts/australia-1/images/australia_1_01.jpg,/posts/australia-1/images/australia_1_01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/australia_1/australia_1_02.jpg,content/posts/australia-1/images/australia_1_02.jpg,/posts/australia-1/images/australia_1_02.jpg,moved,1
+/assets/images/bischof/1941-nude-werner-bischof.jpg,content/posts/werner-bischof-exhibitions/images/1941-nude-werner-bischof.jpg,/posts/werner-bischof-exhibitions/images/1941-nude-werner-bischof.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/bischof/1946-France-werner-bischof.jpg,content/posts/werner-bischof-exhibitions/images/1946-France-werner-bischof.jpg,/posts/werner-bischof-exhibitions/images/1946-France-werner-bischof.jpg,moved,1
+/assets/images/bischof/1946-The-Reichstag-Berlin-Germany-Werner-Bischof.jpg,content/posts/werner-bischof-exhibitions/images/1946-The-Reichstag-Berlin-Germany-Werner-Bischof.jpg,/posts/werner-bischof-exhibitions/images/1946-The-Reichstag-Berlin-Germany-Werner-Bischof.jpg,moved,1
+/assets/images/bischof/1947-Puszta-Inn-Hungary-werner-bischof.jpg,content/posts/werner-bischof-exhibitions/images/1947-Puszta-Inn-Hungary-werner-bischof.jpg,/posts/werner-bischof-exhibitions/images/1947-Puszta-Inn-Hungary-werner-bischof.jpg,moved,1
+/assets/images/bischof/1947-red-cross-train-budapest-hungary-werner-bischof.jpg,content/posts/werner-bischof-exhibitions/images/1947-red-cross-train-budapest-hungary-werner-bischof.jpg,/posts/werner-bischof-exhibitions/images/1947-red-cross-train-budapest-hungary-werner-bischof.jpg,moved,1
+/assets/images/bischof/1951-Children-running-toward-trucks-delivering-food-to-famine-stricken-village-bahar-india-werner-bischof.jpg,content/posts/werner-bischof-exhibitions/images/1951-Children-running-toward-trucks-delivering-food-to-famine-stricken-village-bahar-india-werner-bischof.jpg,/posts/werner-bischof-exhibitions/images/1951-Children-running-toward-trucks-delivering-food-to-famine-stricken-village-bahar-india-werner-bischof.jpg,moved,1
+/assets/images/bischof/1951-in-front-of-the-steelworks-jamshedpur-werner-bischof.jpg,content/posts/werner-bischof-exhibitions/images/1951-in-front-of-the-steelworks-jamshedpur-werner-bischof.jpg,/posts/werner-bischof-exhibitions/images/1951-in-front-of-the-steelworks-jamshedpur-werner-bischof.jpg,moved,1
+/assets/images/bischof/1952-Koje-Do-South-Korea-werner-bischof.jpg,content/posts/werner-bischof-exhibitions/images/1952-Koje-Do-South-Korea-werner-bischof.jpg,/posts/werner-bischof-exhibitions/images/1952-Koje-Do-South-Korea-werner-bischof.jpg,moved,1
+/assets/images/bischof/1952-dancer-japan-werner-bischof.jpg,content/posts/werner-bischof-exhibitions/images/1952-dancer-japan-werner-bischof.jpg,/posts/werner-bischof-exhibitions/images/1952-dancer-japan-werner-bischof.jpg,moved,1
+/assets/images/bischof/1952-in-the-garden-of-the-meiji-temple-werner-bischof.jpg,content/posts/werner-bischof-exhibitions/images/1952-in-the-garden-of-the-meiji-temple-werner-bischof.jpg,/posts/werner-bischof-exhibitions/images/1952-in-the-garden-of-the-meiji-temple-werner-bischof.jpg,moved,1
+/assets/images/bischof/1952-junks-hong-kong-Werner-Bischof.jpg,content/posts/werner-bischof-exhibitions/images/1952-junks-hong-kong-Werner-Bischof.jpg,/posts/werner-bischof-exhibitions/images/1952-junks-hong-kong-Werner-Bischof.jpg,moved,1
+/assets/images/bischof/1953-Painting-the-golden-gate-bridge-werner-bischof.jpg,content/posts/werner-bischof-exhibitions/images/1953-Painting-the-golden-gate-bridge-werner-bischof.jpg,/posts/werner-bischof-exhibitions/images/1953-Painting-the-golden-gate-bridge-werner-bischof.jpg,moved,1
+/assets/images/bischof/1953-farmer-cambodia-werner-bischof.jpg,content/posts/werner-bischof-exhibitions/images/1953-farmer-cambodia-werner-bischof.jpg,/posts/werner-bischof-exhibitions/images/1953-farmer-cambodia-werner-bischof.jpg,moved,1
+/assets/images/bischof/1953-parking-lot-new-york-city-werner-bischof.jpg,content/posts/werner-bischof-exhibitions/images/1953-parking-lot-new-york-city-werner-bischof.jpg,/posts/werner-bischof-exhibitions/images/1953-parking-lot-new-york-city-werner-bischof.jpg,moved,1
+/assets/images/bischof/1953-parking-lots-new-york-city-werner-bischof.jpg,content/posts/werner-bischof-exhibitions/images/1953-parking-lots-new-york-city-werner-bischof.jpg,/posts/werner-bischof-exhibitions/images/1953-parking-lots-new-york-city-werner-bischof.jpg,moved,1
+/assets/images/bischof/1953-werner-bischof-america-2.jpg,content/posts/werner-bischof-exhibitions/images/1953-werner-bischof-america-2.jpg,/posts/werner-bischof-exhibitions/images/1953-werner-bischof-america-2.jpg,moved,1
+/assets/images/bischof/1954-People-near-Machu-Picchu-Werner-Bischof.jpg,content/posts/werner-bischof-exhibitions/images/1954-People-near-Machu-Picchu-Werner-Bischof.jpg,/posts/werner-bischof-exhibitions/images/1954-People-near-Machu-Picchu-Werner-Bischof.jpg,moved,1
+/assets/images/bischof/lausanne-exhibition-cover-breast-with-grid-1941.jpg,content/posts/werner-bischof-exhibitions/images/lausanne-exhibition-cover-breast-with-grid-1941.jpg,/posts/werner-bischof-exhibitions/images/lausanne-exhibition-cover-breast-with-grid-1941.jpg,moved,1
+/assets/images/books/binet-civilisations.jpg,content/posts/laurent-binet-civilisations/images/binet-civilisations.jpg,/posts/laurent-binet-civilisations/images/binet-civilisations.jpg,moved,1
+/assets/images/cadaques/Spain01.jpg,content/posts/spain-new-year-201718/images/Spain01.jpg,/posts/spain-new-year-201718/images/Spain01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/cadaques/Spain02.jpg,content/posts/spain-new-year-201718/images/Spain02.jpg,/posts/spain-new-year-201718/images/Spain02.jpg,moved,1
+/assets/images/cadaques/Spain03.jpg,content/posts/spain-new-year-201718/images/Spain03.jpg,/posts/spain-new-year-201718/images/Spain03.jpg,moved,1
+/assets/images/cadaques/Spain04.jpg,content/posts/spain-new-year-201718/images/Spain04.jpg,/posts/spain-new-year-201718/images/Spain04.jpg,moved,1
+/assets/images/cadaques/Spain05.jpg,content/posts/spain-new-year-201718/images/Spain05.jpg,/posts/spain-new-year-201718/images/Spain05.jpg,moved,1
+/assets/images/cadaques/Spain06.jpg,content/posts/spain-new-year-201718/images/Spain06.jpg,/posts/spain-new-year-201718/images/Spain06.jpg,moved,1
+/assets/images/cadaques/Spain07.jpg,content/posts/spain-new-year-201718/images/Spain07.jpg,/posts/spain-new-year-201718/images/Spain07.jpg,moved,1
+/assets/images/cadaques/Spain08.jpg,content/posts/spain-new-year-201718/images/Spain08.jpg,/posts/spain-new-year-201718/images/Spain08.jpg,moved,1
+/assets/images/cadaques/Spain09.jpg,content/posts/spain-new-year-201718/images/Spain09.jpg,/posts/spain-new-year-201718/images/Spain09.jpg,moved,1
+/assets/images/cadaques/Spain10.jpg,content/posts/spain-new-year-201718/images/Spain10.jpg,/posts/spain-new-year-201718/images/Spain10.jpg,moved,1
+/assets/images/cadaques/Spain10a.jpg,content/posts/spain-new-year-201718/images/Spain10a.jpg,/posts/spain-new-year-201718/images/Spain10a.jpg,moved,1
+/assets/images/cadaques/Spain11.jpg,content/posts/spain-new-year-201718/images/Spain11.jpg,/posts/spain-new-year-201718/images/Spain11.jpg,moved,1
+/assets/images/cadaques/Spain12.jpg,content/posts/spain-new-year-201718/images/Spain12.jpg,/posts/spain-new-year-201718/images/Spain12.jpg,moved,1
+/assets/images/cadaques/Spain13.jpg,content/posts/spain-new-year-201718/images/Spain13.jpg,/posts/spain-new-year-201718/images/Spain13.jpg,moved,1
+/assets/images/cadaques/Spain13b.jpg,content/posts/spain-new-year-201718/images/Spain13b.jpg,/posts/spain-new-year-201718/images/Spain13b.jpg,moved,1
+/assets/images/cadaques/Spain14.jpg,content/posts/spain-new-year-201718/images/Spain14.jpg,/posts/spain-new-year-201718/images/Spain14.jpg,moved,1
+/assets/images/cadaques/Spain15.jpg,content/posts/spain-new-year-201718/images/Spain15.jpg,/posts/spain-new-year-201718/images/Spain15.jpg,moved,1
+/assets/images/cadaques/Spain15b.jpg,content/posts/spain-new-year-201718/images/Spain15b.jpg,/posts/spain-new-year-201718/images/Spain15b.jpg,moved,1
+/assets/images/cadaques/Spain16.jpg,content/posts/spain-new-year-201718/images/Spain16.jpg,/posts/spain-new-year-201718/images/Spain16.jpg,moved,1
+/assets/images/cadaques/Spain17.jpg,content/posts/spain-new-year-201718/images/Spain17.jpg,/posts/spain-new-year-201718/images/Spain17.jpg,moved,1
+/assets/images/cadaques/Spain17b.jpg,content/posts/spain-new-year-201718/images/Spain17b.jpg,/posts/spain-new-year-201718/images/Spain17b.jpg,moved,1
+/assets/images/cadaques/Spain18.jpg,content/posts/spain-new-year-201718/images/Spain18.jpg,/posts/spain-new-year-201718/images/Spain18.jpg,moved,1
+/assets/images/cadaques/Spain19.jpg,content/posts/spain-new-year-201718/images/Spain19.jpg,/posts/spain-new-year-201718/images/Spain19.jpg,moved,1
+/assets/images/cadaques/Spain20.jpg,content/posts/spain-new-year-201718/images/Spain20.jpg,/posts/spain-new-year-201718/images/Spain20.jpg,moved,1
+/assets/images/cadaques/Spain20b.jpg,content/posts/spain-new-year-201718/images/Spain20b.jpg,/posts/spain-new-year-201718/images/Spain20b.jpg,moved,1
+/assets/images/cadaques/Spain21.jpg,content/posts/spain-new-year-201718/images/Spain21.jpg,/posts/spain-new-year-201718/images/Spain21.jpg,moved,1
+/assets/images/cadaques/Spain22.jpg,content/posts/spain-new-year-201718/images/Spain22.jpg,/posts/spain-new-year-201718/images/Spain22.jpg,moved,1
+/assets/images/great_ocean_road/great_ocean_road_01.jpg,content/posts/the-great-ocean-road/images/great_ocean_road_01.jpg,/posts/the-great-ocean-road/images/great_ocean_road_01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/great_ocean_road/great_ocean_road_02.jpg,content/posts/the-great-ocean-road/images/great_ocean_road_02.jpg,/posts/the-great-ocean-road/images/great_ocean_road_02.jpg,moved,1
+/assets/images/great_ocean_road/great_ocean_road_03.jpg,content/posts/the-great-ocean-road/images/great_ocean_road_03.jpg,/posts/the-great-ocean-road/images/great_ocean_road_03.jpg,moved,1
+/assets/images/great_ocean_road/great_ocean_road_04.jpg,content/posts/the-great-ocean-road/images/great_ocean_road_04.jpg,/posts/the-great-ocean-road/images/great_ocean_road_04.jpg,moved,1
+/assets/images/great_ocean_road/great_ocean_road_05.jpg,content/posts/the-great-ocean-road/images/great_ocean_road_05.jpg,/posts/the-great-ocean-road/images/great_ocean_road_05.jpg,moved,1
+/assets/images/great_ocean_road/great_ocean_road_06.jpg,content/posts/the-great-ocean-road/images/great_ocean_road_06.jpg,/posts/the-great-ocean-road/images/great_ocean_road_06.jpg,moved,1
+/assets/images/great_ocean_road/great_ocean_road_07.jpg,content/posts/the-great-ocean-road/images/great_ocean_road_07.jpg,/posts/the-great-ocean-road/images/great_ocean_road_07.jpg,moved,1
+/assets/images/great_ocean_road/great_ocean_road_08.jpg,content/posts/the-great-ocean-road/images/great_ocean_road_08.jpg,/posts/the-great-ocean-road/images/great_ocean_road_08.jpg,moved,1
+/assets/images/great_ocean_road/great_ocean_road_09.jpg,content/posts/the-great-ocean-road/images/great_ocean_road_09.jpg,/posts/the-great-ocean-road/images/great_ocean_road_09.jpg,moved,1
+/assets/images/great_ocean_road/great_ocean_road_10.jpg,content/posts/the-great-ocean-road/images/great_ocean_road_10.jpg,/posts/the-great-ocean-road/images/great_ocean_road_10.jpg,moved,1
+/assets/images/iceland/iceland_01.jpg,content/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_01.jpg,/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/iceland/iceland_02.jpg,content/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_02.jpg,/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_02.jpg,moved,1
+/assets/images/iceland/iceland_03.jpg,content/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_03.jpg,/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_03.jpg,moved,1
+/assets/images/iceland/iceland_04.jpg,content/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_04.jpg,/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_04.jpg,moved,1
+/assets/images/iceland/iceland_05.jpg,content/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_05.jpg,/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_05.jpg,moved,1
+/assets/images/iceland/iceland_06.jpg,content/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_06.jpg,/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_06.jpg,moved,1
+/assets/images/iceland/iceland_07.jpg,content/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_07.jpg,/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_07.jpg,moved,1
+/assets/images/iceland/iceland_08.jpg,content/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_08.jpg,/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_08.jpg,moved,1
+/assets/images/iceland/iceland_09.jpg,content/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_09.jpg,/posts/a-trip-to-iceland-part-1-reykjavik/images/iceland_09.jpg,moved,1
+/assets/images/iceland/iceland_10.jpg,content/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_10.jpg,/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_10.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/iceland/iceland_11.jpg,content/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_11.jpg,/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_11.jpg,moved,1
+/assets/images/iceland/iceland_12.jpg,content/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_12.jpg,/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_12.jpg,moved,1
+/assets/images/iceland/iceland_13.jpg,content/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_13.jpg,/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_13.jpg,moved,1
+/assets/images/iceland/iceland_14.jpg,content/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_14.jpg,/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_14.jpg,moved,1
+/assets/images/iceland/iceland_15.gif,content/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_15.gif,/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_15.gif,moved,1
+/assets/images/iceland/iceland_16.jpg,content/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_16.jpg,/posts/a-trip-to-iceland-part-2-all-the-waterfalls/images/iceland_16.jpg,moved,1
+/assets/images/iceland/iceland_17.jpg,content/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_17.jpg,/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_17.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/iceland/iceland_18.jpg,content/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_18.jpg,/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_18.jpg,moved,1
+/assets/images/iceland/iceland_19.jpg,content/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_19.jpg,/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_19.jpg,moved,1
+/assets/images/iceland/iceland_20.jpg,content/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_20.jpg,/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_20.jpg,moved,1
+/assets/images/iceland/iceland_21.jpg,content/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_21.jpg,/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_21.jpg,moved,1
+/assets/images/iceland/iceland_22.jpg,content/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_22.jpg,/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_22.jpg,moved,1
+/assets/images/iceland/iceland_23.jpg,content/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_23.jpg,/posts/a-trip-to-iceland-part-3-even-more-waterfalls/images/iceland_23.jpg,moved,1
+/assets/images/ident/BlogPic.jpg,content/about/images/BlogPic.jpg,/about/images/BlogPic.jpg,moved,1
+/assets/images/ident/matt_strap.jpg,content/about/images/matt_strap.jpg,/about/images/matt_strap.jpg,moved,1
+/assets/images/italy/Italy_01.jpg,content/posts/a-little-trip-to-italy/images/Italy_01.jpg,/posts/a-little-trip-to-italy/images/Italy_01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/italy/Italy_02.jpg,content/posts/a-little-trip-to-italy/images/Italy_02.jpg,/posts/a-little-trip-to-italy/images/Italy_02.jpg,moved,1
+/assets/images/italy/Italy_03a.jpg,content/posts/a-little-trip-to-italy/images/Italy_03a.jpg,/posts/a-little-trip-to-italy/images/Italy_03a.jpg,moved,1
+/assets/images/italy/Italy_03b.jpg,content/posts/a-little-trip-to-italy/images/Italy_03b.jpg,/posts/a-little-trip-to-italy/images/Italy_03b.jpg,moved,1
+/assets/images/italy/Italy_04.jpg,content/posts/a-little-trip-to-italy/images/Italy_04.jpg,/posts/a-little-trip-to-italy/images/Italy_04.jpg,moved,1
+/assets/images/italy/Italy_05.jpg,content/posts/a-little-trip-to-italy/images/Italy_05.jpg,/posts/a-little-trip-to-italy/images/Italy_05.jpg,moved,1
+/assets/images/italy/Italy_06.jpg,content/posts/a-little-trip-to-italy/images/Italy_06.jpg,/posts/a-little-trip-to-italy/images/Italy_06.jpg,moved,1
+/assets/images/more_melbourne/more_melbourne_01.jpg,content/posts/metros-suburbs-barbies/images/more_melbourne_01.jpg,/posts/metros-suburbs-barbies/images/more_melbourne_01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/more_melbourne/more_melbourne_02.jpg,content/posts/metros-suburbs-barbies/images/more_melbourne_02.jpg,/posts/metros-suburbs-barbies/images/more_melbourne_02.jpg,moved,1
+/assets/images/other/1vs2collectors.jpg,content/posts/swaptastic-part-2/images/1vs2collectors.jpg,/posts/swaptastic-part-2/images/1vs2collectors.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/other/All5Collectors.jpg,content/posts/swaptastic-part-2/images/All5Collectors.jpg,/posts/swaptastic-part-2/images/All5Collectors.jpg,moved,1
+/assets/images/other/April-2012-Bookstack.jpg,content/posts/reading-list-mid-april-2012/images/April-2012-Bookstack.jpg,/posts/reading-list-mid-april-2012/images/April-2012-Bookstack.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/other/BirdInHand.jpg,content/posts/ellen-gallagher-at-tate-modern/images/BirdInHand.jpg,/posts/ellen-gallagher-at-tate-modern/images/BirdInHand.jpg,moved,1
+/assets/images/other/FirstCollector.jpg,content/posts/swaptastic-part-2/images/FirstCollector.jpg,/posts/swaptastic-part-2/images/FirstCollector.jpg,moved,1
+/assets/images/other/George_Bellows_Blue_Snow.jpg,content/posts/george-bellows-at-ra/images/George_Bellows_Blue_Snow.jpg,/posts/george-bellows-at-ra/images/George_Bellows_Blue_Snow.jpg,moved,1
+/assets/images/other/George_Bellows_Dempsey_and_Firpo.jpg,content/posts/george-bellows-at-ra/images/George_Bellows_Dempsey_and_Firpo.jpg,/posts/george-bellows-at-ra/images/George_Bellows_Dempsey_and_Firpo.jpg,moved,1
+/assets/images/other/George_Bellows_New_York.jpg,content/posts/george-bellows-at-ra/images/George_Bellows_New_York.jpg,/posts/george-bellows-at-ra/images/George_Bellows_New_York.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/other/George_Bellows_Summer_Night_Riverside_Drive.jpg,content/posts/george-bellows-at-ra/images/George_Bellows_Summer_Night_Riverside_Drive.jpg,/posts/george-bellows-at-ra/images/George_Bellows_Summer_Night_Riverside_Drive.jpg,moved,1
+/assets/images/other/June-2012-Bookstack.jpg,content/posts/another-reading-list/images/June-2012-Bookstack.jpg,/posts/another-reading-list/images/June-2012-Bookstack.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/other/MobbDeep.jpg,content/posts/ellen-gallagher-at-tate-modern/images/MobbDeep.jpg,/posts/ellen-gallagher-at-tate-modern/images/MobbDeep.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/other/Movember01.jpg,content/posts/movember-10k/images/Movember01.jpg,/posts/movember-10k/images/Movember01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/other/Movember02.jpg,content/posts/movember-10k/images/Movember02.jpg,/posts/movember-10k/images/Movember02.jpg,moved,1
+/assets/images/other/Movember03.jpg,content/posts/movember-10k/images/Movember03.jpg,/posts/movember-10k/images/Movember03.jpg,moved,1
+/assets/images/other/Movember04.jpg,content/posts/movember-10k/images/Movember04.jpg,/posts/movember-10k/images/Movember04.jpg,moved,1
+/assets/images/other/Movember05.jpg,content/posts/movember-10k/images/Movember05.jpg,/posts/movember-10k/images/Movember05.jpg,moved,1
+/assets/images/other/Movember06.jpg,content/posts/movember-10k/images/Movember06.jpg,/posts/movember-10k/images/Movember06.jpg,moved,1
+/assets/images/other/Movember07.jpg,content/posts/movember-10k/images/Movember07.jpg,/posts/movember-10k/images/Movember07.jpg,moved,1
+/assets/images/other/Movember08.jpg,content/posts/movember-10k/images/Movember08.jpg,/posts/movember-10k/images/Movember08.jpg,moved,1
+/assets/images/other/Movember09.jpg,content/posts/movember-10k/images/Movember09.jpg,/posts/movember-10k/images/Movember09.jpg,moved,1
+/assets/images/other/Orb-1.jpg,content/posts/the-orb---brighton-concord-2/images/Orb-1.jpg,/posts/the-orb---brighton-concord-2/images/Orb-1.jpg,moved,1
+/assets/images/other/PenultimateCollector.jpg,content/posts/swaptastic-part-2/images/PenultimateCollector.jpg,/posts/swaptastic-part-2/images/PenultimateCollector.jpg,moved,1
+/assets/images/other/PuppyChow.jpg,content/posts/ellen-gallagher-at-tate-modern/images/PuppyChow.jpg,/posts/ellen-gallagher-at-tate-modern/images/PuppyChow.jpg,moved,1
+/assets/images/other/SomethingThatIsntThere.jpg,content/posts/building-brains/images/SomethingThatIsntThere.jpg,/posts/building-brains/images/SomethingThatIsntThere.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/other/StickersInThePost.jpg,content/posts/swaptastic-part-1/images/StickersInThePost.jpg,/posts/swaptastic-part-1/images/StickersInThePost.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/other/That-Hat.jpg,content/posts/whatever-happened-to-that-hat/images/That-Hat.jpg,/posts/whatever-happened-to-that-hat/images/That-Hat.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/other/UC4add1.jpg,content/posts/understated-classics-4/images/UC4add1.jpg,/posts/understated-classics-4/images/UC4add1.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/other/UC4add2.jpg,content/posts/understated-classics-4/images/UC4add2.jpg,/posts/understated-classics-4/images/UC4add2.jpg,moved,1
+/assets/images/other/UC4add3.jpg,content/posts/understated-classics-4/images/UC4add3.jpg,/posts/understated-classics-4/images/UC4add3.jpg,moved,1
+/assets/images/other/Waxwing1.jpg,content/posts/tales-from-home/images/Waxwing1.jpg,/posts/tales-from-home/images/Waxwing1.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/other/Waxwing2.jpg,content/posts/tales-from-home/images/Waxwing2.jpg,/posts/tales-from-home/images/Waxwing2.jpg,moved,1
+/assets/images/other/Waxwing3.jpg,content/posts/tales-from-home/images/Waxwing3.jpg,/posts/tales-from-home/images/Waxwing3.jpg,moved,1
+/assets/images/other/choc_comparison.jpg,content/posts/hot-chocolate-comparison/images/choc_comparison.jpg,/posts/hot-chocolate-comparison/images/choc_comparison.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/other/cusk_outline_cover.jpg,content/posts/rachel-cusk-outline/images/cusk_outline_cover.jpg,/posts/rachel-cusk-outline/images/cusk_outline_cover.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/other/the_martian_xkcd.png,content/posts/the-martian-a-short-review/images/the_martian_xkcd.png,/posts/the-martian-a-short-review/images/the_martian_xkcd.png,deduplicated (bundle already had identical copy),1
+/assets/images/other/transparency_test.png,content/posts/personal-ggplot-tips-and-tweaks/images/transparency_test.png,/posts/personal-ggplot-tips-and-tweaks/images/transparency_test.png,deduplicated (bundle already had identical copy),1
+/assets/images/schendel/Schendel-01.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-01.jpg,/posts/mira-schendel-tate-modern/images/Schendel-01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/schendel/Schendel-02.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-02.jpg,/posts/mira-schendel-tate-modern/images/Schendel-02.jpg,moved,1
+/assets/images/schendel/Schendel-03.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-03.jpg,/posts/mira-schendel-tate-modern/images/Schendel-03.jpg,moved,1
+/assets/images/schendel/Schendel-04.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-04.jpg,/posts/mira-schendel-tate-modern/images/Schendel-04.jpg,moved,1
+/assets/images/schendel/Schendel-05.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-05.jpg,/posts/mira-schendel-tate-modern/images/Schendel-05.jpg,moved,1
+/assets/images/schendel/Schendel-06.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-06.jpg,/posts/mira-schendel-tate-modern/images/Schendel-06.jpg,moved,1
+/assets/images/schendel/Schendel-07.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-07.jpg,/posts/mira-schendel-tate-modern/images/Schendel-07.jpg,moved,1
+/assets/images/schendel/Schendel-08.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-08.jpg,/posts/mira-schendel-tate-modern/images/Schendel-08.jpg,moved,1
+/assets/images/schendel/Schendel-09.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-09.jpg,/posts/mira-schendel-tate-modern/images/Schendel-09.jpg,moved,1
+/assets/images/schendel/Schendel-10.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-10.jpg,/posts/mira-schendel-tate-modern/images/Schendel-10.jpg,moved,1
+/assets/images/schendel/Schendel-11.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-11.jpg,/posts/mira-schendel-tate-modern/images/Schendel-11.jpg,moved,1
+/assets/images/schendel/Schendel-12.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-12.jpg,/posts/mira-schendel-tate-modern/images/Schendel-12.jpg,moved,1
+/assets/images/schendel/Schendel-13.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-13.jpg,/posts/mira-schendel-tate-modern/images/Schendel-13.jpg,moved,1
+/assets/images/schendel/Schendel-14.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-14.jpg,/posts/mira-schendel-tate-modern/images/Schendel-14.jpg,moved,1
+/assets/images/schendel/Schendel-15.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-15.jpg,/posts/mira-schendel-tate-modern/images/Schendel-15.jpg,moved,1
+/assets/images/schendel/Schendel-16.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-16.jpg,/posts/mira-schendel-tate-modern/images/Schendel-16.jpg,moved,1
+/assets/images/schendel/Schendel-17.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-17.jpg,/posts/mira-schendel-tate-modern/images/Schendel-17.jpg,moved,1
+/assets/images/schendel/Schendel-18.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-18.jpg,/posts/mira-schendel-tate-modern/images/Schendel-18.jpg,moved,1
+/assets/images/schendel/Schendel-19.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-19.jpg,/posts/mira-schendel-tate-modern/images/Schendel-19.jpg,moved,1
+/assets/images/schendel/Schendel-20.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-20.jpg,/posts/mira-schendel-tate-modern/images/Schendel-20.jpg,moved,1
+/assets/images/schendel/Schendel-21.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-21.jpg,/posts/mira-schendel-tate-modern/images/Schendel-21.jpg,moved,1
+/assets/images/schendel/Schendel-22.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-22.jpg,/posts/mira-schendel-tate-modern/images/Schendel-22.jpg,moved,1
+/assets/images/schendel/Schendel-23.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-23.jpg,/posts/mira-schendel-tate-modern/images/Schendel-23.jpg,moved,1
+/assets/images/schendel/Schendel-24.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-24.jpg,/posts/mira-schendel-tate-modern/images/Schendel-24.jpg,moved,1
+/assets/images/schendel/Schendel-25.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-25.jpg,/posts/mira-schendel-tate-modern/images/Schendel-25.jpg,moved,1
+/assets/images/schendel/Schendel-26.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-26.jpg,/posts/mira-schendel-tate-modern/images/Schendel-26.jpg,moved,1
+/assets/images/schendel/Schendel-27.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-27.jpg,/posts/mira-schendel-tate-modern/images/Schendel-27.jpg,moved,1
+/assets/images/schendel/Schendel-28.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-28.jpg,/posts/mira-schendel-tate-modern/images/Schendel-28.jpg,moved,1
+/assets/images/schendel/Schendel-29.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-29.jpg,/posts/mira-schendel-tate-modern/images/Schendel-29.jpg,moved,1
+/assets/images/schendel/Schendel-30.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-30.jpg,/posts/mira-schendel-tate-modern/images/Schendel-30.jpg,moved,1
+/assets/images/schendel/Schendel-31.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-31.jpg,/posts/mira-schendel-tate-modern/images/Schendel-31.jpg,moved,1
+/assets/images/schendel/Schendel-32.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-32.jpg,/posts/mira-schendel-tate-modern/images/Schendel-32.jpg,moved,1
+/assets/images/schendel/Schendel-33.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-33.jpg,/posts/mira-schendel-tate-modern/images/Schendel-33.jpg,moved,1
+/assets/images/schendel/Schendel-34.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-34.jpg,/posts/mira-schendel-tate-modern/images/Schendel-34.jpg,moved,1
+/assets/images/schendel/Schendel-35.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-35.jpg,/posts/mira-schendel-tate-modern/images/Schendel-35.jpg,moved,1
+/assets/images/schendel/Schendel-36.jpg,content/posts/mira-schendel-tate-modern/images/Schendel-36.jpg,/posts/mira-schendel-tate-modern/images/Schendel-36.jpg,moved,1
+/assets/images/south_america/part_1/01.jpg,content/posts/south-america-trip-part-1/images/01.jpg,/posts/south-america-trip-part-1/images/01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/south_america/part_1/02.jpg,content/posts/south-america-trip-part-1/images/02.jpg,/posts/south-america-trip-part-1/images/02.jpg,moved,1
+/assets/images/south_america/part_1/03.jpg,content/posts/south-america-trip-part-1/images/03.jpg,/posts/south-america-trip-part-1/images/03.jpg,moved,1
+/assets/images/south_america/part_1/04.jpg,content/posts/five-years/images/04.jpg,/posts/five-years/images/04.jpg,deduplicated (bundle already had identical copy),2
+/assets/images/south_america/part_1/04.jpg,content/posts/south-america-trip-part-1/images/04.jpg,/posts/south-america-trip-part-1/images/04.jpg,copied (shared),2
+/assets/images/south_america/part_1/05.jpg,content/posts/south-america-trip-part-1/images/05.jpg,/posts/south-america-trip-part-1/images/05.jpg,moved,1
+/assets/images/south_america/part_1/06.jpg,content/posts/south-america-trip-part-1/images/06.jpg,/posts/south-america-trip-part-1/images/06.jpg,moved,1
+/assets/images/south_america/part_10/01.jpg,content/posts/south-america-trip-part-10/images/01.jpg,/posts/south-america-trip-part-10/images/01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/south_america/part_10/02.jpg,content/posts/south-america-trip-part-10/images/02.jpg,/posts/south-america-trip-part-10/images/02.jpg,moved,1
+/assets/images/south_america/part_10/03.jpg,content/posts/south-america-trip-part-10/images/03.jpg,/posts/south-america-trip-part-10/images/03.jpg,moved,1
+/assets/images/south_america/part_10/04.jpg,content/posts/south-america-trip-part-10/images/04.jpg,/posts/south-america-trip-part-10/images/04.jpg,moved,1
+/assets/images/south_america/part_10/05.jpg,content/posts/south-america-trip-part-10/images/05.jpg,/posts/south-america-trip-part-10/images/05.jpg,moved,1
+/assets/images/south_america/part_10/06.jpg,content/posts/south-america-trip-part-10/images/06.jpg,/posts/south-america-trip-part-10/images/06.jpg,moved,1
+/assets/images/south_america/part_10/07.jpg,content/posts/south-america-trip-part-10/images/07.jpg,/posts/south-america-trip-part-10/images/07.jpg,moved,1
+/assets/images/south_america/part_10/08.jpg,content/posts/south-america-trip-part-10/images/08.jpg,/posts/south-america-trip-part-10/images/08.jpg,moved,1
+/assets/images/south_america/part_10/09.jpg,content/posts/south-america-trip-part-10/images/09.jpg,/posts/south-america-trip-part-10/images/09.jpg,moved,1
+/assets/images/south_america/part_10/10.jpg,content/posts/south-america-trip-part-10/images/10.jpg,/posts/south-america-trip-part-10/images/10.jpg,moved,1
+/assets/images/south_america/part_10/11.jpg,content/posts/south-america-trip-part-10/images/11.jpg,/posts/south-america-trip-part-10/images/11.jpg,moved,1
+/assets/images/south_america/part_10/12.jpg,content/posts/south-america-trip-part-10/images/12.jpg,/posts/south-america-trip-part-10/images/12.jpg,moved,1
+/assets/images/south_america/part_10/13.jpg,content/posts/south-america-trip-part-10/images/13.jpg,/posts/south-america-trip-part-10/images/13.jpg,moved,1
+/assets/images/south_america/part_10/14.jpg,content/posts/south-america-trip-part-10/images/14.jpg,/posts/south-america-trip-part-10/images/14.jpg,moved,1
+/assets/images/south_america/part_10/15.jpg,content/posts/south-america-trip-part-10/images/15.jpg,/posts/south-america-trip-part-10/images/15.jpg,moved,1
+/assets/images/south_america/part_10/16.jpg,content/posts/south-america-trip-part-10/images/16.jpg,/posts/south-america-trip-part-10/images/16.jpg,moved,1
+/assets/images/south_america/part_11/01.jpg,content/posts/south-america-trip-part-11/images/01.jpg,/posts/south-america-trip-part-11/images/01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/south_america/part_11/02.jpg,content/posts/south-america-trip-part-11/images/02.jpg,/posts/south-america-trip-part-11/images/02.jpg,moved,1
+/assets/images/south_america/part_11/03.jpg,content/posts/south-america-trip-part-11/images/03.jpg,/posts/south-america-trip-part-11/images/03.jpg,moved,1
+/assets/images/south_america/part_11/04.jpg,content/posts/south-america-trip-part-11/images/04.jpg,/posts/south-america-trip-part-11/images/04.jpg,moved,1
+/assets/images/south_america/part_11/05.jpg,content/posts/south-america-trip-part-11/images/05.jpg,/posts/south-america-trip-part-11/images/05.jpg,moved,1
+/assets/images/south_america/part_11/06.jpg,content/posts/south-america-trip-part-11/images/06.jpg,/posts/south-america-trip-part-11/images/06.jpg,moved,1
+/assets/images/south_america/part_11/07.jpg,content/posts/south-america-trip-part-11/images/07.jpg,/posts/south-america-trip-part-11/images/07.jpg,moved,1
+/assets/images/south_america/part_11/08.jpg,content/posts/south-america-trip-part-11/images/08.jpg,/posts/south-america-trip-part-11/images/08.jpg,moved,1
+/assets/images/south_america/part_11/09.jpg,content/posts/south-america-trip-part-11/images/09.jpg,/posts/south-america-trip-part-11/images/09.jpg,moved,1
+/assets/images/south_america/part_11/10.jpg,content/posts/south-america-trip-part-11/images/10.jpg,/posts/south-america-trip-part-11/images/10.jpg,moved,1
+/assets/images/south_america/part_11/11.jpg,content/posts/south-america-trip-part-11/images/11.jpg,/posts/south-america-trip-part-11/images/11.jpg,moved,1
+/assets/images/south_america/part_11/12.jpg,content/posts/south-america-trip-part-11/images/12.jpg,/posts/south-america-trip-part-11/images/12.jpg,moved,1
+/assets/images/south_america/part_11/13.jpg,content/posts/south-america-trip-part-11/images/13.jpg,/posts/south-america-trip-part-11/images/13.jpg,moved,1
+/assets/images/south_america/part_11/14.jpg,content/posts/south-america-trip-part-11/images/14.jpg,/posts/south-america-trip-part-11/images/14.jpg,moved,1
+/assets/images/south_america/part_11/15.jpg,content/posts/south-america-trip-part-11/images/15.jpg,/posts/south-america-trip-part-11/images/15.jpg,moved,1
+/assets/images/south_america/part_11/16.jpg,content/posts/south-america-trip-part-11/images/16.jpg,/posts/south-america-trip-part-11/images/16.jpg,moved,1
+/assets/images/south_america/part_11/17.jpg,content/posts/south-america-trip-part-11/images/17.jpg,/posts/south-america-trip-part-11/images/17.jpg,moved,1
+/assets/images/south_america/part_11/18.jpg,content/posts/south-america-trip-part-11/images/18.jpg,/posts/south-america-trip-part-11/images/18.jpg,moved,1
+/assets/images/south_america/part_11/19.jpg,content/posts/south-america-trip-part-11/images/19.jpg,/posts/south-america-trip-part-11/images/19.jpg,moved,1
+/assets/images/south_america/part_11/20.jpg,content/posts/south-america-trip-part-11/images/20.jpg,/posts/south-america-trip-part-11/images/20.jpg,moved,1
+/assets/images/south_america/part_11/21.jpg,content/posts/south-america-trip-part-11/images/21.jpg,/posts/south-america-trip-part-11/images/21.jpg,moved,1
+/assets/images/south_america/part_11/22.jpg,content/posts/south-america-trip-part-11/images/22.jpg,/posts/south-america-trip-part-11/images/22.jpg,moved,1
+/assets/images/south_america/part_12/01-Red-hills-of-Tupiza.jpg,content/posts/south-america-trip-part-12/images/01-Red-hills-of-Tupiza.jpg,/posts/south-america-trip-part-12/images/01-Red-hills-of-Tupiza.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/south_america/part_12/02-Kelly-at-the-border.jpg,content/posts/south-america-trip-part-12/images/02-Kelly-at-the-border.jpg,/posts/south-america-trip-part-12/images/02-Kelly-at-the-border.jpg,moved,1
+/assets/images/south_america/part_12/03-Patterned-hills.jpg,content/posts/south-america-trip-part-12/images/03-Patterned-hills.jpg,/posts/south-america-trip-part-12/images/03-Patterned-hills.jpg,moved,1
+/assets/images/south_america/part_12/05-Ew-look-at-my-rash.jpg,content/posts/south-america-trip-part-12/images/05-Ew-look-at-my-rash.jpg,/posts/south-america-trip-part-12/images/05-Ew-look-at-my-rash.jpg,moved,1
+/assets/images/south_america/part_12/06-Campsite-seen-from-high-above-Salta.jpg,content/posts/south-america-trip-part-12/images/06-Campsite-seen-from-high-above-Salta.jpg,/posts/south-america-trip-part-12/images/06-Campsite-seen-from-high-above-Salta.jpg,moved,1
+/assets/images/south_america/part_12/07-Selfie-of-boredom.jpg,content/posts/south-america-trip-part-12/images/07-Selfie-of-boredom.jpg,/posts/south-america-trip-part-12/images/07-Selfie-of-boredom.jpg,moved,1
+/assets/images/south_america/part_12/08-On-the-way-to-San-Pedro-de-Atacama.jpg,content/posts/south-america-trip-part-12/images/08-On-the-way-to-San-Pedro-de-Atacama.jpg,/posts/south-america-trip-part-12/images/08-On-the-way-to-San-Pedro-de-Atacama.jpg,moved,1
+/assets/images/south_america/part_12/09-Undulating-road.jpg,content/posts/south-america-trip-part-12/images/09-Undulating-road.jpg,/posts/south-america-trip-part-12/images/09-Undulating-road.jpg,moved,1
+/assets/images/south_america/part_12/altiplano-1.jpg,content/posts/south-america-trip-part-12/images/altiplano-1.jpg,/posts/south-america-trip-part-12/images/altiplano-1.jpg,moved,1
+/assets/images/south_america/part_12/altiplano-2.jpg,content/posts/south-america-trip-part-12/images/altiplano-2.jpg,/posts/south-america-trip-part-12/images/altiplano-2.jpg,moved,1
+/assets/images/south_america/part_12/altiplano-3.jpg,content/posts/south-america-trip-part-12/images/altiplano-3.jpg,/posts/south-america-trip-part-12/images/altiplano-3.jpg,moved,1
+/assets/images/south_america/part_12/altiplano-4.jpg,content/posts/south-america-trip-part-12/images/altiplano-4.jpg,/posts/south-america-trip-part-12/images/altiplano-4.jpg,moved,1
+/assets/images/south_america/part_12/moon-valley-1.jpg,content/posts/south-america-trip-part-12/images/moon-valley-1.jpg,/posts/south-america-trip-part-12/images/moon-valley-1.jpg,moved,1
+/assets/images/south_america/part_12/moon-valley-2.jpg,content/posts/south-america-trip-part-12/images/moon-valley-2.jpg,/posts/south-america-trip-part-12/images/moon-valley-2.jpg,moved,1
+/assets/images/south_america/part_12/moon-valley-3.jpg,content/posts/south-america-trip-part-12/images/moon-valley-3.jpg,/posts/south-america-trip-part-12/images/moon-valley-3.jpg,moved,1
+/assets/images/south_america/part_12/moon-valley-4.jpg,content/posts/south-america-trip-part-12/images/moon-valley-4.jpg,/posts/south-america-trip-part-12/images/moon-valley-4.jpg,moved,1
+/assets/images/south_america/part_2/01.jpg,content/posts/south-america-trip-part-2/images/01.jpg,/posts/south-america-trip-part-2/images/01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/south_america/part_2/02.jpg,content/posts/south-america-trip-part-2/images/02.jpg,/posts/south-america-trip-part-2/images/02.jpg,moved,1
+/assets/images/south_america/part_2/03.jpg,content/posts/south-america-trip-part-2/images/03.jpg,/posts/south-america-trip-part-2/images/03.jpg,moved,1
+/assets/images/south_america/part_2/04.jpg,content/posts/south-america-trip-part-2/images/04.jpg,/posts/south-america-trip-part-2/images/04.jpg,moved,1
+/assets/images/south_america/part_2/05.jpg,content/posts/south-america-trip-part-2/images/05.jpg,/posts/south-america-trip-part-2/images/05.jpg,moved,1
+/assets/images/south_america/part_2/06.jpg,content/posts/south-america-trip-part-2/images/06.jpg,/posts/south-america-trip-part-2/images/06.jpg,moved,1
+/assets/images/south_america/part_2/07.jpg,content/posts/south-america-trip-part-2/images/07.jpg,/posts/south-america-trip-part-2/images/07.jpg,moved,1
+/assets/images/south_america/part_2/08.jpg,content/posts/south-america-trip-part-2/images/08.jpg,/posts/south-america-trip-part-2/images/08.jpg,moved,1
+/assets/images/south_america/part_3/TentSelfie.jpg,content/posts/south-america-trip-part-3/images/TentSelfie.jpg,/posts/south-america-trip-part-3/images/TentSelfie.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/south_america/part_4/01.jpg,content/posts/south-america-trip-part-4/images/01.jpg,/posts/south-america-trip-part-4/images/01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/south_america/part_4/02.jpg,content/posts/south-america-trip-part-4/images/02.jpg,/posts/south-america-trip-part-4/images/02.jpg,moved,1
+/assets/images/south_america/part_4/03.jpg,content/posts/south-america-trip-part-4/images/03.jpg,/posts/south-america-trip-part-4/images/03.jpg,moved,1
+/assets/images/south_america/part_4/04.jpg,content/posts/south-america-trip-part-4/images/04.jpg,/posts/south-america-trip-part-4/images/04.jpg,moved,1
+/assets/images/south_america/part_4/05.jpg,content/posts/south-america-trip-part-4/images/05.jpg,/posts/south-america-trip-part-4/images/05.jpg,moved,1
+/assets/images/south_america/part_4/06.jpg,content/posts/south-america-trip-part-4/images/06.jpg,/posts/south-america-trip-part-4/images/06.jpg,moved,1
+/assets/images/south_america/part_4/07.jpg,content/posts/south-america-trip-part-4/images/07.jpg,/posts/south-america-trip-part-4/images/07.jpg,moved,1
+/assets/images/south_america/part_4/08.jpg,content/posts/south-america-trip-part-4/images/08.jpg,/posts/south-america-trip-part-4/images/08.jpg,moved,1
+/assets/images/south_america/part_4/IngapircaPano.jpg,content/posts/south-america-trip-part-4/images/IngapircaPano.jpg,/posts/south-america-trip-part-4/images/IngapircaPano.jpg,moved,1
+/assets/images/south_america/part_5/01.jpg,content/posts/south-america-trip-part-5/images/01.jpg,/posts/south-america-trip-part-5/images/01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/south_america/part_5/02.jpg,content/posts/south-america-trip-part-5/images/02.jpg,/posts/south-america-trip-part-5/images/02.jpg,moved,1
+/assets/images/south_america/part_5/03.jpg,content/posts/south-america-trip-part-5/images/03.jpg,/posts/south-america-trip-part-5/images/03.jpg,moved,1
+/assets/images/south_america/part_5/04.jpg,content/posts/south-america-trip-part-5/images/04.jpg,/posts/south-america-trip-part-5/images/04.jpg,moved,1
+/assets/images/south_america/part_5/05.jpg,content/posts/south-america-trip-part-5/images/05.jpg,/posts/south-america-trip-part-5/images/05.jpg,moved,1
+/assets/images/south_america/part_5/06.jpg,content/posts/south-america-trip-part-5/images/06.jpg,/posts/south-america-trip-part-5/images/06.jpg,moved,1
+/assets/images/south_america/part_5/07.jpg,content/posts/south-america-trip-part-5/images/07.jpg,/posts/south-america-trip-part-5/images/07.jpg,moved,1
+/assets/images/south_america/part_5/08.jpg,content/posts/south-america-trip-part-5/images/08.jpg,/posts/south-america-trip-part-5/images/08.jpg,moved,1
+/assets/images/south_america/part_5/09.jpg,content/posts/south-america-trip-part-5/images/09.jpg,/posts/south-america-trip-part-5/images/09.jpg,moved,1
+/assets/images/south_america/part_6/01.jpg,content/posts/south-america-trip-part-6/images/01.jpg,/posts/south-america-trip-part-6/images/01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/south_america/part_6/02.jpg,content/posts/south-america-trip-part-6/images/02.jpg,/posts/south-america-trip-part-6/images/02.jpg,moved,1
+/assets/images/south_america/part_6/03.jpg,content/posts/south-america-trip-part-6/images/03.jpg,/posts/south-america-trip-part-6/images/03.jpg,moved,1
+/assets/images/south_america/part_6/04.jpg,content/posts/south-america-trip-part-6/images/04.jpg,/posts/south-america-trip-part-6/images/04.jpg,moved,1
+/assets/images/south_america/part_6/05.jpg,content/posts/south-america-trip-part-6/images/05.jpg,/posts/south-america-trip-part-6/images/05.jpg,moved,1
+/assets/images/south_america/part_6/06.jpg,content/posts/south-america-trip-part-6/images/06.jpg,/posts/south-america-trip-part-6/images/06.jpg,moved,1
+/assets/images/south_america/part_6/07.jpg,content/posts/south-america-trip-part-6/images/07.jpg,/posts/south-america-trip-part-6/images/07.jpg,moved,1
+/assets/images/south_america/part_6/08.jpg,content/posts/south-america-trip-part-6/images/08.jpg,/posts/south-america-trip-part-6/images/08.jpg,moved,1
+/assets/images/south_america/part_7/01.jpg,content/posts/south-america-trip-part-7/images/01.jpg,/posts/south-america-trip-part-7/images/01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/south_america/part_7/02.jpg,content/posts/south-america-trip-part-7/images/02.jpg,/posts/south-america-trip-part-7/images/02.jpg,moved,1
+/assets/images/south_america/part_7/03.jpg,content/posts/south-america-trip-part-7/images/03.jpg,/posts/south-america-trip-part-7/images/03.jpg,moved,1
+/assets/images/south_america/part_7/04.jpg,content/posts/south-america-trip-part-7/images/04.jpg,/posts/south-america-trip-part-7/images/04.jpg,moved,1
+/assets/images/south_america/part_7/05.jpg,content/posts/south-america-trip-part-7/images/05.jpg,/posts/south-america-trip-part-7/images/05.jpg,moved,1
+/assets/images/south_america/part_7/06.jpg,content/posts/south-america-trip-part-7/images/06.jpg,/posts/south-america-trip-part-7/images/06.jpg,moved,1
+/assets/images/south_america/part_7/07.jpg,content/posts/south-america-trip-part-7/images/07.jpg,/posts/south-america-trip-part-7/images/07.jpg,moved,1
+/assets/images/south_america/part_7/08.jpg,content/posts/south-america-trip-part-7/images/08.jpg,/posts/south-america-trip-part-7/images/08.jpg,moved,1
+/assets/images/south_america/part_7/09.jpg,content/posts/south-america-trip-part-7/images/09.jpg,/posts/south-america-trip-part-7/images/09.jpg,moved,1
+/assets/images/south_america/part_7/10.jpg,content/posts/south-america-trip-part-7/images/10.jpg,/posts/south-america-trip-part-7/images/10.jpg,moved,1
+/assets/images/south_america/part_7/11.jpg,content/posts/south-america-trip-part-7/images/11.jpg,/posts/south-america-trip-part-7/images/11.jpg,moved,1
+/assets/images/south_america/part_7/12.jpg,content/posts/south-america-trip-part-7/images/12.jpg,/posts/south-america-trip-part-7/images/12.jpg,moved,1
+/assets/images/south_america/part_7/13.jpg,content/posts/south-america-trip-part-7/images/13.jpg,/posts/south-america-trip-part-7/images/13.jpg,moved,1
+/assets/images/south_america/part_8/01.jpg,content/posts/south-america-trip-part-8/images/01.jpg,/posts/south-america-trip-part-8/images/01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/south_america/part_8/02.jpg,content/posts/south-america-trip-part-8/images/02.jpg,/posts/south-america-trip-part-8/images/02.jpg,moved,1
+/assets/images/south_america/part_8/03.jpg,content/posts/south-america-trip-part-8/images/03.jpg,/posts/south-america-trip-part-8/images/03.jpg,moved,1
+/assets/images/south_america/part_8/04.jpg,content/posts/south-america-trip-part-8/images/04.jpg,/posts/south-america-trip-part-8/images/04.jpg,moved,1
+/assets/images/south_america/part_8/05.jpg,content/posts/south-america-trip-part-8/images/05.jpg,/posts/south-america-trip-part-8/images/05.jpg,moved,1
+/assets/images/south_america/part_8/06.jpg,content/posts/south-america-trip-part-8/images/06.jpg,/posts/south-america-trip-part-8/images/06.jpg,moved,1
+/assets/images/south_america/part_8/07.jpg,content/posts/south-america-trip-part-8/images/07.jpg,/posts/south-america-trip-part-8/images/07.jpg,moved,1
+/assets/images/south_america/part_8/08.jpg,content/posts/south-america-trip-part-8/images/08.jpg,/posts/south-america-trip-part-8/images/08.jpg,moved,1
+/assets/images/south_america/part_8/09.jpg,content/posts/south-america-trip-part-8/images/09.jpg,/posts/south-america-trip-part-8/images/09.jpg,moved,1
+/assets/images/south_america/part_8/10.jpg,content/posts/south-america-trip-part-8/images/10.jpg,/posts/south-america-trip-part-8/images/10.jpg,moved,1
+/assets/images/south_america/part_8/11.jpg,content/posts/south-america-trip-part-8/images/11.jpg,/posts/south-america-trip-part-8/images/11.jpg,moved,1
+/assets/images/south_america/part_8/12.jpg,content/posts/south-america-trip-part-8/images/12.jpg,/posts/south-america-trip-part-8/images/12.jpg,moved,1
+/assets/images/south_america/part_9/01.jpg,content/posts/south-america-trip-part-9/images/01.jpg,/posts/south-america-trip-part-9/images/01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/south_america/part_9/02.jpg,content/posts/south-america-trip-part-9/images/02.jpg,/posts/south-america-trip-part-9/images/02.jpg,moved,1
+/assets/images/south_america/part_9/03.jpg,content/posts/south-america-trip-part-9/images/03.jpg,/posts/south-america-trip-part-9/images/03.jpg,moved,1
+/assets/images/south_america/part_9/04.jpg,content/posts/south-america-trip-part-9/images/04.jpg,/posts/south-america-trip-part-9/images/04.jpg,moved,1
+/assets/images/south_america/part_9/05.jpg,content/posts/south-america-trip-part-9/images/05.jpg,/posts/south-america-trip-part-9/images/05.jpg,moved,1
+/assets/images/south_america/part_9/06.jpg,content/posts/south-america-trip-part-9/images/06.jpg,/posts/south-america-trip-part-9/images/06.jpg,moved,1
+/assets/images/south_america/part_9/07.jpg,content/posts/south-america-trip-part-9/images/07.jpg,/posts/south-america-trip-part-9/images/07.jpg,moved,1
+/assets/images/south_america/part_9/08.jpg,content/posts/south-america-trip-part-9/images/08.jpg,/posts/south-america-trip-part-9/images/08.jpg,moved,1
+/assets/images/south_america/part_9/09.jpg,content/posts/south-america-trip-part-9/images/09.jpg,/posts/south-america-trip-part-9/images/09.jpg,moved,1
+/assets/images/south_america/part_9/10.jpg,content/posts/south-america-trip-part-9/images/10.jpg,/posts/south-america-trip-part-9/images/10.jpg,moved,1
+/assets/images/south_america/part_9/11.jpg,content/posts/south-america-trip-part-9/images/11.jpg,/posts/south-america-trip-part-9/images/11.jpg,moved,1
+/assets/images/south_america/part_9/12.jpg,content/posts/south-america-trip-part-9/images/12.jpg,/posts/south-america-trip-part-9/images/12.jpg,moved,1
+/assets/images/south_america/part_9/13.jpg,content/posts/south-america-trip-part-9/images/13.jpg,/posts/south-america-trip-part-9/images/13.jpg,moved,1
+/assets/images/south_america/part_9/14.jpg,content/posts/south-america-trip-part-9/images/14.jpg,/posts/south-america-trip-part-9/images/14.jpg,moved,1
+/assets/images/south_america/part_9/15.jpg,content/posts/south-america-trip-part-9/images/15.jpg,/posts/south-america-trip-part-9/images/15.jpg,moved,1
+/assets/images/south_america/part_9/16.jpg,content/posts/south-america-trip-part-9/images/16.jpg,/posts/south-america-trip-part-9/images/16.jpg,moved,1
+/assets/images/south_america/part_9/17.jpg,content/posts/south-america-trip-part-9/images/17.jpg,/posts/south-america-trip-part-9/images/17.jpg,moved,1
+/assets/images/south_america/part_9/18.jpg,content/posts/south-america-trip-part-9/images/18.jpg,/posts/south-america-trip-part-9/images/18.jpg,moved,1
+/assets/images/south_america/part_9/19.jpg,content/posts/south-america-trip-part-9/images/19.jpg,/posts/south-america-trip-part-9/images/19.jpg,moved,1
+/assets/images/south_america/part_9/20.jpg,content/posts/south-america-trip-part-9/images/20.jpg,/posts/south-america-trip-part-9/images/20.jpg,moved,1
+/assets/images/swiss/Swiss01.jpg,content/posts/lausanne-march-2016/images/Swiss01.jpg,/posts/lausanne-march-2016/images/Swiss01.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/swiss/Swiss02.jpg,content/posts/lausanne-march-2016/images/Swiss02.jpg,/posts/lausanne-march-2016/images/Swiss02.jpg,moved,1
+/assets/images/swiss/Swiss03.jpg,content/posts/lausanne-march-2016/images/Swiss03.jpg,/posts/lausanne-march-2016/images/Swiss03.jpg,moved,1
+/assets/images/swiss/Swiss04.jpg,content/posts/lausanne-march-2016/images/Swiss04.jpg,/posts/lausanne-march-2016/images/Swiss04.jpg,moved,1
+/assets/images/swiss/Swiss05.jpg,content/posts/lausanne-march-2016/images/Swiss05.jpg,/posts/lausanne-march-2016/images/Swiss05.jpg,moved,1
+/assets/images/swiss/Swiss06.jpg,content/posts/lausanne-march-2016/images/Swiss06.jpg,/posts/lausanne-march-2016/images/Swiss06.jpg,moved,1
+/assets/images/swiss/Swiss07.jpg,content/posts/lausanne-march-2016/images/Swiss07.jpg,/posts/lausanne-march-2016/images/Swiss07.jpg,moved,1
+/assets/images/swiss/Swiss08.jpg,content/posts/lausanne-march-2016/images/Swiss08.jpg,/posts/lausanne-march-2016/images/Swiss08.jpg,moved,1
+/assets/images/swiss/Swiss09.jpg,content/posts/lausanne-march-2016/images/Swiss09.jpg,/posts/lausanne-march-2016/images/Swiss09.jpg,moved,1
+/assets/images/swiss/Swiss10.jpg,content/posts/lausanne-march-2016/images/Swiss10.jpg,/posts/lausanne-march-2016/images/Swiss10.jpg,moved,1
+/assets/images/swiss/Swiss11.jpg,content/posts/lausanne-march-2016/images/Swiss11.jpg,/posts/lausanne-march-2016/images/Swiss11.jpg,moved,1
+/assets/images/swiss/Swiss12.jpg,content/posts/lausanne-march-2016/images/Swiss12.jpg,/posts/lausanne-march-2016/images/Swiss12.jpg,moved,1
+/assets/images/swiss/Swiss13.jpg,content/posts/lausanne-march-2016/images/Swiss13.jpg,/posts/lausanne-march-2016/images/Swiss13.jpg,moved,1
+/assets/images/swiss/Swiss14.jpg,content/posts/lausanne-march-2016/images/Swiss14.jpg,/posts/lausanne-march-2016/images/Swiss14.jpg,moved,1
+/assets/images/swiss/Swiss15.jpg,content/posts/lausanne-march-2016/images/Swiss15.jpg,/posts/lausanne-march-2016/images/Swiss15.jpg,moved,1
+/assets/images/swiss/Swiss16.jpg,content/posts/lausanne-march-2016/images/Swiss16.jpg,/posts/lausanne-march-2016/images/Swiss16.jpg,moved,1
+/assets/images/swiss/Swiss17.jpg,content/posts/lausanne-march-2016/images/Swiss17.jpg,/posts/lausanne-march-2016/images/Swiss17.jpg,moved,1
+/assets/images/swiss/Swiss18.jpg,content/posts/lausanne-march-2016/images/Swiss18.jpg,/posts/lausanne-march-2016/images/Swiss18.jpg,moved,1
+/assets/images/swiss/Swiss19.jpg,content/posts/lausanne-march-2016/images/Swiss19.jpg,/posts/lausanne-march-2016/images/Swiss19.jpg,moved,1
+/assets/images/swiss/Swiss20.jpg,content/posts/lausanne-march-2016/images/Swiss20.jpg,/posts/lausanne-march-2016/images/Swiss20.jpg,moved,1
+/assets/images/swiss/Swiss21.jpg,content/posts/lausanne-march-2016/images/Swiss21.jpg,/posts/lausanne-march-2016/images/Swiss21.jpg,moved,1
+/assets/images/wedding/wedding_1.jpg,content/posts/the-same-yet-different/images/wedding_1.jpg,/posts/the-same-yet-different/images/wedding_1.jpg,deduplicated (bundle already had identical copy),1
+/assets/images/wedding/wedding_2.jpg,content/posts/the-same-yet-different/images/wedding_2.jpg,/posts/the-same-yet-different/images/wedding_2.jpg,moved,1
+/assets/images/wedding/wedding_3.jpg,content/posts/the-same-yet-different/images/wedding_3.jpg,/posts/the-same-yet-different/images/wedding_3.jpg,moved,1
+/assets/images/wedding/wedding_4.jpg,content/posts/the-same-yet-different/images/wedding_4.jpg,/posts/the-same-yet-different/images/wedding_4.jpg,moved,1
+/assets/images/wedding/wedding_5.jpg,content/posts/the-same-yet-different/images/wedding_5.jpg,/posts/the-same-yet-different/images/wedding_5.jpg,moved,1
+/assets/images/wedding/wedding_6.jpg,content/posts/the-same-yet-different/images/wedding_6.jpg,/posts/the-same-yet-different/images/wedding_6.jpg,moved,1

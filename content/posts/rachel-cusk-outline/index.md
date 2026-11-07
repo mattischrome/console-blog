@@ -11,7 +11,7 @@ _Outline_ is the first of a trilogy of novels by Rachel Cusk. In it, the narrato
 <!--more-->
 As I learned from _A Swim in a Pond in the Rain_, George Saunders' excellent writing class given by the dissection of seven great Russian short stories, the way things happen in stories and novels is through writing. I feel a little silly for having to be taught this about thirty years after I started reading 'proper' books, but _Outline_ very much confirms this to be true. I can't think of a better novel to have read after _A Swim in a Pond in the Rain_, proof as it is of Cusk's skill as writer and how Saunders' book primes you for the task of reading.
 
-![Cover of Outline by Rachel Cusk](../../assets/images/other/cusk_outline_cover.jpg "Cover of Outline by Rachel Cusk")
+![Cover of Outline by Rachel Cusk](images/cusk_outline_cover.jpg "Cover of Outline by Rachel Cusk")
 
 Chief among the techniques discussed by Saunders are the use of digression and the use of interiority. Digression happens everywhere in _Outline_ and provides the structure for the novel. The reader's impression of the narrator is shaped by their response to the words of the people the narrator encounters. Each of these people give long digressions away from the 'plot' of the novel: the trip to Athens and allusions to some drama back home. In every case we get drawn away in those characters' narratives because Cusk very deftly moves us from the narrator's head into the heads of those talking. Even more impressively, there are moments where you move into the heads of the people they are talking about too.
 

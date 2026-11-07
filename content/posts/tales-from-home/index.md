@@ -22,11 +22,11 @@ The waxwing was probably after the berries rather than adoration from the locals
 
 Dad took lots of pictures and he’s let me use some here. I really like them even though you can only see the yellow wings in a couple of pictures, though that marvellous crest is prominent throughout. The pictures are a bit fuzzy because of the zoom but I think the colour of the sky, the branches and berries, together with the silhouette of the bird, certainly make them interesting.
 
-![Dad's pictures of Waxwings](../../assets/images/other/Waxwing1.jpg)
+![Dad's pictures of Waxwings](images/Waxwing1.jpg)
 
-![Dad's pictures of Waxwings](../../assets/images/other/Waxwing2.jpg)
+![Dad's pictures of Waxwings](images/Waxwing2.jpg)
 
-![Dad's pictures of Waxwings](../../assets/images/other/Waxwing3.jpg)
+![Dad's pictures of Waxwings](images/Waxwing3.jpg)
 
 ### The Naked Prince
 
