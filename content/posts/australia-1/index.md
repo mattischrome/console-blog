@@ -6,7 +6,7 @@ title: A Day in the Air
 hero: images/australia_1_01.jpg
 hero_alt: "A Day in the Air"
 ---
-![The Plane](../../assets/images/australia_1/australia_1_01.jpg)
+![The Plane](images/australia_1_01.jpg)
 
 <!--more-->
 It seemed to last forever but we made it. We left for Heathrow at 6AM and left London at around midday. I waved goodbye to home for nearly four weeks.
@@ -15,7 +15,7 @@ We stopped over in Dubai for an hour or so while the plane refuelled. We walked 
 
 We didn't win this car!
 
-![The Car We Didn't Win](../../assets/images/australia_1/australia_1_02.jpg)
+![The Car We Didn't Win](images/australia_1_02.jpg)
 
 The Airbus A380 is a great plane. The mind boggles when you start multiplying the number of rows of passengers by the number of passengers in each row. And there are two decks!
 

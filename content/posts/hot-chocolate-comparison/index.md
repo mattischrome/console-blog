@@ -13,7 +13,7 @@ However, there are other things to consider. For one, what's the cost per drink?
 
 But Montezuma's hot chocolate is darker and contains a lot less sugar than the M&S stuff. They're a bit closer though when it comes to saturated fats. You can see this from the helpful photo below with the nutritional information of both side-by-side. 
 
-![A picture of the backs of two hot chocolate brands](../../assets/images/other/choc_comparison.jpg)
+![A picture of the backs of two hot chocolate brands](images/choc_comparison.jpg)
 
 In case the writing is too small, let me summarise with the following table:
 

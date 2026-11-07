@@ -27,4 +27,4 @@ That said, the novel ends with so much more alternative history to be consider! 
 
 [1]:	https://en.wikipedia.org/wiki/1755_Lisbon_earthquake
 
-[image-1]:	../../assets/images/books/binet-civilisations.jpg
+[image-1]:	images/binet-civilisations.jpg

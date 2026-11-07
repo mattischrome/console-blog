@@ -17,11 +17,11 @@ To compensate for the market not quite being as enormous as advertised our tour 
 
 The trip really crammed in a lot of stuff. There was a visit to a waterfall that's very important to the local Quechwa people, then there we visited a crater lake but unfortunately by this point the weather had turned wet and cold and I was wearing just a t-shirt. The boat trip around the lake was about the coldest I had been in a long while - including when I got hailed on during my last day in Hendon! After that we went to a suburb famous for cheap leather but most of us didn't really need any so we settled in a cafe for a much needed coffee. Finally we went to meet a family that produces woven products - the kind that we'd seen in the market earlier on. I sort of regretted my earlier purchase because there was an even nicer blanket, though this one did cost significantly more and I didn't want to blow my budget too early.
 
-![](../../assets/images/south_america/part_2/01.jpg)
+![](images/01.jpg)
 
-![](../../assets/images/south_america/part_2/02.jpg)
+![](images/02.jpg)
 
-![](../../assets/images/south_america/part_2/03.jpg)
+![](images/03.jpg)
 
 We got back so late that Neinke (our tour leader) was a bit worried about where we had got to. I dashed across the road for fried chicken (I know, I should do better!) before hitting the hay. I hardly spent any time at the hotel where we were staying, which was a shame because it was a really nice place. I would have at least liked to have swayed in the hammocks for a bit!
 
@@ -33,9 +33,9 @@ The roads over the Andes linking Quito to Tena are still being built and the she
 
 I took a stack of photos as we crossed the mountain passes, here are a few:
 
-![](../../assets/images/south_america/part_2/04.jpg)
+![](images/04.jpg)
 
-![](../../assets/images/south_america/part_2/05.jpg)
+![](images/05.jpg)
 
 ### Misahualli Day One: Positive energy and impromptu canyoning
 
@@ -55,7 +55,7 @@ After that we had a late lunch (including popcorn in soup - try it, it works!) a
 
 That night there was a massive thunderstorm, quite unlike any other that I have experienced, more for it's duration than for its intensity or ferocity. I sat there in the dark and filmed a bit, so I may put that video up at some point.
 
-![](../../assets/images/south_america/part_2/06.jpg)
+![](images/06.jpg)
 
 ### Misahualli Day Three: Tubing, mosquito bites, moonshine, and mud
 
@@ -69,6 +69,6 @@ All in all it was a fun day because I'd never really heard of tubing before and 
 
 To be continued...
 
-![](../../assets/images/south_america/part_2/07.jpg)
+![](images/07.jpg)
 
-![](../../assets/images/south_america/part_2/08.jpg)
+![](images/08.jpg)

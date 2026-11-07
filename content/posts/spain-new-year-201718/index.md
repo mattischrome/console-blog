@@ -11,17 +11,17 @@ For new year Ingrid and I met up with Ingrid's friend Ros at Barcelona airport. 
 
 <!--more-->
 <figure>
-<img src="../../assets/images/cadaques/Spain01.jpg" />
+<img src="images/Spain01.jpg" />
 <figcaption>View of Cadaqués from the church.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain02.jpg" />
+<img src="images/Spain02.jpg" />
 <figcaption>View of Cadaqués from near to where we stayed.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain03.jpg" />
+<img src="images/Spain03.jpg" />
 <figcaption>A view of the hills you need to drive through to get in and out of Cadaqués.</figcaption>
 </figure>
 
@@ -33,47 +33,47 @@ The theatre-museum in Figueres is a great museum to wander around. It pays homag
 By comparison, the House in Port Lligat is a delight. They only allow ten people in per half hour slot. This makes for a rather brisk tour but there's a greater focus on the man himself. You get to see his studio and his echoing room. The gardens were beautiful too. 
 
 <figure>
-<img src="../../assets/images/cadaques/Spain06.jpg" />
+<img src="images/Spain06.jpg" />
 <figcaption>Iconic eggs and traditional bread loaves stud the exterior of the Dali Theatre-Museum.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain07.jpg" />
+<img src="images/Spain07.jpg" />
 <figcaption>Boats in the bay at Port Lligat.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain11.jpg" />
+<img src="images/Spain11.jpg" />
 <figcaption>In the gardens at Port Lligat.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain04.jpg" />
+<img src="images/Spain04.jpg" />
 <figcaption>Dali’s grafitti’d bust of Velázquez complete with Las Meninas painted on the forehead.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain05.jpg" />
+<img src="images/Spain05.jpg" />
 <figcaption>Outside the museum is a similar piece.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain08.jpg" />
+<img src="images/Spain08.jpg" />
 <figcaption>Ingrid poses with Dali’s polar bear at Dali’s house.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain09.jpg" />
+<img src="images/Spain09.jpg" />
 <figcaption>I am the eggman, they are the eggmen, I am the Walrus...</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain10.jpg" />
+<img src="images/Spain10.jpg" />
 <figcaption>Egg reflections in the Port Lligat landscape.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain10a.jpg" />
+<img src="images/Spain10a.jpg" />
 <figcaption>Path down to Port Lligat.</figcaption>
 </figure>
 
@@ -82,47 +82,47 @@ Cadaqués is also close to the eastern-most point of Spain, the lighthouse at Ca
 We spent the rest of New Year's Day wandering around Cadaqués, walking over to an abandoned private island fused to the bay. This was covered with olive trees (as is much of the area) and was beautiful in the early afternoon light. That night we had a lovely meal in a pizzeria.
 
 <figure>
-<img src="../../assets/images/cadaques/Spain12.jpg" />
+<img src="images/Spain12.jpg" />
 <figcaption>Watching the sunrise at Cap de Creus.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain13.jpg" />
+<img src="images/Spain13.jpg" />
 <figcaption>Watching the sunrise at Cap de Creus.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain13b.jpg" />
+<img src="images/Spain13b.jpg" />
 <figcaption>Watching the sunrise at Cap de Creus.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain14.jpg" />
+<img src="images/Spain14.jpg" />
 <figcaption>Watching the sunrise at Cap de Creus.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain15.jpg" />
+<img src="images/Spain15.jpg" />
 <figcaption>Viva Catalunya!</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain15b.jpg" />
+<img src="images/Spain15b.jpg" />
 <figcaption>Principal way to get to a lighthouse at 4am? Moped!.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain16.jpg" />
+<img src="images/Spain16.jpg" />
 <figcaption>Stunning landscape in the newly sunny new year.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain17.jpg" />
+<img src="images/Spain17.jpg" />
 <figcaption>We spent the rest of the day exploring the little islands and inlets around the edge of Cadaqués.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain17b.jpg" />
+<img src="images/Spain17b.jpg" />
 <figcaption>We spent the rest of the day exploring the little islands and inlets around the edge of Cadaqués.</figcaption>
 </figure>
 
@@ -133,31 +133,31 @@ That afternoon the motorway flew by until we got snared in Barcelona's stressful
 The next day we explored the Ramblas and the old town. We covered a lot of ground, soaking up the atmosphere and ducking away from the crowds whenever they got too much to handle. I enjoyed the warm weather and the chance to see this great city once again.
 
 <figure>
-<img src="../../assets/images/cadaques/Spain19.jpg" />
+<img src="images/Spain19.jpg" />
 <figcaption>The medieval bridge at Besalú.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain20.jpg" />
+<img src="images/Spain20.jpg" />
 <figcaption>The medieval bridge at Besalú from further down the river.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain20b.jpg" />
+<img src="images/Spain20b.jpg" />
 <figcaption>On the medieval bridge at Besalú.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain18.jpg" />
+<img src="images/Spain18.jpg" />
 <figcaption>An ant on a tightrope in the Besalú miniatures museum.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain21.jpg" />
+<img src="images/Spain21.jpg" />
 <figcaption>On the medieval bridge at Besalú.</figcaption>
 </figure>
 
 <figure>
-<img src="../../assets/images/cadaques/Spain22.jpg" />
+<img src="images/Spain22.jpg" />
 <figcaption>Exploring the streets of Barcelona near the Gothic cathedral.</figcaption>
 </figure>

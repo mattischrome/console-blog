@@ -25,14 +25,14 @@ That evening we met everyone on the tour. There are six of us doing the whole si
 
 To be continued...
 
-![](../../assets/images/south_america/part_1/01.jpg)
+![](images/01.jpg)
 
-![](../../assets/images/south_america/part_1/02.jpg)
+![](images/02.jpg)
 
-![](../../assets/images/south_america/part_1/03.jpg)
+![](images/03.jpg)
 
-![](../../assets/images/south_america/part_1/04.jpg)
+![](images/04.jpg)
 
-![](../../assets/images/south_america/part_1/05.jpg)
+![](images/05.jpg)
 
-![](../../assets/images/south_america/part_1/06.jpg)
+![](images/06.jpg)

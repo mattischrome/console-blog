@@ -8,7 +8,7 @@ hero: images/sofia-kourtesis-madres.jpeg
 hero_alt: "2023 Albums of the Year #1: Sofia Kourtesis, Madres"
 ---
 Sofia Kourtesis is a Berlin-based Peruvian dance producer, "Madres" is her debut album which follows on from a 2021 EP "Fresia Magdalena".
-{{< marginfigure src="../../assets/images/albums-2023/sofia-kourtesis-madres.jpeg" alt="Cover of Madres by Sofia Kourtesis" caption="Cover of _Madres_ by Sofia Kourtesis" >}}
+{{< marginfigure src="images/sofia-kourtesis-madres.jpeg" alt="Cover of Madres by Sofia Kourtesis" caption="Cover of _Madres_ by Sofia Kourtesis" >}}
 It was trailed by several singles, including the title track which caught my attention back in May. The album is dedicated to her parents and there are also songs dedicated to the surgeon who performed life-saving surgery on Kourtesis’s mother. The whole album is a heady mix of positivity and dedication to both music and to family. 
 
 For me, ten years on from my trip to South America, I think my response to this album has been to its fusion of European and South American dance music, perhaps reminding me that it is possible to incorporate the experiences one has in other places into our viewpoint on the world. It seems to be that we are in a point in history that rather than acknowledging that we are interconnected and responsible for and to one another, that we have instead lurched into a protectionist and selfish mode of thinking. 

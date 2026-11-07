@@ -17,17 +17,17 @@ In 2023, it was Germany or go home.
 
 Went to Cologne in January. Here is photographic evidence:
 
-![Photographic evidence of my visit to Cologne](../../assets/images/2023/cologne-proof.jpeg)
+![Photographic evidence of my visit to Cologne](images/cologne-proof.jpeg)
 
 We took the Eurostar via Brussels. A bit of a long day on the way back but much less stressful compared to flying.
 
 We went to the Isle of Wight in June. It was the first time I'd been since I was about 8. This time I didn't get Chicken Pox. Anyway, here is photographic evidence:
 
-![Photographic evidence of my visit to the Isle of Wight](../../assets/images/2023/isle-of-wight-proof.jpeg)
+![Photographic evidence of my visit to the Isle of Wight](images/isle-of-wight-proof.jpeg)
 
 Went to Berlin in July. Here is photographic evidence:
 
-![Photographic evidence of my visit to Berlin](../../assets/images/2023/berlin-proof.jpeg)
+![Photographic evidence of my visit to Berlin](images/berlin-proof.jpeg)
 
 We flew with Easyjet. It feels like everything has fallen apart compared to pre-Brexit. (A flight to and from Germany in 2019 was pretty mediocre too, so it's not just the pandemic.) Anyway, the train is way better - but would have also taken about 15 hours and been a lot slower. 
 
@@ -35,7 +35,7 @@ But Berlin was lovely. It was the tail end of a long heatwave, so the whole city
 
 Less close to home, but not involving a ferry ride, we went to Gilbert White's house in September. Here is photographic evidence (both of going there and that I should have had a hair cut beforehand):
 
-![Photographic evidence of my visit to Gilbert White's House](../../assets/images/2023/gilbert-white-proof.jpeg)
+![Photographic evidence of my visit to Gilbert White's House](images/gilbert-white-proof.jpeg)
 
 I probably need to travel more in 2024, but as mentioned above, it seems so difficult right now.
 

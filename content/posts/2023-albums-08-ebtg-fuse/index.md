@@ -8,7 +8,7 @@ hero: images/ebtg-fuse.jpeg
 hero_alt: "2023 Albums of the Year #8: Everything But The Girl, Fuse"
 ---
 As you get older nostalgia becomes an ever important part of listening to music.
-{{< marginfigure src="../../assets/images/albums-2023/ebtg-fuse.jpeg" alt="Cover of Fuse by Everything But The Girl" caption="Cover of _Fuse_ by Everything But The Girl" >}}
+{{< marginfigure src="images/ebtg-fuse.jpeg" alt="Cover of Fuse by Everything But The Girl" caption="Cover of _Fuse_ by Everything But The Girl" >}}
 It often feels like the business relies on convincing an aging population of fans to part with their money on new versions of old material. It's nostalgia, the feeling of recapturing something you loved in your youth, that often makes this acceptable. Of course it's also nice to get **new** music from your favourite bands, especially when it's as good as "Fuse". 
 
 <!--more-->

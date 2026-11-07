@@ -19,15 +19,15 @@ Elsewhere there were beautiful see-through watercolours painted on transparent p
 
 Construction seems to play a large role in Gallagher's work, or at least those selected for this show. Almost every piece contained not only some overall image but also some riff on how it was made. Typical of this were the shiny black pieces like "Mobb Deep" (1998): at face value you are presented with a canvas that has been painted but then you notice the presence of another work beneath the slick black façade, the presence of the same collage of rubber and paper pieces that make up her other works. In some ways, this is a run-on from the two-sided watercolours, except instead of admiring two views of the same thing that Gallagher has given you, you are trying to bring that second view of the same artwork out of the pitch by black yourself. (In the catalogue for the show these works are reproduced in a way that you can see all the structure quite easily, something that is more difficult in the gallery itself.)
 
-![](../../assets/images/other/MobbDeep.jpg)
+![](images/MobbDeep.jpg)
 
 I loved "Bird In Hand" (2006) but what you can't really see in my terrible stealth picture of it is its wonderful texture. It's made from hundreds of paper cutouts and up close it's really beautiful and intricate. The central character is a Cape Verdian pirate and the whole piece is about of the effect of the slave trade in the region.
 
-![](../../assets/images/other/BirdInHand.jpg)
+![](images/BirdInHand.jpg)
 
 My favourite piece was "An Experiment of Unusual Opportunity" (2008), a collage of coloured paper partly washed over with indian ink. It's a dark piece but not quite as austere as the black ones, the red at the centre really pops out and the whole thing twists in and around itself, like a figure caught in dark waves. [The title refers to a notorious experiment conducted in the US between 1932 and 1972](http://en.wikipedia.org/wiki/Tuskegee_syphilis_experiment) in which black men with Syphilis were observed rather than treated. A similar piece called "Puppy Chow" (2009) also combines dark inks and paper strips to produce something that looks like a painting but isn't, something tactile and textural that you want to reach out and touch (but you can't because unfortunately it's displayed under glass).
 
-![](../../assets/images/other/PuppyChow.jpg)
+![](images/PuppyChow.jpg)
 
 I have to be in the right mood for multimedia installations but "Osedax" (2010) was amazing, the perfect blend of a carved wooden box to sit in, the videos, the projections and the music (and the vibrations from the speakers under the wooden benches). It's ostensibly about dead whales that wash ashore to be consumed by scavengers (according to the show guide) but it seems too pretty for that. I tried to film what it was like inside but the resulting 15 second snippet didn't do it any justice at all.
 

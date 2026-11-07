@@ -8,7 +8,7 @@ hero: images/grails-anches-en-maat.jpeg
 hero_alt: "2023 Albums of the Year #6: Grails, Anches en Maat"
 ---
 Grails are one of those bands who always get played a lot at my house.
-{{< marginfigure src="../../assets/images/albums-2023/grails-anches-en-maat.jpeg" alt="Cover of Anches en Maat by Grails" caption="Cover of _Anches en Maat_ by Grails" >}}
+{{< marginfigure src="images/grails-anches-en-maat.jpeg" alt="Cover of Anches en Maat by Grails" caption="Cover of _Anches en Maat_ by Grails" >}}
 There's something about their slow incremental instrumental pieces that my brain just loves to get lost in. Anches en Maat, their first album in six years or so, and the first with the entire band in the studio together since 2008, is their most Grails-y album in a long time. 
 
 <!--more-->

@@ -8,7 +8,7 @@ hero: images/nation-of-language-strange-disciple.jpeg
 hero_alt: "2023 Albums of the Year #5: Nation of Language, Strange Disciple"
 ---
 It would be remiss of me to claim that this is a placeholder for any number 
-{{< marginfigure src="../../assets/images/albums-2023/nation-of-language-strange-disciple.jpeg" alt="Cover of Strange Disciple by Nation of Language" caption="Cover of _Strange Disciple_ by Nation of Language" >}}
+{{< marginfigure src="images/nation-of-language-strange-disciple.jpeg" alt="Cover of Strange Disciple by Nation of Language" caption="Cover of _Strange Disciple_ by Nation of Language" >}}
 of (quite different sounding) song based albums that came out this year (Yves Tumor, Wilco to mention two) but it feels that way. This album came high up my list of listens because it's a very good breakfast album, one to listen to while getting the Day started - though there are also some bangers on here too. 
 
 Nation of language are a three piece band from New York. I think one of them is famous for being in a band I've not heard of (or is that their producer, I must do some fact checking) and two of them are married, even going so far as to have had a gofundme or whatever for the band as a present at a wedding. (That doesn't give off future "we are a duo now" vibes at all!)

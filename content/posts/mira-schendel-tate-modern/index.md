@@ -17,76 +17,76 @@ Fast forward three years and I found 250 odd pictures in my Dropbox. The time ha
 
 Here is the gallery. If I can find a copy of the exhibition catalogue I will add captions with titles later.
 
-![](../../assets/images/schendel/Schendel-01.jpg)
+![](images/Schendel-01.jpg)
 
-![](../../assets/images/schendel/Schendel-02.jpg)
+![](images/Schendel-02.jpg)
 
-![](../../assets/images/schendel/Schendel-03.jpg)
+![](images/Schendel-03.jpg)
 
-![](../../assets/images/schendel/Schendel-04.jpg)
+![](images/Schendel-04.jpg)
 
-![](../../assets/images/schendel/Schendel-05.jpg)
+![](images/Schendel-05.jpg)
 
-![](../../assets/images/schendel/Schendel-06.jpg)
+![](images/Schendel-06.jpg)
 
-![](../../assets/images/schendel/Schendel-07.jpg)
+![](images/Schendel-07.jpg)
 
-![](../../assets/images/schendel/Schendel-08.jpg)
+![](images/Schendel-08.jpg)
 
-![](../../assets/images/schendel/Schendel-09.jpg)
+![](images/Schendel-09.jpg)
 
-![](../../assets/images/schendel/Schendel-10.jpg)
+![](images/Schendel-10.jpg)
 
-![](../../assets/images/schendel/Schendel-11.jpg)
+![](images/Schendel-11.jpg)
 
-![](../../assets/images/schendel/Schendel-12.jpg)
+![](images/Schendel-12.jpg)
 
-![](../../assets/images/schendel/Schendel-13.jpg)
+![](images/Schendel-13.jpg)
 
-![](../../assets/images/schendel/Schendel-14.jpg)
+![](images/Schendel-14.jpg)
 
-![](../../assets/images/schendel/Schendel-15.jpg)
+![](images/Schendel-15.jpg)
 
-![](../../assets/images/schendel/Schendel-16.jpg)
+![](images/Schendel-16.jpg)
 
-![](../../assets/images/schendel/Schendel-17.jpg)
+![](images/Schendel-17.jpg)
 
-![](../../assets/images/schendel/Schendel-18.jpg)
+![](images/Schendel-18.jpg)
 
-![](../../assets/images/schendel/Schendel-19.jpg)
+![](images/Schendel-19.jpg)
 
-![](../../assets/images/schendel/Schendel-20.jpg)
+![](images/Schendel-20.jpg)
 
-![](../../assets/images/schendel/Schendel-21.jpg)
+![](images/Schendel-21.jpg)
 
-![](../../assets/images/schendel/Schendel-22.jpg)
+![](images/Schendel-22.jpg)
 
-![](../../assets/images/schendel/Schendel-23.jpg)
+![](images/Schendel-23.jpg)
 
-![](../../assets/images/schendel/Schendel-24.jpg)
+![](images/Schendel-24.jpg)
 
-![](../../assets/images/schendel/Schendel-25.jpg)
+![](images/Schendel-25.jpg)
 
-![](../../assets/images/schendel/Schendel-26.jpg)
+![](images/Schendel-26.jpg)
 
-![](../../assets/images/schendel/Schendel-27.jpg)
+![](images/Schendel-27.jpg)
 
-![](../../assets/images/schendel/Schendel-28.jpg)
+![](images/Schendel-28.jpg)
 
-![](../../assets/images/schendel/Schendel-29.jpg)
+![](images/Schendel-29.jpg)
 
-![](../../assets/images/schendel/Schendel-30.jpg)
+![](images/Schendel-30.jpg)
 
-![](../../assets/images/schendel/Schendel-31.jpg)
+![](images/Schendel-31.jpg)
 
-![](../../assets/images/schendel/Schendel-32.jpg)
+![](images/Schendel-32.jpg)
 
-![](../../assets/images/schendel/Schendel-33.jpg)
+![](images/Schendel-33.jpg)
 
-![](../../assets/images/schendel/Schendel-34.jpg)
+![](images/Schendel-34.jpg)
 
-![](../../assets/images/schendel/Schendel-35.jpg)
+![](images/Schendel-35.jpg)
 
-![](../../assets/images/schendel/Schendel-36.jpg)
+![](images/Schendel-36.jpg)
 
 Thanks to everyone on Instagram who took these pictures. I have no idea who you are. Remember when you post things on apps with hashtags, someone might come along and scrape them up! Soon Ingrid and I are off to visit some more Exhibitions at the Tate Modern so expect more posts about that soon.

@@ -11,6 +11,6 @@ The cats broke their new resolution not to knock stuff over in my office. Oh, wh
 
 <!--more-->
 
-![A knocked over vase of flowers caused by the cats chasing one another](../../assets/images/2024/cat-chaos-2024.jpeg)
+![A knocked over vase of flowers caused by the cats chasing one another](images/cat-chaos-2024.jpeg)
 
 The cats were either bounding across my desk to get to the window and look at the snow. Or they were just chasing each other around as usual.

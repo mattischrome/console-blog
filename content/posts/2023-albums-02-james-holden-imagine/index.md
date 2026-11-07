@@ -6,7 +6,7 @@ title: '2023 Albums of the Year #2: James Holden, Imagine This is a High Dimensi
 hero: images/james-holden-imagine.jpeg
 hero_alt: "2023 Albums of the Year #2: James Holden, Imagine This is a High Dimensional Space of All Possibilities"
 ---
-"Cool artwork! No, we don't have it but it's coming in next week."{{< marginfigure src="../../assets/images/albums-2023/james-holden-imagine.jpeg" alt="Cover of Imagine This is a High Dimensional Space of All Possibilities by James Holden" caption="Cover of _Imagine This is a High Dimensional Space of All Possibilities_ by James Holden" >}}
+"Cool artwork! No, we don't have it but it's coming in next week."{{< marginfigure src="images/james-holden-imagine.jpeg" alt="Cover of Imagine This is a High Dimensional Space of All Possibilities by James Holden" caption="Cover of _Imagine This is a High Dimensional Space of All Possibilities_ by James Holden" >}}
 
 "Cool artwork! We haven't had a copy in but I can order it for you."
 

@@ -24,7 +24,7 @@ Clearly DFW thought a lot about thinking and I really wish I had the time to dev
 
 So what turned my thoughts back to that excellent writing? I posted the picture below to [my Instagram](http://www.instagram.com/mattischrome) a few weeks back with the caption "A Photo of something that isn't there". Someone asked whether it was a ghost. With Halloween coming up it seems appropriate to revisit it. Yes, I photographed a curtain precisely to play trick and elicit that response, but the unreal thing that I referred to was the sunlight falling upon the curtain. I was inspired by a joke I'd seen earlier that day. "Which of the following mythological creatures casts no shadow?" The answer of course is "none of them". Something that does not exist casts no shadow. Naturally this inspired an attempt to take a picture of something that did not exist, that was not there.
 
-![A photograph of something that isn't there](../../assets/images/other/SomethingThatIsntThere.jpg)
+![A photograph of something that isn't there](images/SomethingThatIsntThere.jpg)
 
 > There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy (Hamlet, Act 1, Sc 5)
 
