@@ -2,5 +2,7 @@
 HUGO_VERSION = "0.166.0"
 
 [build]
-  command = "hugo && npx pagefind --site public"
+  # --gc prunes cached image variants nothing uses any more (the image cache
+  # never expires, see [caches.images] in hugo.toml); --minify shrinks HTML.
+  command = "hugo --gc --minify && npx pagefind --site public"
   publish = "public"
