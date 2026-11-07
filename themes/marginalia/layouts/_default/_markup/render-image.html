@@ -1,0 +1,30 @@
+{{- /*
+  render-image.html — Markdown image render hook.
+  Turns ![alt](path "title") into a responsive WebP <img> (see
+  partials/responsive-img.html) when the path resolves to an image Hugo can
+  find:
+    • a page-bundle resource      images/x.jpg, ./images/x.jpg
+    • a global asset              /assets/images/x.jpg — the site's hugo.toml
+                                  mounts static/assets/images into assets/
+                                  so these old static images resolve too
+  Anything else (remote URLs, files Hugo can't find) is rendered as a plain
+  lazy-loaded <img>, just as before.
+*/ -}}
+{{- $u := urls.Parse .Destination -}}
+{{- $img := "" -}}
+{{- if not $u.IsAbs -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path -}}
+  {{- with .Page.Resources.Get $path -}}
+    {{- $img = . -}}
+  {{- else -}}
+    {{- /* /assets/images/… or ../../assets/images/… → assets/images/… */ -}}
+    {{- $global := replaceRE `^(\.\./)*/?` "" $path -}}
+    {{- with resources.Get $global -}}{{- $img = . -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if and $img (eq $img.ResourceType "image") -}}
+  {{ partial "responsive-img.html" (dict "img" $img "widths" (slice 700 1400) "sizes" "(max-width: 44rem) calc(100vw - 2rem), 42rem" "alt" .PlainText "title" .Title) }}
+{{- else -}}
+  <img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async">
+{{- end -}}
+{{- /* newline */ -}}

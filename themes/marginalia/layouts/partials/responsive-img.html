@@ -1,0 +1,75 @@
+{{- /*
+  responsive-img.html — one <img> with a WebP srcset, width/height and
+  lazy-loading, built from an image Resource.
+
+  Context: a dict with
+    img           (required) the image Resource
+    widths        slice of pixel widths to generate, e.g. (slice 700 1400)
+    sizes         the `sizes` attribute, e.g. "(max-width: 44rem) 100vw, 42rem"
+    ratio         optional "W:H" (e.g. "4:3") to crop to with .Fill (centred,
+                  matching the CSS object-fit crop); otherwise .Resize
+    alt, title, class
+    loading       "lazy" (default) or "eager"
+    fetchpriority optional, e.g. "high" for the page's main image
+    attrs         optional map of extra attributes (e.g. pagefind metadata)
+
+  Widths larger than the original are dropped (no upscaling). Formats Hugo
+  can't usefully resize — SVG and GIF (resizing would lose the animation) —
+  are passed through untouched with just loading/decoding added.
+*/ -}}
+{{- $img := .img -}}
+{{- $widths := .widths | default (slice 700 1400) -}}
+{{- $loading := .loading | default "lazy" -}}
+{{- $processable := in (slice "jpeg" "png" "webp" "tiff" "bmp") $img.MediaType.SubType -}}
+
+{{- $src := $img.RelPermalink -}}
+{{- $srcset := slice -}}
+{{- $w := 0 -}}
+{{- $h := 0 -}}
+
+{{- if $processable -}}
+  {{- /* phone photos often rely on the EXIF orientation tag; bake it in
+         before resizing, because the WebP output carries no EXIF */ -}}
+  {{- if eq $img.MediaType.SubType "jpeg" -}}{{- $img = $img.Filter images.AutoOrient -}}{{- end -}}
+
+  {{- $rw := 0 -}}{{- $rh := 0 -}}
+  {{- with .ratio -}}
+    {{- $parts := split . ":" -}}
+    {{- $rw = index $parts 0 | float -}}
+    {{- $rh = index $parts 1 | float -}}
+  {{- end -}}
+
+  {{- $use := slice -}}
+  {{- range $widths -}}{{- if le . $img.Width -}}{{- $use = $use | append . -}}{{- end -}}{{- end -}}
+  {{- /* if any requested width was too big, top out at the original size
+         instead (e.g. a 1200px photo gets 700w + 1200w, not just 700w) */ -}}
+  {{- if lt (len $use) (len $widths) -}}{{- $use = $use | append $img.Width -}}{{- end -}}
+
+  {{- range $use -}}
+    {{- $r := "" -}}
+    {{- if $rw -}}
+      {{- $r = $img.Fill (printf "%dx%d webp q80 Center" . (int (math.Round (div (mul (float .) $rh) $rw)))) -}}
+    {{- else -}}
+      {{- $r = $img.Resize (printf "%dx webp q80" .) -}}
+    {{- end -}}
+    {{- $srcset = $srcset | append (printf "%s %dw" $r.RelPermalink $r.Width) -}}
+    {{- $src = $r.RelPermalink -}}
+    {{- $w = $r.Width -}}{{- $h = $r.Height -}}
+  {{- end -}}
+  {{- /* fallback src: the smallest variant (first in the list) */ -}}
+  {{- $src = index (split (index $srcset 0) " ") 0 -}}
+{{- else if ne $img.MediaType.SubType "svg" -}}
+  {{- $w = $img.Width -}}{{- $h = $img.Height -}}
+{{- end -}}
+
+{{- /* attribute names must be literal (or safeHTMLAttr) or Go's template
+       escaper replaces them with ZgotmplZ */ -}}
+<img src="{{ $src }}"
+  {{- with $srcset }} srcset="{{ delimit . ", " }}"{{ end }}
+  {{- if and $srcset $.sizes }} sizes="{{ $.sizes }}"{{ end }}
+  {{- if $w }} width="{{ $w }}" height="{{ $h }}"{{ end }} alt="{{ .alt }}"
+  {{- with .title }} title="{{ . }}"{{ end }}
+  {{- with .class }} class="{{ . }}"{{ end }} loading="{{ $loading }}" decoding="async"
+  {{- with .fetchpriority }} fetchpriority="{{ . }}"{{ end }}
+  {{- range $k, $v := .attrs }} {{ printf "%s=%q" $k $v | safeHTMLAttr }}{{ end }}>
+{{- /* trim */ -}}

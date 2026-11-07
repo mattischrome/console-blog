@@ -12,6 +12,18 @@ theme = 'marginalia'
     source = "drafts"
     target = "content/posts"
 
+  # Declaring any assets mount replaces Hugo's default one, so restate it.
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+
+  # Also expose the old static images to Hugo Pipes, so markdown images
+  # pointing at /assets/images/… can be resized by the render-image hook.
+  # They are still published as-is from static/ for any direct links.
+  [[module.mounts]]
+    source = "static/assets/images"
+    target = "assets/assets/images"
+
 [menus]
   [[menus.main]]
     name = 'Home'
@@ -47,6 +59,13 @@ theme = 'marginalia'
 
 [caches.getresource]
   maxAge = "6h"
+
+# Resized images go in Hugo's cacheDir rather than resources/_gen (which is
+# gitignored). On Netlify the cacheDir is /opt/build/cache/hugo_cache, which
+# Netlify keeps between builds, so images are only encoded once (~80s cold).
+[caches.images]
+  dir = ":cacheDir/images"
+  maxAge = -1
 
 [markup]
   [markup.goldmark]

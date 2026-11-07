@@ -38,7 +38,11 @@
     {{ with $p.Params.hero }}
       {{ with $p.Resources.Get . }}
       <figure class="post-hero{{ if eq $variant "photo" }} post-hero-photo{{ end }}">
-        <img src="{{ .RelPermalink }}" alt="{{ $p.Params.hero_alt | default $p.Title }}" data-pagefind-meta="image[src], image_alt[alt]">
+        {{- /* the hero is usually the page's largest paint, so load it
+               eagerly and first. Photo layout runs full-width. */ -}}
+        {{- $widths := cond (eq $variant "photo") (slice 1000 1600 2400) (slice 700 1400) -}}
+        {{- $sizes := cond (eq $variant "photo") "100vw" "(max-width: 44rem) calc(100vw - 2rem), 42rem" -}}
+        {{ partial "responsive-img.html" (dict "img" . "widths" $widths "sizes" $sizes "alt" ($p.Params.hero_alt | default $p.Title) "loading" "eager" "fetchpriority" "high" "attrs" (dict "data-pagefind-meta" "image[src], image_alt[alt]")) }}
         {{ with $p.Params.hero_caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
       </figure>
       {{ end }}

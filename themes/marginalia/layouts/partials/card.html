@@ -13,18 +13,20 @@
   The card's category class scopes `--cat`, which drives the tint, the offset
   shadow, and the chip colour.
 */ -}}
-{{- $hero := "" -}}
-{{- with .Params.hero -}}
-  {{- with $.Resources.Get . -}}{{- $hero = .RelPermalink -}}{{- end -}}
-{{- end -}}
-{{- if not $hero -}}
-  {{- $hero = or site.Params.default_hero ("images/default-hero.svg" | relURL) -}}
-{{- end -}}
+{{- $heroRes := "" -}}
+{{- with .Params.hero -}}{{- $heroRes = $.Resources.Get . -}}{{- end -}}
+{{- $hero := or site.Params.default_hero ("images/default-hero.svg" | relURL) -}}
 <article class="card {{ partial "category-class.html" . }}">
   <a class="card-link" href="{{ .RelPermalink }}">
     <figure class="card-hero">
       {{- /* aspect-ratio + object-fit:cover in CSS keep every hero at 4:3 */ -}}
-      <img src="{{ $hero }}" alt="" loading="lazy">
+      {{- /* cropped to 4:3 at build time too, so no pixels are wasted;
+             cards are never wider than ~24rem (17rem min grid column) */ -}}
+      {{- with $heroRes -}}
+      {{ partial "responsive-img.html" (dict "img" . "widths" (slice 400 800) "ratio" "4:3" "sizes" "(max-width: 40rem) calc(100vw - 2rem), 24rem" "alt" "") }}
+      {{- else -}}
+      <img src="{{ $hero }}" alt="" loading="lazy" decoding="async">
+      {{- end -}}
     </figure>
     {{ with partial "first-category.html" . }}<span class="chip">{{ . }}</span>{{ end }}
     <h2 class="card-title">{{ .Title }}</h2>

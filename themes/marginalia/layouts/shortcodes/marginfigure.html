@@ -12,7 +12,9 @@
 <input type="checkbox" id="{{ $id }}" class="margin-toggle">
 <span class="marginnote margin-figure">
   {{- if $img -}}
-  <img src="{{ $img.RelPermalink }}" alt="{{ .Get "alt" | default "" }}" loading="lazy">
+  {{- /* 15rem in the margin on wide screens; full text width when toggled
+         inline on narrow ones */ -}}
+  {{ partial "responsive-img.html" (dict "img" $img "widths" (slice 320 640 1000) "sizes" "(min-width: 72rem) 15rem, calc(100vw - 2rem)" "alt" (.Get "alt" | default "")) }}
   {{- else -}}
   <em>Image not found: {{ .Get "src" }}</em>
   {{- end -}}
