@@ -1,0 +1,28 @@
+{{- /*
+  figure — overrides Hugo's built-in figure shortcode so the image goes
+  through the theme's responsive WebP pipeline (partials/responsive-img.html).
+
+  Usage (src is relative to the post bundle, images live in images/):
+    {{< figure src="images/view.jpg" alt="Describe the image" caption="Shown under it; markdown allowed." >}}
+
+  Params: src (required), alt, caption, title, class, link.
+  An empty caption renders no <figcaption>, so captions can be filled in later.
+  If src isn't a resource Hugo can find (e.g. a remote URL), a plain
+  lazy-loaded <img> is used instead.
+*/ -}}
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $img := or (.Page.Resources.Get (strings.TrimPrefix "./" $src)) (resources.Get (strings.TrimPrefix "/" $src)) -}}
+<figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
+  {{- with .Get "link" }}<a href="{{ . }}">{{ end -}}
+  {{- if and $img (eq $img.ResourceType "image") -}}
+  {{ partial "responsive-img.html" (dict "img" $img "widths" (slice 700 1400) "sizes" "(max-width: 44rem) calc(100vw - 2rem), 42rem" "alt" $alt "title" (.Get "title")) }}
+  {{- else -}}
+  <img src="{{ $src }}" alt="{{ $alt }}"{{ with .Get "title" }} title="{{ . }}"{{ end }} loading="lazy" decoding="async">
+  {{- end -}}
+  {{- with .Get "link" }}</a>{{ end -}}
+  {{- with .Get "caption" }}
+  <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end }}
+</figure>
+{{- /* trim */ -}}

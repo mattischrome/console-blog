@@ -7,6 +7,10 @@
     • a global asset              /assets/images/x.jpg — the site's hugo.toml
                                   mounts static/assets/images into assets/
                                   so these old static images resolve too
+  Short videos (.mp4/.webm) in the bundle render as a muted, looping,
+  autoplaying <video>, which is the lightweight replacement for an animated
+  GIF: ![Steam over the pools](images/steam.mp4). The alt text becomes the
+  video's aria-label.
   Anything else (remote URLs, files Hugo can't find) is rendered as a plain
   lazy-loaded <img>, just as before.
 */ -}}
@@ -22,7 +26,11 @@
     {{- with resources.Get $global -}}{{- $img = . -}}{{- end -}}
   {{- end -}}
 {{- end -}}
-{{- if and $img (eq $img.ResourceType "image") -}}
+{{- if and $img (eq $img.ResourceType "video") -}}
+  <video src="{{ $img.RelPermalink }}" autoplay loop muted playsinline preload="auto"
+    {{- with .PlainText }} aria-label="{{ . }}"{{ end }}
+    {{- with .Title }} title="{{ . }}"{{ end }}></video>
+{{- else if and $img (eq $img.ResourceType "image") -}}
   {{ partial "responsive-img.html" (dict "img" $img "widths" (slice 700 1400) "sizes" "(max-width: 44rem) calc(100vw - 2rem), 42rem" "alt" .PlainText "title" .Title) }}
 {{- else -}}
   <img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async">

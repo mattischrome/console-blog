@@ -136,7 +136,7 @@ h1, h2, h3, h4, h5, h6 {
 a { color: var(--cat-deep); text-decoration-color: var(--cat); text-decoration-thickness: 2px; text-underline-offset: 2px; }
 a:hover { color: var(--cat); }
 
-img { max-width: 100%; height: auto; display: block; }
+img, video { max-width: 100%; height: auto; display: block; }
 
 code, pre, kbd { font-family: var(--font-meta); font-size: 0.9em; }
 pre {

@@ -35,7 +35,7 @@ After our little wander, we stood near to Strokkur and waited for it to erupt, h
 
 As we left, we lingered by the hot pools and watched clouds of steam drift along the ground in the fading sunlight. It looked like the earth itself were exhaling, warm breath in front of its face in the cool afternoon.
 
-![](images/iceland_15.gif)
+![Steam drifting over the hot pools at Geysir in the low afternoon sun](images/iceland_15.mp4)
 
 Next we headed for Gullfoss or the golden waterfall. Our Satnav took us down what seemed like a farm track covered in compressed and compacted snow. It was a bit hairy but we made it. As we walked from the car we could hear the buzz of falling water but in the cold twilight it was surreal when we saw it. A wall of water streaming in all directions that continued down, bifurcating and twisting into new rivulets on the way down. At points it was if it were a vertical river pouring into the centre of the world. Lower down it twisted into a hydra of further torrents exiting one's view through rocks and snow.
 
