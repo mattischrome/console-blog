@@ -6,7 +6,7 @@ title: In Praise of Paris
 hero: images/Paris-01.jpg
 hero_alt: "In Praise of Paris"
 ---
-This time last year, Ingrid and I were on the Eurostar to Paris for four days. We did so much in our time there that I couldn't write about it at the time. Here's a little summary with a few photos.
+This time last year, Ingrid and I were on the Eurostar to Paris. We stayed there for four days. We did so much in our time there that I couldn't write about it at the time. Here's a little summary with a few photos.
 
 <!--more-->
 Our chief aim was to take in as much Rodin as possible (as he's Ingrid's favourite sculptor) so on the Saturday we set out for Montparnasse and struck out for Meudon, where his house is. And... it was closed for winter!
