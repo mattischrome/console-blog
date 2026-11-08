@@ -1,0 +1,61 @@
+{{- /*
+  structured-data.html — schema.org JSON-LD, which tells search engines in
+  a machine-readable way what a page is: who wrote it, when, its headline
+  and image. Google uses it for article results (author, date, thumbnail).
+
+    • Home page: a WebSite, with its name, description and author.
+    • Posts:     a BlogPosting, with headline, description, image (the same
+                 one as the link preview), dates, author, category, tags and
+                 word count.
+  Other pages get none; their HTML already says enough.
+
+  The author comes from site.Params.author (name, url) in hugo.toml.
+
+  The data is built as a Hugo dict and passed through `jsonify`, so quoting
+  and escaping are always valid JSON.
+*/ -}}
+{{- $author := dict "@type" "Person" "name" (site.Params.author.name | default site.Title) -}}
+{{- with site.Params.author.url }}{{ $author = merge $author (dict "url" (. | absURL)) }}{{ end -}}
+{{- $lang := site.Language.Locale | default "en-gb" -}}
+{{- $data := dict -}}
+
+{{- if .IsHome -}}
+  {{- $data = dict
+      "@context" "https://schema.org"
+      "@type" "WebSite"
+      "name" site.Title
+      "url" site.Home.Permalink
+      "inLanguage" $lang
+      "author" $author
+  -}}
+  {{- with partial "page-description.html" . }}{{ $data = merge $data (dict "description" .) }}{{ end -}}
+
+{{- else if and .IsPage (eq .Section "posts") -}}
+  {{- $data = dict
+      "@context" "https://schema.org"
+      "@type" "BlogPosting"
+      "headline" .Title
+      "url" .Permalink
+      "mainEntityOfPage" .Permalink
+      "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+      "dateModified" ((cond (gt .Lastmod .Date) .Lastmod .Date).Format "2006-01-02T15:04:05Z07:00")
+      "author" $author
+      "publisher" $author
+      "inLanguage" $lang
+      "wordCount" .WordCount
+      "isPartOf" (dict "@type" "WebSite" "name" site.Title "url" site.Home.Permalink)
+  -}}
+  {{- with partial "page-description.html" . }}{{ $data = merge $data (dict "description" .) }}{{ end -}}
+  {{- $si := partial "social-image.html" . -}}
+  {{- with $si -}}
+    {{- $image := dict "@type" "ImageObject" "url" $si.url -}}
+    {{- if $si.width }}{{ $image = merge $image (dict "width" $si.width "height" $si.height) }}{{ end -}}
+    {{- $data = merge $data (dict "image" $image) -}}
+  {{- end -}}
+  {{- with partial "first-category.html" . }}{{ $data = merge $data (dict "articleSection" .) }}{{ end -}}
+  {{- with .Params.tags }}{{ $data = merge $data (dict "keywords" (delimit . ", ")) }}{{ end -}}
+{{- end -}}
+
+{{- with $data }}
+<script type="application/ld+json">{{ . | jsonify | safeJS }}</script>
+{{- end -}}

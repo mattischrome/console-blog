@@ -13,6 +13,9 @@
 {{- /* Link previews (Open Graph + Twitter/X cards) */ -}}
 {{ partial "social-meta.html" . }}
 
+{{- /* Structured data (schema.org JSON-LD) for search engines */ -}}
+{{ partial "structured-data.html" . }}
+
 {{- /* RSS feed discovery */ -}}
 {{ with .OutputFormats.Get "rss" }}
 <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ .Permalink }}">

@@ -51,6 +51,8 @@ theme = 'marginalia'
   # Default <meta name="description"> for pages with no description or
   # summary of their own (the home page, tag and category listings…).
   description = 'Matt’s blog about music, books, travel, technology and more.'
+  # Author named in the structured data (JSON-LD) search engines read.
+  author = { name = 'Matthew Dorey', url = '/about/' }
   tableOfContents = false
   math = false
   recent_posts = true

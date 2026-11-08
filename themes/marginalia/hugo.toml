@@ -13,6 +13,10 @@
   social_image = ""
   social_image_alt = ""
 
+  # Author for structured data (partials/structured-data.html). `url` can be
+  # a site path such as "/about/". Falls back to the site title.
+  author = { name = "", url = "" }
+
   # Site-wide fallback hero image for posts with no `hero` in front matter.
   # Override in your site config to use your own, e.g. "/images/me.jpg"
   # (put the file in your site's static/images/ folder).
