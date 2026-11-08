@@ -145,17 +145,26 @@ Each swatch shows `--cat` on the left and `--cat-deep` on the right.
 
 ### Adding a category colour
 
-A new colour needs two edits, kept in step:
+A new colour needs three edits, kept in step:
 
 1. In `themes/marginalia/layouts/partials/category-class.html`, add the lowercased, hyphenated name to the `$known` list.
-2. In `themes/marginalia/assets/css/main.css`, add a matching rule beside the others:
+2. In `themes/marginalia/assets/css/main.css`, add a matching rule beside the others in section 2:
    ```css
    .cat-knitting
      { --cat: #c2185b; --cat-deep: #880e4f; }  /* raspberry */
    ```
    Check that `--cat-deep` reaches at least 4.5:1 contrast against white.
+3. In section 2b of the same file (dark mode), give it a lighter text shade:
+   ```css
+   .cat-knitting { --cat-deep: #ff6fa8; }
+   ```
+   Check that it reaches 4.5:1 against the dark paper (`#1a1b1f`) and cards (`#22242a`). If the bright `--cat` itself is under 3:1 there, lift it too.
 
-A category missing from either place falls back to the default teal.
+A category missing from the first two places falls back to the default teal. One missing from section 2b keeps its light-mode text shade in dark mode, which will be hard to read.
+
+### Dark mode
+
+The site follows the visitor's system setting (light or dark), with no toggle on the page. The dark palette and each category's dark text shade are in section 2b of `main.css`. The table above shows the light-mode values.
 
 If you update this table, regenerate the swatches too: they are 48×20 SVGs in `docs/swatches/`, named after the first category in each group.
 

@@ -109,6 +109,57 @@
   { --cat: #12b0a0; --cat-deep: #0b6e64; }  /* teal (Random, uncategorised) */
 
 /* --------------------------------------------------------------------------
+   2b. DARK MODE
+   --------------------------------------------------------------------------
+   Follows the visitor's system setting (prefers-color-scheme); there is no
+   toggle. Swaps the paper/ink tokens for a dark set, and gives each category
+   a lighter --cat-deep, because the light-mode ones are dark shades meant
+   for white. Every dark --cat-deep passes WCAG AA (4.5:1) on the dark paper,
+   cards and chips. A few --cat colours that were too dark to see on
+   near-black are lifted too (≥ 3:1, the bar for decorations).
+   ADDING A CATEGORY: give it a dark --cat-deep here as well.               */
+:root { color-scheme: light dark; }
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #1a1b1f;
+    --paper-2: #24262b;
+    --ink: #e8e6df;        /* 12:1 on paper and cards */
+    --ink-soft: #a7aab3;   /* 6.5:1 */
+    --line: #3b3e46;
+    --card-bg: #22242a;
+    --cat: #12b0a0;
+    --cat-deep: #1bb3a3;
+  }
+  .cat-music, .cat-podcasts                  { --cat-deep: #ff5cb6; }
+  .cat-books                                 { --cat-deep: #f4a700; }
+  .cat-understated-classics                  { --cat-deep: #7e9fbd; }
+  .cat-ideas                                 { --cat-deep: #1eadce; }
+  .cat-life-experiences, .cat-life-experience { --cat-deep: #ff7a59; }
+  .cat-travel                                { --cat-deep: #3da0ff; }
+  .cat-album-digest, .cat-albums             { --cat-deep: #fe5c64; }
+  .cat-writing, .cat-short-fiction, .cat-poems
+    { --cat: #8055d5; --cat-deep: #a782fe; }
+  .cat-films, .cat-movies
+    { --cat: #9b6232; --cat-deep: #c88c5c; }
+  .cat-art, .cat-theatre, .cat-creativity    { --cat-deep: #d26efa; }
+  .cat-food                                  { --cat-deep: #f97f0c; }
+  .cat-programming, .cat-coding, .cat-software, .cat-technology,
+  .cat-gadgets, .cat-latex, .cat-r
+    { --cat: #5268ce; --cat-deep: #7892fc; }
+  .cat-blogging, .cat-blog, .cat-meta        { --cat-deep: #8fbf26; }
+  .cat-politics-and-beliefs                  { --cat-deep: #95a53a; }
+  .cat-civ, .cat-games                       { --cat-deep: #e0b400; }
+  .cat-football
+    { --cat: #3b62ef; --cat-deep: #6c93ff; }
+  .cat-mathematics, .cat-maths, .cat-science { --cat-deep: #f77495; }
+  .cat-photo, .cat-photography               { --cat-deep: #939aa9; }
+  .cat-cats
+    { --cat: #707070; --cat-deep: #999999; }  /* black cats vanish at night */
+  .cat-garden                                { --cat-deep: #49b558; }
+  .cat-default                               { --cat: #12b0a0; --cat-deep: #1bb3a3; }
+}
+
+/* --------------------------------------------------------------------------
    3. BASE
    -------------------------------------------------------------------------- */
 *, *::before, *::after { box-sizing: border-box; }
@@ -289,7 +340,7 @@ hr { border: 0; border-top: 2px dashed var(--line); margin: 2.5rem 0; }
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--cat-deep);
-  background: color-mix(in srgb, var(--cat) 16%, white);
+  background: color-mix(in srgb, var(--cat) 16%, var(--card-bg));
   border: 1.5px solid var(--cat);
   border-radius: 999px;
   padding: 0.15em 0.7em;
@@ -370,7 +421,7 @@ hr { border: 0; border-top: 2px dashed var(--line); margin: 2.5rem 0; }
   transition: transform 120ms ease, box-shadow 120ms ease;
 }
 .pagination a:hover { transform: translate(-1px, -1px); box-shadow: 4px 4px 0 var(--cat); }
-.pagination span.page-num[aria-current="page"] { background: var(--cat); color: #fff; box-shadow: 3px 3px 0 var(--ink); }
+.pagination span.page-num[aria-current="page"] { background: var(--ink); color: var(--paper); box-shadow: 3px 3px 0 var(--cat); }
 .pagination .page-ellipsis { align-self: end; padding: 0 0.15rem; color: var(--ink-soft); }
 
 /* --------------------------------------------------------------------------
@@ -681,7 +732,7 @@ h3:hover .back-to-top,
 .tag-letter-group { break-inside: avoid; margin-bottom: 1.75rem; }
 .tag-letter-group h2 {
   font-size: 1.9rem;
-  color: var(--cat);
+  color: var(--cat-deep);
   margin: 0 0 0.3rem;
   border-bottom: 2px solid var(--line);
 }
@@ -761,7 +812,7 @@ h3:hover .back-to-top,
 .search-status { font-family: var(--font-meta); font-size: 0.85rem; color: var(--ink-soft); min-height: 1.4em; margin: 0.9rem 0 0; }
 .search-results { margin-top: 1.25rem; }
 /* each card's own --cat colours its highlighted matches */
-.search-results mark { background: color-mix(in srgb, var(--cat) 30%, white); color: inherit; padding: 0 0.1em; border-radius: 3px; }
+.search-results mark { background: color-mix(in srgb, var(--cat) 30%, var(--card-bg)); color: inherit; padding: 0 0.1em; border-radius: 3px; }
 .search-more-wrap { text-align: center; margin: 2rem 0 0; }
 .search-more {
   font: 600 1rem var(--font-display);
@@ -791,7 +842,7 @@ h3:hover .back-to-top,
   left: -999px;
   top: 0;
   background: var(--ink);
-  color: #fff;
+  color: var(--paper);
   padding: 0.5rem 1rem;
   border-radius: 0 0 10px 0;
   z-index: 10;
