@@ -1,0 +1,11 @@
+{{- /*
+  page-description.html — returns the plain-text description for a page,
+  shared by <meta name="description"> and the link-preview tags.
+
+  The home page uses site.Params.description (from hugo.toml). Other pages use
+  their own `description` front matter, then their summary, then fall back to
+  site.Params.description. Trimmed to 160 characters.
+*/ -}}
+{{- $desc := or .Description .Summary site.Params.description -}}
+{{- if .IsHome }}{{ $desc = or site.Params.description .Description .Summary }}{{ end -}}
+{{- return ($desc | plainify | htmlUnescape | strings.TrimSpace | truncate 160) -}}

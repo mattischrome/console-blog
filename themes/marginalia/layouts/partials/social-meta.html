@@ -1,0 +1,74 @@
+{{- /*
+  social-meta.html — link previews: Open Graph tags (Facebook, LinkedIn,
+  Slack, iMessage, WhatsApp, Mastodon…) and Twitter/X card tags.
+
+  Image: the post's `hero` (a bundle resource), saved as JPEG, which every
+  preview service accepts (WebP and SVG aren't safe bets). Never upscaled.
+    • 3:2 and wider heroes are cropped to the 1.91:1 shape of a large
+      preview card, 1200×630 when wide enough.
+    • Everything else keeps its shape, at most 1200px.
+    • 4:3 and wider get X's large card; squarer heroes (album and book
+      covers) get its small square "summary" card instead.
+  Pages with no hero (home, listings) use site.Params.social_image, a path
+  under static/, if one is set, and otherwise get a text-only card.
+*/ -}}
+{{- $title := cond .IsHome site.Title .Title -}}
+{{- $desc := partial "page-description.html" . -}}
+{{- $alt := "" -}}
+{{- $img := dict -}}
+
+{{- with .Params.hero -}}
+  {{- with $.Resources.Get . -}}
+    {{- if in (slice "jpeg" "png" "webp") .MediaType.SubType -}}
+      {{- $src := . -}}
+      {{- if eq .MediaType.SubType "jpeg" }}{{ $src = . | images.Filter images.AutoOrient }}{{ end -}}
+      {{- $out := "" -}}
+      {{- $ratio := div (float $src.Width) $src.Height -}}
+      {{- if ge $ratio 1.5 -}}
+        {{- $w := cond (ge $src.Width 1200) 1200 $src.Width -}}
+        {{- $h := int (math.Round (div (float $w) 1.905)) -}}
+        {{- $out = $src.Fill (printf "%dx%d jpg q80 Center" $w $h) -}}
+      {{- else if or (gt $src.Width 1200) (gt $src.Height 1200) -}}
+        {{- $out = $src.Fit "1200x1200 jpg q80" -}}
+      {{- else -}}
+        {{- $out = $src.Process "jpg q80" -}}
+      {{- end -}}
+      {{- $img = dict "url" $out.Permalink "width" $out.Width "height" $out.Height "large" (ge $ratio 1.3) -}}
+      {{- $alt = $.Params.hero_alt | default $.Title -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if and (not $img) site.Params.social_image -}}
+  {{- $img = dict "url" (site.Params.social_image | absURL) "large" true -}}
+  {{- $alt = site.Params.social_image_alt | default site.Title -}}
+{{- end -}}
+
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:title" content="{{ $title }}">
+{{ with $desc }}<meta property="og:description" content="{{ . }}">{{ end }}
+<meta property="og:url" content="{{ .Permalink }}">
+{{- $loc := split (site.Language.Locale | default "en-gb") "-" }}
+<meta property="og:locale" content="{{ index $loc 0 }}{{ with after 1 $loc }}_{{ index . 0 | upper }}{{ end }}">
+{{- if and .IsPage (eq .Section "posts") }}
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+{{ if gt .Lastmod .Date }}<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+{{ with partial "first-category.html" . }}<meta property="article:section" content="{{ . }}">{{ end }}
+{{ range first 6 (.Params.tags | default slice) }}<meta property="article:tag" content="{{ . }}">
+{{ end }}
+{{- else }}
+<meta property="og:type" content="website">
+{{- end }}
+{{- with $img }}
+<meta property="og:image" content="{{ .url }}">
+{{ with .width }}<meta property="og:image:width" content="{{ . }}">{{ end }}
+{{ with .height }}<meta property="og:image:height" content="{{ . }}">{{ end }}
+{{ with $alt }}<meta property="og:image:alt" content="{{ . }}">{{ end }}
+<meta name="twitter:card" content="{{ if .large }}summary_large_image{{ else }}summary{{ end }}">
+<meta name="twitter:image" content="{{ .url }}">
+{{ with $alt }}<meta name="twitter:image:alt" content="{{ . }}">{{ end }}
+{{- else }}
+<meta name="twitter:card" content="summary">
+{{- end }}
+<meta name="twitter:title" content="{{ $title }}">
+{{ with $desc }}<meta name="twitter:description" content="{{ . }}">{{ end }}

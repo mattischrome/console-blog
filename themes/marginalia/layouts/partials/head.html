@@ -6,13 +6,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
-{{- /* Meta description: the home page uses site.Params.description (from
-       hugo.toml); other pages use their own description or summary, then
-       fall back to it. */ -}}
-{{ $desc := or .Description .Summary site.Params.description }}
-{{ if .IsHome }}{{ $desc = or site.Params.description .Description .Summary }}{{ end }}
-{{ with $desc }}<meta name="description" content="{{ . | plainify | truncate 160 }}">{{ end }}
+{{- /* Meta description: see partials/page-description.html for the rules. */ -}}
+{{ with partial "page-description.html" . }}<meta name="description" content="{{ . }}">{{ end }}
 {{ with .Permalink }}<link rel="canonical" href="{{ . }}">{{ end }}
+
+{{- /* Link previews (Open Graph + Twitter/X cards) */ -}}
+{{ partial "social-meta.html" . }}
 
 {{- /* RSS feed discovery */ -}}
 {{ with .OutputFormats.Get "rss" }}
