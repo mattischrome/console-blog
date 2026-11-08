@@ -4,9 +4,9 @@
   partials/responsive-img.html) when the path resolves to an image Hugo can
   find:
     • a page-bundle resource      images/x.jpg, ./images/x.jpg
-    • a global asset              /assets/images/x.jpg — the site's hugo.toml
-                                  mounts static/assets/images into assets/
-                                  so these old static images resolve too
+    • a global asset              /images/x.jpg → the site's or theme's
+                                  assets/images/x.jpg (post images belong
+                                  in the bundle, but this still works)
   Short videos (.mp4/.webm) in the bundle render as a muted, looping,
   autoplaying <video>, which is the lightweight replacement for an animated
   GIF: ![Steam over the pools](images/steam.mp4). The alt text becomes the
@@ -21,7 +21,7 @@
   {{- with .Page.Resources.Get $path -}}
     {{- $img = . -}}
   {{- else -}}
-    {{- /* /assets/images/… or ../../assets/images/… → assets/images/… */ -}}
+    {{- /* /images/… or ../../images/… → images/… under assets/ */ -}}
     {{- $global := replaceRE `^(\.\./)*/?` "" $path -}}
     {{- with resources.Get $global -}}{{- $img = . -}}{{- end -}}
   {{- end -}}

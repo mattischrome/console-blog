@@ -42,8 +42,18 @@
   {{- $use := slice -}}
   {{- range $widths -}}{{- if le . $img.Width -}}{{- $use = $use | append . -}}{{- end -}}{{- end -}}
   {{- /* if any requested width was too big, top out at the original size
-         instead (e.g. a 1200px photo gets 700w + 1200w, not just 700w) */ -}}
-  {{- if lt (len $use) (len $widths) -}}{{- $use = $use | append $img.Width -}}{{- end -}}
+         instead (e.g. a 1200px photo gets 700w + 1200w, not just 700w).
+         If the original is within 20% of the largest size already kept, it
+         replaces that size rather than joining it: a 760px photo gets just
+         760w, not a near-identical 700w + 760w (or 700w twice at 700px). */ -}}
+  {{- if lt (len $use) (len $widths) -}}
+    {{- with $use -}}
+      {{- if lt (float $img.Width) (mul (float (index $use (sub (len $use) 1))) 1.2) -}}
+        {{- $use = first (sub (len $use) 1) $use -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $use = $use | append $img.Width -}}
+  {{- end -}}
 
   {{- range $use -}}
     {{- $r := "" -}}
