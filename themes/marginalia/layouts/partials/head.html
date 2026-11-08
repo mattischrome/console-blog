@@ -21,6 +21,10 @@
 <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ .Permalink }}">
 {{ end }}
 
+{{- /* Apply a saved light/dark choice before the CSS loads, so the page
+       never flashes the wrong theme (see partials/theme-toggle.html). */ -}}
+<script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}</script>
+
 {{- /* Main stylesheet, minified + fingerprinted when building for production */ -}}
 {{ $css := resources.Get "css/main.css" }}
 {{ if hugo.IsProduction }}{{ $css = $css | minify | fingerprint }}{{ end }}

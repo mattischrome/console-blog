@@ -154,9 +154,9 @@ A new colour needs three edits, kept in step:
      { --cat: #c2185b; --cat-deep: #880e4f; }  /* raspberry */
    ```
    Check that `--cat-deep` reaches at least 4.5:1 contrast against white.
-3. In section 2b of the same file (dark mode), give it a lighter text shade:
+3. In section 2b of the same file (dark mode), give it both text shades, light first, then a lighter one for dark mode:
    ```css
-   .cat-knitting { --cat-deep: #ff6fa8; }
+   .cat-knitting { --cat-deep: light-dark(#880e4f, #ff6fa8); }
    ```
    Check that it reaches 4.5:1 against the dark paper (`#1a1b1f`) and cards (`#22242a`). If the bright `--cat` itself is under 3:1 there, lift it too.
 
@@ -164,7 +164,9 @@ A category missing from the first two places falls back to the default teal. One
 
 ### Dark mode
 
-The site follows the visitor's system setting (light or dark), with no toggle on the page. The dark palette and each category's dark text shade are in section 2b of `main.css`. The table above shows the light-mode values.
+The site follows the visitor's system setting (light or dark). The sun/moon button at the right of the menu overrides it, and the choice is remembered in the browser. Switching back to whatever the system shows goes back to following the system.
+
+The dark palette and each category's dark text shade are in section 2b of `main.css`, written as `light-dark(light value, dark value)`. The table above shows the light-mode values. Browsers too old for `light-dark()` (Safari before 17.5) get the light theme and no button.
 
 If you update this table, regenerate the swatches too: they are 48×20 SVGs in `docs/swatches/`, named after the first category in each group.
 
