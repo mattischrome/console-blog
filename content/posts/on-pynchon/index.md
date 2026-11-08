@@ -29,6 +29,6 @@ The dilemma remains one of whether I should finish GR (well actually whether I s
 
 Perhaps Pynchon’s novels are what Proust would have written had he grazed idly across Wikipedia on his lunch break instead of contemplating Madelines (Full disclosure: I have not yet read a jot of Proust but intend to, eventually) or perhaps Pynchon’s writing and plots are the equivalent of Melville’s exhaustive exposition of whaling minutiae, but writ across the whole breadth of the twentieth and twenty-first century experience. Or perhaps, after everything, Pynchon is Pynchon, and an eighth novel to add to the canon is indeed cause for celebration.
 
-### TL; DR
+## TL; DR
 
 Thomas Pynchon is a novelist whose output consists of a few, weighty yet important works including V, the Crying Of Lot 49 and Gravity’s Rainbow. He’s not prolific and today his eighth novel Bleeding Edge was announced and is scheduled to be released in July this year, 50 years after his first. I am really excited by this.

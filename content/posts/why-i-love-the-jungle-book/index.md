@@ -17,7 +17,7 @@ Being a little older than both my sisters, I guess that _The Jungle Book_ resona
 
 Fast forward to 2008 and I had just moved into my flat in St Albans. I was miserable: the job I had taken was not quite what I had expected, the commute was incredibly tiring and my downstairs neighbour was a crazy old guy who would have his television turned up to full volume from 6am onwards every morning. Nevertheless, I had at least got my first pay cheque so I went around HMV and bought a whole sack of DVDs. Last on the pile was _The Jungle Book_, the rationale being that I needed something that would cheer me up and for it to be something that I could unashamedly play loud to counter the crazy old guy downstairs.
 
-#### Why I love it
+## Why I love it
 
 I love _The Jungle Book_ for three main reasons: it’s sweet and uplifting, it looks great and the songs are amazing. At heart, it is a movie about bravery, loyalty and friendship. This is presumably why [Rudyard Kipling’s](http://en.wikipedia.org/wiki/Rudyard_Kipling) story1 was such an influence on the scouting movement. It is wonderfully paced, a largely slow-moving and serene story punctuated with bursts of frenetic madness. It looks utterly gorgeous with a predominant palette of browns and greens while the cell animation is a masterful example of the craft, you only have to look at the horrible CG renditions of the characters on the recent DVD cover above to see that the transition to computers has not always brought with it better drawing and characterisation.
 
@@ -25,6 +25,6 @@ And then those songs. _Bare Necessities_ is guaranteed to cheer me up every time
 
 I shall finish here, I want to go and watch it again now!
 
-#### The book
+## The book
 
 You may have come to this post expecting a discussion of the book but I haven’t read it. I must do this one day.

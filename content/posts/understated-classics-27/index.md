@@ -17,7 +17,7 @@ If you are familiar with Wilco’s first few albums, you’ll know that A Ghost 
 
 It is to Wilco’s credit then that they set out push the envelope again. It is not quite the shock to the system that Yankee Hotel Foxtrot was, but nor is it the hangover that early reviews first implied. If Yankee… demonstrated that a modern Wilco was possible, then for the most part A Ghost Is Born takes the baton and runs with it.
 
-### Your purple-black eye
+## Your purple-black eye
 
 The opener “At Least That’s What You Said” pulls no punches, there’s no slurred wordplay as with “I’m Trying To Break Your Heart” — here the damage has already been done, the heart already is broken, the narrator nurses a black eye, and both the people in the song need some time alone.
 
@@ -25,13 +25,13 @@ Musically it’s beautifully reserved, a minimal backing holding back until two 
 
 “Hell is Chrome” — the song that indirectly gave this blog its name, as you are no doubt tired of hearing by now — is a more sedate affair. It tells of the devil coming to the song’s narrator and not being red, but chrome, and offering the world’s clean surfaces as a special kind of hell. Again the guitar solos scrape across the song midway through to take the place of a chorus but it doesn’t happen again throughout the record so we’ll forgive them.
 
-### It’s good to be alone
+## It’s good to be alone
 
 I was genuinely shocked the first time I ever heard “Spiders (kidsmoke)”, it is such a departure compared to their previous work. As for when they played it live, that totally blew me away. It’s a ten minute piece of motorik riffing that would sound more in place on a Neu! or a CAN record. It was very strange to hear it played within twenty minutes of “California Stars”. I think the best thing about it is that they’ve never revisited that sound (perhaps “Art of Almost” on “The Whole Love” comes close) so it always sounds new and strange, and the weird lyrics about “all these telescopic poems”, “spiders… filling out tax returns… on a private beach in Michigan” and “I just do what I am told” just make it all the better.
 
 By comparison the gentle sweep of “Muzzle of bees” zips by in a blur, something like a gentler and less consequential “Jesus, etc”, so that I often hardly notice it (but I always enjoy it when I do). “Hummingbird” shows of Jeff Tweedy’s affection for White Album era McCartney songs, it’s pretty much “[Martha My Dear](http://en.wikipedia.org/wiki/Martha_My_Dear)” recast as Americana with some proper lyrics that McCartney couldn’t be bothered to put into the original.{{% sidenote "sn-2" %}}No wonder Lennon and McCartney fell out: John takes a load of drugs and explores the life of the mind, Paul stays at home to learn _musique concrete_ and write songs about a shaggy Old English Sheepdog.{{% /sidenote %}}
 
-### I was chewing gum as something to do
+## I was chewing gum as something to do
 
 “Handshake Drugs” completes the section of “straight” songs that make up the middle of A Ghost Is Born. Unlike the very earnest songs of Yankee… (“I’m the Man Who Loves You”, “Kamera”), these are very downcast and understated, none more so than “Handshake Drugs” which puts a blank smile on the face of a song about prescription drug abuse.
 
@@ -39,13 +39,13 @@ The album’s beautiful ambient core is “Wishful Thinking”, a straight-up od
 
 “Company In My Back” is a great little song, one of many Wilco songs that take a quirky lyrical idea and glues it to a quirky riff. It’s going around my head as I think of it now and of course the lyric “I will always die so you can remember me” fits in very well with the album’s title.
 
-### I’ll lay it down, a ghost is born
+## I’ll lay it down, a ghost is born
 
 “I’m A Wheel” is a palette-cleansing bit of punky noise, a song that dislodged the similar sounding “Kicking Television” from the track list. Both tracks are pretty inconsequential and I wonder if “Kicking Television” didn’t come along too late to be on the album (it was played for the first time at the Portsmouth gig) because I think it’s the better song.
 
 Then along comes “Theologians” with all its anti-religious bluster “Theologians… don’t know nothing about my soul” and the repeated chorus of “a ghost is born”. The end refrain of “I’m a cherry ghost” lends a surreal aspect to the song and yet somehow makes complete sense.
 
-### Fill up your mind with all it can know
+## Fill up your mind with all it can know
 
 The next track “Less Than You Think” lasts for fifteen minutes. It begins with the line “Your mind’s a machine, deadly and dull…” and continues to relate a metaphor about migraines, before it collapses into a drone just after three minutes in. Conceptually that is very interesting but it makes for a rather dull listen once you’ve got the idea sorted in your head. I ripped about four minutes from the CD and that was enough for me.
 

@@ -33,7 +33,7 @@ In cinematic terms then, it is an aesthetically pleasing film and not just due t
 
 I would defend Betty Blue from accusations of being too overtly sexy ([example](https://web.archive.org/web/20110626092552/http://rogerebert.suntimes.com:80/apps/pbcs.dll/article?AID=/19861225/REVIEWS/612250301/1023)). I would perhaps prefer a better “translation” of the original French title, as the English one does sound like it was suggested by someone from marketing with hairy palms and sweat issues. I don’t really think of it as a blue movie. I think it is a grown up film that deals with difficult subject matter (love, infertility, death, mental illness) in a very direct and engaging way. It confronts the difficult and dark aspects while reassuring us that there is comfort to be had in our time together with those we love, even though that time may be short. The ending is not a happy one but it is one that will you cause to reflect.
 
-### Further information:
+## Further information:
 
 * This is a yet _another_ French film starring [Dominique Pinon](http://www.imdb.com/name/nm0684500/)! I swear the guy crops up in every French movie that I watch - and Alien Resurrection!
 

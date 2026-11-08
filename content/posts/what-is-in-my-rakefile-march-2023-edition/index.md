@@ -12,7 +12,7 @@ Because I am bored of forgetting what's in my website's Rakefile, I thought I'd 
 
 <!--more-->
 
-### Make a new post in `_posts` named "Title"
+## Make a new post in `_posts` named "Title"
 
 ```rake post["Title"]```
 
@@ -25,7 +25,7 @@ If no title is given, you will be prompted for one. The post will be opened in t
 
 If no title is given, you will be prompted for one. The draft will be opened in the editor specified in the Rakefile.
 
-### Move a post from `_drafts` to `_posts`
+## Move a post from `_drafts` to `_posts`
 
 ```rake publish```
 
@@ -45,7 +45,7 @@ This will build a complete version of the site
 
 ```rake build```
 
-### Various ways to preview the site
+## Various ways to preview the site
 
 There are various ways to preview the site based on draft status:
 
@@ -72,7 +72,7 @@ This preview will also include any drafts.
 
 These flags cannot be combined, e.g. `rake watch["drafts","future"]` will produce an error. Note that the `"future"` options also passed the `--drafts` flag to Jekyll, so there is actually no need for the flags to be combined.
 
-### View a local preview of the site in your browser
+## View a local preview of the site in your browser
 
 This does not always work on my machine (or may require a refresh) but you can automatically start a preview in your browser. On my system it often loads before the preview is ready, so this option is often unhelpful. Nevertheless, the command is:
 

@@ -27,5 +27,5 @@ I really enjoyed _The Lonely Londoners_, it is a short quick read and really eng
 
 > It was a summer night: laughter fell softly: it was the sort of night that if you wasn’t making love to a woman you feel you was the only person in the world like that.
 
-#### 2019 Update
+## 2019 Update
 If you're thinking of using this post as the basis of a homework essay, make sure you include some of your own ideas about the book too!

@@ -21,5 +21,5 @@ My problem was that this alone should have provided enough material for the film
 
 Overall, I think it was a brave attempt to make “The Day After Tomorrow But Most People Get A Nasty Cough And Have Fits And Some Of Them Die” (Hey, I’m not paid to think of titles for films and I think we now know why). It over-reaches in attempting to cover too many story arcs (the lovely Ms Cotillard is completely forgotten for about an hour!) but it is a noble stab at creating an informative and thought-provoking film around a subject that is both fascinating and often misunderstood in popular media.
 
-### 2020 Update
+## 2020 Update
 Ha ha ha ha. My goodness, living this movie is scarier than it makes out!

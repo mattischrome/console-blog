@@ -18,7 +18,7 @@ For new year Ingrid and I met up with Ingrid's friend Ros at Barcelona airport. 
 
 The surrealist artist Salvador Dalí lived and worked in the area. This meant a trip to Figueres to see his Theatre-Museum and on new year's eve a walk over the hill to Port Lligat to visit his house. Both required timed tickets. We couldn't get into the Port Lligat house on our first day because there were no tickets left. Lucky for us that New Year's Eve was so much better weather-wise!
 
-#### A Short Note on the Dali Museums and Houses
+## A Short Note on the Dali Museums and Houses
 The theatre-museum in Figueres is a great museum to wander around. It pays homage to Dali's talent and versatility. However, it suffers from having few of his major works on show. To see a dripping clock you have to wait until you get to the reproductions in the gift shop.
 
 By comparison, the House in Port Lligat is a delight. They only allow ten people in per half hour slot. This makes for a rather brisk tour but there's a greater focus on the man himself. You get to see his studio and his echoing room. The gardens were beautiful too. 

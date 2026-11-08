@@ -9,7 +9,7 @@ hero_alt: "South America, Part 2"
 ---
 <!--more-->
 
-### Otavalo
+## Otavalo
 
 Sunday (24th November) was our first day of travel and involved a four hour trip to Otavalo, a town to the north of Quito that is famous for its market... on _Saturdays_. The journey got us better acquainted with travel on our truck Magaly and we encountered a few of the little hiccups that are a natural part of travelling this way: power lines crashing down on to the highway, driver of your truck asking a policeman to take a photo of your truck snagged under the wires, wrong turns, and - funniest of all - getting a whole block's worth of concerned locals to watch as your truck tries to turn a corner. Magaly is a wonderful truck, but subtle she is not!
 
@@ -25,7 +25,7 @@ The trip really crammed in a lot of stuff. There was a visit to a waterfall that
 
 We got back so late that Neinke (our tour leader) was a bit worried about where we had got to. I dashed across the road for fried chicken (I know, I should do better!) before hitting the hay. I hardly spent any time at the hotel where we were staying, which was a shame because it was a really nice place. I would have at least liked to have swayed in the hammocks for a bit!
 
-### Across the Andes, towards Misahualli
+## Across the Andes, towards Misahualli
 
 The next day involved another early start as we left at 6.30am for Misahualli, which is in the Ecuadorian Amazon region. After our first piss stop, I rode up front with our driver Alfonso and spent about two hours gasping in awe as we went over the Andes in the big truck. We had to stop a couple of times because of some dodgy readings about the balance in the truck and another time because we had misinterpreted where some road works had ended.
 
@@ -37,7 +37,7 @@ I took a stack of photos as we crossed the mountain passes, here are a few:
 
 ![](images/05.jpg)
 
-### Misahualli Day One: Positive energy and impromptu canyoning
+## Misahualli Day One: Positive energy and impromptu canyoning
 
 As soon as we arrived at Misahualli, we had to dig shorts out of our bags and dress for canyoning. Fortunately we are all given gumboots and had plenty of time to slap on sunblock and Deet.
 
@@ -45,7 +45,7 @@ At first the walk seemed rather sedate with all the usual pointing out of wildli
 
 When we got to the hotel I was covered in mud and bat shit and god knows what else, so it was straight into  the shower and then                   after that straight into the swimming pool. Neither had particularly hot water, but it didn't really matter because it was pretty warm outside. We had a nice dinner and then we were introduced to a tarantula - I forget his name. I let him crawl over my face and if I'm honest it was nice to have him sat on my face than to watch him crawl all over someone else's! After that we all had a few cocktails and I went to bed only to find a massive cockroach-like creature in the room. Apparently our room had a tarantula nest above it, but I never saw one - though other people did find them in the rooms while we were staying there.
 
-### Misahualli Day Two: When is a canoe not a canoe?
+## Misahualli Day Two: When is a canoe not a canoe?
 
 The second day in Misahualli was much more chilled out. We set off on the back of jeeps to the Napo river and sailed down in motorised canoes (boats I guess!) to a museum of Quechwa culture - basically a lot of different hunting traps and some more explanations of native life. We got to fire a blow gun too. I was so determined to blow hard enough that I completely missed the target! I sent the dart a decent distance though.
 
@@ -57,7 +57,7 @@ That night there was a massive thunderstorm, quite unlike any other that I have 
 
 ![](images/06.jpg)
 
-### Misahualli Day Three: Tubing, mosquito bites, moonshine, and mud
+## Misahualli Day Three: Tubing, mosquito bites, moonshine, and mud
 
 On our last full day in Misahualli, we went tubing down the Napo river. In the morning it was cold and rainy, so it was not quite the relaxing experience that it could have been. Part of the problem is having to dunk your arse in the river for  duration. Worse still, you can't pee in the river for fear that a parasite will swim up your urethra and grow there (seriously, they have to be surgically removed - ouch!).
 

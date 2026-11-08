@@ -19,7 +19,7 @@ Embarrassingly I still have memories of the night on my MSc at York seven years 
 
 There are some spoilers in what follows but I'll try to describe the plot in broad strokes. The novel is really a description of a series of experiences, those of being on the road. As such there is not too much of a plot to spoil. The film admirably tries to take this approach too but there's obviously only so much they can show and so describing what happens may have more of a spoiling effect.
 
-### It is a timeless tale
+## It is a timeless tale
 
 "On The Road" is perhaps as much part of the mythology of America as the founding fathers, the war of independence, and the civil war. It is told in the first person and is basically autobiographical, telling the story of Sal Paradise (a cipher for Jack Kerouac) and his adventures on the road after the publication of his first novel "The Town And The City". Most of Sal's travels fixate on Dean Moriarty (in real life a Beat author named Neal Cassady) and also include Carlo Marx (a fictionalisation of Allen Ginsberg, perhaps the most important of the Beat writers after Kerouac) and Old Bull Lee (William S. Burroughs, the film of whose novel "The Naked Lunch" has already been discussed on this blog (about a year back as it happens).
 
@@ -27,7 +27,7 @@ All the events take place in the late 40s and early 50s for a generation of youn
 
 And so, as part of a generation disconnected from its past and seemingly facing an uncertain part in their country's future, "On The Road" ends up not being about very much in particular other than its generation's own rootlessness. This is expressed as a travelogue  that borders on hagiography, almost as a way of convincing the participants of their place and worth. Nothing much happens: they travel back and forth across the states, there are parties and women and drugs. There are cars and there is jazz.
 
-### Its existence is as much the story as the novel
+## Its existence is as much the story as the novel
 
 By the time fifties were over Jack Kerouac, eager to write a follow up to "The Town And The City" sat down to write his memories of being on the road. He typed the whole novel on to a single scroll of paper and aimed to write in as immediate and spontaneous a way as possible. Sentences roll over one another and burst at the seams with excitable descriptions of even the more banal episodes that occur.
 
@@ -37,7 +37,7 @@ When it's good, it is amazing. When it isn't, well let's say that Truman Capote 
 
 I think the good outweighs the bad and I like the formlessness of the plot, it means that I can pick it up, flick to any page, and usually find an episode worth reading for a bit.
 
-### Some thoughts on the movie
+## Some thoughts on the movie
 
 I enjoyed the film much more than I thought I would. I don't like long films and the fact that it ran for over two hours, added to the loose plot of the book, would lead to a movie that went on forever and made no sense. As it turned out, the screenwriters did a pretty good job of condensing the novel into a movie that's almost as good as Salles' previous "The Motorcycle Diaries".
 

@@ -64,7 +64,7 @@ On the third full day I went up to the view point and remembered on the way back
 
 In the evening we were introduced to Santi, our guide for the Inca trail. An amiable chap (as anyone who wants to get you up the equivalent of Snowdon in one morning has to be), he explained the trail to us in a way that made it all seem very doable. As I packed that night I finally felt excited about doing it!{{% sidenote "sn-5" %}}In the preceding weeks as I struggled with the bowel infection, I’d begun to dread it.{{% /sidenote %}}
 
-### Other notes
+## Other notes
 
 ![](images/12.jpg)
 

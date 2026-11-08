@@ -32,7 +32,7 @@ The vinyl version of the album is the reason I’ve written about it now. It sou
 
 I'd never set much stall in the idea that music sounds better on vinyl until I heard the reissue of this album. The sound is so clear and there's so much going on at every level in the mix. Perhaps I'm biased. Either my memory of the album means I know what highlights I'm listening for, or I'm just attempting to justify buying it for a THIRD time (or maybe both). Nevertheless, it's this version that I'm submitting as an understated classic, a marvellous and absorbing album that transports me to both past and future every time I listen. 
 
-### Additional note
+## Additional note
 Another reason I love **Lifeforms** is the artwork. My journey through the various formats have taken me ever closer to how the artwork was originally intended to be seen. The cover art is strong enough that there’s no mention of the band name or the album title at all, just a mysterious girl holding up a floating sea anemone.
 
 The interior of the vinyl gatefold was cropped a bit on the cassette, and was also shrunk down for the CD.  It depicts a barren landscape and over it are superimposed the girl from the cover, a jellyfish, and a nightmarish tentacular blob. Said blob was an early instance of computer-generated art. This made me think it was cool enough to show to my cool uncle one time. Big mistake. He reacted vehemently: “Matthew the people who made *this*” and here he turned away as though the image itself contained some hidden contagion, “… are clearly on some *very dangerous drugs*”.

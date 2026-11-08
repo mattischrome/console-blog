@@ -11,11 +11,11 @@ hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 Octob
 It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.
 
 <!--more-->
-#### The deck
+## The deck
 
 An UNO deck consists of four sets of coloured cards (red, yellow, green and blue) together with eight wild cards. The non-wild cards are marked with either numbers or special symbols. The numbers range from zero to nine with two of each number except for the zero, which is unique. For each colour there are also two each of three kinds of special card: SKIP, SWAP and DRAW. The eight wild cards are divided into four each of two types: WILD and WILDFOUR. The wild cards are usually black in UNO decks so we may refer to them as black cards on occasion. There are one hundred and eight cards in total.
 
-#### Gameplay
+## Gameplay
 
 It is recommended that there be between two and ten players. The deck is shuffled and each player is dealt seven cards from the deck and a starting player selected. This selection can be done in a number of ways, a good way is for the players to cut the deck before dealing and to choose the person who turns up the highest value card.
 
@@ -23,11 +23,11 @@ After the deal, the remainder of the deck is set aside face down and the top car
 
 Play proceeds clockwise in this fashion with each player aiming to get rid of all their cards. When laying their penultimate card, a player must say “UNO!”. If they do not, then they may be required to take two cards from the deck if another player manages to say “UNO!” before the next player lays a card. A player cannot lay a special or wild card as their last card.
 
-#### Scoring
+## Scoring
 
 When a player has successfully discarded all of their cards, they are declared the winner of the round and the values of the cards remaining in the hands of the other players are added to give that player’s score for the round (the winner scores zero). Numbers are taken at face value, special cards have a value of 20 and wild cards a value of 50. If over the course of several rounds a player’s score exceeds a pre-determined threshold (say 250) they are eliminated from future rounds and the ultimate winner of the game is the last person standing.
 
-#### Behaviour of the special cards
+## Behaviour of the special cards
 
 The SKIP card is usually marked with a “null” symbol. It causes the play to skip over the next player, who misses a turn. In two player games this card will have no effect so it can either be discarded or treated as a zero.
 
@@ -39,12 +39,12 @@ The WILD card is marked with an oval cut into four segments coloured red, yellow
 
 The WILDFOUR card also features all four colours and is usually marked with “+4” in some fashion. It allows the player laying the card to nominate a new colour for the deck. Meanwhile, the next player is forced to pick up four cards from the deck and miss their turn. Again, there are unofficial rule variation that may prevent a player from picking up additional cards (see below).
 
-#### Unofficial rule variation
+## Unofficial rule variation
 
 In some unofficial rule variations, in a situation where the next player is required to pick up cards as the result of a DRAW, WILD or WILDFOUR card being played, they do not have to do so if they themselves have a DRAW, WILD or WILDFOUR card. The player after them would then have to pick up the number of cards corresponding to the sum of the cards played. For example, a DRAW followed by a WILD would lead to the next player picking up three cards. This can continue with the number of cards that the subsequent player is required to pick up increasing accordingly. It is to be noted that a DRAW card cannot be played _after_ either of the wild cards and a WILD card cannot be played _after_ a WILDFOUR card.
 
 This variation is not consistent with the remainder of the rules though as it does not preserve the unique nature of the wild cards, which must be played only when there is no alternative - not to avoid picking up cards! Initially we will not include it in the program, though we may return to it later as a way of investigating how to create different gameplay options for the user.
 
-#### Moving on to the code
+## Moving on to the code
 
 Stay tuned for part three, where I will discuss how I program the game and will also give some screenshots of the console based version.

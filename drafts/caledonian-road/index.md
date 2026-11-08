@@ -11,8 +11,8 @@ Caledonian Road is a novel by Andrew O'Hagan, set in London just after the Covid
 
 <!--more-->
 
-### The Men Who Cry in Their Cars
+## The Men Who Cry in Their Cars
 
-### Miasma of Glitz
+## Miasma of Glitz
 
-### Another Heading or the TOC isn't worth it
+## Another Heading or the TOC isn't worth it

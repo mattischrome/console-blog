@@ -11,7 +11,7 @@ hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 Octob
 I thought I'd add three of my favourite David Bowie albums to my review of Blackstar to a form an album digest tribute. Also among my favourites but not included here is "Outside", which will be included in the understated classics (currently it's number 66) at some point. I thought about bumping "Outside" up the running order but I'd like to be objective about it when its turn comes.
 
 <!--more-->
-### Station To Station
+## Station To Station
 
 "It's not the side effects of the cocaine / I'm thinking it must be love" sings Bowie on the title track of his tenth studio album "Station To Station", released in 1976. But this album is most definitely almost entirely built on cocaine, from the weird Kabbalah channeling title track, to the smooth funk of "Golden Years" and on toward to the weepy conclusion of his cover of "Wild Is The Wind".
 
@@ -21,7 +21,7 @@ I think that it's testament to his songwriting skills that some of his of most i
 
 "Golden Years" is one of those great Bowie songs like "Fame", "Sound and Vision" and "Under Pressure" that make it so hard to pin down a list of your favourites. "TVC15" is probably the best song ever written about a television eating Iggy Pop's girlfriend. "Word on a wing" and "Stay" are both unusual due to their strident religious references but the former in particular just shows what an amazing writer he was: six minutes and not an ounce of extraneous material. 
 
-### "Heroes"
+## "Heroes"
 
 Despite being ambitious and having long tracks, "Station To Station" always flies by when I listen to it. Another thoroughly enjoyable album that seems to stick around for just an instant is "Heroes", the second of the so-called Berlin trilogy. It was a hard toss-up to chose it over "Low" as "Low" contains my all-time favourite Bowie song "Sound and Vision" and an incredible suite of near-instrumentals on its second side.
 
@@ -31,7 +31,7 @@ Despite being ambitious and having long tracks, "Station To Station" always flie
 
 Elsewhere, "Sense of Doubt", "Moss Garden" and "Neukoln" replicate the eerie atmospherics of the second half of "Low". Though Bowie will be rightly remembered as a man often possessed by songs filled with frenetic energy, it's also worth remembering how much stillness and calm runs through other parts of his work. It's a side that is underappreciated.
 
-### Heathen
+## Heathen
 
 "Heathen" should by all rights be a strange mish-mash of a record. It's three or four songs rescued from the abandoned 2001 album "Toy", two covers from "Pin-ups 2" that was shelved in the early 80s, and about four songs "informed by" the events of 9/11. Yet somehow, it's a convincing late peak - one of many if you include "The Next Day" and "Blackstar".
 
@@ -45,7 +45,7 @@ I think "Everyone Says 'Hi'" is probably the first of the songs that Bowie start
 
 The album closes with "A Better Future" which has this brisk and beautiful little eight note riff underpinning the verses, and "Heathen (The Rays)" which revisits the subject matter of the opening track. Both have a downcast outlook, particularly "Heathen" where he asks "Have I stayed too long?" and realises "I can see it now / I can feel it die". The point here is that Bowie pretty much treated every album like it was his last, that's why they were usually so good. 
 
-### Blackstar
+## Blackstar
 
 The exceptional title track of Blackstar begins "In the villa of Ormen / Stands a solitary candle / In the centre of it all / Your eyes". If you Google "Ormen" or "villa of Ormen", you get nothing. Perhaps this is a reference so arcane and obscure that we'll never know what or where it is. But perhaps it's just an act, one built from words disguising of others: "the veil of performing". To me it seems like a song about seeing your pain reflected in the responses of others. The whole ten minutes are remarkable. 
 

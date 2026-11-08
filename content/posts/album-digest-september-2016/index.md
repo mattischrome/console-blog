@@ -11,7 +11,7 @@ hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 Octob
 This month's album digest features albums by Wilco, M.I.A., Local Natives, and a collaboration between Kaitlyn Aurelia Smith and Suzanne Ciani.
 
 <!--more-->
-### Wilco *Schmilco*
+## Wilco *Schmilco*
 
 *Schmilco* is the tenth studio album by Wilco, which regular readers will know are one of my favourite bands. [There's no need to repeat that anecdote about why this blog has the name that it does.](/posts/whatever-happened-to-that-hat/) Meanwhile, this album follows on from last year's *Star Wars* and is probably the third Wilco album to have a jokey meta- kind of title. (The other one is the rather splendid *Wilco (The Album)* from 2009.) I didn't write a review of *Star Wars*; it  was released for free and for some reason it passed me by. *Schmilco* is a fairly similar album and that's not a bad thing.
 
@@ -21,7 +21,7 @@ Another standout track is *Common Sense*, a song that has another crack at Kraut
 
 I also quite like *Locator*, a song that could be about drones and/or being tracked by Google. It's effortless and wry. Even better, it doesn't overstay its welcome. It begins to fade out almost as soon as it reveals what it's all about. That's also true of the whole album, which is a brief and jangly affair that doesn't stick around too long. A bit like when a cool friend comes to visit. Hopefully they'll be back again soon.
 
-### M.I.A. *AIM*
+## M.I.A. *AIM*
 
 Forgive me if I write M.I.A. as MIA from now on. *AIM* is her fifth album. I love her first two albums *Arular* and *Kala* deeply, but found her third to be pretentious and annoying. I managed to miss out on her fourth album *Matangi*, I think because it was released while I was in South America. (Even if I ended up with more data access over there than I thought, I didn't really think that maintaining Spotify access would be possible).
 
@@ -37,7 +37,7 @@ The rest of the album is mostly dull rather than awful. I'd never imagined a MIA
 
 In the end, in a pun that writes itself, *AIM* as an album seems aimless. All is not entirely lost but perhaps like Tricky (another artist lost to wilfulness and misdirection) she's now doomed to echoing past glories with diminishing returns. I hope that's not the case.
 
-### Local Natives *Sunlit Youth*
+## Local Natives *Sunlit Youth*
 
 On my first few listens I was very excited by *Sunlit Youth*. I was amazed that I'd never heard of them before. After a few more listens I feel more that this is a solid album with a couple of big-hitting singles. It gets major bonus points for featuring Nina Persson of the Cardigans (Second [understated classics klaxon](/posts/understated-classics-25/) of the month) and for featuring lyrics about a chrome palace (especially given the first [Wilco-related understated classics klaxon](/posts/understated-classics-27/)).
 
@@ -52,7 +52,7 @@ Elsewhere it doesn't really matter what their intentions are. *Masters* has an i
 There are mis-steps too. I think that *Ellie Alice* is a bit boring but I can relate to the story of travelling through the channel tunnel while wasted from lack of sleep. *Sea of Years* tries to hard to close the album on something resembling a weepie, though I do like the drumming.
 I will listen to Local Natives' other albums and will keep an ear out for any new material. From the earlier videos (like *Wide Eyes*) I wonder whether they peaked early. That'd be good for me as there'll be even better albums than *Sunlit Youth* for me to discover, but it also means that album number four could be even better too. Win win.
 
-### Kaitlyn Aurelia Smith and Suzanne Ciani *Sunergy*
+## Kaitlyn Aurelia Smith and Suzanne Ciani *Sunergy*
 
 This album consists of two tracks and is thirty five minutes long, so it's more like a single. The Spotify version also has a bonus track that extends the album by another 18 minutes. I'll write mostly about the two main tracks.
 

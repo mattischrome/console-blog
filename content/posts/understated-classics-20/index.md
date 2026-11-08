@@ -32,7 +32,7 @@ More remarkable is “Saturdays”, which starts out as a sung poem backed up by
 
 The rest of the album does tail away quite rapidly. “Build You Up” sits too close in the track list to “Grass Is Green” and “Picture Perfect” so it sounds a bit samey if you listen to the album in order, though it does stand out better on shuffle. “Island Of Wonder” features legendary singer Caetano Veloso and has a smoky trip-hop vibe, which is nice but not particularly remarkable. “Childhood Dreams” is rather gloopy and overlong, doing badly everything that “Picture Perfect” does well.
 
-#### Other albums
+## Other albums
 
 Thanks to Spotify I finally managed to listen to Nelly’s 2009 Spanish language album “Mi Plan” and I really enjoyed it. It was much more like “Folklore” than it’s scattershot follow up “Loose”. For me the standout tracks were “Manos Al Aire” and “Baja Otra Luz”. I’d write a more detailed review but I only understood about 30% of the lyrics.
 

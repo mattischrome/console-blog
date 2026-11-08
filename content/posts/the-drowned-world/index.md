@@ -10,7 +10,7 @@ hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 Octob
 ---
 <!--more-->
 
-### Does Science Fiction have to be believable to be meaningful?
+## Does Science Fiction have to be believable to be meaningful?
 
 Should science fiction have predictive power? In plotting the vast unknowns of the future, should authors aim for prescience? Will people be able to say of the best SF novels in five hundred years time that some novels were right about some things and that these novels are better than the ones that didn’t?
 

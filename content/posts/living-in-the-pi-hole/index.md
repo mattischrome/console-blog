@@ -25,5 +25,5 @@ It does block random spammy ads on webpages. I can compare sites like the Guardi
 
 There are also some weird blocks. Pi-hole can break functionality on sites like comparethemarket.com and the John Lewis website, usually in places where clicks get harvested to track attention and desire flows. This shows the potential danger for these companies of using third parties to capture this data, especially if the use of tools like Pi-hole become more widespread. I used to use Ghostery, which also alerted you to this kind of data collection. Pi-hole is better for this because it cuts the connection and refuses to serve the content, rather than letting you know. In retrospect, I get the feeling that Ghostery was probably watching the watchers, collecting data for the collectors. [There is some evidence to suggest this.](https://www.businessinsider.com/evidon-sells-ghostery-data-to-advertisers-2013-6?op=1&r=US&IR=T)
 
-### You gotta pay for stuff too
+## You gotta pay for stuff too
 The bottom line is that you have to pay for what you access. The golden age of free stuff is over. Pay what you can when you can. At the same time, we still have a responsibility to signal to content providers that it's not okay to simply scan us and clog pages with unnecessary adverts.

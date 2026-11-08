@@ -12,17 +12,17 @@ hero_alt: "Werner Bischof: Point of View and Helvetica"
 <!--more-->
 We saw two exhibitions of his photography at the [Musée de l'Elysée in Lausanne](http://www.elysee.ch). "Point of View" explores his international work spanning the years 1945 to 1954. "Helvetica" explores his earlier work while isolated from travel in Switzerland during the second world war.
 
-### Point of View
+## Point of View
 
 "Point of View" is a retrospective of his Magnum work. It works backward from photos that he took in Peru in the weeks before his road accident, with rooms divided into continents. 1953-54 features photos from the Americas, 1953-1950 photos from Asia, and 1945-1950 photos from Europe. In each room there is either rarely seen or previously unseen work. This includes a large slideshow of unpublished pictures from North and South America, a documentary about his first photography exhibition in Zurich featuring photos from India and Japan, and in the European room a large number of contact sheets.
 
 Contact sheets are a direct print made from a roll or sequence of images of film. Before digital photography they were an important part of the photographer's art as it enabled potential clients to quickly look through and select their best work. A lot of the European contact sheets were clearly used to sell pictures to different photo journals as some photos often appeared on more than one contact sheet. 
 
-### Helvetica
+## Helvetica
 
 Helvetica is a collection of photos, photograms and contact sheets from the time Bischof spent in Switzerland as a young photographer. This exhibition was the first chance to see many of these pieces. It was a small collection, which was understandable, but the presentation was rather disappointing. It was contained wholly within the European section of the Point of View show and seemed quite banal in contrast to the post-war material. On further reflection I think the Helvetica pieces were very interesting but at the time the poor staging at the Elysée undermined this.   
 
-### A note on photography exhibitions. Some photos.
+## A note on photography exhibitions. Some photos.
 
 It might be odd for me to say this given how these exhibitions were the main reason we went to Switzerland when we did but I don't think it is as important to see photos in the flesh as it is to see painting or sculpture. When you see paintings up close you can see the brushstrokes and other evidence of artistry. It is possible to reproduce a large extent of the artistry involved in a great photo in a book. However, it was a pleasant experience to see all the photos together in a gallery setting rather than peering at them in a tabletop book. What we gained in Lausanne was the context for the work and a chance to linger long over each one. 
 

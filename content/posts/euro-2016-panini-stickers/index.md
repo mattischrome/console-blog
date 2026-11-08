@@ -14,7 +14,7 @@ I find sticking the stickers into the album relaxing. Like the craze for adult c
 
 The burning question is how many packets of stickers will it take to fill the album? It depends on how many people you are able to swap with and how much money you are prepared to spend on excess stickers. If you have enough friends collecting stickers, you should in theory be able to buy 675 stickers (135 packets at 50p each) because you can then swap all your duplicates with your mates. eBay wasn't a thing when I was ten (the last time I collected stickers for the 1990 World Cup) but it is now. You can resort to all sorts of shenanigans there. In the real world and such "cheating" aside, it's likely that you will need more than 135 packets.
 
-### The Hypergeometric distribution, stickers-induced bankruptcy and you
+## The Hypergeometric distribution, stickers-induced bankruptcy and you
 
 How many swaps are you likely to generate? We can calculate the probability of getting N out of 5 new unseen stickers in each packet. We use hypergeometric distribution for just this sort of thing: taking small samples from a larger population without replacement and calculating the probability of N successes in that sample. In Excel the formula `HYPERGEOM.DIST(NUM_GOT,5,NUM_NEED,TOTAL_NUM,0)` generates these probabilities. The names I gave the variables should explain each parameter. As mentioned you get five stickers in each pack, so this is the number of draws each time. The fifth parameter takes the value 1 or 0 depending on whether you want cumulative values or not. Cumulative values helped me build the Markov chain I used later on.
 
@@ -31,13 +31,13 @@ If we play around in Excel we see that the probability of generating swaps incre
 
 Even with most of the album still to fill, you have a just over 50% chance of putting all your new stickers into the album. Happily you also have a minuscule chance of getting five stickers that you already have. Once you get beyond the halfway point, you're most likely to be adding between one and three new stickers to your album with each new packet - and you still have three hundred to go! It's a good job that Panini allows you to send in a list for your final 50 stickers as by then you have a greater than 2 in 3 chance of not getting any new stickers in each packet! That is only one new sticker on average in every three packets! This is why having a large pool of friends to swap with is so important!
 
-### The shiny situation
+## The shiny situation
 
 Of course this assumes that all the stickers are of equal rarity. You can understand why there might be more Gareth Bales or Anthony Martials about than there are Florin Andones or [Taulant Xhakas](http://www.uefa.com/uefaeuro/season=2016/teams/player=1905362/index.html), at least in the UK. It might help Panini to sell more stickers to casual collectors if you can track down the famous faces quickly. Nevertheless, I think that the table above goes a long way towards explaining the perceived rarity of stickers: the more you have, the rarer the ones you don't have seem to be.
 
 To explore this, we can use the shiny stickers as an example. These are the Panini equivalent of finding Willy Wonka's golden ticket. They make getting the Icelandic team badge the best thing to happen all week. I estimate that there are 50 shiny stickers in the album. There is one for each team badge and one for each team photo, and the pictures of the trophy at the start of the album are also shiny. We can again use the hypergeometric distribution to estimate the probability of getting one shiny sticker in your packet of five stickers. If you have no shiny stickers yet the chance is about 27% (and also 4.0% of the time you might get two in one packet: this has happened to me). However, if you already have ten shiny stickers the chance of getting another in your packet (that you don't already have) drops to 22%. Particular stickers just seem rarer because it's more difficult to find new stickers once you possess a certain number of stickers. Once you start looking for one sticker in particular, it will seem very rare indeed.
 
-### Simulations
+## Simulations
 
 I will finish with the results of a simulation. Using a [Markov chain](https://en.wikipedia.org/wiki/Markov_chain) with transition probabilities determined by the hypergeometric distribution, I simulate a single collector’s progress. I ran it a 1000 times until a cutoff of 50 stickers (when you can send your final list to Panini). This assumes that all stickers are equally rare and that the collector never makes any swaps. The graph below shows 25 of the 1000 runs and how the number of stickers remaining changes as the collector opens more packets.
 
@@ -47,7 +47,7 @@ Under these conditions my collector has to buy an average of 355 packets over th
 
 It's worth thinking about this in terms of the price paid for each unique sticker. If you're the lucky person who gets all the stickers inside 306 packets you'll pay 24p per sticker. The unlucky person who has to buy 418 packets ends up paying a whopping 32p per sticker! If you don't swap any stickers then on average you'll end spending 27p per sticker. This is nearly three times their initial cost and almost twice the price per sticker that Panini charges for completing the final fifty of the collection.
 
-### How to save money
+## How to save money
 
 There are two ways to save money. The first is to find some friends to swap with. In theory this allows you to keep the cost of every sticker at 10p. If I have time, a follow-up post will explore what happens to a group of collectors who agree to exchange doubles after each batch of packets bought. I'd like to write a simulator that helps answer questions like "How many friends do you need?" and "What batch size between swap sessions is best?". I'd also like to explore what happens when the assumption of equally rare stickers no longer holds.
 

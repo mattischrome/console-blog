@@ -11,7 +11,7 @@ hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 Octob
 We cook this version of bolognaise with beetroot due to Ingrid's tomato allergy. This recipe is an attempt to capture what we do on the fly. The key to it is using the wine, the Worcestershire sauce and the herbs to even out the sweetness of the beetroot. If you can manage that, it's super tasty. The sauce usually ends up being an unusual but pleasing pink/purple colour, as you will see from the pictures.
 
 <!--more-->
-### Ingredients: (Serves 4 to 5)
+## Ingredients: (Serves 4 to 5)
 * ~500g turkey/pork/beef mince  
 * 3 beetroot, grated  
 * 1 carrot, grated  
@@ -25,7 +25,7 @@ We cook this version of bolognaise with beetroot due to Ingrid's tomato allergy.
 * 2 or 3 bay leaves  
 * 2 red chillies, finely diced  
 
-### Method:
+## Method:
 1. Fry the onions, chilli and garlic in butter until tender.  
 1. Add the meat and fry until browned.  
 1. Add the grated ingredients - the beetroot, carrot and courgette - and cook until softened.  

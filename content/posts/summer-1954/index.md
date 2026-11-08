@@ -12,7 +12,7 @@ Summer 1954 is a pair of one-act plays by Sir Terrence Rattigan that are current
 
 <!--more-->
 
-### Table Number Seven
+## Table Number Seven
 
 The first play is _Table Number Seven_, which is set in a boarding hotel in Bournemouth. We're gradually introduced to a cast of characters - mostly elderly ladies - who are staying there. One of them, the major, who in a Fawlty Towers way won't shut up once you get talking to him, is particularly interested in an article in an obscure local paper.
 
@@ -22,7 +22,7 @@ When the play was first performed, itself as part of a bill of two one-act plays
 
 The play itself feels modern, in that it feels written like you would write about that time today. I felt some of the performances were a bit knowing, like they were 2025 reaching backwards but that was fine, it added to the entertainment. It would be interesting to know what parts of _Table by the Window_ were included, as I would have been happier without the final scene which is probably what was included from the other play.
 
-### The Browning Version
+## The Browning Version
 
 The second play is _The Browning Version_, an earlier and more well-known Rattigan play. The programme I bought referred to it as a masterpiece. I haven't seen enough plays to truly know if that is true, but it was certainly well plotted and brilliantly played. At points I leant in, really keen to see what would happen next. Its true brilliance is perhaps as a one-act play, that it captures the characters' arcs in just under an hour. It's an hour that flies by too.
 

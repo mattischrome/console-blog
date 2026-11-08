@@ -15,6 +15,6 @@ I wanted to have some rudimentary code ready for this post but it is misbehaving
 
 Carcassonne is a tile game in which the aim is to build roads, cities, cloisters and fields, with the aim of having the most points by the time all the tiles have been laid. These are made by deploying little figures (affectionately known as meeple) on to a tile as it is laid. The tiles are supplied in random order. 
 
-### Note
+## Note
 
 Update April 2017: The original version of this post included a dummy playthrough of a Carcassonne game but there were several mistakes. I have plenty of notes for an additional post of this nature so more may appear on this topic at a later data, complete with a corrected playthrough.

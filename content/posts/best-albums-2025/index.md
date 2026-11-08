@@ -28,7 +28,7 @@ So, while 2024 produced so many good albums I effectively ended up writing a top
 
 <!-- more -->
 
-### 10. Big Thief "Double Infinity"
+## 10. Big Thief "Double Infinity"
 
 {{< marginfigure src="images/big-thief-double-infinity.jpg" alt="Cover of Double Infinity by Big Thief" caption="Cover of Double Infinity by Big Thief" >}}
 
@@ -42,7 +42,7 @@ If you went to one of their gigs and they played none of these songs, you wouldn
 
 While almost every song on "Dragon..." felt like a gem mined out of a rich creative seam, these just feel kind of squishy. They're fine to spend time with on a summer evening but none of these songs are going to change your life. In some ways, it feels like a liberated record because of that. 
 
-### 9. Jefre Cantu-Ledesma "Gift Songs"
+## 9. Jefre Cantu-Ledesma "Gift Songs"
 
 {{< marginfigure src="./images/jefre-cantu-ledesma-gift-songs.jpg" alt="Cover of 'Gift Songs' by Jefre Cantu-Ledesma" caption="Cover of 'Gift Songs' by Jefre Cantu-Ledesma" >}}
 
@@ -56,7 +56,7 @@ The last track "River That Flows Two Ways" is a bit more fierce, with some more 
 
 If you followed my recommendation of the [Total Blue](https://mattischrome.com/posts/2024-albums-06-total-blue/) album last year, I think you'll also like this one a lot.
 
-### 8. Panda Bear "Sinister Grift"
+## 8. Panda Bear "Sinister Grift"
 
 {{< marginfigure src="./images/panda-bear-sinister-grift.jpg" alt="Cover of 'Sinister Grift' by Panda Bear" caption="Cover of 'Sinister Grift' by Panda Bear" >}}
 
@@ -66,7 +66,7 @@ There are some very good songs on this album. I especially the spoken word Portu
 
 It's a good album to listen to while waiting for more Animal Collective records (or Panda Bear and Sonic Boom ones). I wish I'd managed to get a copy on transparent Curacão blue vinyl while it was still available!
 
-### 7. Black Country New Road "Forever How Long"
+## 7. Black Country New Road "Forever How Long"
 
 {{< marginfigure src="./images/Black-Country-New-Road.jpg" alt="Cover of 'Forever How Long' by Black Country New Road" caption="Cover of 'Forever How Long' by Black Country New Road" >}}
 
@@ -78,7 +78,7 @@ The more immediate songs include the lead single "Besties", which has a very cha
 
 In fact, writing this review makes me realise I need to listen to it even more. I've got a lovely copy direct from their website with beautiful embossed artwork and pressed on red eco vinyl. 
 
-### 6. Ora The Molecule "Dance Therapy"
+## 6. Ora The Molecule "Dance Therapy"
 
 {{< marginfigure src="./images/ora-the-molecule-dance-therapy.jpg" alt="Cover of 'Dance Therapy' by Ora the Molecule" caption="Cover of 'Dance Therapy' by Ora the Molecule" >}}
 
@@ -88,7 +88,7 @@ Ora The Molecule came to my attention when Tim Sweeney included two of her songs
 
 While that sounds rather heavy, it's actually a fun album crammed full of danceable pop songs that is a whole heap of fun. The songs are catchy, even if they feature words like "gastroenterologist" at points. It's all quite frothy but superbly produced - a truly unique album that I'll remember for years to come, which is why it makes it on to my best of year list.
 
-### 5. Idlewild, "Idlewild"
+## 5. Idlewild, "Idlewild"
 
 {{< marginfigure src="./images/idlewild-idlewild.jpg" alt="Cover of 'Idlewild' by Idlewild" caption="Cover of 'Idlewild' by Idlewild" >}}
 
@@ -98,7 +98,7 @@ While perhaps this self-titled album doesn't quite roar back to the heights of "
 
 You always feel seen and loved by an Idlewild song, and these are no different. A short, sharp, and sweet blast of nostalgia. If it ends up being their sign-off, it will be a good one. It even has a final song called "End With Sunrise" which feels very on the nose: "your destination lies / in the stories that don't resolve / or end with sunrise".
 
-### 4. Kassian, "Channels" / "Channels Remixed"
+## 4. Kassian, "Channels" / "Channels Remixed"
 
 {{< marginfigure src="./images/Kassian-Channels.jpg" alt="Cover of 'Channels' by Kassian" caption="Cover of 'Channels' by Kassian" >}}
 
@@ -109,7 +109,7 @@ Channels is a beautiful album. It's reminiscent of other classic dance albums in
 About six months after Channels was released the band released a remix album, the imaginatively titled "Channels remixed" with what the band described as a beefier sound. These remixes, whilst determined to drive the doofier parts of the album into the club, don't really change the overall direction and vibe of the album. It's still pretty chill, just a bit more toe-tappy. All the tracks I've mentioned above - "Sun", "Joss Bay", "Sunset Park" - have longer, remixed versions: in each the strings get pared back a bit and the beats given a bit more heft. The remixed version also ditches some of the quieter textural pieces between tracks in favour of getting on to the floor a bit quicker. The tracks also feel a bit more separate: if you don't like a long amorphous mix that ebbs and flows, then the remixed version might be the one for you. 
 
 
-### 3. DJ Koze, "Music Can Hear Us"
+## 3. DJ Koze, "Music Can Hear Us"
 
 {{< marginfigure src="./images/dj-koze-music-can-hear-us.jpg" alt="Cover of 'Music Can Hear Us' by DJ Koze" caption="Cover of 'Music Can Hear Us' by DJ Koze" >}}
 
@@ -123,7 +123,7 @@ Another great song is "Unbelievable" - where Ada's vocal is given so much room t
 
 The collaboration with [Sofia Kourtesis](https://mattischrome.com/posts/2023-albums-01-sofia-kourtesis-madres/) is amazing, albeit simply because it sounds like loads of other tracks from her EPs. There's a really cool downtempo and downbeat track about halfway through called "Vamos A La Playa", showing that the album isn't all a happy-clappy positive vibes kind of affair. There's too much darkness in the world to ignore it, even if - as per the collaboration with Damon Albarn - the ideal is that "pure love loves purely".
 
-### 2. Brian Dunne, "Clams Casino"
+## 2. Brian Dunne, "Clams Casino"
 
 {{< marginfigure src="./images/Brian-Dunne-Clams-Casino.jpg" alt="Cover of 'Clams Casino' by Brian Dunne" caption="Cover of 'Clams Casino' by Brian Dunne" >}}
 
@@ -135,7 +135,7 @@ Some of the songs are devastating. "I Watched The Light Go" is about seeing cont
 
 There's definitely some salt in the sugar, but overall this is an exuberant collection of well-written earworms, that have really gotten into my head. 
 
-### 1. Alabaster DePlume, "A Blade Because a Blade is Whole"
+## 1. Alabaster DePlume, "A Blade Because a Blade is Whole"
 {{< marginfigure src="./images/Alabaster-DePlume-A-Blade.jpg" alt="Cover of 'A Blade Because a Blade is Whole' by Alabaster DePlume" caption="Cover of 'A Blade Because a Blade is Whole' by Alabaster DePlume" >}}
 
 I've learned that there are two types of people in this world: those that like jazz and those that don't. I've realised that I'm one of the types of people who does. Every now and then, a record like this comes along and I love it. 

@@ -11,14 +11,14 @@ Ten years ago, ahead of the 2016 European Championship, I wrote a few posts abou
 
 <!--more-->
 
-### Previous posts
+## Previous posts
 
 + In [**Euro 2016 Panini Stickers**]({{< ref "/posts/euro-2016-panini-stickers/" >}}), I wrote a bit about the setup of things (updated below) and showed off how you can use the Hypergeometric distribution to work out how many stickers you are going to be able to put into your album when you open a packet.
 + Of course it's fairly obvious that you fill the album quicker if you have friends to swap stickers with. There was no maths or stats content in [**Swaptastic Part 1**]({{< ref "/posts/swaptastic-part-1" >}}), just some pictures of envelopes I'd received in the mail with stickers in.
 + In [**Part 2**]({{< ref "/posts/swaptastic-part-2" >}}), I went into some more detail about a model I'd made for evaluating the impact of having peers to swap with. It was a rather brute force R model, but it showed that you can significantly reduce the number of packets you have to buy if you have about four or five people to swap with.
 + For [**Part 3**]({{< ref "/posts/swaptastic-part-3" >}}), I built a Shiny app that lets you see the results of the swapping model interactively. It's hosted on the [Shiny Apps website](https://www.shinyapps.io) and I'm pleased to say that it still works ten years later!
 
-### What has changed since 2016
+## What has changed since 2016
 
 + EURO16 was 24 teams, WC26 is double that at a staggering 48 teams. Having boggled at the thought of seeing Iceland at an international tournament, we now get to see Curacao! Maybe they will beat England too!
 + Fortunately (or not, depending on your avidness), there are not double the stickers to collect. There's quite a few pictures in the album that would have been stickers in previous editions, and the number of stickers per team has been reduced from 28 to 20. The album has gone from 680 stickers in total to 980.
@@ -27,7 +27,7 @@ Ten years ago, ahead of the 2016 European Championship, I wrote a few posts abou
 + To accomodate the extra size of the collection, packs now contain 7 stickers (as opposed to 5 back in 2016).
 + Packs cost £1.25 now, a 250% increase on the 50p per pack 10 years ago.
 
-### The Basics
+## The Basics
 
 In the highly improbable situation where you are able to get no duplicates at all, you need about **140 packets** (you need 974 stickers in all as you get six inside the album to start with), which will set you back £175. However, the whole point of these posts is that this simply doesn't happen! 
 
@@ -59,7 +59,7 @@ So let's make something similar for the new setup:
 
 There's an extra column because there's way more stickers, and a few extra rows because the packs are larger. This time around, with 300 stickers to go you have an almost 1 in 3 chance of getting just one (or fewer!) stickers to actually put into your album.
 
-### A Simple Model
+## A Simple Model
 
 Next, we can set up a simple model in R. (Last time, I actually did this in Excel but these days it's more faff.) Once you identify `stats::rhyper()` function as being the one you need, the main meat of the model is the following two-liner:
 
@@ -94,7 +94,7 @@ This time, across the 5000 simulations, the average collector needs 404 packs to
 
 Of course, there's another way, and that's where swapping comes into the picture.
 
-### Got Got Need: A Sticker-swapping model
+## Got Got Need: A Sticker-swapping model
 
 The good news about running a swapping simulation is that you can head straight here without knowing anything about the [hypergeometric distribution](https://en.wikipedia.org/wiki/Hypergeometric_distribution). You can use the sample function in R and build collections up in arrays for each collector. The bad news is that you need to come up with a mechanism for the swapping, and that involves every collector comparing their albums at every step.
 
@@ -102,7 +102,7 @@ My approach is to have collectors meeting after each round of opening a new pack
 
 I got Claude to convert the original R code for the swapping loop into a C++ version in order to use the RCpp package. This felt a lot faster than the original and it was something I've been meaning to learn for a while, so I enjoyed that. Of course, I just parlayed all this extra speed into what scientists are calling a "shit ton" of runs, because why not wait 4 hours for smoother plots.
 
-#### Effect of adding friends to swap with
+### Effect of adding friends to swap with
 
 I grouped all my runs together for all scenarios of collectors and completed albums. This was pretty easy using the tidyverse function `expand_grid` (or `expand.grid` in base R). This does produce scenarios where there are more completed collections than collectors, which would obviously never finish, but they are easy to filter out. Sometimes instead of working out how to produce exactly what you need, just produce more than you need and trim it back. 
 
@@ -122,7 +122,7 @@ Nevertheless, the picture is similar for this scenario (the x axis isn't though!
 
 Again, going from one collector to two reduces the number of rounds by about 25%, and as you might expect, the returns of adding more collectors is also greater. Each collector has 50 more exit routes from collecting, but so does that final collector!
 
-#### How long does it take each collector to complete their collection in the swapping scenario?
+### How long does it take each collector to complete their collection in the swapping scenario?
 
 Finally, these two plots show the experiences of each collector in a sequences of six collectors. (Note that these are not from the same runs, they are separate runs with 6 collectors collecting until J collections are complete with J running from 1 to 6.). The figures mostly illustrate the variance in experience for the later collectors in the group.
 
@@ -135,11 +135,11 @@ Next, completing up to the 50 sticker cutoff:
 ![Ridge plot showing distribution of number of sticker packs required for each of six collectors to get to within 50 stickers of filling the album in 2026](./images/world_cup_stickers_2026_07.png)
 
 
-#### Other ways of swapping
+### Other ways of swapping
 
 Another possible way to model swapping is to use a pool. All collectors discard their duplicate stickers into a pool from which the other collectors can draw as many stickers as they still need. For fairness, and because order matters, we could say that collectors visit the pool in an order determined by how many stickers they contribute to the pool. In four years time, in 2030, it will be the last time Panini ever makes a World Cup sticker album, so perhaps I will look into it then!
 
-### Conclusions
+## Conclusions
 
 + **Swap with friends!** If you have about six friends you can swap with, you can cut the number of packs you each have to buy in half.
 + Aim to **collect up to a cutoff and buy your last stickers directly**. You were hoping to find the shiny of the Cabo Verde badge in a pack? You still will, just in a nice envelope from Italy. (Seriously, Panini's envelopes are/were great, I still have mine from 2016.)

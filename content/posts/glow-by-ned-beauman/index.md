@@ -25,7 +25,7 @@ Glow is chock full of social media and postmodern ideas but conspicuously free o
 
 At the end of the day Glow is a well-written boy meets girl story with a bit of silly drug stuff wrapped around it. I enjoyed it and read it quickly, a voracious rush of giddy excitement followed by a slight comedown afterwards. A bit like the mythical glow. I will check out Ned’s other novels (Glow is his third) and I look forward to reading what he tries in the future.
 
-#### Notes
+## Notes
 
 1. The featured image is Benjamin McMahon’s fox motif from the cover remixed. I actually produced some more bizarre versions but decided on this variant to keep things simple.
 2. Talking of Inherent Vice, I haven’t seen the film yet. I just missed it at the cinema, so I eagerly await the DVD.

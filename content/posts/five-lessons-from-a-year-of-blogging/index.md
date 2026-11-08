@@ -17,6 +17,6 @@ I have now been writing decent length articles on this site for about a year. I 
 4. **WordPress is a lot of fun.** The statistic is that [WordPress](http://www.wordpress.org/) now powers about 500 million websites. It is not hard to see why, it is easy to install, easy to customise to suit to your tastes and most of all, it rewards you for continuing to produce content. I have installed all sorts of plug-ins, including a [word count plug-in](https://wordpress.org/plugins/wp-word-count/) that tells me that I have (up to this post) written a total of 89,032 published words. [If Wikipedia is to be believed](http://en.wikipedia.org/wiki/Length_of_a_novel), that is about the length of a pretty long novel. At least now I know I could write a novel in a year even if it was a rather surreal one featuring a 10K run, spiders and an Apatosaurus.
 5. **I still have a lot more to do, a lot more to learn.**
 
-### 2017 Update
+## 2017 Update
 
 Adding to this footnote some years later (2017) I realise that not all blog posts are permanent. Sometimes you write what you need to at the time and then take it down later. We don't have to be permanently changed by what we once wrote on a Wednesday afternoon.

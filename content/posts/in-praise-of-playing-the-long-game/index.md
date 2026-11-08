@@ -20,7 +20,7 @@ Oh dear...
 
 In fact, the next year I could use this calendar is **2080**. Just as well that it has some nice pictures of Barbara Hepworth sculptures in it that I can look at while I am waiting!
 
-### Fun fact
+## Fun fact
 
 In finding out just how poor a bargain my calendar was, I came across something called ["Zeller's Congruence"](https://en.wikipedia.org/wiki/Zeller%27s_congruence). This is an algorithm that helps you determine the day of the week for any Julian or Gregorian calendar date.
 
