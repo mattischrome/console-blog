@@ -30,5 +30,16 @@
        site's own layouts folder). */ -}}
 {{ if and (.Param "math") (templates.Exists "partials/katex.html") }}{{ partial "katex.html" . }}{{ end }}
 
-{{- /* Simple favicon: a coloured dot in the site accent. Replace at will. */ -}}
+{{- /* Favicons: the site's own set (from favicon.io) lives at the top of
+       static/. If the site has none, fall back to a coloured dot in the
+       site accent. */ -}}
+{{ if fileExists "static/favicon.ico" }}
+<link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="32x32">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
+<link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
+<meta name="theme-color" content="#fbfbf8">
+{{ else }}
 <link rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><circle cx="8" cy="8" r="7" fill="%2312b0a0"/></svg>'>
+{{ end }}
