@@ -44,3 +44,10 @@ HUGO_VERSION = "0.166.0"
   for = "/pagefind/index/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
+
+# Netlify doesn't know the .webmanifest extension and would serve it as
+# application/octet-stream.
+[[headers]]
+  for = "/site.webmanifest"
+  [headers.values]
+    Content-Type = "application/manifest+json"
