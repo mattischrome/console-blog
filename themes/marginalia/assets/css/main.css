@@ -232,6 +232,11 @@ hr { border: 0; border-top: 2px dashed var(--line); margin: 2.5rem 0; }
 @supports (display: grid-lanes) {
   .card-grid { display: grid-lanes; }
 }
+/* Browsers without Grid Lanes: assets/js/grid-lanes-polyfill.js adds this
+   class and places each card with an explicit column and row span. Rows
+   become 4px strips (keep in step with ROW in the script), and the vertical
+   gap is built into each card's span instead. */
+.card-grid.lanes-polyfill { grid-auto-rows: 4px; row-gap: 0; }
 
 /* The sticker card — the theme's signature. Ink outline, hard offset shadow
    in the category colour, and a tiny alternating tilt for scrapbook charm. */

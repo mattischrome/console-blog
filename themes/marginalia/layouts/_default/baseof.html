@@ -18,5 +18,13 @@
     {{ block "main" . }}{{ end }}
   </main>
   {{ partial "site-footer.html" . }}
+  {{- /* Masonry for card grids in browsers without CSS Grid Lanes. Inlined
+         (about 1 KB) on pages that can have a card grid, so it runs before
+         the first paint; it does nothing where Grid Lanes is supported. */ -}}
+  {{- if or (not .IsPage) (eq .Layout "search") }}
+  {{- with resources.Get "js/grid-lanes-polyfill.js" | minify }}
+  <script>{{ .Content | safeJS }}</script>
+  {{- end }}
+  {{- end }}
 </body>
 </html>
