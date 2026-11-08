@@ -332,6 +332,8 @@ hr { border: 0; border-top: 2px dashed var(--line); margin: 2.5rem 0; }
 .list-header h1 { font-size: 2.2rem; margin: 0 0 0.25rem; }
 .list-header h1::after { content: ""; display: block; width: 4.5rem; height: 0.4rem; border-radius: 999px; background: var(--cat); margin-top: 0.5rem; }
 .list-count { font-family: var(--font-meta); color: var(--ink-soft); font-size: 0.85rem; margin: 0; }
+.list-intro { max-width: 40rem; margin: 0.75rem 0 0; }
+.notfound-latest { font-size: 1.3rem; margin: 3rem 0 1.25rem; }
 
 /* --------------------------------------------------------------------------
    6. PAGINATION (truncated pager — see partials/pagination.html)

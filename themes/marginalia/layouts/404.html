@@ -1,0 +1,38 @@
+{{- /*
+  404.html — the "page not found" page. Hugo writes it to /404.html and
+  Netlify serves it, with a 404 status, for any URL that doesn't exist.
+
+  Offers a search box (it submits to /search/?q=…, which runs the search) and
+  the latest posts as cards. A little script fills the box with words from the
+  broken URL, so /posts/iceland-trip-part-2/ suggests "iceland trip part 2".
+  Without JavaScript the box just starts empty.
+*/ -}}
+{{ define "main" }}
+  <header class="list-header">
+    <h1>Page not found</h1>
+    <p class="list-intro">Sorry, there’s nothing at this address. It may have moved, or the link may have a typo. Try searching, or have a look at the latest posts below.</p>
+  </header>
+
+  <div class="search-wrap">
+    <form class="search-form" role="search" action="{{ "search/" | relURL }}" method="get">
+      <label for="notfound-search" class="visually-hidden">Search the blog</label>
+      <input id="notfound-search" class="search-input" type="search" name="q"
+             placeholder="Search posts, tags, albums, cats…" autocomplete="off" spellcheck="false">
+    </form>
+  </div>
+
+  <h2 class="notfound-latest">Latest posts</h2>
+  <section class="card-grid">
+    {{ range first 6 (where site.RegularPages "Section" "posts") }}{{ partial "card.html" . }}{{ end }}
+  </section>
+
+  <script>
+    (() => {
+      const words = decodeURIComponent(location.pathname)
+        .replace(/\.html?$/, "")
+        .split(/[\/\-_.]+/)
+        .filter((w) => w && !/^(posts|tags|categories|page|assets|images|index)$/i.test(w));
+      if (words.length) document.getElementById("notfound-search").value = words.join(" ");
+    })();
+  </script>
+{{ end }}
