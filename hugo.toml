@@ -48,6 +48,9 @@ theme = 'marginalia'
   pagerSize = 12
 
 [params]
+  # Default <meta name="description"> for pages with no description or
+  # summary of their own (the home page, tag and category listings…).
+  description = 'Matt’s blog about music, books, travel, technology and more.'
   tableOfContents = false
   math = false
   recent_posts = true

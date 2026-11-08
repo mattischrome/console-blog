@@ -2,6 +2,11 @@
 # Anything here can be overridden in the site config.
 
 [params]
+  # Site-wide meta description, used by partials/head.html when a page has
+  # neither a `description` in its front matter nor a summary. Set it in
+  # your site config: description = "…"
+  description = ""
+
   # Site-wide fallback hero image for posts with no `hero` in front matter.
   # Override in your site config to use your own, e.g. "/images/me.jpg"
   # (put the file in your site's static/images/ folder).
