@@ -12,7 +12,7 @@ For new year Ingrid and I met up with Ingrid's friend Ros at Barcelona airport. 
 <!--more-->
 {{< figure src="images/Spain01.jpg" alt="View of Cadaqués from the church." caption="View of Cadaqués from the church." >}}
 
-{{< figure src="images/Spain02.jpg" alt="View of Cadaqués from the church." caption="View of Cadaqués from near to where we stayed." >}}
+{{< figure src="images/Spain02.jpg" alt="View of Cadaqués from near to where we stayed." caption="View of Cadaqués from near to where we stayed." >}}
 
 {{< figure src="images/Spain03.jpg" alt="A view of the hills you need to drive through to get in and out of Cadaqués" caption="A view of the hills you need to drive through to get in and out of Cadaqués." >}}
 
