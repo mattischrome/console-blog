@@ -5,6 +5,7 @@ tags: ["Coding", "Software", "Twenty Five", "Ideas"]
 title: A Realisation
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “A Realisation”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 One of the best pieces of advice I have ever been given about how to tackle programming problems is to treat your code as comments that describe your program to the computer, whilst the comments that are there for humans to read should tell them how the program is supposed to work.
 

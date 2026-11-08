@@ -6,6 +6,7 @@ tags: ['Recipe','Food','Twenty Five','Gluten Free','Dessert']
 title: Sticky Toffee Pudding
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Sticky Toffee Pudding”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 We had great success with our sticky toffee pudding as a Christmas Day dessert. It's a hybrid of a recipe by Jamie Oliver, one that we found in a gluten free cookbook, and one for [a make-ahead pudding by the hairy bikers](https://www.bbc.co.uk/food/recipes/sticky_toffee_pudding_25161).
 

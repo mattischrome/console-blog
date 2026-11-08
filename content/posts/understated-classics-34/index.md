@@ -6,6 +6,7 @@ tags: ["Understated Classics", "Aztec Camera", "Music", "Sixteen", "Pop", "Rock"
 title: 'Understated Classics #34: Stray by Aztec Camera'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #34: Stray by Aztec Camera”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 The next instalment in my understated classics series is &quot;Stray&quot; by [Aztec Camera](http://killermontstreet.net). Released in 1990, it features two hit singles and the cover is my favourite colour: green.
 

@@ -5,6 +5,7 @@ tags: ["Ideas", "Writing", "Fifteen"]
 title: Untitled 2
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Untitled 2”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 A few months ago [I wrote about an idea for a novel that I'd abandoned](/posts/jackson-x/). I mentioned in that post that I'd abandoned it because there was another idea that I wanted to pursue. The working title for it is "Untitled 2". (It isn't really, I have an actual working title that would give things away or would at least make me feel like the idea was out in the world.)
 

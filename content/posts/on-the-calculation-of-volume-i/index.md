@@ -10,6 +10,7 @@ tags:
 draft: false
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Solvej Balle, On the Calculation of Volume I”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 27 October 2026."
 ---
 
 Someone once told me that it's "easy" to read "War and Peace". The big Russian novel, famed for its length and complexity, is apparently split into 365 chapters. You commit to reading one chapter per day and after a year you can have the cachet of joining the War and Peace reader's club.{{<marginnote>}}I'm not currently a member of this club.{{</marginnote>}}

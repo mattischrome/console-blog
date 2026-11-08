@@ -5,6 +5,7 @@ tags: ["Books", "Iain M. Banks", "Science Fiction", "Thirteen"]
 title: Iain M. Banks, Consider Phlebas
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Iain M. Banks, Consider Phlebas”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 A while back, I decided I was going to write about the Iain M. Banks sci-fi-novels (mainly as a respite from having to read and write about [J. G. Ballard novels](/posts/j-g-ballard/), but I only got as fas as writing about the excellent “Against A Dark Barkground” and re-reading the first of the Culture novels “Consider Phlebas”. WARNING: Some plot spoilers follow (but not too many).
 

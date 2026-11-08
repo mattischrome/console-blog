@@ -5,6 +5,7 @@ tags: ["Books","Jon McGregor","Fiction","Twelve"]
 title: Jon McGregor, Even The Dogs
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Jon McGregor, Even The Dogs”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Over my holiday I read "Even The Dogs" by Jon McGregor. I've not quite finished it yet but that will at least prevent me from giving away spoilers. I am not sure I would want to give any spoilers anyway because it is unrelentingly grim so far. Perhaps there is a happy  ending but both you and I will have to read it to find out.
 

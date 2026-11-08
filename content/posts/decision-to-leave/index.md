@@ -5,6 +5,7 @@ tags: ["Movies", "South Korea", "Detective Story", "Twenty Three"]
 title: Decision to Leave
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Decision to Leave”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I gave up writing reviews of movies because:
 

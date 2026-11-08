@@ -6,6 +6,7 @@ tags: ['Recipes','Food','Twenty Five','Curry','Gluten Free']
 title: Thai Green Curry
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Thai Green Curry”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Thai Green Curry is one of our favourites. Often when we are travelling we will find a Thai restaurant and order it. It's a nice way to see how a familiar dish is rendered in your new surroundings. More importantly, it's a dish that's reliably gluten and tomato free.
 

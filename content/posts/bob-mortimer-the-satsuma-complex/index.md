@@ -5,6 +5,7 @@ tags: ["Books", "Twenty Four", "Bob Mortimer", "Detective Story", "Comedy"]
 title: Bob Mortimer, The Satsuma Complex
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Bob Mortimer, The Satsuma Complex”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 A hardback book called "The Satsuma Complex" is all that remains of a mysterious young lady that young lawyer Gary is chatting up in the pub one night. It's a book that everyone reckons is "a bit sh*t". But Gary's moping about after the Satsuma lady doing a runner while he was in the loo will have to be put on hold when his friend turns up dead.
 

@@ -5,6 +5,7 @@ tags: ["Rules", "Thoughts", "Life Experiences", "Twenty Three"]
 title: A list for '23
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “A list for '23”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 A set of rules for living from now on (in no particular order):
 

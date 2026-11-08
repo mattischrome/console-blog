@@ -5,6 +5,7 @@ tags: ["Sugar", "Self Improvement", "Eighteen"]
 title: Any sugar?
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Any sugar?”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Not being much of a drinker, I've never felt the need to do [dry January](https://web.archive.org/web/20180122002306/https://www.nhs.uk/Livewell/alcohol/Pages/dry-january-helped-me-take-back-control-of-my-drinking.aspx). Also Ingrid and I sat in a restaurant in [Barcelona](/posts/spain-new-year-201718/) on January 2nd drinking for the third night in row. We hadn't got off to that great a start. Well today marks the completion of a dry month: dry January with a two day lag.
 

@@ -6,6 +6,7 @@ tags: ["Album Digest", "August", "Prins Thomas", "Sarathy Korwar", "Doomsquad", 
 title: Album Digest, August 2016
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, August 2016”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 As I mentioned in yesterday's post, I allowed Spotify to pick some new albums for me this month. It chose some noodly ambient techno, a captivating slice of World Jazz, a moody gothic hallucination, and a concept album about humans being rescued by aliens. All in all a pretty good job! Here is the list:
 

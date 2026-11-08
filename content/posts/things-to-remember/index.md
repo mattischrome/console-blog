@@ -5,6 +5,7 @@ tags: ["Ideas", "Self Improvement", "Depression", "Twenty"]
 title: Things to Remember
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Things to Remember”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 These are some things I jotted down one day last week, I'll refine them a bit more later on. Think of it as an aide-memoire of things that work for me, your milage may vary.
 - Don't worry about things that haven't happened.

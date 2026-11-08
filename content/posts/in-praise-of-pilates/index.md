@@ -5,6 +5,7 @@ tags: ["Life Experience", "Pilates", "Twenty Five", "Consistency", "Fitness"]
 title: In Praise of Pilates
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “In Praise of Pilates”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 In searching for something to write about today, I wondered whether I had ever written about Pilates on this blog before. I modified [the search of my posts from yesterday's post](/posts/fun-with-chatgpt/) to look for the word Pilates{{% sidenote "sn-1" %}}I could have also just used CMD+F in Visual Studio Code, but where's the fun in that?{{% /sidenote %}} and it only came up once in [a post about revisiting my ambitions ten years on](/posts/ambitions-revisited/).
 

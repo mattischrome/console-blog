@@ -5,6 +5,7 @@ tags: ["Writing", "Blogging", "Fifteen", "Twenty"]
 title: The Long Post
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The Long Post”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I am writing a long post that I will either publish as one long post (about five or six thousand words) or as about seven smaller ones each closer to the average post length of about eight hundred words. I have to get it out-of-the-way soon as my mind needs to focus on my health economics essay.
 

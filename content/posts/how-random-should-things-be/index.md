@@ -5,6 +5,7 @@ tags: ["Music", "Album Revisit", "Randomness", "Life Experiences", "Twenty Three
 title: How random should things be?
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “How random should things be?”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I've managed to extract my music library, including all the albums I've added to streaming, as a CSV file and write a routine in R to select an album at random. The plan is to write about that album for the blog in roughly the time that it takes to listen to that album all the way through. I already did this yesterday for [Goldfrapp's Black Cherry.](/posts/goldfrapp-black-cherry/)
 

@@ -11,6 +11,7 @@ tags:
 draft: false
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Magic”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 27 October 2026."
 ---
 
 "You almost had me" - this is the line that everyone utters at some point in their experiences of seeing magic tricks performed live. At the Festival Theatre in Chichester back in May, this "Magic" moment happens to me during a seance. It was the one moment in the play where I thought "uh-oh something is going on here...."

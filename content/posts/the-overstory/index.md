@@ -5,6 +5,7 @@ tags: ["Books", "Richard Powers", "Fiction", "Eighteen"]
 title: Richard Powers, The Overstory
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Richard Powers, The Overstory”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 "The Overstory" by Richard Powers piqued my interest among the novels shortlisted for the Booker Prize. And [once again](/posts/satin-island-tom-mccarthy-review/) the book that interested me most did not win. One year I will succeed in my prediction!
 

@@ -7,6 +7,7 @@ tags: ["Music", "Album Digest", "Twenty Three", "Twenty Four", "Albums"]
 title: '2023 Albums: Honourable Mentions'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “2023 Albums: Honourable Mentions”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 A quick list of ten other albums I considered to be among the best of last year. I either listened to these less, or in the cases of "Transmission Three" and "Be Opened By The Wonderful" considered them to be ineligible as they are compilations.
 

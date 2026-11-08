@@ -6,6 +6,7 @@ tags: ["Understated Classics", "Fabric", "Music", "Twelve", "Electronic"]
 title: 'Understated Classics #18: Fabric 12 mixed by The Amalgamation Of Soundz'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #18: Fabric 12 mixed by The Amalgamation Of Soundz”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Say what? We’re allowing compilations now?
 

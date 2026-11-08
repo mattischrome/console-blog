@@ -6,6 +6,7 @@ tags: ["Understated Classics", "Idlewild", "Rock", "Music", "Eleven"]
 title: 'Understated Classics #7: 100 Broken Windows by Idlewild'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #7: 100 Broken Windows by Idlewild”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Idewild are a solid band who have released four or five albums that I could consider for this series. I'm even in the sleeve credits of one: _Post-Electric Blues_, if you're asking.
 

@@ -5,6 +5,7 @@ tags: ["Album Digest", "Music", "Twenty Three", "Albums", "Blogging", "Meta"]
 title: 2023 Albums of the Year Preview
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “2023 Albums of the Year Preview”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Another year (nearly) over and so starting from tomorrow, I'm going to count down my top 10 albums of 2023. The rules are:
 

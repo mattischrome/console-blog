@@ -5,6 +5,7 @@ tags: ["Art", "Roy Lichtenstein", "Tate Modern", "Thirteen"]
 title: Lichtenstein At Tate Modern
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Lichtenstein At Tate Modern”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 This was a show that I had put off going to see for quite a while now. Looking online at the pictures featured in the show did not really excite me enough to get out and see it. I'd seen _Whaam!_ before in isolation (it's part of the Tate collection and will no doubt return once the retrospective show is over) and it didn't really grab me, arresting as it is. However, with plenty of free time this week it was an ideal time to go see it and I was happy to be proved wrong.
 

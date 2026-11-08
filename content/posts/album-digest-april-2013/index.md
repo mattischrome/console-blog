@@ -6,6 +6,7 @@ tags: ["Album Digest", "April", "Music", "The Flaming Lips", "Wire", "James Blak
 title: Album Digest, April 2013
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, April 2013”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Some great albums this month!
 

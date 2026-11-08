@@ -6,6 +6,7 @@ tags: ["Programming", "Games", "Fun", "Seventeen", "Twelve"]
 title: Programming a Carcassonne Game
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Programming a Carcassonne Game”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Although I have put off finishing [my UNO game](/posts/programming-an-uno-game/) for over eighteen months, I thought I would get started with another pet project of mine: making a Carcassonne game. This is not a serious affair, there is an excellent app of Carcassonne available for those of you who have iOS devices (it works particularly well on the iPad). The game just strikes me as having the right level of complexity to be a taxing yet attainable project. I’d also like to understand strategies for playing the game and what better way to evaluate strategies for games of chance than to have a simulator to play all those millions of games that you don’t have time to play? 
 

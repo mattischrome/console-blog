@@ -6,6 +6,7 @@ tags: ["Album Digest", "December", "Music", "Tracey Thorn", "Woob", "Tim Hecker"
 title: Album Digest, December 2012
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, December 2012”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Three albums (one very Christmassey one!) and an EP this month.
 

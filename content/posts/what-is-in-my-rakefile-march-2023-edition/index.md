@@ -6,6 +6,7 @@ tags: ["Blogging", "Writing", "Jekyll", "Rake", "Housekeeping", "Twenty Three"]
 title: What is in my Rakefile? (March 2023 edition)
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “What is in my Rakefile? (March 2023 edition)”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Because I am bored of forgetting what's in my website's Rakefile, I thought I'd write a list. Also, as I'm probably going to move over to a node based approach soon, it's a handy wish list for my `package.json` file when the time comes.
 

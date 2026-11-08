@@ -5,6 +5,7 @@ tags: ["Links", "Technology", "Music", "News", "Ideas", "Twenty"]
 title: Holiday Tabs
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Holiday Tabs”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Over the course of a week on holiday, I started reading many interesting articles. In lockdown there isn't much to do but read articles, but I still find myself not that good at finishing them. My phone has lots of tabs open and has become a Rolodex of shame. This post is to confess my sins.
 

@@ -5,6 +5,7 @@ tags: ["Ideas", "Memories", "Insomnia", "Eleven"]
 title: The Amber World
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The Amber World”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 My earliest memory is waking up in Queen Alexandra hospital in Cosham after an operation on my ears. I must have been about four years old and it was the middle of the night. I was in a room on my own and the door was locked. It had been daylight only seconds before so I got out of the bed and walked to the window to look incredulously out at the amber world that lay beyond.
 

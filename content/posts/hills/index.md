@@ -5,6 +5,7 @@ tags: ["Ideas", "Blogging", "Seventeen"]
 title: Hills
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Hills”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I'm a big fan of books. The way they transport you away to other places and so on. As repositories of knowledge and adventure they can't be beat. I can think of no better way out of an existential fix than reading.
 

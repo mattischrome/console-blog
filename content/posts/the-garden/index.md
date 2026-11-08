@@ -5,6 +5,7 @@ tags: ["Getting Stuff Done", "Garden", "Chores", "Household", "Twenty Two"]
 title: The Garden
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The Garden”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Today, we transferred our Christmas tree to a new pot. Being root-bound as the tree was, it took ages to get it out of the crappy pot from the store and into the new, bigger pot. And I'm pretty sure it's a bit wonky, which might make the baubles a bit lopsided next Christmas. It looks excellent next to the new bird bath.
 

@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "November", "Bat For Lashes", "Ital", "Bjork", "
 title: Album Digest, November 2012
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, November 2012”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Pretty much a sliding scale between songs and electronic wibble on this month’s albums and a particularly damp, chilly feeling to proceedings too.
 

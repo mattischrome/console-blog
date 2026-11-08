@@ -7,6 +7,7 @@ tags: ["Understated Classics", "Red Box", "Music", "Pop", "Ten"]
 title: 'Understated Classics #3: The Circle & The Square by Red Box'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #3: The Circle & The Square by Red Box”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 
 The next entry in the understated classics series is "The Circle & The Square" by Red Box.

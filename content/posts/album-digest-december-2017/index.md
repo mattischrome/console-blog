@@ -6,6 +6,7 @@ tags: ["Album Digest","December","Music","Bjork","Phoebe Bridgers","Watter","Nei
 title: Album Digest, December 2017
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, December 2017”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

@@ -5,6 +5,7 @@ tags: ["Books", "Nick Harkaway", "Science Fiction", "Twelve"]
 title: Nick Harkaway, The Gone-Away World
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Nick Harkaway, The Gone-Away World”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 “The Gone-Away World” is a novel by Nick Harkaway. It’s about a world slightly askew to our own in which the powers-that-be have deigned to unleash a weapon that simply wipes the enemy out of existence. Unfortunately the enemies also have the same weapon and there are terrible consequences to the extent that the very fabric of reality is threatened. If you don’t already know what reification means, you will by the end.
 

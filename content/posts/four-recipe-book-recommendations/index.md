@@ -6,6 +6,7 @@ tags: ["Books", "Recipe", "Food", "Nineteen"]
 title: Four Recipe Book Recommendations
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Four Recipe Book Recommendations”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 
 Here are some recipe book recommendations. A good set of recipes can provide you with many a project for a rainy day.

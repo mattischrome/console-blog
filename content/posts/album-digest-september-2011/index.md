@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "September", "John Beltran", "Four Tet", "The Ra
 title: Album Digest, September 2011
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, September 2011”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Hmmm, a rather grey looking selection of covers this month. The albums I have listened to most are:
 

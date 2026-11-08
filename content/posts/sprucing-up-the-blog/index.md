@@ -5,6 +5,7 @@ tags: ["Blogging", "Writing", "Jekyll", "Software", "Liquid", "Rake", "zsh", "Tw
 title: Sprucing up the Blog
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Sprucing up the Blog”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 This post explains some of the modifications I made to a minimal Jekyll theme to get this blog as I wanted it. This blog (currently) uses the excellent [Sidey theme](https://sidey-jekyll.netlify.app/about) by [Ronalds Vilciņš](https://www.ronaldsvilcins.com). His site looks eerily similar to this one, at least at time of writing.
 

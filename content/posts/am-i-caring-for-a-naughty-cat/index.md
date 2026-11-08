@@ -5,6 +5,7 @@ tags: ["Cats", "Behaviour", "Statistics", "Twenty"]
 title: Am I caring for a naughty cat?
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Am I caring for a naughty cat?”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 "He keeps biting me on the leg" says Ingrid one day as I mill around her desk during the new water cooler moment that is a comfort break on a Microsoft Teams call. I pat Martok, one of our cats, and he rubs up against me, pretending that he might nibble at me too. 
 

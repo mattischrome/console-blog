@@ -6,6 +6,7 @@ tags: ["Programming", "Projects", "Games", "Fun", "Eleven"]
 title: Programming an UNO game, part 2
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Programming an UNO game, part 2”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.
 

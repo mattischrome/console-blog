@@ -5,6 +5,7 @@ tags: ["Creativity", "Twenty one", "Drawing", "Ideas", "Make a draft"]
 title: Drawing a line on the page
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Drawing a line on the page”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Ingrid has joined an online drawing class. She sits there on Teams getting feedback on her drawings, while I sit there attempting to absorb everything. I'm also learning by doing, by making a line on the page. In some ways, it's instructive to observe the difference in what we learn with and without the feedback.
 

@@ -5,6 +5,7 @@ tags: ["Ideas", "Philosophy", "Social Media", "Fifteen", "Blogging", "Internet"]
 title: Time Is Time and That Is That
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Time Is Time and That Is That”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 A brief rant about Facebook: I hate the fact that the news feed defaults to “Top Stories” even though I change it back to “Most Recent” every time I log in. It’s a horrible pattern of user abuse that needs to stop. Time is time and that is that.
 

@@ -6,6 +6,7 @@ tags: ["Album Digest", "January", "Music", "FOE", "Leila", "Diagrams", "Pyramids
 title: Album Digest, January 2012
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, January 2012”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Five albums to see in the new year:
 

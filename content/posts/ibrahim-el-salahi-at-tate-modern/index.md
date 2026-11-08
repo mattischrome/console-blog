@@ -5,6 +5,7 @@ tags: ["Art", "Tate Modern", "Ibrahim El-Salahi", "Thirteen"]
 title: Ibrahim El-Salahi At Tate Modern
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Ibrahim El-Salahi At Tate Modern”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Ibrahim El-Salahi is a modernist artist from Sudan. I believe this exhibition is a first for an African artist at the Tate Modern. Much like [the Choucair show](/posts/choucair-at-tate-modern/) (which is still on everyone!), it's an engaging but too short introduction to an interesting artist that you have probably never heard of.
 

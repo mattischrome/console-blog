@@ -5,6 +5,7 @@ tags: ["Books", "Booker Prize", "Tom McCarthy", "Novel", "Fifteen"]
 title: My Booker Prize Pick 2015
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “My Booker Prize Pick 2015”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 "[Satin Island](http://www.theatlantic.com/entertainment/archive/2015/10/man-booker-shortlist-2015-satin-island/408784/)" is my pick for the [Man Booker prize](http://themanbookerprize.com/man-booker-prize-2015), announced tomorrow. I've not managed to read all of it yet. Also, I've only glanced at the others on [the shortlist](http://themanbookerprize.com/news/man-booker-prize-fiction-2015-shortlist-revealed).
 

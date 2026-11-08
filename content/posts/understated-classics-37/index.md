@@ -6,6 +6,7 @@ tags: ["Understated Classics", "Doves", "Music", "Nineteen"]
 title: 'Understated Classics #37: Lost Souls by Doves'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #37: Lost Souls by Doves”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Doves are a band from Manchester who traded dance music for rock yet never left their former genre behind. Starting out as Sub Sub, they scored a worldwide hit in 1993 with "Ain't No Love (Ain't No Use)": a timeless dance tune that immediately owns whatever room it plays in. However, subsequent releases by Sub Sub did not catch on and people started to think of the band as a one-hit wonder.
 

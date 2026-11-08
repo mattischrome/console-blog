@@ -6,6 +6,7 @@ tags: ["Twenty Five", "Poem", "Writing", "Recipes", "Garden"]
 title: Patch (A poem)
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Patch (A poem)”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 This is a short poem I wrote for Ingrid about our little herb garden. I am reproducing it here in celebration of work that is shortly going to start on our new garden!
 

@@ -6,6 +6,7 @@ tags: ["Writing","Software","Blogging","Fourteen"]
 title: Useful Ulysses
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Useful Ulysses”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

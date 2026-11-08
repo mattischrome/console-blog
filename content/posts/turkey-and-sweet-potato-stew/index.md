@@ -6,6 +6,7 @@ tags: ["Recipe", "Tomato Free", "Seventeen", "Food", "Gluten Free"]
 title: Turkey and Sweet Potato Stew
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Turkey and Sweet Potato Stew”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Here's a recipe to use up your turkey leftovers after Christmas.
 

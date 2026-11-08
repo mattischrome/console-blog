@@ -5,6 +5,7 @@ tags: ["News", "Ideas", "Eleven"]
 title: The News
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The News”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 > “I read the news today, oh boy”  (The Beatles, _A Day In The Life_.)
 

@@ -10,6 +10,7 @@ tags:
 draft: false
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “A Kitchen Incident”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 29 October 2026."
 ---
 
 A few weeks ago we discovered a leak in the kitchen at home. Our kitchen floor is lino, but there's a seam roughly level with a row of cabinets where two separate pieces join. We discovered water seeping through that and found that we could squeeze more out by walking back and forth over it. We think we probably missed it through the hot summer because a) we had a rug over that part of the floor and b) it's been quite warm and maybe it's been evaporating.

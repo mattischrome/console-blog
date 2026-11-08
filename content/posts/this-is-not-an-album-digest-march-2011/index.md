@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "March", "Eleven", "Ramadanman", "Nicolas Jaar",
 title: Album Digest, March 2011
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, March 2011”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

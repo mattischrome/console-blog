@@ -6,6 +6,7 @@ tags: ["Album Digest", "September", "Music", "Aphex Twin", "The Juan Mclean", "V
 title: Album Digest, September 2014
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, September 2014”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Album Digest September 2014 contains four amazing albums, including the long-awaited return from the Aphex Twin, and an album from Cymbals Eat Guitars released about a week after I wondered what had happened to them. Spooky. Rounding out the selection this month are a cool punky-disco album by The Juan Maclean and a truly remarkable offering by Vessel.
 

@@ -7,6 +7,7 @@ tags: ["Understated Classics","Saint Etienne","Music","Pop","Electronic","Eleven
 title: 'Understated Classics #9: Tiger Bay by Saint Etienne'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #9: Tiger Bay by Saint Etienne”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

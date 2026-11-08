@@ -6,6 +6,7 @@ tags: ["Album Digest", "September", "Music", "Arctic Monkeys", "BT", "Goldfrapp"
 title: Album Digest, September 2013
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, September 2013”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 A nice diverse selection of albums this month:
 

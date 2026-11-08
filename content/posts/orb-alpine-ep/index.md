@@ -5,6 +5,7 @@ tags: ["Music", "The Orb", "Sixteen", "Electronic"]
 title: The Orb - Alpine EP
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The Orb - Alpine EP”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 The Orb return with a new EP on the [Kompakt label](https://www.kompakt.fm) called "Alpine".
 

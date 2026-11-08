@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "August", "Twelve", "Laurel Halo", "Grimes", "Au
 title: Album Digest, August 2012
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, August 2012”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Album Digest August 2012 is also from the stack of albums that I [mentioned last month](/posts/album-digest-july-2012/). I chose this selection (along with the Passion Pit album) because the colours looked good together in the mosaic of covers that I make each month. Last month’s digest was about the right amount of detail so this will be another briefer digest. These are all good albums but not ones that will change your life, they'll just happily sit alongside it. They are:
 

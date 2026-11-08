@@ -5,6 +5,7 @@ title: A pox on both their houses
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “A pox on both their houses”"
 categories: Music
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 How hard is it to just listen to music these days?
 

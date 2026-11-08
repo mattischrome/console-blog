@@ -5,6 +5,7 @@ tags: ["Fun", "Maths", "Eleven", "Primes", "Forty One"]
 title: Favourite Numbers
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Favourite Numbers”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 What’s your favourite number?
 

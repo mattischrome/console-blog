@@ -5,6 +5,7 @@ tags: ["Kate Bush", "Music", "Ideas", "Rock", "Strangeness", "Twenty One"]
 title: If anything, make it weirder
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “If anything, make it weirder”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Today I listened to 'Cloudbusting' by Kate Bush for the first time in a while. What a gloriously strange song it is. Best of all, it's one of those songs that obscures what it is really about. It's not a song about a change in the weather, but about [Wilhelm Reich][1], the [orgone][2] accumulator, [fluorescent yo-yos][3], and a son (rather than a *sun*) coming out.  
 

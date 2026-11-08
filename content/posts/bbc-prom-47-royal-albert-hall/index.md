@@ -5,6 +5,7 @@ tags: ["Music", "Classical", "Sixteen", "London"]
 title: BBC Prom 47 at the Royal Albert Hall
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “BBC Prom 47 at the Royal Albert Hall”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 We went to see Prom 47, an afternoon prom at the Royal Albert Hall in London. The bill included a brand new work by [Piers Hellawell](https://web.archive.org/web/20161005001336/http://www.piershellawell.com/), along with a Cello concerto by [Haydn](https://web.archive.org/web/20161217030702/http://classicalmusic.about.com:80/od/classicalcomposers/p/haydnprofile.htm) and a symphony by [Tchaikovsky](https://www.britannica.com/biography/Pyotr-Ilyich-Tchaikovsky). These were all performed by the [Ulster Orchestra](http://www.ulsterorchestra.org.uk). The conductor was Rafael Payare. The tickets were an affordable £17 each which isn't bad at all given that we were sat in the second row of the circle. We had a great view.
 

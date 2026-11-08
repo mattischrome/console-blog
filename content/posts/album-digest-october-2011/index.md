@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "October", "Bjork", "Coldplay", "M83", "Radiohea
 title: Album Digest, October 2011
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, October 2011”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 This month we have albums by Björk, Coldplay, M83, and Radiohead.
 

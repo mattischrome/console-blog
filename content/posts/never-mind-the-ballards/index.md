@@ -5,6 +5,7 @@ tags: ["Books", "Reading Projects", "J. G. Ballard", "Twelve", "Update"]
 title: Never Mind The Ballards
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Never Mind The Ballards”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 [Ages ago](/posts/j-g-ballard/) I set out to write a post for each of JG Ballard’s novels. In fact it is the oldest post on this blog. Most of the novels (I don’t have the two autobiographical novels _Empire Of The Sun_ or _The Kindness Of Women_ and the late period novel _Milennium People_) are sat in a row on top of my broken bookshelf, part of the weight there that bowed outer frame of the unit and made the inner shelves collapse. Had I known that it would be a task unfinished nearly eighteen months later and destroy a piece a furniture that I did not yet own, I may have been less ambitious.
 

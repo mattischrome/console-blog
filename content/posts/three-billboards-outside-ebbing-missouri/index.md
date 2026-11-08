@@ -5,6 +5,7 @@ tags: ["Films", "Eighteen", "Oscars"]
 title: Three Billboards Outside Ebbing, Missouri
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Three Billboards Outside Ebbing, Missouri”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Ingrid and I renewed our Cineworld passes as it is the season to go to the movies and check out the Oscar contenders. You nod along sagely while dreaming up superlatives to show how much you agree with the taste-makers. Or you can call such-and-such movie a pretentious load of crap.
 

@@ -5,6 +5,7 @@ tags: ["Art", "Tate Modern", "Saloua Raouda Choucair", "Thirteen"]
 title: Choucair At Tate Modern
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Choucair At Tate Modern”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Yesterday I went to see the Saloua Raouda Choucair show at the Tate Modern. As it was quite small, I went to see [the Lichtenstein show](/posts/lichtenstein-at-tate-modern/) again as well.
 

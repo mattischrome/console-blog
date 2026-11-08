@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "July", "Pet Shop Boys", "Fuck Buttons", "James 
 title: Album Digest, July 2013
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, July 2013”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Another four albums for you this month. Sometimes the problem is not finding albums to listen to but actually finding time to listen to them! Often it is not because I don't have time but because I have already found some great albums this month and I am busy listening to those instead. As a result, a couple of these albums are ones that I have only listened to for a week or so, but they are interesting enough to write about. Here are the four albums I am going to write about this month:
 

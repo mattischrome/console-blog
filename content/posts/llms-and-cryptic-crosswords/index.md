@@ -5,6 +5,7 @@ tags: ["Twenty Five", "LLM", "Software", "Crosswords", "Hype"]
 title: LLMs and Cryptic Crosswords
 hero: images/hero-2.jpg
 hero_alt: "Illustration for the post “LLMs and Cryptic Crosswords”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 29 October 2026."
 ---
 At the time of writing, one way to demonstrate the illusory nature of LLM intelligence is to get one to try and answer a cryptic crossword clue.
 

@@ -6,6 +6,7 @@ tags: ["Music", "Understated Classics", "Tricky", "Nearly God", "Twelve", "Elect
 title: 'Understated Classics #17: Nearly God by Nearly God (Tricky)'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #17: Nearly God by Nearly God (Tricky)”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 > Sit back and let it happen, / Let us take your time away.
 

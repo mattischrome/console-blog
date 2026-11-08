@@ -5,6 +5,7 @@ tags: ["Books","Science Fiction","Alistair Reynolds","Seventeen"]
 title: Alistair Reynolds, Revelation Space
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Alistair Reynolds, Revelation Space”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 [Alistair Reynolds'](http://approachingpavonis.blogspot.com/) 2000 novel "Revelation Space" has long been in orbit of my science fiction "to read" list, but it wasn't until one sleepless night (post ["Command and Control"](/posts/command-and-control/)) that I came across it in Ingrid's audiobooks. I was instantly drawn in as I listened to the opening scene about an archaeological dig facing evacuation ahead of an imminent 'razor storm'. 
 

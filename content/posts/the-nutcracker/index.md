@@ -5,6 +5,7 @@ tags: ["Theatre", "Ballet", "Sixteen"]
 title: The Nutcracker
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The Nutcracker”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 For Ingrid's birthday, we went to see [The Nutcracker performed by the Moscow City Ballet](https://web.archive.org/web/20160414215911/http://moscowcityballet.com/en/repertoire/ballet/1) at [The King's Theatre in Southsea](http://kingsportsmouth.co.uk).
 

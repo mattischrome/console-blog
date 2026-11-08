@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "February", "Darkstar", "Foals", "Daniel Hope", 
 title: Album Digest, February 2013
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, February 2013”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Most Februaries are quite quiet when it comes to albums (though this was not the case [back in 2011](/posts/album-digest-february-2011/)) and although only the Foals album is a major release, I was quite surprised to find myself with four decent albums to write about. They are:
 

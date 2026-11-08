@@ -5,6 +5,7 @@ tags: ["Writing", "Blogging", "South America", "Fourteen"]
 title: On convictions, whereas to the strength of and belief in same
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “On convictions, whereas to the strength of and belief in same”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Overlong reflection upon the past is one sure way to make yourself unhappy so I try to avoid it. Nevertheless it becomes unavoidable at this time of year, especially if, like me, you are somewhat prone to reflection. 
 

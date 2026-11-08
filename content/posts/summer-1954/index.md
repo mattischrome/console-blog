@@ -6,6 +6,7 @@ tags: ["Twenty Five", "Theatre", "Terrence Rattigan", "Drama", "Play"]
 title: Summer 1954
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Summer 1954”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Summer 1954 is a pair of one-act plays by Sir Terrence Rattigan that are currently being performed together at the Chichester Festival Theatre. I really enjoyed both plays.
 

@@ -6,6 +6,7 @@ tags: ["Album Digest", "Music", "Blur", "Harry Gregson-Williams", "Sleater-Kinne
 title: My Favourite Albums of 2015
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “My Favourite Albums of 2015”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Given that I gave up on writing album digests for a bit this year, I thought I would at least do a proper top ten list of my favourite albums. There are quite a few albums that I did not have room for and I might try to revisit those later. In the mean time, let's crack on. (To save time, I have in some instances pasted my original review from the appropriate album digest.)
 

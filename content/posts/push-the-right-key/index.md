@@ -5,6 +5,7 @@ tags: ["Twenty Five", "Neovim", "Blogging", "Software", "rcmd"]
 title: Push the right key
 hero: images/hero-2.jpg
 hero_alt: "Illustration for the post “Push the right key”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 5 November 2026."
 ---
 One of the absurd barriers to writing regularly is that my new post script is written to open the new markdown file in Neovim and until this week I had no idea how to type a hashtag (which markdown uses for headers) in this editor.
 

@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "June", "Hot Chip", "Jamie Xx", "Blanck Mass", "
 title: Album Digest, June 2015
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, June 2015”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 To reboot this series, Album Digest June 2015 features five fantastic albums from Hot Chip, Jamie xx, Blanck Mass, Holly Herndon, and The Orb. I could pick loads more as I've listened to a lot of albums since [February](/posts/album-digest-february-2015/) but I decided to focus on the more electronic material. This means that I have no excuses for not continuing next month with a rockier theme.
 

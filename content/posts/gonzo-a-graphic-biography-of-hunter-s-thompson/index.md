@@ -5,6 +5,7 @@ tags: ["Books","Graphic Novel","Hunter S. Thomspon","Will Bingley","Anthony Hope
 title: Will Bingley and Anthony Hope-Smith, Gonzo
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Will Bingley and Anthony Hope-Smith, Gonzo”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Another book from the “university of life” pile (though [not in the picture](/posts/reading-list-mid-april-2012/)), “Gonzo” is the biography of Hunter S. Thompson in graphical form. In case you don’t know his work, [Hunter S. Thompson](http://en.wikipedia.org/wiki/Hunter_S._Thompson) was a journalist who invented the so-called “gonzo” style. This was basically to rock up at some major event and become embedded within it, usually writing up a long form piece from an outsider perspective. He was particularly famous for his work on the [Hell’s Angels](http://en.wikipedia.org/wiki/Hell%27s_Angels:_The_Strange_and_Terrible_Saga_of_the_Outlaw_Motorcycle_Gangs) and Richard Nixon’s campaign for presidential re-election in 1972.
 

@@ -7,6 +7,7 @@ tags: ["Fun", "Civ", "Twenty", "Leaders"]
 title: 'Civ Leaders #3: Amanitore of Nubia'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Civ Leaders #3: Amanitore of Nubia”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Amanitore of Nubia is available in a base game DLC. She also has her own scenario “The Gifts of the Nile”, which like most scenarios has unique tech and civic trees. You need to assert your dominance over the Nile by building seven temples. The scenario combines faith and military tactics in a satisfying way and you can also play it as Cleopatra for a different perspective.
 

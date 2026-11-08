@@ -5,6 +5,7 @@ tags: ["Ideas", "Blogging", "Internet", "Economics", "Twelve"]
 title: Net Loss
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Net Loss”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I pay to have this blog up and running. That is, I pay for the space where it is stored and I pay for the name. I have to look after all the files and plug-ins, I have to perform all the updates and optimise the database tables. All this is great fun but wouldn’t it be cheaper to slap the mattischro.me address onto a hosted WordPress.com account?
 

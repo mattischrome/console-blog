@@ -5,6 +5,7 @@ tags: ["South America", "Peru", "Self Improvement", "Thirteen"]
 title: Grumble Grumble
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Grumble Grumble”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I'm a bit behind in my posts about the trip and this post interrupts the sequence of events somewhat, just because I've not felt that well and that has dominated my thoughts about what to write. Basically for a week or two I've had varying degrees of bellyache and it's not been fun. Instead of feeling the gratitude and excitement I've felt since being here, I've spent a lot of time wanting to curl up in the corner and just be... well... somewhere else.
 

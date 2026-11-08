@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "June", "Grails", "Watter", "Hundred Waters", "P
 title: Album Digest, June 2014
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, June 2014”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 [Watter](http://temporaryresidence.com/artists/watter) are a "supergroup" composed from various members of Grails, Slint, and other bands. I did not know anything about Hundred Waters before this month: "The Moon Rang Like A Bell" is their second album. In fact second albums by bands I know nothing about are a something of theme because "Sunbathing Animal" is Parquet Courts' sophomore effort and I don't know anything about them either. Meanwhile, I've meant to write about "The Four Seasons Recomposed" since April.
 

@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "May", "Jack White", "One Little Plane", "Beach 
 title: Album Digest, May 2012
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, May 2012”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Four albums for Album Digest May 2012:
 

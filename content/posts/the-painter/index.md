@@ -5,6 +5,7 @@ tags: ["Ideas", "Modelling", "Short Story", "Twelve"]
 title: The Painter
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The Painter”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Once upon a time there was a man who loved to paint. He studied the art and craft of painting for many years. He chose to invest his time and energy into creating the most realistic portraits that he could paint. For him the joy came not from completing the paintings but the process of recreating the real world with the strokes of his brush.
 

@@ -6,6 +6,7 @@ tags: ["Album Digest", "June", "Music", "Boards Of Canada", "Jon Hopkins", "Thir
 title: Album Digest, June 2013
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, June 2013”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Just two albums this month as I am still enjoying last month's albums so much (and I spent loads of time getting reacquainted with Boards Of Canada at the start of the month). I listened to a few more albums but not often enough to write loads about them so there is an "honourable mention" section at the end of the post that briefly discusses a few more albums.
 

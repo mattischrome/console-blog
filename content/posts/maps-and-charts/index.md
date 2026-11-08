@@ -5,6 +5,7 @@ tags: ["Ideas", "Maps", "Eleven"]
 title: Maps And Charts
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Maps And Charts”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 When I was growing up a framed print of a map hung on the wall in the hallway. It was one of my favourite things, littered with strange latin names and with Vs where Us should have been. The outlines of the continents and countries were all familiar and yet slightly distorted, becoming more recognisable around the shores of western Europe.
 

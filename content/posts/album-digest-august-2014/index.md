@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "August", "Karl Hyde", "Underworld", "Brian Eno"
 title: Album Digest, August 2014
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, August 2014”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 The album digest returns with five albums by four artists.
 

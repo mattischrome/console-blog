@@ -7,6 +7,7 @@ tags: ["Understated Classics", "Music", "The Shamen", "Electronic", "Ten"]
 title: 'Understated Classics #6: Arbor Bona Arbor Mala by The Shamen'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #6: Arbor Bona Arbor Mala by The Shamen”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

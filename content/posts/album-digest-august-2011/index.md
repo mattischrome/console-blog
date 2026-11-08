@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "August", "Biosphere", "Ford and Lopatin", "Gus 
 title: Album Digest, August 2011
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, August 2011”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I bought a collection of electronic music this month. I mixed them all up in a smart playlist on iTunes, the smart aspect being to limit to tracks that had been played fewer than five then six then seven times etc. This made sure I was still listening to all the tracks equally often, despite the randomness.
 

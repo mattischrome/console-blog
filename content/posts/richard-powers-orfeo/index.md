@@ -5,6 +5,7 @@ tags: ["Richard Powers", "Books", "Fiction", "Twenty", "Twenty One"]
 title: Richard Powers, Orfeo
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Richard Powers, Orfeo”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 > "The mind may give up its desire to improve on creation and function as a faithful receiver of experience." John Cage
 

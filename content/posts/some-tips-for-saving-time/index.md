@@ -5,6 +5,7 @@ tags: ["Ideas", "Notes", "Life Experiences", "Resolutions", "Twenty One"]
 title: Some Tips For Saving Time
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Some Tips For Saving Time”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 A non-exhaustive list of ideas for saving time:
 

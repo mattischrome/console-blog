@@ -6,6 +6,7 @@ tags: ["Twenty Five", "Civ VII", "Games", "Software"]
 title: Some Initial Thoughts About Civilization VII
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Some Initial Thoughts About Civilization VII”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Sid Meier's Civilization VII is out today to much fanfare. After spending what top scientists are calling "far too long" playing Civ VI and a couple of run-throughs of the new game during the early access period, here are some thoughts on the new instalment.
 

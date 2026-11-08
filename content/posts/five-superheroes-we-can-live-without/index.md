@@ -5,6 +5,7 @@ tags: ["Fun", "Lists", "Eleven"]
 title: Five Superheroes We Can Live Without
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Five Superheroes We Can Live Without”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 The other day while writing some rather self-pitying notes in my blog book (yes, I handwrite all this rubbish before I go to bed at night!) I came up with some useless superheroes, or rather the only superheroes that a washed-up guy in his early thirties could hope to be. Because I haven’t got any ideas for “five things on the fifth” this month, I decided to flesh out a few of these. Last month I began the five on the fifth meme with [five things to try if you can’t sleep](/posts/five-things-to-try-when-you-cant-sleep/) and so this is a rather forced attempt to keep it going. I promise that I will try and think of more interesting posts on these lines for months. 
 

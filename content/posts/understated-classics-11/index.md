@@ -7,6 +7,7 @@ tags: ["Understated Classics", "Underworld", "Music", "Eleven", "Electronic"]
 title: 'Understated Classics #11: Second Toughest In The Infants by Underworld'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #11: Second Toughest In The Infants by Underworld”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

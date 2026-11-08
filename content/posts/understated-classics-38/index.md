@@ -6,6 +6,7 @@ tags: ["Understated Classics", "Music", "Electronic", "Twenty One"]
 title: 'Understated Classics #38: Trance Nation (Various Artists)'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #38: Trance Nation (Various Artists)”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I don't know about you, but lately I've been in need of some music that:
 

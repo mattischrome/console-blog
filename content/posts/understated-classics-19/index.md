@@ -6,6 +6,7 @@ tags: ["Understated Classics", "Kate Bush", "Music", "Twelve", "Pop", "Rock", "E
 title: 'Understated Classics #19: The Dreaming by Kate Bush'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #19: The Dreaming by Kate Bush”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 > “I see the people working and see it working for them.” (_Sat In Your Lap_)
 

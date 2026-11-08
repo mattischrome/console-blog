@@ -5,6 +5,7 @@ tags: ["Art","Tate Modern","Georgia O'Keeffe","Seventeen"]
 title: Georgia O'Keeffe at Tate Modern
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Georgia O'Keeffe at Tate Modern”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 We went to see the [Georgia O'Keeffe exhibition at the Tate Modern](http://www.tate.org.uk/whats-on/tate-modern/exhibition/georgia-okeeffe) last year. At the time, I didn't know much about her, other than the fact she was famous for painting flowers. And that people get a bit hot under the collar about what those paintings might represent. Was the art world of the 1920s and 1930s so repressed that it managed to get into a lather about some paintings of flowers? And more importantly, are they any good?
 

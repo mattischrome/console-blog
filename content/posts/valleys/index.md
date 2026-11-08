@@ -5,6 +5,7 @@ tags: ["Writing", "Ideas", "Blogging", "Seventeen"]
 title: Valleys
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Valleys”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 In my last post, I wrote about hills. I tried to use them as a metaphor to explain nagging sense of incompletion when you single out one activity over another. The feeling that there's always a more exciting hill off in the distance to go climb, instead of the one you're on.
 

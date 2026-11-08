@@ -7,6 +7,7 @@ tags: ["Understated Classics", "Music", "Wilco", "Fourteen", "Rock"]
 title: 'Understated Classics #27: A Ghost Is Born by Wilco'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #27: A Ghost Is Born by Wilco”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 [I have already given some of the personal background to why I love this album](/posts/whatever-happened-to-that-hat/) and now it’s time to give a bit of love to the music itself so I’ll stick to giving a track by track account of “A Ghost Is Born”.
 

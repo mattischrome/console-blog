@@ -6,6 +6,7 @@ tags: ["Blogging", "Writing", "AI", "Twenty Four", "Life Experiences", "Getting 
 title: Unindexed?
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Unindexed?”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 There was [an excellent article on The Verge yesterday about how Google is transforming the kinds of sites and blogs that are on the internet](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization). I also read [this slightly more personal take by Jason Velasquez](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/), which is more about how social networks have gobbled up all the time and attention of people who might otherwise be making interesting web sites. This has made me think deeply about what this blog is *for*, and why I might continue to blog in Twenty Twenty Four. 
 

@@ -5,6 +5,7 @@ tags: ["Writing", "Ideas", "Seventeen"]
 title: Create
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Create”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 It can be a struggle to keep writing. I've found this happened a lot since I moved the blog. First, there was  the business of moving things over. That meant a lot of thought about old posts and which ones I should keep. A lot of the time I thought "how on earth did I have time to write this?!"
 

@@ -6,6 +6,7 @@ tags: ["Lists", "Writing", "Blogging", "Eleven"]
 title: Five lessons from a year of blogging
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Five lessons from a year of blogging”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I have now been writing decent length articles on this site for about a year. I have learned a lot in this time, mostly about writing but also how to express your feelings and how to marshal your ideas and passions into action. For this month’s “five on the fifth”, I would like to share  with you some of the things I have learned.
 

@@ -6,6 +6,7 @@ tags: ["Music","Album Digest","April","Jamie Woon","Young Knives","Katy B","Elbo
 title: Album Digest, April 2011
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, April 2011”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

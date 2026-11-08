@@ -5,6 +5,7 @@ tags: ["Blogging", "Twenty Five", "Link", "Writing", "Evergreen"]
 title: A Collection of Links About Blogging
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “A Collection of Links About Blogging”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 If you are thinking about making your own blog, here are some links to help you on your way.
 

@@ -7,6 +7,7 @@ tags: ["Self Improvement", "Life Experiences", "Depression", "Films", "Ten"]
 title: The Setback
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The Setback”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Since the run there has been a bit of a hiatus in this blog. I wrote about how running was making me feel better. In fact, I should have said more. I recently stopped taking the antidepressants that I had been taking for eighteen months. This has been my longest period taking such medication but the running made me feel sufficiently good to decide that I could stop taking them.
 

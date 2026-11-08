@@ -5,6 +5,7 @@ tags: ["Paul McAuley", "Books", "Science Fiction", "Sixteen"]
 title: Paul McAuley, Something Coming Through
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Paul McAuley, Something Coming Through”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 "Something Coming Through" is a science fiction novel set in the near future. A few years after a brief nuclear war known as "The Spasm", an alien race known as the Jackaroo introduce themselves to humanity. The novel is funny, thoughtful, and politically charged. I found it to be a good read.
 

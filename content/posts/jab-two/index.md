@@ -5,6 +5,7 @@ tags: ["Covid", "Vaccination", "Life Experiences", "Twenty One"]
 title: Jab 2
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Jab 2”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I was due to have my second vaccination today, but like most people I rebooked to have it a bit earlier. No real side effects this time, save for a bit of malaise. Though that may have just been the thought of opening up the country when cases are still increasing quickly. 
 

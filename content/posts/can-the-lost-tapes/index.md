@@ -5,6 +5,7 @@ tags: ["Music", "CAN", "Twelve", "Box Set", "Rock"]
 title: CAN, The Lost Tapes
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “CAN, The Lost Tapes”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 This arrived on Monday and I thought I would give it a post of its own because at over 3 hours of music, I am unlikely to do more than dip into it before writing the album digest next week. It is a far bigger and more enjoyable artefact than I thought it was going to be, so it probably deserves special attention for that reason too.
 

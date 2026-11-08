@@ -6,6 +6,7 @@ tags: ["Album Digest", "October", "Music", "Chvrches", "Darkside", "Four Tet", "
 title: Album Digest, October 2013
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, October 2013”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Four great albums this month for the last album digest in a while.
 

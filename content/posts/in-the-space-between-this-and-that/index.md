@@ -5,6 +5,7 @@ tags: ["Politics", "News", "Sixteen"]
 title: In the space between this and that
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “In the space between this and that”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Britain voted to leave the EU this week. It made for an angry and confused Friday morning. I posted snippy comments on Facebook at a rate of about one every fifteen minutes. I also knew that there was nothing I could do. Even when you feel like Charlton Heston at the end of &quot;Planet of the Apes&quot;, you have to suck it up and accept that sometimes things don&#39;t go as you like.
 

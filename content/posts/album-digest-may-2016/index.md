@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "May", "Radiohead", "Mark Pritchard", "Brian Eno
 title: Album Digest, May 2016
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, May 2016”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Album Digest May 2016 features the work of four bands or artists that I have reviewed in previous album digests. I also own (or will own) all of these albums on vinyl, so it's handy that I've recently bought myself a record player!
 

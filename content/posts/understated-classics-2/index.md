@@ -7,6 +7,7 @@ tags: ["Understated Classics", "The Aloof", "Music", "Electronic", "Ten"]
 title: 'Understated Classics #2: Sinking by The Aloof'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #2: Sinking by The Aloof”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

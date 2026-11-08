@@ -5,6 +5,7 @@ tags: ["Books", "Sarah Ladipo Manyika", "Novella", "Goldsmiths", "Seventeen"]
 title: Sarah Ladipo Manyika, Like a Mule Bringing Ice Cream to the Sun
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Sarah Ladipo Manyika, Like a Mule Bringing Ice Cream to the Sun”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 "Like a Mule Bringing Ice Cream to the Sun" is a novella by [Sarah Ladipo Manyika](http://www.sarahladipomanyika.com). Of all the books nominated for the 2016 Goldsmiths Prize, this looked like the most interesting to my eyes. I've enjoyed previous Goldsmiths nominated novels including [Acts of the Assassins](/posts/acts-of-the-assassins/) and [Satin Island](/posts/satin-island-tom-mccarthy-review/). 
 

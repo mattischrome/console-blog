@@ -5,6 +5,7 @@ tags: ["Music", "Software", "Spotify", "Apple Music", "Fifteen"]
 title: An Initial Comparison of Apple Music and Spotify
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “An Initial Comparison of Apple Music and Spotify”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 My initial poor response to Apple Music was more about how it was presented at the WWDC Keynote rather than to the idea of Apple Music itself. It was more of a response that belonged to a post with a clickbait title rather than a considered response. I knew I wasn't responding to the product, more the flatness of its introduction (despite the names on show). 
 

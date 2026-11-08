@@ -5,6 +5,7 @@ tags: ["Consistency", "Blogging", "Writing", "Ideas", "Twenty Five"]
 title: Nineteen Out Of Nineteen?
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Nineteen Out Of Nineteen?”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I'm having trouble finding something to write about today. Partly the problem of having a productive weekend of doing things rather than ruminating on blog topics. So unfortunately, we get another space-filling post.
 

@@ -5,6 +5,7 @@ tags: ["Films", "Science Fiction", "Fourteen", "Lists"]
 title: 'Guardians of the Galaxy: A Short Review'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Guardians of the Galaxy: A Short Review”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 *Finally* saw Guardians of the Galaxy today. Here are fifteen observations about the film that may or may not constitute a short review.
 

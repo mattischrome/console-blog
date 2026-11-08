@@ -7,6 +7,7 @@ tags: ["Understated Classics", "The Orb", "Music", "Electronic", "Eleven"]
 title: 'Understated Classics #13: U.F.Orb by The Orb'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #13: U.F.Orb by The Orb”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 **FUN FACT:** It was because of the artwork to this album that I obsessively scrawled onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome on my pencil case at school. I also had a very passable u.f.orb logo drawn on it too.
 

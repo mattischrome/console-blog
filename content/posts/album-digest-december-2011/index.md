@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "December", "Radio Slave", "Pinch and Shackleton
 title: Album Digest, December 2011
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, December 2011”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Some rather brief pen pictures of this month’s albums. I’ve been a bit busy!
 

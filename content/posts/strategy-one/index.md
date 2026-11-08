@@ -5,6 +5,7 @@ tags: ["Tarot", "Fiction", "Short Story", "Twenty"]
 title: Strategy one
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Strategy one”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I decided to create my own deck of creativity cards. I was sick of all the adverts for similar products on Instagram. You know the kind. They're covered in pictures, patterns, and buzzwords. You shuffle the cards and draw them one at a time. As you place each card on the table, the brain’s natural desire to tell stories, create patterns and produce meaning takes over. 
 

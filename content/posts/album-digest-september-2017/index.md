@@ -6,6 +6,7 @@ tags: ["Album Digest","September","Music","The National","Nelly Furtado","Goldfr
 title: Album Digest, September 2017
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, September 2017”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Note: Recent months have been very busy, so this album digest combines a review of the new album by The National with a couple of reviews left over from earlier in the year.
 

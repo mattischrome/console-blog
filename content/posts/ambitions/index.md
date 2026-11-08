@@ -5,6 +5,7 @@ tags: ["Ideas", "Lists", "Self Improvement", "Twelve"]
 title: Ambitions
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Ambitions”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Sometimes, when I am feeling a bit down, I like to write down some of my ambitions. As you can see from this list they are mostly pretty humble but they are also a bit cheesy and embarassing, so I have put them after the fold!
 

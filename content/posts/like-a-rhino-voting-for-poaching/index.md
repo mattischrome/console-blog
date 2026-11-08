@@ -5,6 +5,7 @@ tags: ["News", "Politics", "Fifteen"]
 title: Like a Rhino Voting for Poaching
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Like a Rhino Voting for Poaching”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 There's a reason I cannot and will not vote Conservative, and like most people's apparent motive for voting tory it is also a selfish one. As someone employed in the public sector, working to ensure the greater good, I'm a member of an increasingly endangered species.
 

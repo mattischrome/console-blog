@@ -6,6 +6,7 @@ tags: ["Coding","Twenty Four","Blogging","Hugo","git"]
 title: Some Git Instructions for Future Matt
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Some Git Instructions for Future Matt”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Dear Future Matt,
 

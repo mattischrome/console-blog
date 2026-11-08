@@ -5,6 +5,7 @@ tags: ["Science", "Exoplanets", "Eleven", "Speculative", "Telescope"]
 title: Out There Somewhere
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Out There Somewhere”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Hurrah for more exoplanets [making the news](https://www.theguardian.com/science/2011/feb/02/new-planets-solar-system) this week. This time it is a star with a whole bunch of small planets very close to the star, usually they tend to be single gas giants larger even than [Jupiter](http://en.wikipedia.org/wiki/Jupiter) as this [list of stars with exoplanets](http://en.wikipedia.org/wiki/List_of_exoplanetary_host_stars) from Wikipedia shows. 
 

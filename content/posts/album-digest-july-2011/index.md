@@ -5,6 +5,7 @@ tags: ["Album Digest", "July", "Music", "SBTRKT", "Zomby", "Brian Eno", "Bon Ive
 title: Album Digest, July 2011
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, July 2011”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Quite a mixed bag this month.
 

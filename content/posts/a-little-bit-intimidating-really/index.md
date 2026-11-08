@@ -5,6 +5,7 @@ tags: ["Ideas", "Writing", "Blogging", "Fifteen"]
 title: A Little Bit Intimidating Really
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “A Little Bit Intimidating Really”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 There is so much good writing out there. All you have to do is fire up [the guardian website](http://www.theguardian.com/uk/), or download the [medium app to your smartphone](https://medium.com/m/app), or visit [my friend Barrie's site](https://web.archive.org/web/20150115015249/http://xianity.me:80/?), or [Lee's](https://narami.wordpress.com/), and so on and so on.
 

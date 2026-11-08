@@ -5,6 +5,7 @@ tags: ["Books", "Science Fiction", "Trilogy", "Series", "Twenty Two"]
 title: Tade Thompson, Rosewater
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Tade Thompson, Rosewater”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Rosewater is an exciting science fiction novel set several decades after first contact with an alien called Wormwood, that has established itself as a large biodome in Nigeria. The novel follows Kaaro, a thief whose extra special abilities are forged from an unlikely connection with the alien. The whole thing is part sci-fi adventure and part spy novel.
 

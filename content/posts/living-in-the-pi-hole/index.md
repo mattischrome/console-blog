@@ -6,6 +6,7 @@ tags: ["Software", "Ads", "Economics", "Twenty", "Internet"]
 title: Living in the Pi Hole
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Living in the Pi Hole”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Ingrid bought me a [raspberry pi](https://www.raspberrypi.org) for my birthday. I've set it up to run the [Pi-hole](https://docs.pi-hole.net) software. Pi-hole is a nifty bit of kit that intercepts your web requests and purges any that ask for material on known ad servers. Essentially it's like having an ad blocker on your network rather than just your computer.
 

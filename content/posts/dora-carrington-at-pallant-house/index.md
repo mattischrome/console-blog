@@ -5,6 +5,7 @@ tags: ["Art", "Twenty Five", "Bloomsbury Group", "Pallant House", "Dora Carringt
 title: Dora Carrington
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Dora Carrington”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Dora Carrington was an artist loosely affiliated with the Bloomsbury Group and noted for her unconventional lifestyle. Despite a short career, her work had a great impact and [a retrospective at the Pallant House Gallery in Chichester](https://pallant.org.uk/whats-on/dora-carrington/) brings together some of her major works.
 

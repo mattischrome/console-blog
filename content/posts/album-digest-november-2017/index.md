@@ -6,6 +6,7 @@ tags: ["Album Digest","November","Music","0110100 01010100","Four Tet","James Ho
 title: Album Digest, November 2017
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, November 2017”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

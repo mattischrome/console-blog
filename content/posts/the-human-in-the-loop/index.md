@@ -5,6 +5,7 @@ tags: ["Twenty Five", "AI", "Generative Art", "Creativity", "Art", "Randomness",
 title: The Human in the Loop
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The Human in the Loop”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I want to start making generative art again. I can't say I ever did it that seriously but using programming languages to generate 'art' is a pretty fun to while away the hours, especially when one's talents for drawing truculently refuse to improve. Of course, more recently the phrase generative art might be said to have grown to encompass the GPT-class models that generate images from prompts. So what would be the point of coding something, when you can make 'proper' art?
 

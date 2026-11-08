@@ -7,6 +7,7 @@ tags: ["Understated Classics", "Music", "The KLF", "Fifteen", "Pop", "Electronic
 title: 'Understated Classics #31: The White Room by The KLF'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #31: The White Room by The KLF”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 This little masterpiece was released in 1991. I got my copy on cassette for Christmas that year, but by May in 1992 they'd already "retired" and split up.
 

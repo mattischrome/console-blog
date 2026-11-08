@@ -5,6 +5,7 @@ tags: ["R", "Twenty Five", "Programming", "Functional Programming", "Tidyverse"]
 title: Slots and Pipes
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Slots and Pipes”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Recent explorations in R have reminded me about two ways of thinking about how you refer to objects or (parts of objects) in the language.
 

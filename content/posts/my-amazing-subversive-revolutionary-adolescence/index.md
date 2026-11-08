@@ -6,6 +6,7 @@ tags: ["Music", "The Orb", "Fourteen", "Electronic"]
 title: My Amazing Subversive Revolutionary Adolescence
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “My Amazing Subversive Revolutionary Adolescence”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

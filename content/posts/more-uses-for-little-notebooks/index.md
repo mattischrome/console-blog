@@ -5,6 +5,7 @@ tags: ["Twenty Five", "Notebooks", "Notes", "Blogging", "Ideas", "Writing"]
 title: More Uses For Little Notebooks
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “More Uses For Little Notebooks”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I'm an avid collector of small notebooks. So much so that I have a box full of them in my office. I'm not afraid of writing in them, it's just that I've bought so many over the years I can't get through them quick enough.<!--more-->
 

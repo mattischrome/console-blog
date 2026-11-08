@@ -5,6 +5,7 @@ tags: ["Books", "Booker Prize", "Tom McCarthy", "Novel", "Fifteen"]
 title: 'Satin Island by Tom McCarthy: Review'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Satin Island by Tom McCarthy: Review”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 As much as I wanted it to, Satin Island by Tom McCarthy did not win the Booker Prize. Having read it all I realise it was a long shot. However it is an interesting book that deserved consideration, even if it does have some flaws.
 

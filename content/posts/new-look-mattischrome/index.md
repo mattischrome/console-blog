@@ -5,6 +5,7 @@ tags: ["Blogging", "Twenty Four", "Meta", "Writing"]
 title: The new look mattischrome
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The new look mattischrome”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Welcome to the new look for my blog. I've had my eye on a more minimal look for a while now. Whether this new look is successful or not depends on how often I write new posts. To that end, this theme also supports a separate (or almost separate) stream of photos. Once I've got back in to the habit of putting photos up, that should be a nice additional stream of content.
 

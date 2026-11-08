@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "July", "Bat For Lashes", "The Avalanches", "Aph
 title: Album Digest, July 2016
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, July 2016”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Album Digest July 2016 consists of a bumper five albums, mainly because I couldn't work out which one to drop. I think they're all pretty good though it's great to hear new music from The Avalanches after all this time.
 

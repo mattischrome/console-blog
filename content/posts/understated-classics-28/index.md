@@ -6,6 +6,7 @@ tags: ["Understated Classics", "The Wrens", "Music", "Fifteen", "Rock"]
 title: 'Understated Classics #28: The Meadowlands by The Wrens'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #28: The Meadowlands by The Wrens”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 One of the first lines of "The House That Guilt Built", the soft cricket-laden lament that opens The Meadowlands by The Wrens, is "I'm nowhere near where I thought I'd be". The last line of the whole album is "this is not what you had planned". These bookending lines set the tone for this shimmering, ramshackle masterpiece - a fatigue and careworn pride in failing to meet impossible standards writ large over its first and last eighty or so seconds. "The Meadowlands" is probably the best record you've never heard, and once you have heard it, you will never be the same. Even better, it changes and you change with every single listen. If you're living your life and you really mean it, then this is the record for you.
 

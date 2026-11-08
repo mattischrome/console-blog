@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "September", "Four Tet", "The xx", "Nelly Furtad
 title: Album Digest, September 2012
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, September 2012”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I had a bit more time to listen to this month’s albums because I was on holiday for two weeks. I didn’t manage to write about them while on holiday though! In fact I bought and listened to a few more, but I will save them for next month. The albums I will discuss now (in order bought) are:
 

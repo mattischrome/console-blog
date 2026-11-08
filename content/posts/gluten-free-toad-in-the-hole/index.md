@@ -6,6 +6,7 @@ tags: ["Recipe","Gluten Free","Twenty Five","Food"]
 title: Gluten Free Toad In The Hole
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Gluten Free Toad In The Hole”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 
 This is a weekly lifter of spirits during the winter months!

@@ -5,6 +5,7 @@ tags: ["Covid", "Writing", "Travel", "Twenty", "Ideas", "Life Experiences"]
 title: Travel Writing After All This
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Travel Writing After All This”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 While sprucing up this blog a bit during lockdown, I fell into reading my old posts about [South America](/tags/south-america/). I enjoyed it, mostly for the memories, but also because the current lockdown is warping my sense of time and space. Hours feel like weeks, but then I blink and a month's gone by. I find myself traipsing similar orbits each day around the house, and then perhaps over to the supermarket or the park. There's a palpable escapism to be had in reminiscing about South America and other places.
 

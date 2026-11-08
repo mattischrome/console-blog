@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "April", "Orbital", "Battles", "Chemical Brother
 title: Album Digest, April 2012
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, April 2012”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 A mostly instrumental month with a comeback from Orbital, an excellent remix collection from Battles, an amazing movie documenting a live performance by the Chemical Brothers and Austin Wintory’s soundtrack to the game _Journey_.
 

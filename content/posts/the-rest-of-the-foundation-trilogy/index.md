@@ -6,6 +6,7 @@ tags: ["Books", "Science Fiction", "Reading Projects", "Isaac Asimov", "Nineteen
 title: Isaac Asimov, Foundation and Empire, Second Foundation
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Isaac Asimov, Foundation and Empire, Second Foundation”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I managed to read all of the foundation novels since I [wrote about the first one](/posts/foundation/). In this post, I’ll write about the next two, which covers the original trilogy of ‘novels’ created from the original short stories. I’ve tried to avoid spoilers.
 

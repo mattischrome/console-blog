@@ -5,6 +5,7 @@ tags: ["Writing", "Ideas", "Sixteen", "Insomnia"]
 title: A New Notebook
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “A New Notebook”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Witness the pressure of a new notebook. You sit at your desk, trying to get it started with an amazing piece of writing. Something worthy of that crisp new page. You want it to tumble out of you, fully formed and coherent. Something that justifies you abandoning the previous one. As though first drafts don't exist. You cast yourself into the role of shaman, of seer - of someone gifted a prophetic vision. But it's a role that you cannot and will not fulfil.
 

@@ -6,6 +6,7 @@ tags: ["Life Experiences", "Self Improvement", "Work", "Thirteen"]
 title: The Reset Button
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The Reset Button”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

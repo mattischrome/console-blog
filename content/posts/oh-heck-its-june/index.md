@@ -5,6 +5,7 @@ tags: ["June", "Time passing", "Organisation", "Twenty Three"]
 title: Oh heck it's June
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Oh heck it's June”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 White rabbits and all that. 
 

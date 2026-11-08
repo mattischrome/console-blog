@@ -10,6 +10,7 @@ tag:
 title: Ted Hughes, April Birthday
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Ted Hughes, April Birthday”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 When your birthday brings the world under your window  
 And the [song-thrush](http://www.rspb.org.uk/wildlife/birdguide/name/s/songthrush/index.aspx) sings wet-throated in the dew  

@@ -6,6 +6,7 @@ tags: ["Music", "808 State", "Understated Classics", "Thirteen", "Electronic"]
 title: 'Understated Classics #23: Gorgeous by 808 State'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #23: Gorgeous by 808 State”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 It was quite hard to choose an 808 State album for the [understated classics series](/categories/understated-classics/) for two reasons. The first is that I was introduced to 808 State quite late through a friend's sister's cassette copy of The Shamen's En-Tact (the original version recorded from vinyl that had a thirteen minute version of "Evil Is Eden") that also had -- to fill out the C90 -- the full length sweary version of "What Time Is Love?" by The KLF and four tracks: "Cubik", "Pacific", "Olympic" (I think...), and "In Yer Face".
 

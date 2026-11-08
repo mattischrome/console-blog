@@ -6,6 +6,7 @@ tags: ["Understated Classics", "Orbital", "Music", "Seventeen", "Electronic"]
 title: 'Understated Classics #35: Snivilisation by Orbital'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #35: Snivilisation by Orbital”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I came late to Orbital's work. I knew of them through a few remixes and because as a mad Orb fan, they could not have avoided my notice could they? Apart from that, one of my college friends tried to get me into "In Sides" just after its release in 1996. The same friend got me into ["Second Toughest In The Infants" by Underworld](/posts/understated-classics-11/). I cannot now understand the reason, but "In Sides" just left me cold.
 

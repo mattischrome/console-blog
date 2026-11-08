@@ -6,6 +6,7 @@ tags: ["Album Digest", "May", "Music", "Lilacs and Champagne", "The Phoenix Foun
 title: Album Digest, May 2013
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, May 2013”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

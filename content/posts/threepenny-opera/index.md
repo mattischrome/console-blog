@@ -5,6 +5,7 @@ tags: ["Theatre", "Brecht", "Sixteen", "London"]
 title: The Threepenny Opera
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “The Threepenny Opera”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 A few weeks ago, Ingrid and I went to see The Threepenny Opera at the National Theatre.
 

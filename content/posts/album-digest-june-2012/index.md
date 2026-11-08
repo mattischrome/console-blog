@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "June", "Saint Etienne", "Liars", "Hot Chip", "T
 title: Album Digest, June 2012
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, June 2012”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Three fantastic albums for Album Digest June 2012:
 

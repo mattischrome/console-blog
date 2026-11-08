@@ -6,6 +6,7 @@ tags: ["Album Digest", "February", "Music", "James Blake", "Cut Copy", "P. J. Ha
 title: Album Digest, February 2011
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, February 2011”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 February, the shortest month, harbinger of such delights as Groundhog Day and Valentine’s Day. Could it possibly produce any good albums? Well the candidates are the eponymous début album by **James Blake**, _Zonoscope_ by **Cut/Copy**, _Let England Shake_ by **PJ Harvey** and _Smart Flesh_ by **The Low Anthem**. Furthermore, there was an unexpected bonus when [**Radiohead**](http://www.radiohead.com/deadairspace/) announced that their new album would be out and available to listen to this month too.
 

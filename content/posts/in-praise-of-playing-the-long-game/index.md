@@ -8,6 +8,7 @@ tags: ["Twenty Five", "Twenty Four", "Twenty Eighty", "Calendar", "Ideas", "Barg
 title: In Praise of Playing the Long Game
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “In Praise of Playing the Long Game”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I bought a Barbara Hepworth calendar in the sale at the Tate Modern shop that I thought was a steal until I realised it was a 2024 calendar, not a 2025 one! However, the joke's on them because I only have to wait until 2029 for the next year that starts with a Monday.
 

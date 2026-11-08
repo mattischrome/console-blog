@@ -5,6 +5,7 @@ tags: ["Technology", "Privacy", "Fourteen", "Software", "Internet"]
 title: Should I Drop Dropbox?
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Should I Drop Dropbox?”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I am thinking about whether I want to use Dropbox to sync my files anymore. Don't get me wrong, I love Dropbox. It came along in beta in just 2008 just as I needed it to manage my PhD thesis. In fact I often jokingly claim to having invented it by asking on the MacRumors forums whether a program like it existed  - just a few weeks before its beta rode in to my life like a knight in shining armour. I recognised the need for a service that would synchronise a single directory and its contents between multiple computers using The Power Of The Internet™. I was used to using commands like scp to maintain my static blog on the university's servers and the multiple computers that I authored it from, though in 2008 when I moved back to my parents' house to write up my PhD I was frustrated that I couldn't work out how to do the same things when the target was a PC running Windows XP.
 

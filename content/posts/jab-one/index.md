@@ -5,6 +5,7 @@ tags: ["Covid", "Vaccination", "Life Experiences", "Twenty One"]
 title: Jab 1
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Jab 1”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I had my first Covid-19 vaccination on Friday. Leading up to it, I was borderline having a panic attack. From about lunchtime I was just all over the shop (the jab was at 7pm). I'm glad that the vaccination centres run with such exactitude, but also with a sense of cheeriness. By the time I'd had the jab, I was feeling much better just from the sheer relief of it. 
 

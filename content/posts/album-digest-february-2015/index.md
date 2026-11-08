@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "February", "Aphex Twin", "The Orb", "Susanne Su
 title: Album Digest, February 2015
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, February 2015”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

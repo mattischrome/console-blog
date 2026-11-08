@@ -6,6 +6,7 @@ tags: ["Maths", "Stats", "R", "Fourteen"]
 title: How to generate random numbers in R
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “How to generate random numbers in R”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 This post deals with how to generate random numbers in R. It is good to know how to generate random numbers with a particular language or software package for at least one of the following three reasons:
 

@@ -5,6 +5,7 @@ tags: ["Books", "Matt Haig", "Non Fiction", "Seventeen"]
 title: Matt Haig, Reasons to Stay Alive
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Matt Haig, Reasons to Stay Alive”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 After I read ["Hello America"](/posts/hello-america/) and ["Like a Mule Bringing Ice Cream to the Sun"](/posts/like-a-mule-bringing-ice-cream-to-the-sun/) to Ingrid, it was her turn to read something to me. We settled on [Matt Haig's memoir of anxiety and depression "Reasons to Stay Alive"](http://www.matthaig.com/reasons-to-stay-alive/), which is as uplifting and life-affirming as its title suggests.
 

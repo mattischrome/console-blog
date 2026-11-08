@@ -6,6 +6,7 @@ tags: ["J. G. Ballard", "Books", "Reading Projects", "Science Fiction", "Eleven"
 title: J. G. Ballard, Concrete Island
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “J. G. Ballard, Concrete Island”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

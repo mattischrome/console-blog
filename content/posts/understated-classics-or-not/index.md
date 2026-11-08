@@ -5,6 +5,7 @@ tags: ["Understated Classics", "Music", "Rock", "Electronic", "Dance", "Pop", "T
 title: Understated Classics Or Not?
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics Or Not?”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 At the new year, thoughts and spare time for writing point me toward writing some new posts for my understated classics series. Expect some new ones soon.
 

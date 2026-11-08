@@ -5,6 +5,7 @@ tags: ["LaTeX", "Captions", "Footnotes", "Twenty Two"]
 title: 'TIL: footnotes in Latex captions'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “TIL: footnotes in Latex captions”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Today I had an interesting bug in some Latex code I am writing. Putting a footnote into a caption caused the document to fail compilation. The problem was that this document doesn't use a table of figures at the start, so I hadn't thought to include a short summary caption. Apparently the curly brace in the footnote command does not sit well with that, even if you aren't using a list or table of figures in your document. The solution is simple, as long as the footnote isn't crucial to the list of tables!
 

@@ -5,6 +5,7 @@ tags: ["Don Delillo", "Books", "Novel", "Thirteen"]
 title: Don Delillo, Point Omega
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Don Delillo, Point Omega”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 > There were no mornings or afternoons. It was one seamless day, every day, until the sun began to arc and fade, mountains emerging from their silhouettes. This is when we sat and watched in silence.
 

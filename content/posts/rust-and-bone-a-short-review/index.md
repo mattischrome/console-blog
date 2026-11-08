@@ -5,6 +5,7 @@ tags: ["Films", "French", "Marion Cotillard", "Thriller", "Twelve"]
 title: 'Rust And Bone: A Short Review'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Rust And Bone: A Short Review”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 So, two short reviews in a row. I had the day off work and went to see “Rust And Bone” this afternooon. It’s the new film by Jacques Audiard, who directed “A Prophet” – one of my favourite films of the last five years.
 

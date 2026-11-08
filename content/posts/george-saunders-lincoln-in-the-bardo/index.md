@@ -5,6 +5,7 @@ tags: ["George Saunders", "Books", "Fiction", "Twenty", "Booker Prize"]
 title: George Saunders, Lincoln In The Bardo
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “George Saunders, Lincoln In The Bardo”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I read this book on holiday in Belgium last year. Having forgotten to pack a novel I scoured almost every book in the Waterstones at St. Pancras station before settling on this Booker prize winning novel by George Saunders.
 

@@ -5,6 +5,7 @@ tags: ["Books", "Mark Rowlands", "Non Fiction", "Eleven"]
 title: Mark Rowlands, The Philosopher And The Wolf
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Mark Rowlands, The Philosopher And The Wolf”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I saw that a friend had ‘liked’ this book on Facebook and reading about it on [amazon](http://www.amazon.co.uk/Philosopher-Wolf-Lessons-Death-Happiness/dp/1847081029/), I was curious enough to give it a go. It is the autobiography of the philosopher [Mark Rowlands](https://web.archive.org/web/20111006170827/http://rowlands.philospot.com/), specifically the experiences and lessons learned from raising a wolf, Brenin, from cub to maturity and beyond.
 

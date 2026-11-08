@@ -8,6 +8,7 @@ title: 'Understated Classics #16: Ambient 2 / The Plateaux Of Mirror by Howard B
   and Brian Eno'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #16: Ambient 2 / The Plateaux Of Mirror by Howard Budd and Brian Eno”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

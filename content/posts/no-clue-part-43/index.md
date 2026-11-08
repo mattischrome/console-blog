@@ -5,6 +5,7 @@ tags: ["Writing", "Blogging", "Depression", "Ideas", "Sixteen"]
 title: I Don't Have a Clue, part 43
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “I Don't Have a Clue, part 43”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 *A little man wearing a bow tie, and possibly a fez, scurries into the middle of the frame clutching a clapboard. Breathing heavily he hoists the clapboard up to chest height. He holds the clapper up then brings down while slurring &quot;This is a blog post about not having a clue, take 43&quot;. He exits to the right of the frame.*
 

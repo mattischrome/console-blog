@@ -6,6 +6,7 @@ tags: ["Books", "Reading Projects", "J. G. Ballard", "Eleven", "Fiction"]
 title: J. G. Ballard, Crash
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “J. G. Ballard, Crash”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

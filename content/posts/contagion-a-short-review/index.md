@@ -6,6 +6,7 @@ tags: ["Films", "Disease Modelling", "Science Fiction", "Eleven", "Twenty", "Mar
 title: 'Contagion: A Short Review'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Contagion: A Short Review”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 There was much excitement about [Contagion](http://www.imdb.com/title/tt1598778/) at work. Finally a movie that explains  as part of the plot! A bunch of us went to see it, mainly to see whether [a disaster movie about a global pandemic](https://www.warnerbros.com/movies/contagion) could hold up as entertainment and to have a bit of a giggle if it couldn’t.
 

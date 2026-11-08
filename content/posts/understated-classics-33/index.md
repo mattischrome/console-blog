@@ -6,6 +6,7 @@ tags: ["Understated Classics", "Maxwell", "Music", "Sixteen", "Pop"]
 title: 'Understated Classics #33: Embrya by Maxwell'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #33: Embrya by Maxwell”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I give the impression of planning these posts but to be honest I came across an article about Maxwell a few weeks ago and fondly remembered my cassette copy of this album. The joy of Spotify is that it's easy to dig up old favourites. The recent warm weather makes for a good opportunity to enjoy the sultry embrace of "Embrya" once more.
 

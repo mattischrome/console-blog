@@ -5,6 +5,7 @@ tags: ["Music", "Four Tet", "Kaitlyn Aurelia Smith", "Seventeen", "Electronic"]
 title: I Will Make Room For You - Four Tet Remix
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “I Will Make Room For You - Four Tet Remix”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 In a perfect confluence of [last month's album digest](/posts/album-digest-october-2011/), here's an excellent Four Tet remix of Kaitlyn Aurelia Smith's "I Will Make Room For You" from her album "The Kid". I've put it into a playlist with "Lush" from Four Tet's "New Energy" album and the original version of "I Will Make Room For You."  
 

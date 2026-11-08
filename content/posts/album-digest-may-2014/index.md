@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "May", "Little Dragon", "Coldplay", "Royksopp", 
 title: Album Digest, May 2014
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, May 2014”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 This month was strange. I didn’t listen to much new music and after last month’s bumper digest (now removed from the site) there’s probably a reason for that. Not to mention that Spotify gives you more reasons to look backwards than forwards. Nevertheless, this brief post features new albums by Little Dragon and Coldplay, along with the mini-album collaboration between Röyskopp and Robyn.
 

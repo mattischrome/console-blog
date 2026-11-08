@@ -6,6 +6,7 @@ tags: ["Programming", "Projects", "Games", "Ten", "Fun"]
 title: Programming an UNO game
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Programming an UNO game”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 <!--more-->
 

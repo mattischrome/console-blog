@@ -5,6 +5,7 @@ tags: ["Programming","R","Seventeen"]
 title: A Little Lesson in R
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “A Little Lesson in R”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I had to compute an indicator this week. It had confidence intervals that relied on taking 100,000 samples from the indicator's approximate distribution. I had to repeat this over multiple GP practices and for twelve different demographic groups.
 

@@ -6,6 +6,7 @@ tags: ["Album Digest", "September", "Music", "Wilco", "MIA", "Local Natives", "K
 title: Album Digest, September 2016
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, September 2016”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 This month's album digest features albums by Wilco, M.I.A., Local Natives, and a collaboration between Kaitlyn Aurelia Smith and Suzanne Ciani.
 

@@ -5,6 +5,7 @@ tags: ["Album Digest", "March", "Music", "David Bowie", "Thirteen"]
 title: Album Digest, March 2013
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, March 2013”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Just the David Bowie album this month as it’s pretty much the only new music that I’ve listened to.
 

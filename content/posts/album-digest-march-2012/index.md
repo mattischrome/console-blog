@@ -6,6 +6,7 @@ tags: ["Album Digest", "March", "Music", "Fanfarlo", "The Shins", "Grails", "New
 title: Album Digest, March 2012
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, March 2012”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Five albums for Album Digest March 2012
 

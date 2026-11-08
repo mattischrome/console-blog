@@ -6,6 +6,7 @@ tags: ["Music", "Album Digest", "January", "Everything Everything", "Frank Ocean
 title: Album Digest, January 2013
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, January 2013”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 Only one of this month three albums was actually released this month. Nelly Furtado's Mi plan was actually released over three years ago - I only discovered it last year when I wrote [the September album digest](/posts/album-digest-september-2012/) following the release of "The Spirit Indestructible", or it might have been when I wrote about ["Folklore"](/posts/understated-classics-20/) at around the same time.
 

@@ -6,6 +6,7 @@ tags: ["Album Digest", "April", "Music", "Pet Shop Boys", "Underworld", "Charlie
 title: Album Digest, April 2016
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Album Digest, April 2016”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 This month's album digest is a mixture of comparisons. First we compare the fortunes of old hands Underworld to even older hands the Pet Shop Boys. After that I've found two dance albums, one that I liked and one that I didn't. I find it quite hard to write about dance music and so the comparison is quite useful. Sometimes it helps to work out why you like one thing and not another.
 

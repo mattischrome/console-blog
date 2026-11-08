@@ -5,6 +5,7 @@ tags: ["Writing", "Blogging", "Fourteen", "Self Improvement", "Life Experiences"
 title: October and November 2014
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “October and November 2014”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 I recently started a new job and moved in to a new flat. This means I'm too busy to write any long blog posts at the moment. Also I'm still not quite at home there, so I tend to spend my evenings tidying up or setting up new things. It's a shame because I have plenty of things to write about (even without observations on moving, starting a new job, etc) but I guess the writing will happen eventually...
 

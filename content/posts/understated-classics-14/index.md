@@ -6,6 +6,7 @@ tags: ["Understated Classics", "Bomb The Bass", "Music", "Electronic", "Eleven"]
 title: 'Understated Classics #14: Clear by Bomb The Bass'
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Understated Classics #14: Clear by Bomb The Bass”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
 ---
 > I think it’s time to discuss your philosophy of drug use as it relates to artistic endeavour…
 
