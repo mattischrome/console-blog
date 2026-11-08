@@ -6,3 +6,41 @@ HUGO_VERSION = "0.166.0"
   # never expires, see [caches.images] in hugo.toml); --minify shrinks HTML.
   command = "hugo --gc --minify && npx pagefind --site public"
   publish = "public"
+# Long-lived browser caching, only for files whose names change when their
+# content does (so a year-long cache can never serve something stale):
+#   - CSS from Hugo Pipes, fingerprinted in production builds
+#   - resized WebP images from partials/responsive-img.html (name_hu_<hash>.webp)
+#   - Pagefind's hashed index and fragment files
+# Everything else keeps Netlify's default (revalidate on every visit), which
+# is right for HTML and for files like pagefind.js that keep their names.
+# The rules are written so no path matches two of them: Netlify may combine
+# values when rules overlap.
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/posts/*/images/*.webp"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/now/*/*.webp"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/about/*/*.webp"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/pagefind/fragment/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/pagefind/index/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
