@@ -894,3 +894,6 @@ h3:hover .back-to-top,
   * { transition: none !important; }
   /* the card tilt is static, not motion, so it stays */
 }
+
+.curious { border-left: 3px solid #8aa; padding: 0.3em 1em; margin: 1.5em 0; background: #f6f8f8; }
+.curious summary { cursor: pointer; font-style: italic; }
