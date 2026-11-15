@@ -509,6 +509,68 @@ figcaption {
 .post-content figure { margin: 2rem 0; }
 .post-content figure img { border: 1.5px solid var(--line); border-radius: 10px; }
 
+/* Carousel shortcode ------------------------------------------------------
+   A scroll-snap strip (works without JS); assets/js/carousel.js adds the
+   buttons, the counter and wrap-around. Every slide takes the frame's
+   aspect ratio and letterboxes images of other shapes.                     */
+.carousel-frame {
+  position: relative;
+  border: 1.5px solid var(--line);
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--paper-2);
+}
+.carousel-track {
+  position: relative;               /* offsetParent for the slides */
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  overscroll-behavior-x: contain;
+}
+.carousel-ready .carousel-track { scrollbar-width: none; }
+.carousel-ready .carousel-track::-webkit-scrollbar { display: none; }
+.carousel-track:focus-visible { outline: 2px solid var(--cat-deep, var(--ink)); outline-offset: -4px; }
+.carousel-slide {
+  flex: 0 0 100%;
+  margin: 0;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  aspect-ratio: var(--carousel-ratio, 3 / 2);
+}
+.post-content .carousel-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border: 0;
+  border-radius: 0;
+}
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2.5rem;
+  height: 2.5rem;
+  display: grid;
+  place-items: center;
+  padding: 0 0 0.15em;
+  border: 1.5px solid var(--line);
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--card-bg) 85%, transparent);
+  color: var(--ink);
+  font: 1.6rem/1 var(--font-display);
+  cursor: pointer;
+}
+.carousel-btn[hidden] { display: none; }
+.carousel-btn:hover { background: var(--card-bg); border-color: var(--ink-soft); }
+.carousel-btn:focus-visible { outline: 2px solid var(--cat-deep, var(--ink)); outline-offset: 2px; }
+.carousel-prev { left: 0.6rem; }
+.carousel-next { right: 0.6rem; }
+.carousel-count { font-variant-numeric: tabular-nums; margin-right: 0.5em; }
+.carousel-count:not(:last-child)::after { content: " ·"; }
+
 /* Layout variants ---------------------------------------------------------
    short — a cosier, slightly larger single column
    photo — the image is the star; text takes a back seat                    */

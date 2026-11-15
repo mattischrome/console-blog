@@ -26,5 +26,12 @@
   <script>{{ .Content | safeJS }}</script>
   {{- end }}
   {{- end }}
+  {{- /* Buttons for the carousel shortcode, which sets this flag while the
+         content renders (inside "main", above). */ -}}
+  {{- if .Store.Get "hasCarousel" }}
+  {{- with resources.Get "js/carousel.js" | minify }}
+  <script>{{ .Content | safeJS }}</script>
+  {{- end }}
+  {{- end }}
 </body>
 </html>

@@ -1,0 +1,96 @@
+{{- /*
+  carousel — several images in the text column, one at a time, with
+  previous/next buttons and a single caption. Going past the last image
+  returns to the first (and back from the first goes to the last).
+
+  Usage (paths are relative to the post bundle), one image per line,
+  optionally followed by | and its alt text:
+    {{< carousel caption="Three days in Rome; markdown allowed." >}}
+    images/forum.jpg | The Forum in the morning
+    images/pantheon.jpg | Inside the Pantheon
+    images/trastevere.jpg
+    {{< /carousel >}}
+
+  Or pick images by pattern (sorted by file name, no alt text):
+    {{< carousel images="images/rome-*.jpg" caption="Rome." />}}
+  `images` also takes a comma-separated list of paths or patterns.
+
+  Params: caption, images, ratio ("W:H"; defaults to the first image's
+  shape — other shapes are letterboxed, never cropped), label (accessible
+  name; defaults to the caption as plain text).
+
+  Without JavaScript it is a plain swipe/scroll strip with scroll-snap. The
+  script (assets/js/carousel.js) is inlined by baseof.html on pages that use
+  this shortcode, which it flags with .Page.Store "hasCarousel".
+*/ -}}
+{{- $page := .Page -}}
+{{- $items := slice -}}
+
+{{- with .Get "images" -}}
+  {{- range split . "," -}}
+    {{- $pattern := strings.TrimPrefix "./" (trim . " ") -}}
+    {{- range sort ($page.Resources.Match $pattern) "Name" -}}
+      {{- if eq .ResourceType "image" -}}
+        {{- $items = $items | append (dict "img" . "alt" "") -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- range split (.Inner | default "") "\n" -}}
+  {{- $line := trim . " \t\r" -}}
+  {{- if $line -}}
+    {{- $parts := split $line "|" -}}
+    {{- $src := strings.TrimPrefix "./" (trim (index $parts 0) " ") -}}
+    {{- $alt := trim (delimit (after 1 $parts) "|") " " -}}
+    {{- with $page.Resources.Get $src -}}
+      {{- $items = $items | append (dict "img" . "alt" $alt) -}}
+    {{- else -}}
+      {{- warnf "carousel: image %q not found in %s" $src $page.File.Path -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $caption := .Get "caption" | default "" -}}
+{{- $label := .Get "label" | default ($caption | markdownify | plainify) | default "Image carousel" -}}
+
+{{- /* aspect ratio of the frame */ -}}
+{{- $ratio := "" -}}
+{{- with .Get "ratio" -}}
+  {{- $ratio = replace . ":" " / " -}}
+{{- else -}}
+  {{- with $items -}}
+    {{- $first := (index . 0).img -}}
+    {{- if and (in (slice "jpeg" "png" "webp" "tiff" "bmp" "gif") $first.MediaType.SubType) $first.Width -}}
+      {{- if eq $first.MediaType.SubType "jpeg" -}}{{- $first = $first.Filter images.AutoOrient -}}{{- end -}}
+      {{- $ratio = printf "%d / %d" $first.Width $first.Height -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $items -}}
+{{- $page.Store.Set "hasCarousel" true -}}
+{{- $n := len $items -}}
+<figure class="carousel" role="region" aria-roledescription="carousel" aria-label="{{ $label }}">
+  <div class="carousel-frame"{{ with $ratio }} style="--carousel-ratio: {{ . | safeCSS }}"{{ end }}>
+    <ul class="carousel-track" tabindex="0">
+      {{- range $i, $it := $items }}
+      <li class="carousel-slide" role="group" aria-roledescription="slide" aria-label="{{ add $i 1 }} of {{ $n }}">
+        {{ partial "responsive-img.html" (dict "img" $it.img "widths" (slice 700 1400) "sizes" "(max-width: 44rem) calc(100vw - 2rem), 42rem" "alt" $it.alt) }}
+      </li>
+      {{- end }}
+    </ul>
+    {{- if gt $n 1 }}
+    <button type="button" class="carousel-btn carousel-prev" aria-label="Previous image" hidden>&#8249;</button>
+    <button type="button" class="carousel-btn carousel-next" aria-label="Next image" hidden>&#8250;</button>
+    {{- end }}
+  </div>
+  <figcaption>
+    {{- if gt $n 1 }}<span class="carousel-count" aria-live="polite">1 / {{ $n }}</span>{{ end -}}
+    {{- with $caption }} {{ . | markdownify }}{{ end -}}
+  </figcaption>
+</figure>
+{{- else -}}
+{{- warnf "carousel: no images found in %s" $page.File.Path -}}
+{{- end -}}
+{{- /* trim */ -}}

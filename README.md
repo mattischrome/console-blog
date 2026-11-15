@@ -95,6 +95,7 @@ Things to know:
 | Shortcode | Use it for | Example |
 |---|---|---|
 | `figure` | An image with a caption, in the text column | `{{< figure src="images/view.jpg" alt="The bay at dusk" caption="Cadaqués from the church." >}}` |
+| `carousel` | Several images in the text column, one at a time, with one caption | `{{< carousel caption="Three days in Rome." >}}`<br>`images/forum.jpg \| The Forum at dawn`<br>`images/pantheon.jpg \| Inside the Pantheon`<br>`{{< /carousel >}}` |
 | `marginfigure` | A small image in the right margin, Tufte style | `{{< marginfigure src="images/cover.jpg" alt="Album cover" caption="Released in 1994." >}}` |
 | `sidenote` | A numbered note in the margin, tied to a point in the sentence | `Some claim{{< sidenote >}}Here's the source.{{< /sidenote >}} in the text.` |
 | `marginnote` | An unnumbered aside in the margin | `{{< marginnote >}}A loose thought that belongs nearby.{{< /marginnote >}}` |
@@ -103,6 +104,7 @@ Things to know:
 Details:
 
 - **`figure`** takes `src` (required), `alt`, `caption` (markdown allowed), `title`, `class` and `link`. An empty caption leaves out the caption line, so `caption=""` is fine as a placeholder. This replaces Hugo's built-in `figure` shortcode, which doesn't resize images.
+- **`carousel`** lists one image per line inside it, each optionally followed by `|` and its alt text. Instead of the list, `images` picks bundle images by pattern, sorted by file name, with no alt text: `{{< carousel images="images/rome-*.jpg" caption="Rome." />}}` (note the `/>`). It also takes `caption` (markdown allowed), `ratio` (such as `"4:3"`; by default the first image's shape, and other shapes are letterboxed rather than cropped) and `label` (the name screen readers announce; defaults to the caption). The ‹ › buttons, the left and right arrow keys, and swiping move between images, and going past the last image returns to the first. The images must be in the post's bundle. Without JavaScript it is still a strip you can swipe or scroll.
 - **`marginfigure`** takes `src`, `alt` and `caption`. The image must be in the post's bundle.
 - **Margin notes and figures** float into the right margin on wide screens (72rem and up). On narrower screens the margin disappears and each note collapses behind a small toggle (the note number, or ⊕) that opens it inline. No JavaScript is involved.
 - **`sidenote` and `marginnote`** take markdown inside them.
