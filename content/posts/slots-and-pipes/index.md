@@ -21,7 +21,7 @@ Here are some examples of how the `$` syntax is used in R:
 6. Accessing columns in a Tidyverse tibble (this is part of the whole "tibbles are like data frames, only better" talk that I have to give to everyone eventually)
 7. Accessing attributes of objects (again, we'll come back to this later)
 
-So the `$` operator is a versatile tool in R for accessing and manipulating elements in data frames, lists, environments, and other objects. It is particularly useful for working with named elements or columns. And then pipes come along and change everything. At least they did for me. You that adage about how if you have a hammer everything looks like a nail? That's been with pipes in R for quite a long time.
+So the `$` operator is a versatile tool in R for accessing and manipulating elements in data frames, lists, environments, and other objects. It is particularly useful for working with named elements or columns. And then pipes come along and change everything. At least they did for me. You know that adage about how if you have a hammer everything looks like a nail? That's been me with pipes in R for quite a long time.
 
 For those uninitiated into pipe lore, it's an operator in R that you follow with a function that takes an argument that, unless otherwise explicitly denoted by the user, is the previous line of code. So something like:
 
@@ -47,6 +47,6 @@ group_by_sex_and_summarise <- . %>%
     summarise(Value = sum(Value))
 ```
 
-But it's also good to not forget about slots once you know about pipes. I don't think pipes are to blame for me forgetting about slots, per se, just that whole "everything's a nail" outlook I mentioned above. But sometimes, you want to pick things out easily. Over the years I've gotten myself into also sorts of `my_df %>% select(my_column) %>% as.vector()` contortions when a simple `my_df$my_column` would have sufficed.
+But it's also good to not forget about slots once you know about pipes. I don't think pipes are to blame for me forgetting about slots, per se, just that whole "everything's a nail" outlook I mentioned above. But sometimes, you want to pick things out easily. Over the years I've gotten myself into all sorts of `my_df %>% select(my_column) %>% as.vector()` contortions when a simple `my_df$my_column` would have sufficed.
 
-Lately I've been wanting to create plots inside of loops and then access those plots later, for the purposes of putting them into a slide deck. This is what drove me back to slots. You can obviously cram your generated plots into a list, but let's say you want the titles of your plots to be the titles of your slides. Well, the simple to pull out the titles is to use the `$` operator. `my_ggplot$labels$title` will let you grab the title of the plot to use somewhere else. A simple thing, but something I had completely forgotten!
+Lately I've been wanting to create plots inside of loops and then access those plots later, for the purposes of putting them into a slide deck. This is what drove me back to slots. You can obviously cram your generated plots into a list, but let's say you want the titles of your plots to be the titles of your slides. Well, the simple way to pull out the titles is to use the `$` operator. `my_ggplot$labels$title` will let you grab the title of the plot to use somewhere else. A simple thing, but something I had completely forgotten!

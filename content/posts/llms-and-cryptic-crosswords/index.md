@@ -17,7 +17,7 @@ Crosswords are great. I should write about them more. Even ordinary crosswords w
 
 At our house, we've been doing more cryptic crosswords lately. It's partly because we've become addicted to them, with the increased practice making us (humblebrag) rather good at them. But, dear reader, 'ordinary' crosswords are just the gateway drug. The true prize is the cryptic crossword - sometimes literally in the case of The Guardian, when there is an _actual_ prize!
 
-Cryptic crosswords and their clues are a special kind of puzzle, imbued with many variations of sub-puzzles and meta-puzzles. But this arcana is simply a set of rules and isn't this is exactly the sort of thing you'd get your AI assistant to learn and then destroy all-comers with ease? I mean, it would be yet another cultural death knell for the species if Chat-GPT did the crossword in the morning, presumably leaving you to your meatbag fate of smooshing delicious croissants into your mouth unperturbed by the awkward business of doing thinking stuff.
+Cryptic crosswords and their clues are a special kind of puzzle, imbued with many variations of sub-puzzles and meta-puzzles. But this arcana is simply a set of rules and isn't this exactly the sort of thing you'd get your AI assistant to learn and then destroy all-comers with ease? I mean, it would be yet another cultural death knell for the species if Chat-GPT did the crossword in the morning, presumably leaving you to your meatbag fate of smooshing delicious croissants into your mouth unperturbed by the awkward business of doing thinking stuff.
 
 The sorts of (easy) clues that you get include:
 
@@ -32,7 +32,7 @@ It's surprising how easy it is to find the answers to cryptic crosswords online.
 
 To give the one I used some credit, it did attempt to explain what it was doing before just completely melting down and stopping mid-sentence. Not unlike me in a meeting at work where I'm saying what I think we should do and suddenly think about chocolate hob nobs instead. (This happens more often than I would like it to, but in my defence chocolate hobnobs _are_ ace.) The techniques it suggested were on the right lines but it failed to spot the word hidden in plain sight, which is a particular feature of the cryptics we do. (We'd missed it too!)
 
-But the AI models don't fare too well on the basics either - and again this was me being unfair. On one occasion I tried asking Le Chat (Mirai's LLM chat app) what words filled a particular pattern of letters. I told it explicitly that underscores were where the missing letters were. No luck at all. It didn't even report an answer that had the right number of letters. Wolfram Alpha can do this in its sleep.
+But the AI models don't fare too well on the basics either - and again this was me being unfair. On one occasion I tried asking Le Chat (Mistral's LLM chat app) what words filled a particular pattern of letters. I told it explicitly that underscores were where the missing letters were. No luck at all. It didn't even report an answer that had the right number of letters. Wolfram Alpha can do this in its sleep.
 
 The reason being that they are just text guessers, there's no thinking going on, at least not yet. Deepseek and Claude, which try to reason their answers, are not really at the level of cryptic crosswords.
 
@@ -40,4 +40,4 @@ In the end it's my mistake, not theirs. But it's interesting to think that there
 
 Perhaps there are also ways that I could get better at prompting for answers to my clues (though to be fair, I'd rather put _that_ effort into solving the clues myself.) It's certainly true that the prompt influences the answer and you can get different answers by coming at things in a different way.
 
-The next step for me is to get one of these assistants to write me a cryptic crossword. I am curious about what I will get, but not that hopeful that it will be any good. As I mentioned before, the sheer number of possiblilities for the clues means that a crossword is a dialogue between the setter and the solver. If the setter is just a random text generator, what hope for the solver?
+The next step for me is to get one of these assistants to write me a cryptic crossword. I am curious about what I will get, but not that hopeful that it will be any good. As I mentioned before, the sheer number of possibilities for the clues means that a crossword is a dialogue between the setter and the solver. If the setter is just a random text generator, what hope for the solver?

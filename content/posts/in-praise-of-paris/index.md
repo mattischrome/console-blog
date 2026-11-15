@@ -17,7 +17,7 @@ So we had no choice but to walk back to central Paris (well we took the Metro fo
 
 ![](./images/Paris-02.jpg)
 
-Later we did the very Parisian of thing of going shopping. I found myself drawn to this one for some reason. You can see I am carrying a bag: this contains Ingrid's birthday present!
+Later we did the very Parisian activity of going shopping. I found myself drawn to this one for some reason. You can see I am carrying a bag: this contains Ingrid's birthday present!
 
 ![](./images/Paris-03.jpg)
 
@@ -29,7 +29,7 @@ The next morning we went for a walk in the Jardins de Luxembourg, and well every
 
 ![](./images/Paris-05.jpg)
 
-And also this picture of me relaxing with a coffee in the sunshine in the Jardin des Tulleries later on in the same walk.
+And also this picture of me relaxing with a coffee in the sunshine in the Jardin des Tuileries later on in the same walk.
 
 ![](./images/Paris-06.jpg)
 
@@ -37,7 +37,7 @@ We also walked past the Louvre and I couldn't fail to notice this arrangement of
 
 ![](./images/Paris-07.jpg)
 
-Talking of distant Eiffel Towers... this was the view from the Pompidou Centre. A really good collection of art inside. Lots of Kandinsky who I've given much attention too, but when you get to see at least eight of his best works in quick succession, it has a powerful effect.
+Talking of distant Eiffel Towers... this was the view from the Pompidou Centre. A really good collection of art inside. Lots of Kandinsky who I've never given much attention to, but when you get to see at least eight of his best works in quick succession, it has a powerful effect.
 
 ![](./images/Paris-08.jpg)
 
@@ -45,7 +45,7 @@ Of course, all the famous Parisian landmarks couldn't keep their distance from u
 
 ![](./images/Paris-09.jpg)
 
-The reason was that we were heading out to a gluten free Italian restaurant for dinner. I had a very nice pizza and Ingrid had Canneloni. Outside afterwards, it was clear that another famous landmark, hitherto distant, had crept up a little closer. (One of Ingrid's hobbies is taking pictures of me with landmarks coming out of my head, but you don't need to see them all...)
+The reason was that we were heading out to a gluten free Italian restaurant for dinner. I had a very nice pizza and Ingrid had cannelloni. Outside afterwards, it was clear that another famous landmark, hitherto distant, had crept up a little closer. (One of Ingrid's hobbies is taking pictures of me with landmarks coming out of my head, but you don't need to see them all...)
 
 ![](./images/Paris-11.jpg)
 
