@@ -86,6 +86,12 @@ Things to know:
     -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:v libx264 -crf 23 -an clip.mp4
   ```
   For the Iceland steam clip, that took 4.6 MB down to 80 KB.
+- **Convert phone videos (`.MOV`) to a small MP4.** Hugo doesn't resize video, so readers download the whole file. This makes a 960 px wide, silent MP4 with the location metadata stripped:
+  ```bash
+  ffmpeg -i IMG_1234.MOV -vf scale=960:-2 -c:v libx264 -preset veryfast -crf 26 \
+    -pix_fmt yuv420p -an -map_metadata -1 -movflags +faststart clip.mp4
+  ```
+  Raise `-crf` (to 28, say) for a smaller file or lower it (to 23) for better quality; moving water and foliage need the lower end. Add `-t 15` before the output name to keep only the first 15 seconds. For the Ortigia castle clip, that took 19.3 MB down to 5.9 MB. Commit only the MP4, not the `.MOV`.
 - **Write the image as markdown or a shortcode, not raw HTML.** A raw `<img src="…">` tag skips the image processing and is served full size.
 - **SVGs** are served as they are.
 - **Old image URLs keep working.** Images used to live in `static/assets/images/`. They were moved into their post bundles in November 2026. `static/_redirects` sends the old URLs to the new ones, and `static_to_bundle_moves.csv` lists every move.
@@ -104,7 +110,7 @@ Things to know:
 Details:
 
 - **`figure`** takes `src` (required), `alt`, `caption` (markdown allowed), `title`, `class` and `link`. An empty caption leaves out the caption line, so `caption=""` is fine as a placeholder. This replaces Hugo's built-in `figure` shortcode, which doesn't resize images.
-- **`carousel`** lists one image per line inside it, each optionally followed by `|` and its alt text. Instead of the list, `images` picks bundle images by pattern, sorted by file name, with no alt text: `{{< carousel images="images/rome-*.jpg" caption="Rome." />}}` (note the `/>`). It also takes `caption` (markdown allowed), `ratio` (such as `"4:3"`; by default the first image's shape, and other shapes are letterboxed rather than cropped) and `label` (the name screen readers announce; defaults to the caption). The ‹ › buttons, the left and right arrow keys, and swiping move between images, and going past the last image returns to the first. The images must be in the post's bundle. Without JavaScript it is still a strip you can swipe or scroll.
+- **`carousel`** lists one image per line inside it, each optionally followed by `|` and its alt text. Instead of the list, `images` picks bundle images by pattern, sorted by file name, with no alt text: `{{< carousel images="images/rome-*.jpg" caption="Rome." />}}` (note the `/>`). It also takes `caption` (markdown allowed), `ratio` (such as `"4:3"`; by default the first image's shape, and other shapes are letterboxed rather than cropped) and `label` (the name screen readers announce; defaults to the caption). The ‹ › buttons, the left and right arrow keys, and swiping move between images, and going past the last image returns to the first. The images must be in the post's bundle (this works for drafts in `drafts/` too). If a path or pattern matches nothing, `hugo serve` shows a "not found" note in its place; the live site just leaves it out. Without JavaScript it is still a strip you can swipe or scroll.
 - **`marginfigure`** takes `src`, `alt` and `caption`. The image must be in the post's bundle.
 - **Margin notes and figures** float into the right margin on wide screens (72rem and up). On narrower screens the margin disappears and each note collapses behind a small toggle (the note number, or ⊕) that opens it inline. No JavaScript is involved.
 - **`sidenote` and `marginnote`** take markdown inside them.

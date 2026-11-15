@@ -570,6 +570,13 @@ figcaption {
 .carousel-next { right: 0.6rem; }
 .carousel-count { font-variant-numeric: tabular-nums; margin-right: 0.5em; }
 .carousel-count:not(:last-child)::after { content: " ·"; }
+.carousel-missing {               /* only rendered by `hugo serve` */
+  font-family: var(--font-meta);
+  font-size: 0.85rem;
+  padding: 0.6rem 0.9rem;
+  border: 1.5px dashed var(--cat-deep, var(--ink));
+  border-radius: 8px;
+}
 
 /* Layout variants ---------------------------------------------------------
    short — a cosier, slightly larger single column

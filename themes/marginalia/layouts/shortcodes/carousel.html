@@ -25,14 +25,21 @@
 */ -}}
 {{- $page := .Page -}}
 {{- $items := slice -}}
+{{- $missing := slice -}}
 
 {{- with .Get "images" -}}
   {{- range split . "," -}}
     {{- $pattern := strings.TrimPrefix "./" (trim . " ") -}}
+    {{- $found := 0 -}}
     {{- range sort ($page.Resources.Match $pattern) "Name" -}}
       {{- if eq .ResourceType "image" -}}
         {{- $items = $items | append (dict "img" . "alt" "") -}}
+        {{- $found = add $found 1 -}}
       {{- end -}}
+    {{- end -}}
+    {{- if not $found -}}
+      {{- $missing = $missing | append $pattern -}}
+      {{- warnf "carousel: no images match %q in %s" $pattern $page.File.Path -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
@@ -46,6 +53,7 @@
     {{- with $page.Resources.Get $src -}}
       {{- $items = $items | append (dict "img" . "alt" $alt) -}}
     {{- else -}}
+      {{- $missing = $missing | append $src -}}
       {{- warnf "carousel: image %q not found in %s" $src $page.File.Path -}}
     {{- end -}}
   {{- end -}}
@@ -66,6 +74,12 @@
       {{- $ratio = printf "%d / %d" $first.Width $first.Height -}}
     {{- end -}}
   {{- end -}}
+{{- end -}}
+
+{{- /* while previewing with `hugo serve`, show missing images in the page
+       itself so a mistyped name is obvious; never in a production build */ -}}
+{{- if and $missing hugo.IsServer -}}
+<p class="carousel-missing"><strong>Carousel:</strong> not found in this post's images folder: {{ delimit $missing ", " }}</p>
 {{- end -}}
 
 {{- if $items -}}
@@ -90,7 +104,7 @@
     {{- with $caption }} {{ . | markdownify }}{{ end -}}
   </figcaption>
 </figure>
-{{- else -}}
-{{- warnf "carousel: no images found in %s" $page.File.Path -}}
+{{- else if not $missing -}}
+{{- warnf "carousel: no images given in %s" $page.File.Path -}}
 {{- end -}}
 {{- /* trim */ -}}
