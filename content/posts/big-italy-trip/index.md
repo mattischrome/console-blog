@@ -9,7 +9,7 @@ hero: images/hero.jpg
 hero_alt: Matt and Ingrid taking a selfie on Mount Etna
 hero_caption: "Matt and Ingrid taking a selfie on Mount Etna."
 ---
-In September we went to Italy for a week. We flew into Palermo, then took a coach ride across Sicily to Syracuse. After a trip up Mount Etna, we took the Intercity Notte train overnight to Milan complete with a ferry ride for both us _and_ the train. We followed this with four nights in Milan, complete with a trip to the Leonardo da Vinci experience.
+In September we went to Italy for ten days. We flew into Palermo, then took a coach ride across Sicily to Syracuse. After a trip up Mount Etna, we took the Intercity Notte train overnight to Milan complete with a ferry ride for both us _and_ the train. We followed this with four nights in Milan, complete with a trip to the Leonardo da Vinci experience.
 
 Excitingly, we also travelled with our neighbour and sometime quizmaster Brian. He's the other handsome devil in all these photos!
 
