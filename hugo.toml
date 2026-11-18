@@ -50,6 +50,19 @@ theme = 'marginalia'
   rss = true
   source_url = 'https://github.com/mattischrome/console-blog'
 
+# "Similar posts" sidebar (themes/marginalia/layouts/partials/sidebar-related.html).
+# This must live in the site config: Hugo does not merge [related] from a theme.
+[related]
+  includeNewer = true
+  threshold = 10
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name = "categories"
+    weight = 40
+
 [caches.getresource]
   maxAge = "6h"
 

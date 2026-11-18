@@ -22,17 +22,8 @@
   # (put the file in your site's static/images/ folder).
   default_hero = "/images/default-hero.svg"
 
-# "Similar posts" sidebar: tell Hugo's related-content engine to match on tags.
-[related]
-  includeNewer = true
-  threshold = 10
-  toLower = true
-  [[related.indices]]
-    name = "tags"
-    weight = 100
-  [[related.indices]]
-    name = "categories"
-    weight = 40
+# "Similar posts" sidebar: the [related] settings (tags + categories indices)
+# live in the SITE hugo.toml, because Hugo ignores [related] in a theme config.
 
 [markup]
   [markup.tableOfContents]
