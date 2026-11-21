@@ -579,9 +579,41 @@ figcaption {
 }
 
 /* Layout variants ---------------------------------------------------------
-   short — a cosier, slightly larger single column
+   short — a single note card: narrower column, bigger type, drop cap
    photo — the image is the star; text takes a back seat                    */
-.layout-short .post-content { font-size: 1.15rem; }
+/* short: the post sits on a single "note card" that echoes the home-page
+   cards (ink border, category-coloured offset shadow; no tilt, so the text
+   stays crisp). The column is narrower, the type bigger, and the opening
+   letter is a category-coloured drop cap.                                 */
+.layout-short .post {
+  --content-w: 36rem;
+  max-width: calc(var(--content-w) + 4.5rem);
+  background: var(--card-bg);
+  border: 2px solid var(--ink);
+  border-radius: 14px;
+  box-shadow: 8px 8px 0 var(--cat);
+  padding: 2rem 2.25rem 2.25rem;
+}
+.layout-short .post-header { margin-bottom: 1.25rem; }
+.layout-short .post-header h1 { font-size: 2rem; }
+.layout-short .post-hero { margin: 0 0 1.5rem; }
+.layout-short .post-content { font-size: 1.22rem; line-height: 1.65; }
+/* only when the post opens with a plain paragraph (not a quote, heading,
+   image or TOC) */
+.layout-short .post-content > p:first-child::first-letter {
+  float: left;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 3.4em;
+  line-height: 0.85;
+  margin: 0.08em 0.12em 0 0;
+  color: var(--cat-deep);
+}
+.layout-short .post-content blockquote { font-size: 1.05em; }
+@media (max-width: 40rem) {
+  .layout-short .post { padding: 1.25rem 1.1rem 1.5rem; box-shadow: 5px 5px 0 var(--cat); }
+  .layout-short .post-header h1 { font-size: 1.7rem; }
+}
 
 .layout-photo .post-hero-photo { max-width: none; margin: 0 0 1.5rem; }
 .layout-photo .post-hero-photo img {
