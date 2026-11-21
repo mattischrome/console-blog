@@ -32,7 +32,7 @@ Before we reached Messina the train took a slow sauntering route up the eastern 
 
 {{< figure src="images/italian_rusty.jpg" alt="Pilot diesel in the shunting yard at Augusta." caption="Pilot diesel in the shunting yard at Augusta." >}}
 
-After this, I unwrapped the foil and at my pork and spinach pasty. Delicious. All was good!
+After this, I unwrapped the foil and ate my pork and spinach pasty. Delicious. All was good!
 
 ## Ferry
 
