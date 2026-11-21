@@ -370,6 +370,39 @@ hr { border: 0; border-top: 2px dashed var(--line); margin: 2.5rem 0; }
   pointer-events: none;
 }
 
+/* Photo cards (posts with `layout: photo`) — a polaroid: the photo sits
+   uncropped and untinted inside a white frame with a deeper bottom edge,
+   the title becomes a centred caption, and the card tilts a little more
+   than the others, like a print dropped on the pile.                       */
+.card-photo { padding: 0.7rem 0.7rem 0; }
+.card-photo .card-hero {
+  aspect-ratio: auto;
+  border: 1.5px solid var(--ink);
+  border-radius: 3px;
+  background: var(--paper-2);
+}
+.card-photo .card-hero img {
+  height: auto;
+  max-height: 26rem;          /* very tall portraits are trimmed, centred */
+  object-fit: cover;
+}
+.card-photo .card-hero::after { display: none; }   /* no category tint */
+.card-photo .card-link { text-align: center; padding-bottom: 0.35rem; }
+.card-photo .chip { margin: 0.8rem 0 0; }
+.card-photo .card-title {
+  margin: 0.45rem 0.4rem 0.6rem;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+.card-photo .card-meta { margin: 0 -0.7rem; }
+.card-photo .card-meta .post-meta,
+.card-photo .card-meta .tag-list { justify-content: center; }
+.card-photo:nth-child(4n+1) { transform: rotate(-1.4deg); }
+.card-photo:nth-child(4n+2) { transform: rotate(1deg); }
+.card-photo:nth-child(4n+3) { transform: rotate(1.3deg); }
+.card-photo:nth-child(4n)   { transform: rotate(-0.8deg); }
+.card-photo:hover { transform: translate(-2px, -2px) rotate(0deg); }
+
 /* Category chip — soft wash of the category colour with readable ink text */
 .chip {
   display: inline-block;

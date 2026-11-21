@@ -3,8 +3,9 @@ categories: Books
 date: '2021-07-31'
 tags: ["Novels", "Twenty one", "Rachel Cusk", "Short novels", "Literary novels", "Experimental"]
 title: Rachel Cusk, Outline
-hero: images/cusk_outline_cover.jpg
-hero_alt: "Rachel Cusk, Outline"
+hero: images/hero.jpg
+hero_alt: "Illustration for the post “Rachel Cusk, Outline”"
+hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 21 November 2026."
 ---
 _Outline_ is the first of a trilogy of novels by Rachel Cusk. In it, the narrator is travelling to Athens to help teach on a creative writing class. You could describe the rest of what happens in a couple of sentences. I won't be doing so because first, that's spoilers, and I don't do spoilers; second, _Outline_ is one of those novels where what happens doesn't matter quite so much as how it all happens.
 

@@ -12,18 +12,25 @@
     • meta row    — date, reading time, tags
   The card's category class scopes `--cat`, which drives the tint, the offset
   shadow, and the chip colour.
+
+  Posts with `layout: photo` get `card-photo`: a polaroid-style card with the
+  photo uncropped and untinted, the title as a caption underneath, and no
+  summary (see "Photo cards" in main.css).
 */ -}}
 {{- $heroRes := "" -}}
 {{- with .Params.hero -}}{{- $heroRes = $.Resources.Get . -}}{{- end -}}
 {{- $hero := or site.Params.default_hero ("images/default-hero.svg" | relURL) -}}
-<article class="card {{ partial "category-class.html" . }}">
+{{- $isPhoto := eq .Layout "photo" -}}
+<article class="card{{ if $isPhoto }} card-photo{{ end }} {{ partial "category-class.html" . }}">
   <a class="card-link" href="{{ .RelPermalink }}">
     <figure class="card-hero">
       {{- /* aspect-ratio + object-fit:cover in CSS keep every hero at 4:3 */ -}}
       {{- /* cropped to 4:3 at build time too, so no pixels are wasted;
              cards are never wider than ~24rem (17rem min grid column) */ -}}
       {{- with $heroRes -}}
-      {{ partial "responsive-img.html" (dict "img" . "widths" (slice 400 800) "ratio" "4:3" "sizes" "(max-width: 40rem) calc(100vw - 2rem), 24rem" "alt" "") }}
+      {{- /* photo cards keep the photo's own shape (no build-time crop) */ -}}
+      {{- $ratio := cond $isPhoto "" "4:3" -}}
+      {{ partial "responsive-img.html" (dict "img" . "widths" (slice 400 800) "ratio" $ratio "sizes" "(max-width: 40rem) calc(100vw - 2rem), 24rem" "alt" "") }}
       {{- else -}}
       <img src="{{ $hero }}" alt="" loading="lazy" decoding="async">
       {{- end -}}
@@ -31,7 +38,7 @@
     {{ with partial "first-category.html" . }}<span class="chip">{{ . }}</span>{{ end }}
     <h2 class="card-title">{{ .Title }}</h2>
     {{- /* Photo posts stay image-first; other layouts get a text teaser */ -}}
-    {{ if ne .Layout "photo" }}<p class="card-summary">{{ .Summary | plainify | truncate 140 }}</p>{{ end }}
+    {{ if not $isPhoto }}<p class="card-summary">{{ .Summary | plainify | truncate 140 }}</p>{{ end }}
   </a>
   <footer class="card-meta">
     {{ partial "post-meta.html" . }}
