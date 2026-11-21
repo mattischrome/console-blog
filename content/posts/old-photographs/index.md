@@ -6,6 +6,7 @@ title: Old photographs
 hero: images/hero.jpg
 hero_alt: "Illustration for the post “Old photographs”"
 hero_caption: "Image generated with OpenAI’s gpt-image-2.5-sunburst on 6 October 2026."
+layout: short
 ---
 Recently I've had cause to dig out some old photos. If I'm honest it's made me sad. Sadder than I was expecting. There's a quote from Nan Goldin that once felt like a warning but now just sounds like a sad statement of ongoing affairs:
 
