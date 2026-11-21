@@ -95,4 +95,4 @@ After a rather gratuitous VR intro that would probably have been better as a vid
 
 When our tour was done, we went and found some lunch for Ingrid. Once again we used her app to navigate to an establishment proudly displaying the international gluten-free symbol. I was surprised by how ordinary and workaday the place was. Brian and I picked up our lunch at a deli closer to the station, getting these sort of pasty things wrapped up in foil to have on the train.
 
-**In the next post, I'll tell you how that little pasty tasted and all about the train trip to Milan!**
+**[In the next post, I'll tell you how that little pasty tasted and all about the train trip to Milan!](/posts/big-italy-trip-part-two/)**
